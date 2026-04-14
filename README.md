@@ -3,7 +3,7 @@
 ## Title
 
 ## Abstract
-A max 150-word description of the project question or idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+Our project will examine differing representations of words relating to the concept of nationhood between English-speaking countries. We will perform a cross-model comparison between Word2Vec and BERT word embeddings and encodings, analysing how the different contexts in which "nationhood" circulates build a unique discourse. We aim to gain insight into whether concepts such as “nation,” “freedom,” and “borders” are understood and used differently between English-speaking nations. We will use the ICE (International Corpus of English) for Nigerian English, British English, American English, Indian English (these might change depending on availability - we might want to look at Hong Kong). These corpora adhere to a standardized design and each consist of one million words of spoken and written English produced after 1989 (University of Zürich). 
 
 ## Research questions
 A list of research questions you would like to address during the project. 
