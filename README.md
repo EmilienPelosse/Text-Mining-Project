@@ -27,7 +27,7 @@ Use the International Corpus of English (https://www.ice-corpora.uzh.ch/en/joini
 *We haven’t fully divided the tasks, however, we plan to work on all tasks in pairs. So far, we have all worked on looking for data sets. The division outlined below is likely to change as the project progresses.*
 
 ### Preparation of the corpus (All)
-### Preprocessing (Discussed together, code written by 
+### Preprocessing (Discussed together)
 ### Training the models
 - Word2Vec (Juliette, Emillien)
 - BERT (Romane, Emma, or Emillien)
