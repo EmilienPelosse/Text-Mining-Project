@@ -1,4 +1,4 @@
-# Default repository template
+# Text Mining Project 2026
 
 ## Cross-Cultural Semantic Analysis of the Concept of Nationhood within the International Corpora of English
 
