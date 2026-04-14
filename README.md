@@ -17,6 +17,7 @@ Our project will examine differing representations of words relating to the conc
 - **To what extent are the fixed vector representations of “nationhood” insufficient to cover the evolving concepts they express? → Or add as part of limitations**
 - How do the concepts of “nationhood” travel across different English-speaking regions?
 - How did different socio/cultural-contexts shape distinct cultural discourses around the “nation” ?
+- To what extent do the vector embeddings of 'nationhood' suffer from biases in the training data?
 
 
 ## Dataset
