@@ -9,7 +9,7 @@ Our project will examine differing representations of words relating to the conc
 A list of research questions you would like to address during the project. 
 
 ## Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show you've read the docs and are familiar with some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+Use the International Corpus of English (https://www.ice-corpora.uzh.ch/en/joinice/Teams.html), a collection of standardized corpora representing different varieties of English across countries. Each national component (e.g., GB, India, Nigeria) contains approximately one million words and follows the same design, including comparable text categories such as news, academic writing, and spoken discourse. This ensures cross-cultural comparability while minimizing variation due to genre or format. Although the corpus is relatively small compared to modern large-scale datasets, its balanced and controlled structure makes it particularly suitable for analyzing semantic differences across English-speaking regions.
 
 ## A tentative list of milestones for the project
 ### Milestones
