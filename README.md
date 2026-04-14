@@ -26,17 +26,18 @@ Use the International Corpus of English (https://www.ice-corpora.uzh.ch/en/joini
 ### Milestones
 
 #### Data Collection
-- Download/access corpus (ICE) or collect data via APIs (e.g., GDELT Project / NewsAPI)
-- Organize data by country and time period
+- Download/access corpus (ICE)
+- Organize data
 
 #### Data Preprocessing
-- Clean text (remove noise, duplicates, non-English text)
+- Understand corpus to make preprocessing decisions 
+- Clean text (remove noise, duplicates)
 - Tokenization, lemmatization (lowercasing, stopword removal if needed)
 - Prepare corpora for analysis
 
 #### Initial Analysis
-- Train models (Word2Vec, BERT)
 - Perform co-occurrence and frequency analysis
+- Train models (Word2Vec, BERT)
 - Generate initial observations
 
 #### Comparative Analysis
