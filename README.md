@@ -23,23 +23,46 @@ Our project will examine differing representations of words relating to the conc
 ## Dataset
 Use the International Corpus of English (https://www.ice-corpora.uzh.ch/en/joinice/Teams.html), a collection of standardized corpora representing different varieties of English across countries. Each national component (e.g., GB, India, Nigeria) contains approximately one million words and follows the same design, including comparable text categories such as news, academic writing, and spoken discourse. This ensures cross-cultural comparability while minimizing variation due to genre or format. Although the corpus is relatively small compared to modern large-scale datasets, its balanced and controlled structure makes it particularly suitable for analyzing semantic differences across English-speaking regions.
 
+## Task repartition
+*We haven’t fully divided the tasks, however, we plan to work on all tasks in pairs. So far, we have all worked on looking for data sets. The division outlined below is likely to change as the project progresses.*
+
+### Preparation of the corpus (All)
+### Preprocessing (Discussed together, code written by 
+### Training the models
+- Word2Vec (Juliette, Emillien)
+- BERT (Romane, Emma, or Emillien)
+### Analysis of results
+- Word2Vec (Juliette, Emillien)
+- BERT (Romane, Emma)
+### Report (All)
+- Formatting/editing
+### Presentation (All)
+
 ## A tentative list of milestones for the project
-### Milestones
+### *Week 0 (13th to 19th of April)*
+**14/04 - Project Update 0**
 
 #### Data Collection
 - Download/access corpus (ICE)
 - Organize data
 
+### *Week 1 (20th to 26th of April)*
+
 #### Data Preprocessing
-- Understand corpus to make preprocessing decisions 
-- Clean text (remove noise, duplicates)
-- Tokenization, lemmatization (lowercasing, stopword removal if needed)
+- Clean text (remove noise, duplicates, non-English text)
+- Tokenization, lemmatization, lowercasing, stopword removal (if needed)
 - Prepare corpora for analysis
+
+### *Week 2 (27th of April to 3rd of May)*
+**28/04 - Project Update 1**
 
 #### Initial Analysis
 - Perform co-occurrence and frequency analysis
-- Train models (Word2Vec, BERT)
+- Train models (BERT, Word2Vec)
 - Generate initial observations
+
+### *Week 3 (4th to 10th of May)*
+**08/05 - Project Update 2**
 
 #### Comparative Analysis
 - Compare results across countries
@@ -50,10 +73,16 @@ Use the International Corpus of English (https://www.ice-corpora.uzh.ch/en/joini
 - Integrate figures and examples
 - Address limitations and biases
 
+### *Week 4 (11th to 17th of May)*
+
 #### Revision and Finalization
 - Edit and proofread full report
 - Ensure proper citations and formatting
 - Prepare presentation
+
+### *Week 5 (18th to 24th of May)*
+- **18/05 - Presentation**
+- **22/05 - Project deadline**
 
 ## Documentation
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
