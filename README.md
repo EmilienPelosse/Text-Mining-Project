@@ -1,4 +1,5 @@
 # Text Mining Project 2026
+#### Emma Leschly, Romane Gourlet, Juliette Duriez, Emilien Pelosse
 
 ## Cross-Cultural Semantic Analysis of the Concept of Nationhood within the International Corpora of English
 
@@ -24,7 +25,7 @@ Use the International Corpus of English (https://www.ice-corpora.uzh.ch/en/joini
 - Prepare corpora for analysis
 
 #### Initial Analysis
-- Train models (e.g., co-occurrences, Word2Vec, BERT)
+- Train models (Word2Vec, BERT)
 - Perform co-occurrence and frequency analysis
 - Generate initial observations
 
@@ -41,7 +42,6 @@ Use the International Corpus of English (https://www.ice-corpora.uzh.ch/en/joini
 - Edit and proofread full report
 - Ensure proper citations and formatting
 - Prepare presentation
-
 
 ## Documentation
 This can be added as the project unfolds. You should describe, in particular, what your repo contains and how to reproduce your results.
