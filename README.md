@@ -7,7 +7,17 @@
 Our project will examine differing representations of words relating to the concept of nationhood between English-speaking countries. We will perform a cross-model comparison between Word2Vec and BERT word embeddings and encodings, analysing how the different contexts in which "nationhood" circulates build a unique discourse. We aim to gain insight into whether concepts such as “nation,” “freedom,” and “borders” are understood and used differently between English-speaking nations. We will use the ICE (International Corpus of English) for Nigerian English, British English, American English, Indian English (these might change depending on availability - we might want to look at Hong Kong). These corpora adhere to a standardized design and each consist of one million words of spoken and written English produced after 1989 (University of Zürich). 
 
 ## Research questions
-A list of research questions you would like to address during the project. 
+#### The research questions written in bold are the most fitting to our project.
+- How do semantic associations of “nation” differ across English-speaking countries?
+- **What do the vector embeddings concepts within nationhood reveal about the discourse in which they appear across different corpora? Are they used to promote resistance or to establish a form of oppression?**
+- How is the concept of ‘border’ differently situated in connection with the vector embeddings of nationhood? 
+- How do the vector embeddings of nationhood relate to identity in different English-speaking regions?
+- **Is “nation” strongly associated with ideas of othering across different English-speaking regions?**
+- To what extent is the vector representation of “nationhood” inadequate to cover the concepts it expresses?
+- **To what extent are the fixed vector representations of “nationhood” insufficient to cover the evolving concepts they express? → Or add as part of limitations**
+- How do the concepts of “nationhood” travel across different English-speaking regions?
+- How did different socio/cultural-contexts shape distinct cultural discourses around the “nation” ?
+
 
 ## Dataset
 Use the International Corpus of English (https://www.ice-corpora.uzh.ch/en/joinice/Teams.html), a collection of standardized corpora representing different varieties of English across countries. Each national component (e.g., GB, India, Nigeria) contains approximately one million words and follows the same design, including comparable text categories such as news, academic writing, and spoken discourse. This ensures cross-cultural comparability while minimizing variation due to genre or format. Although the corpus is relatively small compared to modern large-scale datasets, its balanced and controlled structure makes it particularly suitable for analyzing semantic differences across English-speaking regions.
