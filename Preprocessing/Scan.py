@@ -1,3 +1,7 @@
+# This code scans the ICE-Nigeria corpus and counts occurrences
+# of selected nation-related keywords in each text file, allowing us to rank
+# and filter documents based on their relevance to the research topic.
+
 import os
 import re
 from collections import Counter
