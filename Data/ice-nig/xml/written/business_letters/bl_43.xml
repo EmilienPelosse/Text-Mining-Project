@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>52</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear Dr <x-anonym-x />,</p>
+    <p>I hope your programme is going on well. All praises to the 
+    Lord.</p>
+    <p>Please, find attached the departmental book proposal on the Ife 
+    Use of English Series.</p>
+    <p>Kindly work on your own part and let us have it in two weeks. 
+    The deadline for submission is January ending, but that cannot 
+    apply to you,<error corrected=" "/>since we are just sending this 
+    now.</p>
+    <p>Please, who did you hand over the review of English language 
+    programme to? we want to conclude work on it and process it 
+    further.</p>
+    <p>Best wishes,</p>
+    <p><x-anonym-x type="first-name"/></p>
+    <p>Dear Dr <x-anonym-x type="family-name"/>,</p>
+    <p>Thank you for invitating me to serve on the Editorial Advisory 
+    Board of the Handbook.</p>
+    <p>I accept your invitation and promise to bring my little academic 
+    and professional experience gained over the years to bear in this 
+    regard.</p>
+    <p>Thank again for the confidence reposed in me. I wish best of 
+    luck in the project.</p>
+    <p>Best wishes,</p>
+    <p>Prof<punctuation>.</punctuation> <x-anonym-x type="first-name"/> 
+    <x-anonym-x type="family-name"/></p>
+  </text>
+</annotated>

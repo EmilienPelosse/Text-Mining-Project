@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2012-12-17</date>
+    <place>Uyo</place>
+    <author><gender>f</gender><age>56</age><ethnic-group>Anaang</ethnic-group></author>
+  </meta>
+  <text>
+    <heading />
+    <p>Dear <x-anonym-x type="first-name"/>, </p>
+    <p><error corrected="It&apos;s">Its</error> so nice to hear from 
+    you after such a long silence. My children and I are fine. I&apos;m 
+    sorry to have been so out of circulation. I&apos;ve been trying to 
+    adjust to widowhood.I did not find it easy for a start. </p>
+    <p>Thank you for your kind wishes for Christmas and the new year
+    <error superfluous="yes"> </error>. I wish you a happy and white 
+    christmas and may your New Year be full of hope and joy. </p>
+    <p><x-anonym-x type="first-name"/> </p>
+    <p />
+  </text>
+</annotated>

@@ -1,0 +1,28 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2010-03-12</date>
+    <place>Ile-Ife</place>
+    <author><gender>m</gender><age>34</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear<error superfluous="yes">,</error> Prof,</p>
+    <p>How was your trip back home? i hope it was smooth? thanks for 
+    <coll for="your">ur</coll> visit and the chance to meeting you. the 
+    meeting was enriching. i am the man working on sociolinguistic 
+    study of word stress for my PhD at Obafemi Awolowo University, 
+    ile-ife. Thanks for <coll for="your">ur</coll> contribution to the 
+    discussion on the thesis</p>
+    <p>I write to remind you about the paper on <coll for="your">
+    ur</coll> last seminar you promised to send to me.</p>
+    <p>i am waiting eagerly to receiving the text. thanks for the 
+    software made available to me also. may god enrich you the more.</p>
+    <p>Thanks.</p>
+    <p><x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/>
+    </p>
+    <p>OAU, Ile-Ife,Nigeria</p>
+    <p />
+  </text>
+</annotated>

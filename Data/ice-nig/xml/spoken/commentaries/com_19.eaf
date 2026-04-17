@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2013-03-10T11:12:16+01:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/pacx_workspace/icenig/raw/spoken/commentaries/com_19.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="file:/../../../raw/spoken/commentaries/com_19.wav"/>
+        <PROPERTY NAME="lastUsedAnnotationId">31</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="4110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="5810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="6560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="12480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="12860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="13290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="13480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="14780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="15130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="15470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="15670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="16820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="17650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="18890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="19330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="22030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="22220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="23040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="23340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="23870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="24440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="25530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="25540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="28150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="28480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="29170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="29670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="33330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="34820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="36810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="36860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="38210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="38970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="41420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="41660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="43970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="44180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="45100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="45150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="46500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="47390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="49640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="49730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="50770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="50990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="52457"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="lc/ug/ts DONE DONE DONE" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="2010-09-28;FREN;m;?;Igbo" TIER_ID="Transcription 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>I think it's also important</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>for</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>customers</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>you need to ask questions</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>you also need to get yourself educated on the type of service</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>the Central Bank</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>you know</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>publishes rates</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>of</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>you know especially</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>facilities in and out</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>once a month you see it in the newspapers very many newspapers</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>you know the rates</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>are there</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>apart from this too</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>there is need for customers to read their</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>statements</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>you are entitled to periodic statements from your banks</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>these bank statements are given to you</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>you have a right to them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>every month you should get a bank statement or every quarter</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>you should sit down to look at those statements</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>and read them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>and look at the charges</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>because becau- because that is the only way you know</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>whether your bank</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>is playing a fast one on you</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Tagging" PARENT_REF="Transcription 1" TIER_ID="Annotation 1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Properties" PARENT_REF="Annotation 1" TIER_ID="Properties 1"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Tags" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Tagging" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Properties" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Properties" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Tags" DESCRIPTION="all tags allowed in tagging">
+        <CV_ENTRY DESCRIPTION="">other-language</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">indigenous</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">anonymous</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">unclear</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">interrupted</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">hesitation</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">repair</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">mention</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">transcriber's comment</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Properties" DESCRIPTION="all values allowed in properties">
+        <CV_ENTRY DESCRIPTION="">place</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">first name</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">last name</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">country</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Hausa</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Igbo</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Yoruba</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">(not sure)</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>

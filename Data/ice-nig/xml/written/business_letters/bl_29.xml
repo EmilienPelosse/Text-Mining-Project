@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>44</age><ethnic-group>Igbo</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear <x-anonym-x type="first-name"/>,</p>
+    <p>Happy new month! May God visit you with favour and mercy 
+    throughout the &apos;ember&apos; months. How&apos;re you and 
+    how&apos;s studies and work. I know that you&apos;re extremely 
+    busy. We&apos;re just back from the Bible school and we&apos;re 
+    resuming on the 6th September. Please I just want to be sure that 
+    you got the proposals I sent. Thanks a lot.</p>
+    <p>Dr<punctuation>.</punctuation> <x-anonym-x type="family-name"/></p>
+    <p>Dear sir,</p>
+    <p>Thanks for your encouragement. Prof<punctuation>.</punctuation> 
+    <x-anonym-x type="family-name"/> wrote me recently precisely 2nd
+    <coll for="February"> Feb</coll><punctuation>.</punctuation> when he acknowledged 
+    receipt of the things I sent him. I&apos;m not really expecting his 
+    mail since there&apos;s nothing urgent to write me about. I believe 
+    God sir and I believe in your prayers too. About my article for the 
+    Handbook, unfortunately I lost some of my documents when my laptop 
+    was reformated recently. The data I had earlier collected for the 
+    work were lost. I&apos;m just starting afresh meaning that I&apos;m 
+    not likely to meet the March 1, deadline. We&apos;ve also been very 
+    busy with exams etc<punctuation>.</punctuation> since January. Kindly bear with me. 
+    I&apos;ll send it as soon as I&apos;m ready. I&apos;m also 
+    <error corrected="getting">geting</error> data ready for the 
+    Journal article <x-anonym-x />. I hope people are responding to the 
+    handbook project. God bless you. Greetings to your wife.</p>
+    <p>Dr. <x-anonym-x /></p>
+  </text>
+</annotated>

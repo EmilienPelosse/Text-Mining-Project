@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2013-03-20</date>
+    <place>internet</place>
+    <author><gender>f</gender><age>40-45</age><ethnic-group>Igbo</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear <x-anonym-x type="family-name"/>,</p>
+    <p />
+    <p>I am happy to inform you that we arrived 
+    <x-anonym-x type="location"/> safely today. We will like to see you 
+    tomorrow. Kindly let us know when you would be free to see us 
+    briefly.</p>
+    <p>Best wishes,</p>
+    <p><x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

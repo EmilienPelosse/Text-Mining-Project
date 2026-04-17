@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>55</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear <coll for="Brother">Bro</coll> 
+    <x-anonym-x type="family-name"/>,</p>
+    <p>Hope you are settling down very fast,</p>
+    <p>How is madam and the children doing? l wish you all a very happy 
+    stay and remain blessed.</p>
+    <p>Well the technical officer that assisted with the production of 
+    the <x-anonym-x type="organisation"/> tapes and video disc for our 
+    last years Regional Programme just resumed work today.</p>
+    <p>l have instructed that we go over the production again or have 
+    you found any of the ones l <error corrected="delivered">
+    delievered</error> to you for preview?</p>
+    <p>Kind regards,</p>
+    <p>Professor <x-anonym-x type="family-name"/></p>
+  </text>
+</annotated>

@@ -1,0 +1,59 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ew</transcriber>
+    <date>2007-06-21</date>
+    <place>Ukya, Nasarawa, Nigeria</place>
+    <author><gender>f</gender><age>18</age><ethnic-group>Hausa</ethnic-group></author>
+  </meta>
+  <text>
+    <p><error corrected="government">Goverment</error> 
+    <error corrected="resettlement">Reselt-lement</error></p>
+    <p><error corrected="secondary">Secodary</error></p>
+    <p>school <x-anonym-x type="location"/> 
+    <x-anonym-x type="location"/></p>
+    <p>p o box 169</p>
+    <p><x-anonym-x type="location"/> <error corrected="local">
+    lacal</error> <error corrected="government">Goverm-ent</error></p>
+    <p>Area<punctuation>.</punctuation></p>
+    <p><x-anonym-x type="location"/></p>
+    <p>21st of June 2007<punctuation>.</punctuation></p>
+    <p>the Chairman <x-anonym-x type="location"/></p>
+    <p>local <error corrected="government">Goverment</error> Area</p>
+    <p><deleted>1004</deleted> <x-anonym-x/></p>
+    <p>21st of June 2007</p>
+    <p>Sir<error corrected=","/></p>
+    <p><error corrected="complaint">Complain</error> about poor road in 
+    my town</p>
+    <p>the poor road it cause an <error corrected="accident">
+    accidnt</error> because the road is very poor<error corrected="."/> 
+    is not good <error corrected="for">from</error> car to pass there
+    <error corrected="."/> even <error corrected="the">de</error> car 
+    will pass there <error corrected="will">well</error> delay 
+    <error corrected="."/></p>
+    <p><error corrected="furthermore">Furthe more</error> 
+    <error corrected=","/> poor road discourage 
+    <error superfluous="yes">Discourage</error> the local Government 
+    <deleted>1 character</deleted> the development of 
+    <error corrected="agriculture">Agricuture</error> 
+    <error corrected="."/></p>
+    <p>it will <error corrected="discourage">Discourge</error> the 
+    local <error corrected="farmers">framers</error> not to produce 
+    good crops which are transport<punctuation>-</punctuation>able And not 
+    <error corrected="carriable">carryable</error> from one place to 
+    <error corrected="another">anther</error>. <deleted>it also stands 
+    as an</deleted> <deleted>him</deleted> It also cause 
+    <error corrected="delay">dellay</error> on the road because if the 
+    road is not good in <unclear words="1"/> of 10 
+    <error corrected="minutes">mins</error> there you will 
+    <unclear words="1"/> more than 30 <error corrected="minute">
+    min</error> because of the road poor.</p>
+    <p>It gives room for social <unclear words="1"/> for town
+    <error corrected="."/></p>
+    <p><error corrected="yours">your</error> 
+    <error corrected="faithfully">faithfull</error></p>
+    <p><signature>signature</signature></p>
+    <p><x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

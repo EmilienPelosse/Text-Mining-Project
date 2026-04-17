@@ -1,0 +1,42 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ew</transcriber>
+    <date>2007-05-23</date>
+    <place>Ukya, Nasarawa, Nigeria</place>
+    <author><gender>m</gender><age>18</age><ethnic-group>Hausa</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Government Resettlement Secondary</p>
+    <p>School <x-anonym-x type="location"/> 
+    <x-anonym-x type="location"/>,</p>
+    <p>p<punctuation>.</punctuation>o<error corrected="."/> box 169<punctuation>.</punctuation></p>
+    <p><x-anonym-x type="location"/> Local Government Area,</p>
+    <p><x-anonym-x type="location"/> State,</p>
+    <p>23 <error corrected="May">may</error> 2007<punctuation>.</punctuation></p>
+    <p>To The Chairman</p>
+    <p><x-anonym-x type="location"/> Area council</p>
+    <p>Dear Sir,</p>
+    <p>Is a pleasure writing this letter to you.</p>
+    <p>The main aim of my letter is to discus<break />s about the poor 
+    state of roads in our town and also the <deleted>dis</deleted> 
+    consequences.</p>
+    <p>Mr Chairman<error corrected=","/> <error corrected="I">i</error> 
+    think if the road of our State will be reconstructed
+    <error corrected=",">.</error> it will be appreciated by 
+    <error corrected="everybody">every body</error> because we are 
+    going to have a smooth Journey, and our state will be classi<break 
+    />fy as the best, and it will reduce Road accidents.</p>
+    <p>And the consequences is that without reconstruction of Road 
+    Regular acc<punctuation>-</punctuation>ident will continue, and also 
+    <error superfluous="yes">and also</error> there will be delay on 
+    the road before going to work or trave<break />lling.</p>
+    <p>Mr Chairman<error corrected=","/> I think we will app<punctuation>-</punctuation>reciate if the poor state of roads will be reconstructed. And 
+    hoping that our request will be granted.</p>
+    <p>Yours faithfully</p>
+    <p><signature>signature</signature></p>
+    <p><x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/>
+    </p>
+  </text>
+</annotated>

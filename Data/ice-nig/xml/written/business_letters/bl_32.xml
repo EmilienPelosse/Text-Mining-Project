@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>40</age><ethnic-group>Ibibio</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear <x-anonym-x type="first-name"/>,</p>
+    <p>I submitted a paper titled “Tackling corruption through all the 
+    applicable media in <x-anonym-x type="location"/> �? and 
+    subsequently got a letter dated <x-anonym-x /> intimating that my 
+    paper will be published in the book – Media discourse in 
+    <x-anonym-x type="location"/>. I was looking at my files and I came 
+    across your email address so I decided to contact you to find out 
+    if the publication is out. Kindly let me know so that I can arrange 
+    how to get a copy. Thanks and have a nice day. 
+    <x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

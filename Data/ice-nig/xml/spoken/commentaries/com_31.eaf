@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2013-03-10T10:55:57+01:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/pacx_workspace/icenig/raw/spoken/commentaries/com_31.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="file:/../../../raw/spoken/commentaries/com_31.wav"/>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="7780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="11400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="11840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="15150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="15610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="16110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="17020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="18970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="20440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="21330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="21600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="23030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="24310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="26050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="27150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="28960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="30110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="30800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="31600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="33960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="34500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="35410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="35680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="36750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="36890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="38500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="38690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="40040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="42340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="45150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="45600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="46520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="47120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="48750"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="sf/ug/ts DONE DONE DONE" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="date;place;m;?;Edo" TIER_ID="Transcription 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>welcome back to the</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>CINOTAF venue of this year's erm two thousand and ten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Independent Day celebration</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>before this time we heard erm the governor</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Governor Emmanuel Eweta Uduaghan reading the opening</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>bible</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>taking his verse from psalm eighty four</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>later we heard</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>bible erm the we heard the</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>the sermon being given by</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Bishop S J Onibere</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>we also heard</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>the clergy praying for the nation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>for the president</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Niger Delta</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>the governor and his family and the</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>two thousand and ten general elections</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>now we are here at the second segment of this programme</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>we are handing over</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>to continuation of what is going on here now</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Tagging" PARENT_REF="Transcription 1" TIER_ID="Annotation 1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Properties" PARENT_REF="Annotation 1" TIER_ID="Properties 1"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Tags" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Tagging" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Properties" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Properties" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Tags" DESCRIPTION="all tags allowed in tagging">
+        <CV_ENTRY DESCRIPTION="">other-language</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">indigenous</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">anonymous</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">unclear</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">interrupted</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">hesitation</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">repair</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">mention</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">transcriber's comment</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Properties" DESCRIPTION="all values allowed in properties">
+        <CV_ENTRY DESCRIPTION="">place</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">first name</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">last name</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">country</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Hausa</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Igbo</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Yoruba</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">(not sure)</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>

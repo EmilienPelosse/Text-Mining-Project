@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2009</date>
+    <place>web</place>
+    <author><gender>f</gender><age>32</age><ethnic-group>Edo</ethnic-group></author>
+  </meta>
+  <text>
+    <p>you can bet that now that <error corrected="I">i</error> 
+    <coll for="have">ve</coll> good access at home and in the office, 
+    my mails will be very regular.</p>
+    <p>Where did you borrow that <other-language language="hausa">
+    turenchi</other-language> from?</p>
+    <p>Anyway, <error corrected="I">i</error> can vouch for your origin 
+    and a few more things about you.</p>
+    <p>Don&apos;t worry, we have no other country but this, so it must 
+    be reformed to taste. <x-anonym-x type="first-name"/></p>
+    <p>hello sister.Thank God for your journey. Sorry we had problem 
+    with the internet <error corrected="that&apos;s">thats</error> why 
+    you have not received from me. I hope your husband is already in a 
+    <x-anonym-x/> camp.I also hope the children are ok. They should not 
+    have any problem since summer is just going. <error corrected=" "/> 
+    Greetings to your new friends. We had a Zonal rally in 
+    <x-anonym-x type="location"/> over the week end.</p>
+    <p>greetings to your husband.</p>
+    <p>bye</p>
+    <p><x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

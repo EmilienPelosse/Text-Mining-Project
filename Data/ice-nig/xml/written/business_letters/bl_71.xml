@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2010-01-08</date>
+    <place>XXX</place>
+    <author><gender>?</gender><age>?</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p><coll for="Department">Dept</coll> of Philosophy,</p>
+    <p>Faculty of Arts,</p>
+    <p><x-anonym-x type="organisation"/> University,</p>
+    <p><x-anonym-x type="location"/></p>
+    <p>8<superscript>th</superscript> January, 2010</p>
+    <p>Through: The Ag<punctuation>.</punctuation> Head</p>
+    <p><coll for="Department">Dept</coll> of Philosophy,</p>
+    <p>Faculty of Arts,</p>
+    <p><x-anonym-x type="location"/></p>
+    <p>To: Dean,</p>
+    <p>Faculty of Arts,</p>
+    <p><x-anonym-x type="organisation"/> University,</p>
+    <p>Dear Sir,</p>
+    <p>VOLUNTARY WITHDRAWAL OF STUDENTSHIP</p>
+    <p>I hereby request for voluntary withdrawal of studentship in 
+    Philosophy Department. The <error corrected="bearer">
+    brearer</error>; <x-anonym-x type="first-name"/> 
+    <x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/> in 
+    Department of Philosophy request for withdrawal of studentship due 
+    to the fact that I have gained admission into another institution 
+    and would not be able to write the second semester tests and 
+    examinations of the courses I registered for because the new 
+    institution gained admission into resumes 
+    11<superscript>th</superscript> January; also lectures would 
+    commence; and the examinations which I ought to write in this 
+    institution starts 18<superscript>th</superscript> January; this 
+    implies that, I would resume in my new school before examinations 
+    start in this Institution.</p>
+    <p>Sir, I am requesting for this voluntary withdrawal of 
+    studentship because I cannot do two things at the same time, 
+    meaning; I cannot be receiving lectures from two different 
+    institutions at the same time.</p>
+    <p>I shall be very grateful if my request is favourably 
+    considered.</p>
+    <p>Yours faithfully,</p>
+    <p>Sgd.</p>
+    <p><x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/>
+    </p>
+    <heading>Head of Department&apos;s Recommendation</heading>
+    <p>Recommended for Approval.</p>
+    <p>Dr<punctuation>.</punctuation> X<punctuation>.</punctuation> X<punctuation>.</punctuation> <x-anonym-x type="family-name"/>
+    </p>
+  </text>
+</annotated>

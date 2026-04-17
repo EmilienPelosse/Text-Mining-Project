@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>56</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear <coll for="Brother">Bro</coll> 
+    <x-anonym-x type="family-name"/></p>
+    <p>This is to inform you that I am contesting for the office of the 
+    Dean, Faculty of Arts in the forthcoming election holding on 7th 
+    May 2009. The other contestant is Prof<punctuation>.</punctuation> X. 
+    <x-anonym-x type="family-name"/>.</p>
+    <p>I am soliciting for your support and votes in the election, and 
+    I hope you will be able to consider me worthy.</p>
+    <p>Please find attached to this mail a copy of my manifesto.</p>
+    <p>I look forward to reading from you. 
+    <x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

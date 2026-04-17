@@ -1,0 +1,41 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ew</transcriber>
+    <date>2007-6-21</date>
+    <place>Ukya, Nasarawa, Nigeria</place>
+    <author><gender>m</gender><age>18</age><ethnic-group>Hausa</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Government<error superfluous="yes">,</error> Resettlement 
+    <error superfluous="yes">,</error></p>
+    <p>secondary<error superfluous="yes">,</error> school, 
+    <x-anonym-x type="location"/><punctuation>.</punctuation></p>
+    <p><x-anonym-x type="location"/>, P O Box <error superfluous="yes">
+    ,</error> 169, <x-anonym-x type="location"/></p>
+    <p>state, 21<error superfluous="yes">,</error> June 
+    <error superfluous="yes">,</error> 2007 <error superfluous="yes">
+    ,</error></p>
+    <p>Dear<error superfluous="yes">,</error> friend, 
+    <x-anonym-x type="first-name"/>,</p>
+    <p>I am very happy to write this <error corrected="letter">
+    latter</error> to you <error corrected="."/> are you and how is 
+    <error corrected="your">you</error> condition over there 
+    <error corrected="?"/> I hope this <error corrected="letter">
+    latter</error> will meet you in <error corrected="good">
+    goods</error> condition of <error corrected="health">heath</error>
+    <error corrected="."/> <deleted>is Just</deleted> the reason of my 
+    <error corrected="letter">latter</error> to you is Just to inform 
+    you about my <unclear words="1"/> <error corrected="birthday">birth 
+    day</error><error corrected="."/> </p>
+    <p>I wish you will come and let us celebrate it together. </p>
+    <p>I will like to stop have until I see you, are welcome us you come
+    <error corrected="."/></p>
+    <p><error corrected="thanks">thank</error> <error corrected="."/>
+    </p>
+    <p>yours sincerely</p>
+    <p><signature>signature</signature></p>
+    <p />
+  </text>
+</annotated>

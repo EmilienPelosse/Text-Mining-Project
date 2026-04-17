@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>43</age><ethnic-group>Igbo</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear <x-anonym-x />,</p>
+    <p>I will like to use this medium to tender my unreserved apology 
+    for my failure to have written you before now.</p>
+    <p>I also express my profound and immeasurable gratitude to you for 
+    your untiring help to me from the time immemorial.
+    <error corrected=" "/>I sincerely thank you for your guidance 
+    during the selection of my thesis title.</p>
+    <p>Sir, I will like to inform you that I&apos;m working on the 
+    thesis title you guided me to choose-&apos;&apos;Interrogative 
+    Forms in English-medium Christian Charismatic Preachers&apos; 
+    Discourse in South-Western Nigeria&apos;&apos;.
+    <error corrected=" "/>It is only that it was restructured during 
+    the presentation as-&apos;&apos;Interpersonal Meaning in the use of 
+    English by selected Pentecostal preachers in 
+    <x-anonym-x type="location"/>, <x-anonym-x type="location"/> 
+    state&apos;&apos;.</p>
+    <p>Sir, I wish you and your entire family members divine health,
+    <error corrected=" "/>protection and help all the time.
+    <error corrected=" "/>I equally wish you journey mercies,
+    <error corrected=" "/>happy stay abroad and happy return to Nigeria 
+    whenever you decide to return to Nigeria.</p>
+    <p>Yours sincerely,</p>
+    <p><x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

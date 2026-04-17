@@ -1,0 +1,81 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2009-10-19</date>
+    <place>http://thenationonlineng.net/web2/</place>
+    <author><gender>m</gender><age>?</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <heading>Microsoft releases free anti-virus software</heading>
+    <p><boldface>As Users and Security Experts Give it a pass mark 
+    Competitors criticise the product</boldface><error corrected="."
+    /></p>
+    <p>Microsoft Corporation has released an antivirus software named 
+    Microsoft Security Essentials. The software, which was released 
+    last week been downloaded by numerous windows users across the 
+    globe.</p>
+    <p>The product, according to Microsoft, is free and can be 
+    downloaded by anyone using Security Essentials’ website. Versions 
+    are available for Windows XP, Vista, and 7. Also, no registration 
+    is required and the software can be installed on any number of PCs 
+    without restrictions.</p>
+    <p>Security Essentials which was launched last Tuesday, is basic 
+    anti-virus and anti-spyware software that Microsoft touts as 
+    suitable for users who can’t, or won’t, pay for security.</p>
+    <p>Microsoft Security Essentials provides real-time protection that 
+    uses behaviour monitoring and reputation services to help identify 
+    the malicious software as soon as it emerges in the ecosystem and 
+    then uses the Dynamic Signature Service to make the newest 
+    definitions available virtually real-time, without having to wait 
+    for the next signature download.</p>
+    <p>Microsoft Security Essentials as learnt by <italics>PC User to 
+    User</italics> takes over from Windows Live OneCare, a commercial 
+    offering that was phased out in June and it focuses on something 
+    that is much broader in its offering.</p>
+    <p>Although Security Essentials is free, it will not be installed 
+    with Windows or provided as an automatic update.</p>
+    <p>Microsoft Security Essentials runs quietly and efficiently in 
+    the background so that you are free to use your Windows-based PC as 
+    desired, without interruptions or long computer wait times.</p>
+    <p>Since the release of the software, several security testing 
+    firms have put up tests, to ascertain the potency of the software. 
+    One of such was av-test<punctuation>.</punctuation>org.</p>
+    <p>To check static known malware, AV-Test pitted Security 
+    Essentials against the most recent WildList, a sampling of 3,732 
+    viruses and other threats. Microsoft’s product successfully 
+    detected and blocked all of the samples in both manual and active 
+    scanning.</p>
+    <p>Microsoft will block users running counterfeit copies of Windows 
+    from installing the free Security Essentials antivirus software. 
+    All efforts, according to, Microsoft would be put in place to check 
+    the activities of the pirates.</p>
+    <p>During installation, users will be asked to validate Windows 
+    running on your PC to make sure that it’s genuine. Genuine Windows 
+    is the umbrella label for several of the company’s anti-piracy 
+    technologies, including product activation and the often-criticized 
+    validation and notification components, which regularly determine 
+    whether the copy of Windows running on a PC is legitimate.</p>
+    <p>However, other anti malware companies, especially</p>
+    <p><typeface-change>Symantec</typeface-change></p>
+    <p>has continued reacting to the release of MSE. They believe 
+    Microsoft was not known for security and that their newly release 
+    antivirus software might not stand the test of time. Symantec 
+    referred to the Security Essentials as a rerun of Windows Live One 
+    Care, security software from Microsoft, which is now defunct.</p>
+    <p>Symantec also holds that MSE was made pro bono by Microsoft 
+    because of its inferior quality and incapability of fighting 
+    viruses to the finish.</p>
+    <p>As to the rationale of offering MSE at no cost, Microsoft 
+    explained that that was done because they believe many of their 
+    customers worldwide that do not have up-to-date protection either 
+    because they cannot afford it, are concerned about the impact the 
+    suites will have on the performance of their PCs, or because they 
+    simply do not realize their antivirus software is not up to 
+    date.</p>
+    <p>The software is still available for download on the Microsoft 
+    website and from others websites that have the link of Microsoft, 
+    and other that have been authorised to do so.</p>
+  </text>
+</annotated>

@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>58</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear <x-anonym-x type="first-name"/>,
+    <error superfluous="yes">,</error></p>
+    <p>Thanks for your help in securing my daughter 
+    <x-anonym-x type="first-name"/>, a place at 
+    <x-anonym-x type="organisation"/> University . At least she will 
+    feel good studying PR in the same university as her brother. The 
+    two are the last of my burden.<error corrected=" "/>Thanks a lot. 
+    The response to the article you submitted to <x-anonym-x /> was 
+    positive except for a few things which I could deal with on my own.
+    <error corrected=" "/>However, I charge individuals whose papers 
+    have been accepted. The charge is based on the number of pages. You 
+    don’t need to worry as I will cover your own expenses. If you do 
+    need the letter of acceptance, please let me know so that I can 
+    send it to you</p>
+    <p>Kind regards, <x-anonym-x type="first-name"/>.</p>
+    <p>Dear <x-anonym-x type="first-name"/></p>
+    <p>Thanks for your mail. First, about the position in my 
+    department, I &apos;m afraid it is too late now. We have 
+    shortlisted a British and a local for the position. I am happy that 
+    you are facing the challenges of being a very senior person at 
+    <x-anonym-x type="organisation"/>. My son, 
+    <x-anonym-x type="first-name"/>, is doing his first year in Estate 
+    Management in the University. The first boy will be graduating from 
+    <x-anonym-x type="organisation"/> University this June. I will look 
+    at your paper and advice accordingly.</p>
+    <p>Take care and all the best. <x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>48</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear Dr <x-anonym-x type="family-name"/>,</p>
+    <p>It is a pity that I don&apos;t know that my paper is not related 
+    to your proposed book. However, since you suggested another outlet, 
+    I won&apos;t mind if you can get one for the paper. As for the 
+    book, I will re-read the flier to know what you really want. You 
+    can help delete the part of <error corrected="acknowledgement">
+    acknowlegement</error> in my paper before sending it to any other 
+    outlet. Thank you and God bless. More grease to your elbow. 
+    <x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/></p>
+  </text>
+</annotated>

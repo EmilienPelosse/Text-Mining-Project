@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>38</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>I am a lecturer in english and linguistics at the university of 
+    <x-anonym-x type="location"/>.<error corrected=" "/>only yesterday 
+    <error corrected="I">i</error> <error corrected="discovered">
+    discovere4d</error> you did a paper on SMS in 
+    <x-anonym-x type="location"/> at the conference in History in March,
+    <error corrected=" "/>2007 at the University 
+    <x-anonym-x type="organisation"/>.<error corrected=" "/>Please 
+    could you send to me the electronic paper by email or surface paper 
+    for hard copy to my address as listed under my signature.
+    <error corrected=" "/>I have also enjoyed your paper on sermonic 
+    discourses which I got in <x-anonym-x type="location"/> last year.
+    <error corrected=" "/>
+    <error corrected="Incidentally">Incidentaly</error> am researching 
+    on christian sermonic discourses for my PhD. Please pass my phone 
+    and email to <x-anonym-x type="family-name"/>,
+    <error corrected=" "/>who I met and got acquainted to at 2001 MLAN 
+    conference in <x-anonym-x type="location"/>.
+    <error corrected=" "/>Looking forward to receiving from you.</p>
+  </text>
+</annotated>

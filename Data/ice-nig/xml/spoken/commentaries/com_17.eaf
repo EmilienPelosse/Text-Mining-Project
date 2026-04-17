@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2013-03-10T11:13:42+01:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/pacx_workspace/icenig/raw/spoken/commentaries/com_17.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="file:/../../../raw/spoken/commentaries/com_17.wav"/>
+        <PROPERTY NAME="lastUsedAnnotationId">46</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="7200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="9410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="9820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="12100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="14650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="18010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="19250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="20800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="21160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="23730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="23880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="24990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="25460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="26590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="27250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="28950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="29930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="31850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="32140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="33730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="33800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="35720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="36020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="36750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="37230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="39230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="39280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="40280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="40490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="42530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="42990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="44370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="44670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="45580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="45710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="49740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="49810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="51210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="51310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="53250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="53490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="54780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="54950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="57670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="57960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="59070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="60470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="61480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="62140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="62750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="63300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="65230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="65260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="66350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="66660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="71030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="71360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="73160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="73290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="74720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="74880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="76530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="76960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="77370"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="ug/ts/ts DONE DONE DONE" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="2010-11-?;Ota;m;?;Yoruba" TIER_ID="Transcription 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>discrimination in the scholarship thing </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>we cannot even plan programmes unless we have</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>a website where we have a strong digital base </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>the same applied to </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>I D card</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>because I D card can be abused</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>and we have to be very</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>it is something that we have to gather check everywhere for it</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>and we don't have</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>a proper</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>erm page you know website and</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>such thing if we have a website</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>where we can have</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>the names of all members
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>and that should be enough for us</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>I wonder why will you need I D card</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>I think we should even rework some in our offices</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>and our</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>and our driver's licence</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>do we know them</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>so we would be coming here over to check </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>and one has to write it out</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>so we</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>I think it's something that we should be careful about so that the wrong people will not come and take it</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>as start saying erm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>somebody has sent them to come and do something </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>at erm Friday</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>delegate in NESA we are members of so and so</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>erm resting on their</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>you never can tell</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>let's see</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>so we can just but once you're on the website</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>you can always erm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>you know refer to it that you are a member just like the linguists lists that we had</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>so for now I think we are not even</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>a member and we don't even have</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>that kind of secretariat for now</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>erm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Tagging" PARENT_REF="Transcription 1" TIER_ID="Annotation 1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Properties" PARENT_REF="Annotation 1" TIER_ID="Properties 1"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Tags" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Tagging" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Properties" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Properties" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Tags" DESCRIPTION="all tags allowed in tagging">
+        <CV_ENTRY DESCRIPTION="">other-language</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">indigenous</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">anonymous</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">unclear</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">interrupted</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">hesitation</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">repair</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">mention</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">transcriber's comment</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Properties" DESCRIPTION="all values allowed in properties">
+        <CV_ENTRY DESCRIPTION="">place</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">first name</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">last name</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">country</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Hausa</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Igbo</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Yoruba</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">(not sure)</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
