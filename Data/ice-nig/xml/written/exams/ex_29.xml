@@ -1,0 +1,41 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ew</transcriber>
+    <date>2007-06-21</date>
+    <place>Ukya, Nasarawa, Nigeria</place>
+    <author><gender>m</gender><age>18</age><ethnic-group>Hausa</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Government Secondary<error superfluous="yes">,</error></p>
+    <p>School <x-anonym-x type="location"/> p<punctuation>.</punctuation>m B 
+    <error superfluous="yes">,</error></p>
+    <p>Box 169 <x-anonym-x type="location"/> state,</p>
+    <p>21/6/07<punctuation>.</punctuation></p>
+    <p>Dear brother,</p>
+    <p>I am very glad of writing this letter to you. how are you and 
+    how is your family, work and also your condition over there
+    <error corrected="?">.</error></p>
+    <p>If so fine glory be to Almighty God (<error corrected="amen"
+    >eman</error>). </p>
+    <p>The main mission of writing this letter to you is 
+    <error corrected="just">jus</error> to tell you about the last 
+    national population and housing census in Nigeria. The national 
+    population and housing census is coming on 2/7/07
+    <error corrected="."/> I am try to inform you about that as you 
+    know were doing before or last year so that is still keep on in 
+    did. So please try to response and come and enjoy the benefit of 
+    <deleted>1 character</deleted> it. Although <deleted>the 
+    is</deleted> there is contribution between my family and your 
+    family also, so try as much as <error corrected="possible">
+    posible</error> as you<deleted>r</deleted> can. As you know that 
+    Government rule is very important to any of our citizen.</p>
+    <p>Thanks<error corrected="."/></p>
+    <p>yours</p>
+    <p>brother</p>
+    <p><x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/>
+    </p>
+    <p><signature>signature</signature></p>
+  </text>
+</annotated>

@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2012-12-1</date>
+    <place>Ilorin</place>
+    <author><gender>m</gender><age>28</age><ethnic-group>Hausa</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Hello <x-anonym-x type="first-name"/>, </p>
+    <p>How are? Hope you arrive back safely. I&apos;m 
+    <x-anonym-x type="first-name"/> the one you interviewed in my </p>
+    <p>office at University of <x-anonym-x type="location"/>, 
+    <x-anonym-x type="location"/>, Nigeria. If you could remember i ask 
+    you </p>
+    <p>about research visit in your University. Kindly send me more 
+    detail of your </p>
+    <p>University. Thank you. </p>
+    <p>Best Regards </p>
+    <p />
+  </text>
+</annotated>

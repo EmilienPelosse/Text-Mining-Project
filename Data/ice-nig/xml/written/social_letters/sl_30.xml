@@ -1,0 +1,57 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>f</gender><age>58</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear <coll for="Sister">Sis</coll>,</p>
+    <p>Thank you for this mail. I <error corrected="believe">
+    beleive</error> that <x-anonym-x type="first-name"/> and 
+    <x-anonym-x type="first-name"/> are doing fine in school. 
+    <x-anonym-x type="first-name"/> is now in 
+    <x-anonym-x type="location"/>. He got there yesterday morning. 
+    Thanks for the prayers. Indeed the Lord is good and He answers our 
+    prayers. What are you doing to keep yourself busy? I am planning to 
+    proceed on leave to <x-anonym-x type="location"/> by God&apos;s 
+    grace 3rd of November. <x-anonym-x type="first-name"/> would finish 
+    by then.</p>
+    <p>I love <coll for="you">UUU</coll>. Greetings to your husband and 
+    children.</p>
+    <p><x-anonym-x type="first-name"/></p>
+    <p>I bless God for the good news. The Lord will continue to keep 
+    divine doors open for His children. I wish you and the entire 
+    family a wonderful stay there. I hope the kids are adjusting well. 
+    It could be quite challenging especially with the language barrier 
+    at the initial time, but I trust the Lord will sustain them. How 
+    are you settling down?</p>
+    <p>We are doing fine by God&apos;s grace. I am still at the 
+    University of <x-anonym-x type="organisation"/> (Department of 
+    <x-anonym-x type="organisation"/>) as research associate, It is a 
+    term position and the Lord has been faithful in sustaining me but I 
+    am trusting the Lord for something more permanent.</p>
+    <p>My regards to your husband. <x-anonym-x type="first-name"/>, 
+    <x-anonym-x type="first-name"/> (and <x-anonym-x type="first-name"/>
+    ) also send greetings their friends. I wonder if they will still be 
+    able to recognise each other again.</p>
+    <p>Stay blessed,</p>
+    <p><x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/>
+    </p>
+    <p>Bless you dear Sister....always correct! I just spoke with 
+    <x-anonym-x type="first-name"/>, they are in 
+    <x-anonym-x type="location"/> for some meetings. Unfortunately I 
+    may not be able to see them because I am going home to 
+    <x-anonym-x type="location"/> tomorrow. 
+    <other-language language="french">C&apos;est la 
+    vie</other-language>..that&apos;s life. 
+    <other-language language="yoruba">Mo ku 
+    aigbagebe</other-language>..my French comes back once in a 
+    while.</p>
+    <p>Stay blessed and love to you all.</p>
+    <p>Your Sister,</p>
+    <p><x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

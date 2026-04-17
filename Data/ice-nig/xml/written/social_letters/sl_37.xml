@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>f</gender><age>35</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Hello uncle,</p>
+    <p>It&apos;s so nice to hear from you. I really understand the fact 
+    that you&apos;re busy and <error corrected="I">i</error> have been 
+    getting in touch with aunty <x-anonym-x type="first-name"/>, all 
+    along. I believe my getting in touch with her is getting in touch 
+    with you also.</p>
+    <p>We&apos;re on summer <coll for="holidays">hols</coll> here and 
+    <error corrected="I">i</error> have been busy working all the 
+    while. I met a sister here who told me she&apos;s your cousin. Her 
+    name is <x-anonym-x type="first-name"/>. She moved in from 
+    <x-anonym-x type="location"/> recently. Her email ad is 
+    <x-anonym-x type="e-mail"/> I&apos;m sure she&apos;ll be delighted 
+    to read from you.</p>
+    <p>How&apos;s aunty <x-anonym-x type="first-name"/> and the boys? 
+    My regards to them all. Greetings from guys here. Once again, 
+    thanks for keeping in touch. Bye.</p>
+    <p><x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

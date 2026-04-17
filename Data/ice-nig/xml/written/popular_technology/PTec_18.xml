@@ -1,0 +1,78 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2007-08-21</date>
+    <place>222.mynaijanews.com</place>
+    <author><gender>?</gender><age>?</age><ethnic-group>?</ethnic-group></author>
+  </meta>
+  <text>
+    <heading>How to Get Your Own Website (5)</heading>
+    <p>These days, it is much easier to create a website than it used 
+    to be. In general, website-creation programs are much simpler to 
+    use - and you also have the option of signing up with an online web 
+    host with easy-to-use page creation tools.</p>
+    <p>But the biggest change has to be the advent of the blog.</p>
+    <p>“Blog�? is short for <punctuation>‘</punctuation>web log<punctuation>’</punctuation>. Blogs 
+    started off as a way for people to create an online diary. Bloggers 
+    would simply log on, tap out a paragraph or two giving their 
+    thoughts on life and the universe (and everything in between); 
+    click <punctuation>‘</punctuation>publish<punctuation>’</punctuation> and that was that. 
+    Their words were live on the Internet for anyone to see. The big 
+    appeal of a blog was that it was interactive: readers were welcome 
+    to add a comment on any post, with a link back to their own blog or 
+    website.</p>
+    <p>Gradually, bloggers started to want more. They wanted easy ways 
+    to upload photos, and extra pages on the site - just like a 
+    <punctuation>‘</punctuation>real<punctuation>’</punctuation> website. They wanted a range of 
+    themes, to better express their personality or business.</p>
+    <p>Programmers everywhere came to the party, particularly with 
+    WordPress, a well-known open source. Now, if you want a 
+    website/blog, it’s possible to:</p>
+    <p>* Sign up with a web host with CPanel for a low monthly fee
+    <error corrected="."/></p>
+    <p>* Install WordPress with just a few clicks of the mouse, using 
+    Fantastico on your website’s CPanel<error corrected="."/></p>
+    <p>* Either use one of the pre-installed themes, or browse the 
+    various themes available at WordPress (and on many other sites) to 
+    choose one that suits your personality or business
+    <error corrected="."/></p>
+    <p>* Upload the theme you want to the wp_content folder, using a 
+    simple FTP program (such as WS_FTP or Cute FTP)
+    <error corrected="."/></p>
+    <p>* Start posting your articles or comments
+    <error corrected="."/></p>
+    <p>* Add extra pages to your site (if you want to)
+    <error corrected="."/></p>
+    <p>Now that you can add separate pages to blogs - just as you can 
+    with a standard website - many people are turning to them as their 
+    preferred way of building a website. By using various plugins, it’s 
+    possible to do pretty well anything you want.</p>
+    <heading>=== What Are “Plugins�?? ===</heading>
+    <p>Plugins are extra features available for your blog to make your 
+    life easier. You can get plugins, for example, that will:</p>
+    <p>- help you block spam</p>
+    <p>- make it easy to upload and sort your photos</p>
+    <p>- ping the search engines so they know when you’ve added new 
+    content</p>
+    <p>- insert Adsense blocks so you can earn money from your blog</p>
+    <p>There are quite a number of plugins available now - take some 
+    time to find out what they will do.</p>
+    <heading>=== Help With Using Wordpress ===</heading>
+    <p>While Wordpress is not the only blog software available, it is 
+    an excellent choice because (a) it’s free; (b) it’s relatively easy 
+    to use; (c) it’s open-source, and therefore has a lot of people 
+    working on it constantly to make it better, and (d) there are quite 
+    a few <punctuation>‘</punctuation>how to<punctuation>’</punctuation> sites on the Internet 
+    showing you how to make the most of your Wordpress blog.</p>
+    <p>One of them is Guido Stiehle (�?The Jungle Marketer�?) who offers 
+    an excellent free tutorial (with video tutorials) that will show 
+    you, step by step, how to set up and use your blog. You can find 
+    other providers by simply typing <punctuation>‘</punctuation>how to use 
+    Wordpress<punctuation>’</punctuation> into a search engine.</p>
+    <p>Spend an hour or two browsing, and you’ll see why a blog is a 
+    very viable option for establishing your presence on the 
+    Internet.</p>
+  </text>
+</annotated>

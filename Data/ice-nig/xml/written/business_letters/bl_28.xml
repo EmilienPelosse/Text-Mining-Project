@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2010-02-20</date>
+    <place>www.web.com</place>
+    <author><gender>m</gender><age>?</age><ethnic-group>?</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear Prof<punctuation>.</punctuation> <x-anonym-x type="first-name"/> 
+    <x-anonym-x type="family-name"/>, </p>
+    <p>I am presently working on Speech Recognition algorithm for 
+    Nigerian English as part of my PhD program when I read your paper 
+    &quot;Nigeria English: Phonology&quot; in a journal paper which I 
+    can not find again. When I searched for it on the inter-net, I have 
+    to pay to read it which for now I <error corrected="don&apos;t">
+    dont</error> have enough money to pay for it. </p>
+    <p> What I really need from you is, if possible to send me a soft 
+    copy which I promise I will send back to you after reading it 
+    without making a copy of it, and I will properly reference the work 
+    and <error corrected="acknowledge">acknoledge</error> your help in 
+    my research. </p>
+    <p>Thanks. </p>
+    <p><x-anonym-x type="family-name"/> <x-anonym-x type="first-name"/> 
+    </p>
+    <p />
+  </text>
+</annotated>

@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ew</transcriber>
+    <date>2007-6-21</date>
+    <place>Ukya, Nasarawa, Nigeria</place>
+    <author><gender>m</gender><age>18</age><ethnic-group>Hausa</ethnic-group></author>
+  </meta>
+  <text>
+    <p><error corrected="government">Gornment</error> resettlement 
+    secondary</p>
+    <p>school <x-anonym-x type="location"/> 
+    <x-anonym-x type="location"/><punctuation>.</punctuation></p>
+    <p>p<punctuation>.</punctuation>o<punctuation>.</punctuation> Box<error superfluous="yes">.</error> 169</p>
+    <p>21/6/2007</p>
+    <p>Dear <error corrected="friend">fried</error>,</p>
+    <p>I am very happy writing you this letter. I hope that everybody 
+    at abroad is doing fine and your job that of mummy are going on 
+    smoothly. For your information, I am hale and hearty over here. 
+    please<error corrected=","/> I want to let you know about the last 
+    national population and housing census in Nigeria and the benefit 
+    the nation and her <error corrected="citizenry">citizinry</error> 
+    stand to gain from it. our last <error corrected="census">
+    sensus</error> in Nigeria was very good, because we get more 
+    population in Nigeria than in <error corrected="those">dos</error> 
+    days, so want to tell you that we are very, very happy for that, 
+    when the more increase of population in the country that country it 
+    will be getting more stronger, so for that we say thank God. 
+    <error corrected="Amen">Amin</error>.</p>
+    <p><error corrected="yours">yous</error> 
+    <error corrected="faithfully">faithfuly</error><punctuation>.</punctuation></p>
+    <p><x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/> 
+    <punctuation>.</punctuation></p>
+    <p><signature>signature</signature><punctuation>.</punctuation></p>
+  </text>
+</annotated>

@@ -1,0 +1,40 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>uu</transcriber>
+    <date>2009</date>
+    <place>web</place>
+    <author><gender>f</gender><age>40</age><ethnic-group>Igbo</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Hello <x-anonym-x type="first-name"/>,</p>
+    <p>Thanks for that quick response. I will try the number tomorrow. 
+    I will be away from <x-anonym-x type="location"/> for the rest of 
+    <error corrected="this">thisd</error> week. I have a conference at 
+    UI. I also believe we should all meet physically soon. I really 
+    look forward to that.</p>
+    <p>My regards to your family. <x-anonym-x type="first-name"/></p>
+    <p>My Sister,</p>
+    <p>Happy New Year to you and family. Thanks for the card. May the 
+    Lord&apos;s peace, joy, mercy, favour and grace increase upon 
+    <error corrected="your">you n</error> <error corrected="family">
+    fmily</error> <error superfluous="yes">fmily</error> this year, all 
+    the lord has for you will come unhindered in Jesus name.</p>
+    <p>Amen.</p>
+    <p><error corrected="God">Godn</error> bless you real good.</p>
+    <p><x-anonym-x type="first-name"/></p>
+    <p><x-anonym-x type="first-name"/>,</p>
+    <p>Thanks for your letter. Thanks also for accepting my abstract. 
+    Please I wish to add that both my title and abstract have been 
+    modified very slightly.</p>
+    <p>The new title is: <x-anonym-x/>.</p>
+    <p>The abstract has been restructured to fully reflect the content 
+    of the paper. Please accommodate these minor modifications. I 
+    earlier posted three hard copies of the paper, but I have taken 
+    note of the requirements for the conference. Find attached the full 
+    paper as directed.</p>
+    <p>By God’s will, I will be at the Canaanland, come June.</p>
+    <p>Thanks with warmest regards <x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

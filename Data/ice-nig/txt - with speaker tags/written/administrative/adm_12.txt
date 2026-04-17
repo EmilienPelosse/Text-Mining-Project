@@ -1,0 +1,51 @@
+THE XXX UNIVERSITY OF XXX
+I The Course Format or Housestyle
+1. The Course Guide
+The Course Guide (CG) should precede all other Units of the 
+    Course. The CG gives a general overview of the Course and provides 
+    useful information to the student about the structure or format of 
+    the course; the credit units attached to the course and how they 
+    are to be obtained; assessment (assignments and examinations), and 
+    the schedule of activities - important dates.
+2. The Unit
+A Unit is the smallest segment of an 
+    instructional material that can stand alone, but which is also 
+    linked to other Units to form a 
+    Module. It should have the following 
+    characteristics:
+i) It should engage an average Distance Learner (DL) student for 
+    at least three hours of serious work, which is equivalent to one 
+    hour of work under the conventional system.
+ii) Depending on the subject matter, a full Unit of 
+    structured content should cover between 7 and 10 pages (A4, 
+    typeset, 10 or 11 points of Times Roman or any appropriate 
+    font)
+iii) A unit should have:
+a) A table of contents (TOC)
+b) Introduction (1.0)
+c) Objectives (2.0)
+d) Main content, which should have self-assessment exercises 
+    (SAEs) and self-assessment questions (SAQs). The introduction may 
+    also contain some SAEs and SAQs (3.0) Particular symbols or 
+    icons may be adopted to signal theses activities in the text.
+e) Conclusion (4.0)
+f) Summary (5.0)
+g) References and recommended books (6.0)
+iv) At the end of the Unit, there should be 
+    at least 1 standard tutor-marked assignment question (TMAQ), which 
+    will form part of the TMAQs al the end of the 
+    Module.
+v) Tables, diagrams, illustrations should be used where 
+    appropriate.
+3. The Module
+i) Contains up to 5 Units, which make up a 
+    Module. The units, which make up a Module, 
+    must be thematically linked to each other.
+ii) At the end there should be TMAQs there will be an assignment 
+    file, which will contain all the TMAQs at the end of every Unit.
+iii) There should be references and a list of recommended books 
+    at the end of each Module.
+4. The Course
+The Course is made up of all the 
+    Modules.
+

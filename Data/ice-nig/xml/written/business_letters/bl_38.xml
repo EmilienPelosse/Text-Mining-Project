@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>49</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Ore,</p>
+    <p>I <error corrected="couldn&apos;t">couldnt</error> find the mail 
+    which contains your account number you said you sent me. I will so 
+    much be happier if you &quot;resend&quot; it.</p>
+    <p>Take care of yourself. <x-anonym-x type="first-name"/></p>
+    <p>Doc,</p>
+    <p>I have not received your a/c number as promised. What is 
+    happening up there? too busy?</p>
+    <p>I have given Dr <x-anonym-x type="family-name"/> the guideline 
+    you sent to me. He will surely use it to benefit.</p>
+    <p>How is everyone over there and at home?</p>
+    <p>You said something about a way to get up there. Could you please 
+    elucidate? I am eager to get something done. I missed the last 
+    promotion to Readership for one international paper short. I 
+    don&apos;t want it to repeat itself.</p>
+    <p>Send me the list of journals you promised.</p>
+    <p>Hope to here from you soon.</p>
+    <p>Merry <coll for="Christmas">Xmas</coll> and Happy New Year. 
+    <x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/></p>
+  </text>
+</annotated>

@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>34</age><ethnic-group>Igbo</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Sir,</p>
+    <p>Thank you for your <coll for="message">msg</coll>. We have a 
+    summer programme for students who had deficiencies in the results 
+    and the exams for first semester summer starts on the 22nd of 
+    August.<error corrected=" "/>There is a seminar I intend attending 
+    but I am not really clear with the theme.<error corrected=" "/>No 
+    sub <error corrected="theme">themme</error> was given.</p>
+    <p>Sir, I need your assistance <error corrected="in order">
+    inorder</error> to carve out a topic. It is an international 
+    conference with the theme- Learning, Transparency,
+    <error corrected=" "/>Responsibility and 
+    <error corrected="Collaboration">Colaboration</error>. The 
+    conference is under the auspices of International Language Testing 
+    Association.</p>
+    <p>Remain blessed</p>
+    <p>Thank You</p>
+    <p><x-anonym-x type="family-name"/></p>
+  </text>
+</annotated>

@@ -1,0 +1,25 @@
+Vacancy, Switch Engineer, MTN, Asaba: expires 
+    10/27/2009
+Qualification:
+B.Sc. Electrical/Electronics or any telecoms 
+    related degree
+Job Description:
+* Implement integration of new network elements (Hardware 
+    acceptance test, Physical connection).
+* Track, monitor, and resolve Hardware faults using approved 
+    switch processes and procedures and the Ericsson Exchange 
+    Library.
+* Escalate unresolved faults to Switch Support.
+* Implement change requests/planned work, using switch 
+    procedures.
+* Update switch records such as billing backup, weekly dumps, 
+    test load, etc.
+* Perform routine maintenance on all network nodes within the 
+    region.
+* Fault resolution on BTS network.
+Required Skills:
+4 years work experience including three (3) years hands-on 
+    experience in core network operations and maintenance in GSM 
+    environment
+Status: Permanent
+Apply at http://careers.mtnonline.com/

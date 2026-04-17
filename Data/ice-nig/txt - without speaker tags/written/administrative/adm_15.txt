@@ -1,0 +1,204 @@
+MODERATION EXERCISE
+A well conceived test item must pass 2 'tests'
+a) the test of expert judgement
+b) the test of use
+The test of use is the pretest/trial test which is essential to 
+    provide considerable information for statistical analysis of data. 
+    The "Facility" value and "discrimination" index 
+    are the most useful of all the statistics obtainable from this 
+    analysis. The use of these statistics in the determination of the 
+    specific items to be included in a question paper or be rejected is 
+    the act of Moderation or Item 
+    analysis. This is a quantitative approach to the 
+    evaluation of test items.
+On the other hand, the test of expert judgement in a more 
+    subjective approach- It is the vetting or shredding of the items. 
+    This is a qualitative approach to the act of 
+    Moderation.
+Criteria to be used in Item Vetting/Shredding:
+1. What section of the syllabus does the item test? (Year? 
+    topic)
+2. What ability/thinking level does the item test? 
+    (A/B/C/D/E)
+3. Is the language/mathematics/science sound or technically 
+    correct? i.e. is the content of the question correct 
+    language-wise, etc.
+4. Are there clues to the key (examine the length or the clue 
+    grammatical inconsistencies, specific determinants or other writing 
+    defects),
+5. What is the key?
+6. Are the detractors plausible?
+7. Is there more than one defensible answer?
+8. Is it reasonable to expect an average examinee to answer the 
+    item in the allotted time.
+9. Where appropriate, are the responses in the correct 
+    sequences.
+10. Can the wording be improved by eliminating unnecessary 
+    details, over sophistication, factoring out.
+When item vetters have subjected the items to these rigorous 
+    examination, the level of acceptability of each item can be 
+    determined. If a major amendment is required on an item to enable 
+    it meet with the criteria laid down, then that item should be 
+    rejected. Where necessary amendments can be made on items that are 
+    defective, they should be carried out to make them conform to the 
+    prevailing criteria.
+Attached herewith is a checklist for vetting and moderating both 
+    multiple choice items and essay/practical type items.
+- Are options which are names arranged alphabetically?
+- Are the options overloaded?
+- Are repetitive parts included in the stem?
+D. The key
+- Does the key answer the questions?
+- Does it stand out from the rest?
+- Is it the only answer, to the question asked?
+- Are there words in the stem that may give out the key?
+- Is the key to one item given in another item when both are 
+    given in the same test? '
+E. Distractors
+- Is the distractor plausible or sharp enough?
+- Is there any other correct option?
+- Does any one of them attract unnecessary attention?
+1.3 EDITING ESSAY/PRACTICAL TYPE ITEMS
+The following points should be noted when writing 
+    Essay/Practical type items:
+A. The Question:
+(i) Must be within the syllabus.
+(ii) Must be concise, clear and unambiguous.
+(iii) Should be structured directly so that the candidates do 
+    not have to guess.
+(iy) If subdivided, should be arranged in logical order.
+(v) The number of points for which full marks will be given 
+    should be indicated e.g. "State 
+    four 
+    advantates of" preferable to "Discuss the 
+    advantages of"
+(vi) Indicate the type of response expected from candidates 
+    e.g. calculate, solve, write, draw.
+(vii) The length of the answer expected should be indicated in 
+    the wording of the question e.g. "List", 
+    "Name", "State", suggest few words or brief 
+    answers; while 'describe', indicate longer answer.
+'Calculate' wants more accurate answers than 
+    "Sketch." Words like "write note on." discuss 
+    etc. leave the candidates in doubt as to the length and 
+    depth of answer required and should normally be avoided.
+(viii) The use of the word 'You' should normally be 
+    avoided. However, 'on your diagram label... is acceptable.
+(ix) Any necessary information should be given in the question 
+    rather than in the rubric as candidates will forget e.g. TT is 3.142.
+(x) The use of trade names should be avoided.
+(xi) Diagrams, symbols, abbreviations, units and terminology 
+    used in questions must conform to the current standards 
+    abbreviations and conventions in use.
+(xii) Adequate time for the average candidate to write the 
+    answer to the question.
+(xiii) Each questions must be of the same standard as that of 
+    other questions if there is a choice.
+(xiv) Each question must be moderately difficult, and should be 
+    able to separate the very good candidates from the average and the 
+    very poor ones.
+(xv) Question should not contain anything to give undue 
+    advantage to any religious, tribal or ethnic group.
+(xvi) Questions should not be expensive to develop - use 
+    diagrams if only necessary to clarify the questions.
+1.4 THE SOLUTION/MARKING SCHEME:
+(i) Solutions and marking schemes must accompany all draft 
+    questions.
+(ii) Numerical questions should be accompanied with full 
+    solutions.
+(iii) The marks awarded for each part of the question must be 
+    indicated.
+(iv) Do not award marks for writing ability, neatness or 
+    presentation unless they are essential to the subject being 
+    assessed.
+2.1 MODERATION OF ESSAY ITEMS:
+The Moderating Committee must thoroughly go through each item 
+    and the marking scheme to ensure that the:
+(i) item is syllabic;
+(ii) item is workable and can be completed within the same time 
+    given;
+(iii) language of the item is within the reach of the majority 
+    of the candidates for whom it is meant;
+(iv) item is clearly worded and 
+    unabiguous;
+(v) item is not a verbatim repetition of a past item;
+(vi) marking scheme is adequately comprehensive;
+(vii) allocation of marks to point is fair to all candidates 
+    neither too stingy nor too generous.
+Each test item should be amended by the moderators in accordance 
+    with i - vii above. Every moderator should reflect all such 
+    amendments on his/her copy. Items that are so bad that they cannot 
+    be salvaged should be rejected and must be so indicated on every 
+    moderator's copy to ensure that they are not selected in error 
+    onto the final test paper.
+2.2 MODERATION OF OBJECTIVE ITEMS:
+Each objective item moderated must ensure that:
+(i) item is within the scope of the syllabus;
+(ii) the item is clearly worded and unambiguous;
+(iii) there is an agreement of the item with the options in 
+    tense, preposition and number;
+(iv) there is only one key;
+(v) all the distractors are plausible and are derivable from 
+    possible common errors on the topic;
+(vi) the length of the key does not give it out;
+(vii) the key is not too frequently placed in any one 
+    position;
+(viii) the item is testing only one thing at a time;
+(ix) the alphabets of the options (A-E) are not used to label 
+    appended diagram;
+(x) options involving numbers and figures are arranged in either 
+    ascending or descending order;
+(xi) the item is workable within the time given;
+(xii) the item contains no hidden trick.
+ITEM EDITING
+Items should be edited by subject officer(s) as soon as the 
+    items are received from the examiners. An item editor must be a 
+    subject expert as well as be familiar with the techniques of item 
+    writing.
+Items may be accepted, modified, rejected or referred to the 
+    writer for amendment.
+An item editor edits items to ensure that:
+(i) their structure does not contain any mistake and conforms to 
+    the principles outlined below;
+(ii) their position in the table of specification is adhered 
+    to;
+(iii) they test the intended ability - Recall, Comprehension, 
+    Application, Analysis, Synthesis, Evaluation.
+(iv) there is only one correct option (in multiple choice 
+    item).
+1.2 EDITING MULTIPLE CHOICE ITEMS
+A multiple choice item comprises a stem and options. The options 
+    comprise plausible distractors and the key. The following points 
+    should be considered for editing purposes:
+A. The Item As a Whole:
+- Is the item testing what it is supposed to test?
+- Is there a better way of testing what the item tests?
+- Is it within the scope of the syllabus?
+- Is it worth asking?
+- Is it clearly stated or is it ambiguous for the level of 
+    candidates?
+- Does the item have the test specification number indicated?
+- Does the diagram or graph agree with the stem and options?
+- Does the item test too many things at once?
+- Are there vague expressions?
+- Are there any double negatives?
+B. The stem:
+- Does the stem clearly define the aim of a specific 
+    problems?
+- Does it contain 
+    unneccessary information or does it need more 
+    information?
+- Can it be better or clearly worded?
+- Is it technically correct?
+- If unavoidably worded in the negative; is the negative term 
+    written in capitals?
+- Does the stem start with "which one of the 
+    following...?" instead of "which of the 
+    following...?"
+C. The Options:
+- Are the options similar in structure and length? ( 
+    Semantecallyand 
+    grammatically)
+- Do they overlap?
+- Do they complete the stem?
+- Are numerical ones arranged in order of magnitude?

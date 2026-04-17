@@ -1,0 +1,42 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>40</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear Sir,</p>
+    <p>Good day to you and the family. It was a very interesting moment 
+    getting to know you and living with you in 
+    <x-anonym-x type="location"/>. I strongly feel that 
+    <error corrected="I">i</error> ought to have known you much earlier 
+    than now, but of course our two days interractions seemed to have 
+    bridged the gaps (though not enough) of our imagined relationship 
+    that should have being in the longer time. I hope that as we keep 
+    to the established contact, we will in the future overcome the 
+    remaining gaps.</p>
+    <p>I had a nice trip back to <x-anonym-x type="location"/> and 
+    delivered your felicitation to Dr<punctuation>.</punctuation> 
+    <x-anonym-x type="family-name"/>. He is highly happy that we met. I 
+    will compile the list of the fellowships <error corrected="I">
+    i</error> have and send it to you before the week runs out.</p>
+    <p>Kindly remain blessed and have my best regards for every member 
+    of your family.</p>
+    <p>Thanks. <x-anonym-x type="first-name"/></p>
+    <p>Dear Dr<punctuation>.</punctuation> <x-anonym-x type="family-name"/>,</p>
+    <p>Thank you for your reply. Good to know that your presentation 
+    went well, and that you got back to <x-anonym-x type="location"/> 
+    two hours earlier than scheduled. Thanks too for asking after my 
+    family. Everybody is fine, and yes, they were all happy to see me. 
+    I tried the landline you indicated in your mail just now. The 
+    answer I received was to the effect that the number does not exist. 
+    Could there have been an error somewhere?</p>
+    <p>My own number (home) is <x-anonym-x /></p>
+    <p>Let&apos;s keep in contact.</p>
+    <p>Best wishes,</p>
+    <p><x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

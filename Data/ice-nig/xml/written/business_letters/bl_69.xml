@@ -1,0 +1,51 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2009-05-11</date>
+    <place>XXX</place>
+    <author><gender>f</gender><age>?</age><ethnic-group>?</ethnic-group></author>
+  </meta>
+  <text>
+    <p>The <x-anonym-x type="family-name"/> Family,</p>
+    <p>c/o Mrs<punctuation>.</punctuation> <x-anonym-x type="family-name"/></p>
+    <p>Chemical Pathology Department</p>
+    <p>Faculty of Basic Medical Sciences</p>
+    <p>College of Health Sciences,</p>
+    <p><x-anonym-x/> University,</p>
+    <p><x-anonym-x type="location"/></p>
+    <p>11<superscript>th</superscript> May<punctuation>.</punctuation>2009</p>
+    <p>The Head,</p>
+    <p>Department of Philosophy,</p>
+    <p>Faculty of Arts,</p>
+    <p><x-anonym-x/> University,</p>
+    <p><x-anonym-x/> State.</p>
+    <p>Dear Sir,</p>
+    <p>AWARD IN MEMORY OF <x-anonym-x type="first-name"/> 
+    <x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/></p>
+    <p>I hereby humbly write in behalf of 
+    <x-anonym-x type="family-name"/> Family who would like to institute 
+    an annual award in memory of our daughter Late Miss 
+    <x-anonym-x type="first-name"/> <x-anonym-x type="first-name"/> 
+    <x-anonym-x type="family-name"/>.</p>
+    <p>She graduated in Philosophy/Sociology with 
+    2<superscript>nd</superscript> Class Upper (Division) in the last 
+    convocation of the 2007/2008 session. She died suddenly on Sunday 
+    4<superscript>th</superscript> of January, 2009.</p>
+    <p>A First Bank Draft No<punctuation>.</punctuation> <x-anonym-x/> dated 
+    11<superscript>th</superscript> May 2009 of N 100<punctuation>.</punctuation>000<punctuation>.</punctuation>000 (One hundred thousand naira) in favour of the Bursar, 
+    <x-anonym-x type="organisation"/> University is attached to 
+    facilitate an annual award to the best graduating student in 
+    Philosophy/Sociology combined in Philosophy Department.</p>
+    <p>Also enclosed are a brief write up on the candidate and the 
+    Curriculum Vitae of Mrs<punctuation>.</punctuation> <x-anonym-x type="first-name"/> 
+    <x-anonym-x type="family-name"/> as the sponsor.</p>
+    <p>Thank you.</p>
+    <p>Yours faithfully,</p>
+    <p><coll for="Signed">Sgd</coll>.</p>
+    <p><signature /></p>
+    <p>Mrs<punctuation>.</punctuation> <x-anonym-x type="first-name"/> 
+    <x-anonym-x type="family-name"/></p>
+  </text>
+</annotated>

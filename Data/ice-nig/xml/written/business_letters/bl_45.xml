@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>50</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Brother <x-anonym-x type="family-name"/>,</p>
+    <p>Greetings to you and the family in the name of our risen Lord 
+    and Saviour Jesus Christ. I trust all is well with you. 
+    <error corrected="I have">Ihave</error> been out of contact with 
+    you because my phone got lost along with all the numbers on it.</p>
+    <p>I&apos;d like to come down to <x-anonym-x type="location"/> for 
+    your scheduled meeting towards the hosting of the regional rally. I 
+    assume it still takes place on the last sundays of the month at 
+    <x-anonym-x /> Hotel. Please advise me on other details 
+    particularly <coll for="with">wi</coll> regards to time. Let me 
+    know your GSM number via text to my line <x-anonym-x />.</p>
+    <p>Thank you</p>
+    <p><x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

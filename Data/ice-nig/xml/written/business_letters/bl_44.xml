@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>f</gender><age>25</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>compliments of the season to you Sir. Hope every member of the 
+    family is doing fine.</p>
+    <p>Dr<punctuation>.</punctuation> <x-anonym-x type="family-name"/> has asked me to 
+    remind you of the urgent need to finish the modules in time. 
+    Information reaching us from <x-anonym-x type="organisation"/> has 
+    it that January 16 is the deadline for the final submission of all 
+    outstanding modules. To this end, we are craving your indulgence 
+    Sir, to please try and finish before the stated deadline, as it is 
+    <coll for="Vocabulary">Vocab</coll><punctuation>.</punctuation> <coll for="development">
+    devpt</coll> and Structures that are yet to be completed.</p>
+    <p>Sir, we are very sorry for any inconvenience this might cause 
+    you.</p>
+    <p><x-anonym-x type="first-name"/> for Dr<punctuation>.</punctuation> 
+    <x-anonym-x type="family-name"/>.</p>
+  </text>
+</annotated>

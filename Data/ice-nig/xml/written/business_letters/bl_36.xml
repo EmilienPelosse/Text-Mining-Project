@@ -1,0 +1,35 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>36</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dr <x-anonym-x type="family-name"/>,
+    <error superfluous="yes">,</error></p>
+    <p><coll for="Please">Pls</coll>, it&apos;s me 
+    <x-anonym-x type="first-name"/>, good day. There are so many 
+    mistakes in the paper I submitted for the conference at 
+    <x-anonym-x type="location"/>. This arose because I was down so it 
+    was a friend who assisted to type and send the paper. This 
+    accounted for the numerous errors; no referencing in the body and 
+    the final parts of the paper.</p>
+    <p>I will be glad if you can grant me the 
+    <error corrected="opportunity">opporunity</error> to do the 
+    corrections</p>
+    <p>Best wishes.</p>
+    <p><x-anonym-x type="first-name"/>,</p>
+    <p>Dr <x-anonym-x type="family-name"/>,</p>
+    <p>It&apos;s me <x-anonym-x type="first-name"/>
+    <error superfluous="yes">,</error>, graduate student, from 
+    Literature-in-English, <x-anonym-x type="first-name"/>’s friend. 
+    I&apos;m mostly grateful to be a part of this conference. I 
+    couldn&apos;t take your name for another fellow the first time I 
+    saw it in the call for paper thing on the net.</p>
+    <p>Wishing to see you.</p>
+    <p><x-anonym-x type="first-name"/></p>
+  </text>
+</annotated>

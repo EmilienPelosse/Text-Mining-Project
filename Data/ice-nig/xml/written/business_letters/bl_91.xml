@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>2006-02-07</date>
+    <place>Ile-Ife</place>
+    <author><gender>f</gender><age>21</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <heading>TODO</heading>
+    <p>Dear Sir,</p>
+    <p><underline>Application to Register for Less than 15 Units Course 
+    in the Harmattan Semester of 2005/2006 Session</underline></p>
+    <p>I hereby apply to be allowed to register for less than fifteen 
+    (15) units course in the Harmattan Semester of 2005/2006 session. 
+    The courses are SSC 107 - Man and his Physical Environment (3 
+    Units), SOC 201 - Introduction to Sociology and Anthropology (3 
+    Units), CSS 221 - Computer Appreciation (2 Units) 
+    <error corrected="."/> I am an extra Part IV student with 
+    matriculation number <x-anonym-x/></p>
+    <p>I shall be grateful if my application is favourably considered 
+    and granted. Thank you.</p>
+    <p>Yours faithfully,</p>
+    <p><signature /></p>
+    <p><x-anonym-x type="first-name"/> <x-anonym-x type="family-name"/>
+    </p>
+  </text>
+</annotated>

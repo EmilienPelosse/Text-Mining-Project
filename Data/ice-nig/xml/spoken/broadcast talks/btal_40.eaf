@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2012-04-29T09:32:22+01:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/pacx_workspace/icenig/raw/spoken/broadcast talks/btal_40.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="file:/../../../raw/spoken/broadcast talks/btal_40.wav"/>
+        <PROPERTY NAME="lastUsedAnnotationId">64</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="6720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="9559"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="9944"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="15180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="15250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="17621"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="18110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="18112"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="18170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="18590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="19904"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="20179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="21070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="21170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="22760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="22860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="23409"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="23820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="23825"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="24760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="26900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="27400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="28850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="29070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="31900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="31990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="32950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="32970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="34820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="35640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="35640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="36000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="37800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="38410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="38410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="38620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="41880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="42440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="43520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="43730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="43731"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="44085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="46040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="46690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="49660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="50260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="52240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="52600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="52600"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="ssr/ug/pi DONE DONE DONE ef/ag/ug DONE DONE DONE" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="?;?;m;?;?" TIER_ID="Transcription 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>the Nigerian Bar Association wants the court to determine whether the legal practitioners privileges committee</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>the body responsible for the appointment of senior advocates of Nigeria</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>has complied with the mandatory provisions of paragraph twelve one</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>of section seven of the legal practitioners act</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>in the appointment of senior advocates of Nigeria</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>for the year two thousand and ten</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>two thousand and eleven</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>the prohibitions of the guidelines is to the effect that the list of candidates</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>that have scaled the first and second stages</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>should be sent</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>the national secretariat of the Nigerian Bar Association</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>the candidates local branch of the NBA</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>and all chief judges and justices of the court of appeal and supreme court</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>who shall be requested to comment on the integrity competence and reputation of the candidates</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>no date has yet been fixed for hearing</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Tagging" PARENT_REF="Transcription 1" TIER_ID="Annotation 1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Properties" PARENT_REF="Annotation 1" TIER_ID="Properties 1"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Phonemic" TIER_ID="Phonemic 1">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="h Deletion and h Insertion" PARENT_REF="Phonemic 1" TIER_ID="h Deletion and h Insertion">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>whhODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>ooODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>hhODyes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Syllable Position" PARENT_REF="Phonemic 1" TIER_ID="Syllable Postion 1">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>CwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>CwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>CwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>wS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>VwS</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Corrections"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Tags" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Tagging" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" CONTROLLED_VOCABULARY_REF="Properties" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Properties" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Phonemic" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="h Deletion and h Insertion" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="h Deletion and h Insertion" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="Syllable Position" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Syllable Position" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="h Deletion and h Insertion" DESCRIPTION="">
+        <CV_ENTRY DESCRIPTION="- - - - - - - - - - Identical with Oxford Dictionary - - - - - - - - - -">- - - - - - - - - - Identical with Oxford Dictionary - - - - - - - - - -</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="hhODyes">hhODyes</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="hoODyes">hoODyes</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="whhODyes">whhODyes</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="huhjuODyes">huhjuODyes</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="ooODyes">ooODyes</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="- - - - - - - - - - /h/ Deletion - - - - - - - - - -">- - - - - - - - - - /h/ Deletion - - - - - - - - - -</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="hoODno">hoODno</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="whoODno">whoODno</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="- - - - - - - - - - /h/ Insertion - - - - - - - - - -">- - - - - - - - - - /h/ Insertion - - - - - - - - - -</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="hhODno">hhODno</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="ohODno">ohODno</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="- - - - - - - - - - /hj/ Deletion and Substitution - - - - - - - - - -">- - - - - - - - - - /hj/ Deletion and Substitution - - - - - - - - - -</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="huouODno">huouODno</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="huojuODno">huojuODno</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="huhuODno">huhuODno</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="- - - - - - - - - - Other - - - - - - - - - -">- - - - - - - - - - Other - - - - - - - - - -</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="other">other</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Tags" DESCRIPTION="all tags allowed in tagging">
+        <CV_ENTRY DESCRIPTION="">other-language</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">indigenous</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">anonymous</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">unclear</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">interrupted</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">hesitation</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">repair</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">mention</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">transcriber's comment</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Syllable Position" DESCRIPTION="">
+        <CV_ENTRY DESCRIPTION="wS">wS</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="CwS">CwS</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="VwS">VwS</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="CS">CS</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="VS">VS</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Properties" DESCRIPTION="all values allowed in properties">
+        <CV_ENTRY DESCRIPTION="">place</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">first name</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">last name</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">country</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Hausa</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Igbo</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">Yoruba</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">(not sure)</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>

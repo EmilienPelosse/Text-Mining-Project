@@ -1,0 +1,316 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>mg</transcriber>
+    <date>2005-06-?</date>
+    <place>African Journal of Science and Technology</place>
+    <author><gender>?</gender><age>?</age><ethnic-group>?</ethnic-group></author>
+  </meta>
+  <text>
+    <heading>THE STUDY OF THERMODYNAMIC PROPERTIES OF LIQUID NaCs 
+    ALLOYS</heading>
+    <heading>INTRODUCTION</heading>
+    <p>There has been growing interest in the calculating the 
+    properties of Na - Cs alloys<error superfluous="yes">.</error> 
+    (Bhatia and March 1975; Visser <italics>et al,</italics> 1980; 
+    Singh 1981). These model calculations have primarily been concerned 
+    with the incipient phase separation in the Na-rich part of the 
+    phase diagram. Two origins for the effect have been used. Foremost 
+    is the size difference between Na and Cs <error superfluous="yes">
+    .</error> (Yih <italics>et al</italics> 1982). A number of recent 
+    calculations have revealed considerably improved understanding of 
+    the thermodynamics of molten alloys containing strongly interacting 
+    metals (Ashcroft and Stroud 1978; Hoshino and Young 1980).</p>
+    <p>Na-Cs are alkali metals and their alloys have very interesting 
+    properties in the liquid state. They occur together in group 1A of 
+    the periodic classification, are strong reducing agents, volatile, 
+    can be distilled out of the reaction mixtures and obtained as pure 
+    products, and are of bright silvery luster characteristics of 
+    metals. Na is used as coolant in the valves of internal combustion 
+    engines and in nuclear reactors. The cesium is the most metallic 
+    and can be used as reductants in laboratory and industrial 
+    processes (Fischer <italics>et al</italics>, 1967). Various 
+    properties of Na-Cs liquid alloy show anomalous behaviors as 
+    functions of concentration. The thermodynamics data also reveal 
+    anomalous behavior (e<punctuation>.</punctuation>g<punctuation>.</punctuation>, the entropy lies below the 
+    ideal mixing value, and Scc (0) lies below the ideal value 
+    <italics>c</italics>(1 - <italics>c</italics>), the Gibbs energy of 
+    mixing is small and less than the ideal magnitude (Yih <italics>et 
+    al,</italics> 1982).</p>
+    <p>The thermodynamic properties of the alloys are important for an 
+    improvement in the understanding of the transport properties of 
+    these materials, which often form liquid semiconductors (Cutler, 
+    1977). The present interest in these alloys is based on the 
+    unavailability of recent experimental results on their 
+    thermodynamic properties. The experimental results available are 
+    only for a limited concentration range of 0 &lt; 
+    <italics>c</italics> &lt; 0<punctuation>.</punctuation>3 (Yih <italics>et al</italics>, 
+    1982), where <italics>c</italics> denotes the concentration of the 
+    <boldface>A</boldface> atom in the alloy. These limitations in the 
+    experimental results are due to the nature of the alloys. In this 
+    present study we calculate all the investigated quantities for the 
+    whole concentration range. An empirical approach which is based on 
+    the complex formation model of Bhatia and Singh (1980) using the 
+    quasi- lattice approximation has been used in the present work, 
+    because of its success in explaining concentration dependence of 
+    excess-free energy of mixing and other thermodynamics properties of 
+    binary molten alloys.</p>
+    <p>The layout of our paper is as follows: An introduction; Critical 
+    discussion of the complex formation model as applied to Gibb’s 
+    energy and activity; Results for the concentration -concentration 
+    fluctuations Scc (0), the Warren -Cowley short range order 
+    parameter and calculation of diffusion coefficients; Discussion of 
+    enthalpy and entropy of mixing; Conclusions.</p>
+    <heading>FORMALISM</heading>
+    <p>The fundamental idea is that the properties of a compound 
+    forming <boldface>A-B</boldface> alloy can be explained on the 
+    basis of a quasi- lattice model in which the alloy is treated as a 
+    mixture of <boldface>A</boldface> atoms, <boldface>B</boldface> 
+    atoms and A<subscript><italics>μ</italics></subscript> 
+    B<subscript><italics>v</italics></subscript><error>,</error> 
+    complexes, all in chemical equilibrium with one another. All the 
+    atoms are assumed to be located on the lattice sites.</p>
+    <p>We assumed that the binary <boldface>A-B</boldface> alloy 
+    consists of pseudoternary mixture 
+    <italics>N<subscript>A</subscript> = Nc, and 
+    N<subscript>B</subscript> = N(1-c)</italics> g moles of 
+    <boldface>A</boldface> and <boldface>B</boldface> atoms, and a type 
+    of chemical complex. Here <italics>μ</italics> and 
+    <italics>v</italics> are assumed to be integers, 
+    <italics>c</italics> is the atomic faction of 
+    <boldface>A</boldface> atoms and <italics>N</italics> is the 
+    <error corrected="Avogadro&apos;s">Avogrado’s</error> number. From 
+    the complex formation model (Bhatia and Singh, 1980), we assume 
+    that the complex Na-Cs is a stable compound in the solid state and 
+    also exists as stable compound in the liquid state.</p>
+    <p>For the present case of Na-Cs, it follows that it consists of 
+    <italics>n<subscript>1</subscript></italics> atoms of Na, 
+    <italics>n<subscript>2</subscript></italics> atoms of Cs and 
+    <italics>n<subscript>3</subscript></italics> moles of the complex 
+    NaCs. Thus <italics>μ = 1</italics> and <italics>v = 1</italics>. 
+    From the conservation of atoms, one has</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>In the equation, <italics>c</italics> is taken to be the atomic 
+    fraction of Na atoms. The Gibbs free energy of mixing of the binary 
+    alloy can be expressed as</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>Here <italics>g</italics> is the formation of the complex and 
+    the first term in the equation represents the lowering of the free 
+    energy due to the formation of complexes in the alloy. 
+    <boldface>∆<italics>G</italics></boldface> represents the free 
+    energy of mixing of the ternary mixture of fixed 
+    <italics>n<subscript>1</subscript></italics>, 
+    <italics>n<subscript>2</subscript></italics> and 
+    <italics>n<subscript>3</subscript></italics> whose constituents Na, 
+    Cs and NaCs are assumed to be interacting weakly with each 
+    other.</p>
+    <p>The Gibbs free energy of mixing of the binary alloy can be 
+    expressed as</p>
+    <p><object type="formula"/></p>
+    <p>where the <italics>V<subscript>ij</subscript></italics>’s 
+    (<italics>i, j = 1, 2, 3</italics>) are average interaction 
+    energies and by definition independent of concentration, although 
+    they may depend on temperature and pressure.</p>
+    <p>The equilibrium values of 
+    <italics>n<subscript>3</subscript></italics> at a given temperature 
+    and pressure are obtained from the condition</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>From Eqs<punctuation>.</punctuation> (3) and (4), the equilibrium values of 
+    <italics>n<subscript>3</subscript></italics> are given by the 
+    equation</p>
+    <p><object type="formula"/></p>
+    <p><error corrected="w">W</error>here</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>The expression for the Gibbs free energy of mixing, Eq (3), can 
+    be used to obtain an expression for the thermodynamic activity 
+    i<punctuation>.</punctuation>e<punctuation>.</punctuation>,</p>
+    <p><object type="formula"/></p>
+    <p>from which one can write</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>In order to fit parameters for <italics>g</italics> and 
+    <italics>V<subscript>ij</subscript></italics> , the first thing to 
+    do is to calculate the value of g at the chemical concentration</p>
+    <p><object type="formula"/> using as a starting point,</p>
+    <p><object type="formula"/>. The energy parameters 
+    <italics>v<subscript>12</subscript> 
+    v<subscript>13</subscript></italics> and 
+    <italics>v<subscript>23</subscript></italics> are then adjusted in 
+    order to reproduce as closely as possible the experimentally 
+    measured composition dependence of the Gibbs energy of mixing. 
+    Using the above method, we determine the energy parameters for 
+    Na-Cs alloys as,</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>Figure 1 shows that the interaction parameters as given above 
+    yield an excellent fit of 
+    <italics>G<subscript>M</subscript>/RT</italics> for liquid Na-Cs 
+    alloys at 383 K. We note that the only physically meaningful 
+    parameter is <italics>g/RT</italics> because it is a measure of the 
+    formation of the complex in the alloy. It is obvious that its value 
+    (-0<punctuation>.</punctuation>45 at C<subscript>Na</subscript> = 0<punctuation>.</punctuation>5) is very 
+    low compared with 2<punctuation>.</punctuation>80 for Fe-Al (Akinlade <italics>et 
+    al</italics>, 2000) and 47<punctuation>.</punctuation>8 for K-Te (Akinlade, 1994). This 
+    is an indication that Na-Cs is a weakly interacting system.</p>
+    <p><object type="graphic"/></p>
+    <p>Using the interaction parameters given in Eq. (9) together with 
+    Eq<punctuation>.</punctuation> (5) one can obtain numerical values of 
+    <italics>n<subscript>3</subscript></italics>, the number of 
+    chemical complexes, and thus the values of 
+    <italics>n<subscript>1</subscript></italics> and 
+    <italics>n<subscript>2</subscript></italics> from Eq<punctuation>.</punctuation> (1) 
+    above. Utilizing the same values of the interaction parameters we 
+    show in Figure 2 a comparison of the experimental and computed 
+    values of the activity. It is quite clear that our model parameters 
+    give an excellent fit to this quantity.</p>
+    <p><object type="graphic"/></p>
+    <heading>RESULTS AND DISCUSSIONS</heading>
+    <p><boldface>Concentration fluctuations, chemical short range-order 
+    parameter, and chemical diffusion</boldface></p>
+    <p>Our main aim was to investigate the phenomenon of ordering in 
+    the binary alloys. The first parameter investigated is the 
+    concentration-concentration fluctuation in the long wavelength 
+    limit <italics>S<subscript>cc</subscript> (0)</italics>. This 
+    quantity is of good interest because any deviation from ideal value 
+    <object type="formula"/> is significant in describing the nature of 
+    ordering in a molten alloy. Because 
+    <italics>S<subscript>cc</subscript> (0)</italics> is a response 
+    function, stability requires it to be positive. A strong response 
+    to a concentration-concentration stimulus shows that the system is 
+    near phase separation (PS), while a weak one indicates a nearness 
+    to compound formation (CF), in other words, <object type="formula"/>
+     implies a tendency for heterocoordination (CF) (preference of 
+    unlike atoms to pair as nearest neighbours), while 
+    <object type="formula"/> implies homocoordination (PS) 
+    <error superfluous="yes">(</error>(preference of unlike atoms as 
+    nearest neighbours). For a demixing system, <object type="formula"/>
+     . From a theoretical point of view, 
+    <italics>S<subscript>cc</subscript></italics> (0) is important 
+    because it is possible to relate it to thermodynamic quantities via 
+    the equation</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>The long wavelength limit of the concentration-concentration 
+    structure factors <italics>S<subscript>cc</subscript></italics> (0) 
+    can be determined from equations (3) and (13) respectively. Bhatia 
+    and Singh (1980) provided a more reliable expression for 
+    <italics>S<subscript>cc</subscript></italics> (0) which involves 
+    <italics>n<subscript>i</subscript></italics>, its derivative with 
+    respect to concentration, 
+    <italics>v<subscript>ij</subscript></italics> and its coordination 
+    number <italics>Z</italics>, thus,</p>
+    <p><object type="formula"/></p>
+    <p>where</p>
+    <p><object type="formula"/></p>
+    <p>and</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>In the above equation</p>
+    <p><object type="formula"/></p>
+    <p>and the prime on the <italics>n′</italics> s refers to their 
+    first derivative with respect to <italics>c</italics>.</p>
+    <p>We note that the Flory approximation for 
+    <italics>S<subscript>cc</subscript></italics> (0) (which is the 
+    approximation we have used to express 
+    <italics>G<subscript>M</subscript></italics> can be obtained simply 
+    by putting <italics>Z</italics> = ∞ in the expression above. It 
+    follows that by the time the Gibbs’s energy of mixing is correctly 
+    fitted one would have determined all the parameters needed to 
+    compute <italics>S<subscript>cc</subscript></italics> (0) . In the 
+    present calculation we have used typical value <italics>Z = 
+    2</italics> for our calculations.</p>
+    <p>As for the experimental values of 
+    <italics>S<subscript>cc</subscript></italics> (0) this has been 
+    determined from activity data (Yih et al, 1982), with the aid of 
+    the equation</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>Essentially, all that is required is to perform a polynomial fit 
+    to<error>,</error> the experimental data and then taking an 
+    analytic derivative as given in equation 15. Values obtained this 
+    way are called experimental values of 
+    <italics>S<subscript>cc</subscript></italics> (0) .</p>
+    <p>Figure 3 shows the computed and experimental value of 
+    <italics>S<subscript>cc</subscript></italics> (0) as well as the 
+    ideal values. We notice that the alloy Na-Cs is compound forming 
+    over the whole composition range, this is because 
+    <italics>S<subscript>cc</subscript></italics> (0) is less than the 
+    ideal values at all compositions. Also we notice that experimental 
+    and computed values are not in good agreement. This might be due to 
+    the fact that <italics>G<subscript>M</subscript></italics> is 
+    calculated in the <italics>Z</italics> = ∞ limit, while a finite 
+    <italics>Z</italics> is used to compute 
+    <italics>S<subscript>cc</subscript></italics> (0). In addition, the 
+    choice of NaCs complex gave the best fits available thermodynamic 
+    information and we could not achieve better fits using order 
+    complexes.</p>
+    <p>In order to fit the degree of order in the liquid alloy, 
+    (Warren, 1969) and (Cowley, 1950), the short range order parameter 
+    α<subscript>1</subscript> can be determined from knowledge of the 
+    concentration-concentration 
+    <italics>S<subscript>cc</subscript></italics> 
+    (<italics>q</italics>) and the number-number structure factors 
+    <italics>S<subscript>NN</subscript></italics> (<italics>q</italics> 
+    <error corrected=").">) .</error> However, in most diffraction 
+    experiments these quantities are not easily measurable. On the 
+    other hand α<subscript>1</subscript> can be estimated from 
+    knowledge of <italics>S<subscript>cc</subscript></italics> (0) 
+    (Singh <italics>et al</italics>, 1992).</p>
+    <p><object type="graphic"/></p>
+    <p>The knowledge of α<subscript>1</subscript> provides an immediate 
+    insight into the nature of the local arrangements of atoms in the 
+    mixture. For nearest neighbour sites, it can be defined as 
+    <object type="formula"/></p>
+    <p>where P<subscript>AB</subscript> is the conditional probability 
+    of finding <boldface>B</boldface>-atom next to a given 
+    <boldface>A</boldface> atom. In terms of the unlike atoms equation 
+    (16) can be expressed as</p>
+    <p><object type="formula"/></p>
+    <p><italics>Z</italics> being the coordination number of the alloy. 
+    From a simple probabilistic approach, one can show that the 
+    limiting values of α<subscript>1</subscript> lie in the range</p>
+    <p><object type="formula"/></p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>At equiatomic composition, one has −1≤α<subscript>1</subscript> 
+    ≤1 the minimum possible value of α<subscript>1</subscript> is 
+    α<subscript>1</subscript><superscript>min</superscript> = −1 and 
+    implies complete ordering of unlike atoms as nearest neighbours. On 
+    the other hand the maximum value 
+    α<subscript>1</subscript><superscript>min</superscript> = 1 implies 
+    total segregation leading to phase separation 
+    α<subscript>1</subscript> = 0 corresponds to a random distribution 
+    of atoms.</p>
+    <p>From Figure 4, which shows the variation of 
+    α<subscript>1</subscript> with composition, we observe that it is 
+    positive throughout, showing that Na-Cs is a segregating system 
+    <error>s</error> over the whole concentration range and symmetric 
+    as a function of concentration. In addition, 
+    α<subscript>1</subscript> is positive throughout with a value much 
+    less than 1, this indicates that Na-Cs is a weakly ordered system. 
+    We note that varying the value of Z does not have any effect on the 
+    position of the minima of α<subscript>1</subscript> ; the only 
+    effect is to vary the depth while the overall features remain 
+    unchanged.</p>
+    <p><object type="graphic"/></p>
+    <p>A great amount of understanding at the microscopic level of 
+    atomic interactions in a binary liquid alloy can be gained from 
+    knowledge of the dynamic properties of the alloys.Using the 
+    thermodynamic equation for diffusion (Darken, 1967), an expression 
+    can be found that relates diffusion and 
+    <italics>S<subscript>cc</subscript> (0)</italics> (Singh 
+    <italics>et al</italics>, 1992) thus one can write,</p>
+    <p><object type="formula"/><error corrected="."/></p>
+    <p>Here, <italics>D<subscript>M</subscript></italics> is the 
+    chemical or interdiffusion coefficient and 
+    <italics>D<subscript>id</subscript></italics> is given as</p>
+    <p><object type="formula"/></p>
+    <p>where <italics>D<subscript>A</subscript></italics> and 
+    <italics>D<subscript>B</subscript></italics> are observed tracer 
+    diffusion coefficients. With regards to <object type="formula"/> , 
+    we note that it approaches 1 for ideal mixing, is greater than 1 
+    for an ordered alloy, and is less than 1 for a segregating system 
+    <error>s</error>. The ratio is a better measure of order because it 
+    does not have a direct <italics>Z</italics> dependence and thus 
+    does not involve discrepancies that could come into play because of 
+    the dependence of the results on this quantity. Figure 5, which is 
+    a plot of this quantity, shows the existence of maxima at 
+    <italics>c<subscript>mm</subscript></italics> ≈ 0<punctuation>.</punctuation>3 . 
+    <italics>D</italics> is close to 1 and is quite asymmetric.</p>
+  </text>
+</annotated>

@@ -1,0 +1,26 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>f</gender><age>48</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear Sir,</p>
+    <p>I acknowledge receipt of your mail on the acceptance of my 
+    abstract. However, I require additional information on the 
+    submission and presentation of the paper.</p>
+    <p>Firstly, do you have a stipulated word count for the paper?</p>
+    <p>Is there a particular document format that should be adhered to? 
+    I<punctuation>.</punctuation>e<punctuation>.</punctuation> font size for headings, body of paragraph, 
+    margins, paragraph spacing etc</p>
+    <p>In what format should the document be submitted? I<punctuation>.</punctuation>e<punctuation>.</punctuation> Ms Word, Adobe PDF</p>
+    <p>Finally, what is the mode of presentation for the paper? I<punctuation>.</punctuation>e<punctuation>.</punctuation> PowerPoint, slides</p>
+    <p>Your timely response to <error corrected="these">theses</error> 
+    queries will be greatly appreciated.</p>
+    <p>Best Regards,</p>
+    <p><x-anonym-x type="family-name"/></p>
+  </text>
+</annotated>

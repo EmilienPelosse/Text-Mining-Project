@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+
+<annotated version="1.0">
+  <meta>
+    <transcriber>ug</transcriber>
+    <date>TODO</date>
+    <place>web</place>
+    <author><gender>m</gender><age>40</age><ethnic-group>Yoruba</ethnic-group></author>
+  </meta>
+  <text>
+    <p>Dear Dr <x-anonym-x type="family-name"/>,</p>
+    <p>Please pardon the long period of silence.I&apos;ve been trying 
+    to reach you for months now, and i just typed in your name on the 
+    net and stumbled on this Handbook PROJECT.<error corrected=" "/>
+    <coll for="Please">Pls.</coll> is it late to make a submission? I 
+    have a partly written article on critical discourse analysis. 
+    <coll for="Please">Pls</coll> let me know. This time, I promise 
+    that by the special grace of God, I will keep to the date.</p>
+    <p>God bless you and warm regards.</p>
+    <p>Dr <x-anonym-x type="family-name"/></p>
+  </text>
+</annotated>
