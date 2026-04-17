@@ -1,9 +1,10 @@
 import os
 import re
 from collections import Counter
+from collections import defaultdict
 
 # path to Data folder (choose between spoken/written)
-folder_path = "Data/ice-nig/txt - without speaker tags/spoken"
+folder_path = "../Data/ice-nig/txt - without speaker tags/spoken"
 
 # keywords (expandable)
 keywords =  [
@@ -324,9 +325,22 @@ for root, dirs, files in os.walk(folder_path):
 # sort files by relevance
 sorted_files = sorted(file_counts.items(), key=lambda x: x[1]["total"], reverse=True)
 
-# print top files
-print("Top relevant files:\n")
-for fname, data in sorted_files[:20]:
-    print(fname, data)
-
 print("\nTotal counts across corpus:\n", total_counts)
+
+word_counter = defaultdict(lambda: {"total": 0, "files": {}})
+
+for fname, counts in file_counts.items():
+    for word, count in counts.items():
+        if word == "total" or count == 0:
+            continue
+        word_counter[word]["total"] += count
+        word_counter[word]["files"][fname] = count
+
+# sort words by total occurrences
+sorted_words = sorted(word_counter.items(), key=lambda x: x[1]["total"], reverse=True)
+
+# print breakdown
+for word, data in sorted_words[:20]:
+    print(f"\n'{word}' — {data['total']} occurrences across {len(data['files'])} files")
+    for fname, count in sorted(data["files"].items(), key=lambda x: x[1], reverse=True)[:5]:
+        print(f"  {count:>4}x  {fname}")
