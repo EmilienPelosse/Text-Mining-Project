@@ -1,5 +1,0 @@
-1. Avoid obstructing the ventilation holes.
-2. Keep the space at least 50-70cm between wall and UPS.
-3. Carefully read the user's manual before operating the 
-    UPS.
-4. Don't open UPS except the authorized.
