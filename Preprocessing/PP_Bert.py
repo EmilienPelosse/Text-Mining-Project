@@ -3,7 +3,7 @@
 import os
 import re
 import nltk
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # project root
@@ -27,19 +27,20 @@ def remove_annotations(text):
 
 # Tokenize into sentences, each a list of words
 def tokenize(text):
-    text = nltk.tokenize.word_tokenize(text)
-    return text
+    sentences = sent_tokenize(text)
+    return [word_tokenize(sent) for sent in sentences]
+
 
 stop_words = set(stopwords.words('english'))
 
-def remove_stopwords(text) :
-    return " ".join([word for word in text if word not in stop_words])
+#def remove_stopwords(text) :
+#    return " ".join([word for word in text if word not in stop_words])
 
 def preprocess_file(file_path):
     text = read_file(file_path)
     text = remove_annotations(file_path)
     text = tokenize(text)
-    text = remove_stopwords(text)
+    #text = remove_stopwords(text)
     return text
 
 folder = "../Data/ice-nig/txt - without speaker tags/spoken"
