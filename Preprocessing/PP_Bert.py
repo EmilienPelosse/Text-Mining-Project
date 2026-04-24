@@ -73,9 +73,9 @@ if __name__ == "__main__":
 
     preprocess_folder(
         folder_path=os.path.join(base, "spoken"),
-        output_path=os.path.join(BASE_DIR, "Preprocessing", "preprocessed_word2vec", "nigeria_spoken.txt")
+        output_path=os.path.join(BASE_DIR, "Preprocessing", "preprocessed_BERT", "nigeria_spoken.txt")
     )
     preprocess_folder(
         folder_path=os.path.join(base, "written"),
-        output_path=os.path.join(BASE_DIR, "Preprocessing", "preprocessed_word2vec", "nigeria_written.txt")
+        output_path=os.path.join(BASE_DIR, "Preprocessing", "preprocessed_BERT", "nigeria_written.txt")
     )
