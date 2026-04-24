@@ -6,9 +6,6 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
-nltk.download("punkt", quiet=True)
-nltk.download("punkt_tab", quiet=True)
-
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # project root
 
 # Read the file 
@@ -33,12 +30,17 @@ def tokenize(text):
     text = nltk.tokenize.word_tokenize(text)
     return text
 
-
 stop_words = set(stopwords.words('english'))
 
 def remove_stopwords(text) :
     return " ".join([word for word in text if word not in stop_words])
 
+def preprocess_file(file_path):
+    text = read_file(file_path)
+    text = remove_annotations(file_path)
+    text = tokenize(text)
+    text = remove_stopwords(text)
+    return text
 
 folder = "../Data/ice-nig/txt - without speaker tags/spoken"
 print("Exists:", os.path.exists(folder))
