@@ -5,8 +5,6 @@ import re
 import nltk
 from nltk.tokenize import word_tokenize, sent_tokenize
 
-nltk.download("punkt", quiet=True)
-nltk.download("punkt_tab", quiet=True)
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # project root
 
