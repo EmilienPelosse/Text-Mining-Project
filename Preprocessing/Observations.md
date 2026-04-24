@@ -12,6 +12,8 @@
 - Tokenize into words using `nltk.word_tokenize` or spaCy
 - Remove punctuation and special characters (keep hyphens in compounds like "nation-state")
 - Remove numbers
+- **Stopword removal**
+- POS-Tagging
 
 ### ICE-Specific Cleaning
 - Strip speaker tags (e.g. `<$A>`) from spoken files
@@ -26,4 +28,3 @@
 ### Probably won't do
 - **Lemmatization**: may blur distinctions like "nation" vs "nationals" that are analytically relevant
 - **Stemming**: too aggressive, hurts embedding quality
-- **Stopword removal**: optional; if used, keep the list minimal to preserve discourse context
