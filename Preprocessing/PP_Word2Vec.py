@@ -47,8 +47,6 @@ def preprocess_file(file_path):
     sentences = tokenize(text)
     return sentences
 
-import os
-
 folder = "../Data/ice-nig/txt - without speaker tags/spoken"
 print("Exists:", os.path.exists(folder))
 print("Files found:")
