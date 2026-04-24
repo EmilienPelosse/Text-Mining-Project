@@ -38,7 +38,7 @@ stop_words = set(stopwords.words('english'))
 
 def preprocess_file(file_path):
     text = read_file(file_path)
-    text = remove_annotations(file_path)
+    text = remove_annotations(text)
     text = tokenize(text)
     #text = remove_stopwords(text)
     return text
