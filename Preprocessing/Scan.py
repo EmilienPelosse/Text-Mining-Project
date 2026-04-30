@@ -62,3 +62,5 @@ def function_word_counts(file) :
 
 function_word_counts(folder_path1)
 function_word_counts(folder_path2)
+
+
