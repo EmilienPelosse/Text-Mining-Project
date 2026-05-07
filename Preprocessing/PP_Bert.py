@@ -33,15 +33,15 @@ def tokenize(text):
 
 stop_words = set(stopwords.words('english'))
 
-#def remove_stopwords(text) :
-#    return " ".join([word for word in text if word not in stop_words])
+def remove_stopwords(sentence):
+    return [word for word in sentence if word not in stop_words]
 
 def preprocess_file(file_path):
     text = read_file(file_path)
     text = remove_annotations(text)
-    text = tokenize(text)
-    #text = remove_stopwords(text)
-    return text
+    sentences = tokenize(text)
+    sentences = [remove_stopwords(sent) for sent in sentences]
+    return sentences
 
 folder = "../Data/ice-nig/txt - without speaker tags/spoken"
 print("Exists:", os.path.exists(folder))
