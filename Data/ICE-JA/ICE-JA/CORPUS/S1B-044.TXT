@@ -1,0 +1,557 @@
+<I>
+
+<$B> <ICE-JA:S1B-044#1:1:B> Hello
+
+<$A> <ICE-JA:S1B-044#2:1:A> Mr Bicknell
+
+<$B> <ICE-JA:S1B-044#3:1:B> Hello Mr Perkins
+
+<$A> <ICE-JA:S1B-044#4:1:A> Mr Bicknell could I ask you to just hold on for half a minute
+
+till <}> <-> we</-> <=> we</=></}> take a break and come back to you
+
+<$B> <ICE-JA:S1B-044#5:1:B> Yeah
+
+<$A> <ICE-JA:S1B-044#6:1:A> Good<&>interruption-of-tape</&>
+
+<$B> <ICE-JA:S1B-044#7:1:B> Hallo sir
+
+<$A> <ICE-JA:S1B-044#8:1:A> <}> <-> How</-> <=> how</=></}> are you
+
+<$B> <ICE-JA:S1B-044#9:1:B> Great
+
+<$A> <ICE-JA:S1B-044#10:1:A> <}> <-> Uhm you uh eh may I point out to my listeners that you
+
+are with Dial Insurance Company
+
+<$B> <ICE-JA:S1B-044#11:1:B> Right sir
+
+<$A> <ICE-JA:S1B-044#12:1:A> <}> <-> We</-> <=> we</=></}> have a problem here that we've
+
+been asked to investigate
+<ICE-JA:S1B-044#13:1:A> Uhm<,> uh<,> somebody a lady called me<,> to say that uhm the
+
+insurance companies have now started what appears to be a new thing<,> uhm in
+
+that<,> if you are<,> uh a driver over the age of<,> what is it sixty-five<,>
+
+I think sixty-five is the <}> <- > <{1> <[1> you</[1> should</-> <=> you
+
+should</=></}> be able to tell me <{2> <[2> the age</[2>
+
+<$B> <ICE-JA:S1B-044#14:1:B> <[1> Well</[1></{1>
+
+<$B> <ICE-JA:S1B-044#15:1:B> <[2> Well it depends</[2></{2> on the company and this is
+
+nothing really new
+
+<$A> <ICE-JA:S1B-044#16:1:A> Yes
+
+<$B> <ICE-JA:S1B-044#17:1:B> Over <{> <[> a certain age</[>
+
+<$A> <ICE-JA:S1B-044#18:1:A> <[> That you are</[></{> required <}> <-> to <.> pr</.> to to
+
+to</-> <=> to</=></}> provide them an annual medical certificate before
+
+getting insurance
+
+<$B> <ICE-JA:S1B-044#19:1:B> Yes well there has always been a tendency uhm<,> certainly if
+
+anybody had had an accident in the past <}> <-> and</-> <=> and</=></}> were
+
+in their sort of seventies
+
+<$A> <ICE-JA:S1B-044#20:1:A> Yes
+
+<$B> <ICE-JA:S1B-044#21:1:B> You had any possible reservations
+<ICE-JA:S1B-044#22:1:B> You would ask for medical certificates
+<ICE-JA:S1B-044#23:1:B> But this has become more the norm in recent years
+<ICE-JA:S1B-044#24:1:B> Uh I know<,> I know in fact uhm<,> <?> as</?> certain companies and
+
+<}> <-> I</-> <=> I</=></}> think of one specifically have started actually
+
+cutting off cover for uhm drivers when they reach a certain age
+
+<$A> <ICE-JA:S1B-044#25:1:A> What age is that sir
+
+<$B> <ICE-JA:S1B-044#26:1:B> Uhm well in this particular case it was eighty
+
+<$A> <ICE-JA:S1B-044#27:1:A> Eighty
+
+<$B> <ICE-JA:S1B-044#28:1:B> But I don't know of course as you know it's a free market and
+
+we have sixteen companies and each one has their own rules but <{> <[>
+
+<unclear> words</unclear></[>
+
+<$A> <ICE-JA:S1B-044#29:1:A> <[> <}> <-> <.> I</.> <.> i</.> <.> i</.></-> <=>
+
+is</=></}></[></{> the insurance market a free market
+
+<$B> <ICE-JA:S1B-044#30:1:B> Yes
+
+<$A> <ICE-JA:S1B-044#31:1:A> I thought that there was a tremendous amount of cartelisation
+
+going on there
+
+<$B> <ICE-JA:S1B-044#32:1:B> No no <}> <-> not in</-> <=> not in</=></}> effect
+<ICE-JA:S1B-044#33:1:B> I mean where there are certain things for instance uhm<,> <}> <->
+
+there</-> <=> there</=></}> are certain things where there is a matter of
+
+common interest and we will discuss them and have agreements on <{1> <[1> <,>
+
+</[1>
+<ICE-JA:S1B-044#34:1:B> But there are in fact sixteen very separate and very competitive
+
+companies <{2> <[2> <,> </[2> all after the same business
+
+<$A> <ICE-JA:S1B-044#35:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-044#36:1:A> <[2> Yeah</[2></{2>
+
+<$A> <ICE-JA:S1B-044#37:1:A> Well I'm glad to hear that<{><[><,></[> although I didn't know
+
+<$B> <ICE-JA:S1B-044#38:1:B> <[> Uhu</[></{>
+
+<$B> <ICE-JA:S1B-044#39:1:B> Uhu
+
+<$A> <ICE-JA:S1B-044#40:1:A> Uhm<O>laughter</O> okay<,> so <}> <-> the</-> <=> the</=></}>
+
+cut-off point in this particular company <}> <-> is is uhm</-> <=> is</=></}>
+
+eighty
+
+<$B> <ICE-JA:S1B-044#41:1:B> In the particular company that spoke to me because you see <}>
+
+<-> the insured uhm</-> <=> the particular insured</=></}> then was trying to
+
+get insurance
+<ICE-JA:S1B-044#42:1:B> <{> <[> Now<,></[> <}> <-> we</-> <=> although we</=></}> do not
+
+cut off at my particular company <}> <-> at</-> <=> at all</=></}>
+<ICE-JA:S1B-044#43:1:B> We don't cut off at any specific age unless they are really
+
+starting to have several accidents <}> <-> and and</-> <=> and</=></}> there
+
+is a problem
+
+<$A> <ICE-JA:S1B-044#44:1:A> <[> Uh uh</[></{>
+
+<$A> <ICE-JA:S1B-044#45:1:A> Yeah
+
+<$B> <ICE-JA:S1B-044#46:1:B> We <}> <-> rarely</-> <=> don't ordinarily</=></}> take on new
+
+drivers above about the age of seventy and <?> in fact</?> therein lies the
+
+reason for the medical examination
+
+<$A> <ICE-JA:S1B-044#47:1:A> Yeah
+
+<$B> <ICE-JA:S1B-044#48:1:B> Uhm inevitably<,> <}> <-> as</-><,> well <=> as</=></}> we all
+
+get older there is going to be <}> <-> a<,> </-> <=> a</=></}><,> slight
+
+deterioration that varies between <,> individuals
+<ICE-JA:S1B-044#49:1:B> And uhm<,> I <?> have</?><,> this company that started cutting off
+
+at<,> age eighty told me that they had been experiencing in the last year or
+
+two a very considerable increase in the number of elderly people who were
+
+having accidents that is weighted of course for the number that are on their
+
+books
+
+<$A> <ICE-JA:S1B-044#50:1:A> Uh hu
+
+<$B> <ICE-JA:S1B-044#51:1:B> I said that my impression had been for years that these were
+
+not on a new hazard on Dial's own books but I went and checked with my claims
+
+department only to find that in the last year or two there has been quite an
+
+increase in this and that the usual<,> uh <}> <-> the the</-> <=> the</=></}>
+
+most common form of accident involving elderly people seems to be when they
+
+come to a stop light and they tend to misjudge cars coming on the main and
+
+come out
+<ICE-JA:S1B-044#52:1:B> We have had quite a few of those
+
+<$A> <ICE-JA:S1B-044#53:1:A> Uhm<,> when they come to a stop light or a <{> <[> stop
+
+sign</[>
+
+<$B> <ICE-JA:S1B-044#54:1:B> <[> Stop sign</[></{>
+
+<$A> <ICE-JA:S1B-044#55:1:A> Uh uh
+
+<$B> <ICE-JA:S1B-044#56:1:B> They uh<,> tend to misjudge<,> not all by any means <}> <->
+
+<{1> <[1> but</[1></-> <=> but</=></}> they <{2> <[2> <unclear>
+
+word</unclear></[2>
+
+<$A> <ICE-JA:S1B-044#57:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-044#58:1:A> <[2> <}> <-> <.> Ho</.></-></[2></{2> <=> hold</=></}> on just
+
+a moment for me
+<ICE-JA:S1B-044#59:1:A> Hello<,> nine nine one<ICE-JA:S1B-044#> hello
+
+<$C> <ICE-JA:S1B-044#60:1:C> Hello morning
+
+<$A> <ICE-JA:S1B-044#61:1:A> Good morning sir
+<ICE-JA:S1B-044#62:1:A> Will you hold on for me please
+
+<$C> <ICE-JA:S1B-044#63:1:C> Okay
+
+<$A> <ICE-JA:S1B-044#64:1:A> Good<,> uhm yes sir<,> uhm but why should this be happening in
+
+the last year or two
+
+<$B> <ICE-JA:S1B-044#65:1:B> I don't know
+<ICE-JA:S1B-044#66:1:B> <}> <-> I'd why it's why well it this</-> <=> this</=></}> may be
+
+<.> hu</.> largely a perception
+<ICE-JA:S1B-044#67:1:B> I mean uh this is something that very few of us if any had on our
+
+computers before
+<ICE-JA:S1B-044#68:1:B> We are putting it more on our age of drivers in relation to <}>
+
+<- > your</-> <=> your</=></}> overall portfolio <{1> <[1> <,> </[1>
+<ICE-JA:S1B-044#69:1:B> But as a perception there definitely have been more
+<ICE-JA:S1B-044#70:1:B> I have been trying to think of possible reasons why this could be
+
+<}> <-> whether<,><O>sighs</O></-> <=> whether</=></}> the drivers on the
+
+mains now have more uninterrupted flow
+<ICE-JA:S1B-044#71:1:B> Maybe they're driving faster I don't <{2> <[2> <unclear>
+
+words</unclear></[2>
+
+<$A> <ICE-JA:S1B-044#72:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1B-044#73:1:A> <[2> You</[2></{2> mean <}> <-> the</-> <=> the</=></}> eighty
+
+year olds are driving <{> <[> faster than the</[>
+
+<$B> <ICE-JA:S1B-044#74:1:B> <[> No no no</[></{> I'm talking about the people who are on
+
+the main road
+
+<$A> <ICE-JA:S1B-044#75:1:A> Yes
+
+<$B> <ICE-JA:S1B-044#76:1:B> <}> <-> Who uhm so that that uh</-> <=> maybe</=></}> they're
+
+coming faster maybe the vehicles <}> <-> aren't uh have</-> <=> have</=></}>
+
+more neutral colours than they used to
+<ICE-JA:S1B-044#77:1:B> I don't really know <{1> <[1> <,> </[1>
+<ICE-JA:S1B-044#78:1:B> <}> <-> I</-> <=> I</=></}> just state it as a fact
+<ICE-JA:S1B-044#79:1:B> <{2> <[2> I</[2> have been trying to think of reasons for this
+<ICE-JA:S1B-044#80:1:B> But quite apart from that I think that there's a matter of
+
+protection <}> <-> to the uh</-> <=> of</=></}> the motor insurance account
+
+of the individual company to the policy holder him or herself<,> and to the
+
+general public
+<ICE-JA:S1B-044#81:1:B> This is just one of those underriding <}> <-> <.> consider</.></->
+
+<=> considerations</=></}> that insurance companies feel
+<ICE-JA:S1B-044#82:1:B> It's just one of several
+<ICE-JA:S1B-044#83:1:B> <{3> <[3> I</[3> mean there are others that in relation to younger
+
+drivers <}> <-> there're uhm</-> <=> to</=></}> <}> <- > <.> phy</.></-> <=>
+
+physically</=></}> incapacitated drivers
+<ICE-JA:S1B-044#84:1:B> It's just one of those measures that we adopted
+
+to<{4><[4>trying</[4> and keep things within certain bounds
+
+<$A> <ICE-JA:S1B-044#85:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1B-044#86:1:A> <[2> Uh uh</[2></{2>
+
+<$A> <ICE-JA:S1B-044#87:1:A> <[3> Yeah</[3></{3>
+
+<$A> <ICE-JA:S1B-044#88:1:A> <[4> But uh okay</[4></{4>
+
+<$A> <ICE-JA:S1B-044#89:1:A> But <}> <-> my</-><,> <=> my</=></}> impression<,> had been
+
+and eh maybe it is a <}> <-> <.> f</.></-> <=> totally false</=></}>
+
+impression<,> that <}> <-> <,> the<,> <.> prop</.><,> as</-> <=> as</=></}>a
+
+proportion <}> <-> of <.> acci</.></-> <=> of total accidents</=></}> the
+
+accidents involving these older people<,> the let us say sixty and over<,>
+
+that <}> <-> you</-> <=> there</=></}> would be<,> <}> <-> <.> w</.></-> <=>
+
+weighted</=></}> <}> <-> for the</-> <=> for their</=></}> proportion among
+
+the totality of drivers<{><[><,></[> that you would find more accidents
+
+occurring among younger drivers than you would find among<,> those old people
+
+<$B> <ICE-JA:S1B-044#90:1:B> <[> Hmhm</[></{>
+
+<$B> <ICE-JA:S1B-044#91:1:B> Yes <{> <[> but in real <?> life/fact</?></[>
+
+<$A> <ICE-JA:S1B-044#92:1:A> <[> And not only</[></{> more accidents but more serious
+
+accidents<,> occurring <}> <-> in the</-> <=> in the</=></}> let us say the
+
+under twenty-five age group<{><[><,></[> than you would find in the over
+
+sixty age group
+
+<$B> <ICE-JA:S1B-044#93:1:B> <[> Yes</[></{>
+
+<$B> <ICE-JA:S1B-044#94:1:B> Yes but <}> <-> there are</-> <=> there are</=></}> of course
+
+underriding measures for those lower-age groups as well
+<ICE-JA:S1B-044#95:1:B> It doesn't mean to say that one shouldn't also have similar
+
+measures at the higher end of the scale
+<ICE-JA:S1B-044#96:1:B> I mean if we all live long enough there must come a time when our
+
+vision <}> <-> and</-> <=> and<,> uhm</=></}> our hearing uh almost I should
+
+think maybe the vast majority of us are going to start deteriorating and I
+
+think this is just a matter of a double-check
+
+<$A> <ICE-JA:S1B-044#97:1:A> Uh hu
+
+<$B> <ICE-JA:S1B-044#98:1:B> Uhm it's <}> <-> <.> y</.></-> <=> you</=></}> know<,> uh the
+
+industry's always being criticized for not taking steps to do anything about
+
+uhm avoiding accidents and reducing the accident rate
+<ICE-JA:S1B-044#99:1:B> In fact this is really not the case
+<ICE-JA:S1B-044#100:1:B> <}> <-> We</-> <=> we</=></}> do an immense amount
+<ICE-JA:S1B-044#101:1:B> Uhm but <}> <-> it uh</-> <=> there is</=></}> practically no
+
+measure that we ever take that doesn't produce controversy with one group or
+
+another
+<ICE-JA:S1B-044#102:1:B> <{> <[> <,> </[> This happens to be one of them
+
+<$A> <ICE-JA:S1B-044#103:1:A> <[> Yes</[></{>
+
+<$A> <ICE-JA:S1B-044#104:1:A> Yes<,> all right <}> <-> I</-> <=> I</=></}> see your point
+<ICE-JA:S1B-044#105:1:A> I mean <}> <-> it</-> <=> it</=></}> is reasonable for you to know
+
+what risk you're undertaking
+
+<$B> <ICE-JA:S1B-044#106:1:B> I think so <{> <[> and <}> <-> it's</-> <=> it's</=></}> also
+
+in the protection of the public as well
+
+<$A> <ICE-JA:S1B-044#107:1:A> <[> <.> Al al</.></[></{>
+
+<$A> <ICE-JA:S1B-044#108:1:A> Yes although I'm getting <}> <-> <.> qu</.></-> <=>
+
+quite</=></}> near to that age group myself and
+
+<$B> <ICE-JA:S1B-044#109:1:B> Yes so am I
+
+<$A> <ICE-JA:S1B-044#110:1:A> <O> laughter</O>But look here talking about <}> <-> <.>
+
+meas</.></-> <=> taking measures</=></}> <}> <-> to uhm</-> <=> to
+
+reduce</=></}> the rate of <{> <[> accidents</[> <}> <-> <.> i i i i</.></->
+
+<=> is</=></}> there any study done in Jamaica<,> uh<,> any data collected
+
+about what really causes accidents<,,>
+<ICE-JA:S1B-044#111:1:A> I mean <}> <-> do do</-> <=> do</=></}> we just assume <}> <->
+
+when we when we</-> <=> when</=></}> the police come upon<}><->a a a</-> <=>
+
+a</=></}> motor accident uhm<,> some people are killed<,> uh<,> and the car
+
+is a write-off<,> uh run into a pole or into something<,> do we just say<,>
+
+well look here the guy was speeding and therefore speeding was the cause of
+
+the accident<,>
+<ICE-JA:S1B-044#112:1:A> Or is there any really uhm<,> thorough<,> investigation of <}> <->
+
+what</-> <=> what</=></}> really did cause that accident
+
+<$B> <ICE-JA:S1B-044#113:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1B-044#114:1:B> The police do keep a quite thorough and detailed uhm uh<,>
+
+statistics of the accidents that are reported to them <{> <[> <,> </[> which
+
+of course nowadays are not as many possibly as they used to be
+
+<$A> <ICE-JA:S1B-044#115:1:A> <[> Yeah</[></{>
+
+<$A> <ICE-JA:S1B-044#116:1:A> Yeah
+
+<$B> <ICE-JA:S1B-044#117:1:B> Uhm
+
+<$A> <ICE-JA:S1B-044#118:1:A> But the police do not as a general rule go to the scene of
+
+accidents
+
+<$B> <ICE-JA:S1B-044#119:1:B> <}> <-> That <.> i</.> this is the</-> <=> this is
+
+the</=></}> thing
+
+<$A> <ICE-JA:S1B-044#120:1:A> I mean <}> <-> unless somebody</-> <=> unless</=></}> <}> <->
+
+a <.> disast</.></-> <=> a real disaster</=></}> occurs and twenty five
+
+people are killed they're not there
+
+<$B> <ICE-JA:S1B-044#121:1:B> That is correct
+
+<$A> <ICE-JA:S1B-044#122:1:A> Hmhm
+
+<$B> <ICE-JA:S1B-044#123:1:B> But remember also that nor is the insurance company by and
+
+large
+
+<$A> <ICE-JA:S1B-044#124:1:A> Yeah
+
+<$B> <ICE-JA:S1B-044#125:1:B> Uhm what you're doing <}> <-> <.> yo</.></-> <=> you</=></}>
+
+see <}> <- > <.> wha</.></-> <=> what</=></}> makes this particular problem
+
+rather complex and this <}> <-> is this is</-> <=> has</=></}> been my
+
+quarrel uh with aspects of the police statistics or for that matter or our
+
+own which are now computerized and where we try to attribute a cause is that
+
+very frequently there are several causes to an accident <{1> <[1> <,> </[1>
+<ICE-JA:S1B-044#126:1:B> The matter of which one <}> <-> was the</-> <=> was the</=></}>
+
+principal one in the circumstances <{2> <[2> <,> </[2>
+<ICE-JA:S1B-044#127:1:B> The brakes may not have been uh quite as good as they should have
+
+been <{3> <[3> <,> </[3>
+<ICE-JA:S1B-044#128:1:B> The driver may have been gazing
+<ICE-JA:S1B-044#129:1:B> There may have been some physical disability <{4> <[4> <,> </[4>
+<ICE-JA:S1B-044#130:1:B> <}> <-> It</-> <=> it</=></}> almost invariably I think is a
+
+mixture of several factors
+
+<$A> <ICE-JA:S1B-044#131:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-044#132:1:A> <[2> Yes</[2></{2>
+
+<$A> <ICE-JA:S1B-044#133:1:A> <[3> Yes</[3></{3>
+
+<$A> <ICE-JA:S1B-044#134:1:A> <[4> Yes</[4></{4>
+
+<$A> <ICE-JA:S1B-044#135:1:A> Let me ask you this <{> <[> question</[>
+
+<$B> <ICE-JA:S1B-044#136:1:B> <[> Mhm</[></{><,>
+
+<$A> <ICE-JA:S1B-044#137:1:A> Is any thought being given<,> to the<,> environmental factors
+
+the<,> uh the <}> <- > <.> con</.></-> <=> condition</=></}> of the roads for
+
+example the surfaces of the road
+<ICE-JA:S1B-044#138:1:A> <{> <[> I mean<,><}><-><.>i i</.> is it</-> <=> is it</=></}></[>
+
+<$B> <ICE-JA:S1B-044#139:1:B> <[> Oh very much so</[></{>
+<ICE-JA:S1B-044#140:1:B> Under the previous government I was on a committee <{> <[> set
+
+up</[> by the ministry which dealt with these things and we identified
+
+several trouble spots through out the island
+<ICE-JA:S1B-044#141:1:B> That was part of our portfolio
+<ICE-JA:S1B-044#142:1:B> Uh and a number of these were addressed
+
+<$A> <ICE-JA:S1B-044#143:1:A> <[> Yes</[></{>
+
+<$A> <ICE-JA:S1B-044#144:1:A> Uhum
+
+<$B> <ICE-JA:S1B-044#145:1:B> Uhm<,> some of them it is very difficult to address
+<ICE-JA:S1B-044#146:1:B> For instance we found that we have <}> <-> a</-> <=> a</=></}> lot
+
+of accidents occur from the top of uhm Mount Diablo going down towards
+
+Moneague <{1> <[1> <,> </[1> because there tends to be speeding
+<ICE-JA:S1B-044#147:1:B> There tend to be uhm trucks and buses with a lot of smoke
+<ICE-JA:S1B-044#148:1:B> And people then try to overtake to avoid breathing in these <{2>
+
+<[2> noxious fumes</[2> and meet somebody from the other side
+
+<$A> <ICE-JA:S1B-044#149:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-044#150:1:A> <[2> Yes<,> yes</[2></{2>
+
+<$A> <ICE-JA:S1B-044#151:1:A> That is one that I feel very strongly about <{1> <[1> <}> <->
+
+now</-></[1> <=> now</=></}> you tell me what has been done <{2> <[2> about
+
+that</[2>
+
+<$B> <ICE-JA:S1B-044#152:1:B> <[1> Me too</[1></{1>
+
+<$B> <ICE-JA:S1B-044#153:1:B> <[2> Well</[2></{2> there very little indeed because you <{1>
+
+<[1> see</[> the cost factor here is enormous
+<ICE-JA:S1B-044#154:1:B> <{2> <[2> You need a <?> context</?></[2> <}> <-> you <.>
+
+y</.></-> <=> what it really</=></}> needs is a wider road
+
+<$A> <ICE-JA:S1B-044#155:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1B-044#156:1:A> <[2> What cost factor</[2></{2>
+<ICE-JA:S1B-044#157:1:A> <}> <-> We'd</-> <=> hold on</=></}> a little bit no no
+<ICE-JA:S1B-044#158:1:A> That's not in fact what it needs
+<ICE-JA:S1B-044#159:1:A> It first thing that it needs is to stop the smoking<,>
+
+<$B> <ICE-JA:S1B-044#160:1:B> Well that <O> laugh</O>
+
+<$A> <ICE-JA:S1B-044#161:1:A> Now you tell me why that can't be done
+
+<$B> <ICE-JA:S1B-044#162:1:B> I really don't know sir
+<ICE-JA:S1B-044#163:1:B> <{1> <[1> <}> <-> <.> th</.></-></[1> <=> As</=></}> a matter of
+
+fact <}> <-> there's a <.> subto</.> the the</-> <=> the</=><}> particular
+
+group that I worked with then <{2> <[2> and</[2> the present government has
+
+set up a similar committee <{3> <[3> on which</[3> I was serving originally
+
+too<{4><[4><,></[4> and uhm there are subcommittees <}> <-> <.> wi</.></->
+
+<=> within</=></}> <}> <-> <.> the</.></-> <=> these</=></}> groups that deal
+
+with for instance <}> <-> in the <.> jail</.></-> <=> in the one under the
+
+previous government</=></}> there was one that dealt with the enforcement of
+
+existing legislation just that alone
+
+<$A> <ICE-JA:S1B-044#164:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-044#165:1:A> <[2> Yeah</[2></{2>
+
+<$A> <ICE-JA:S1B-044#166:1:A> <[3> Yes</[3></{3>
+
+<$A> <ICE-JA:S1B-044#167:1:A> <[4> Yes</[4></{4>
+
+<$B> <ICE-JA:S1B-044#168:1:B> One for education<,>
+<ICE-JA:S1B-044#169:1:B> You know what I<O>$A-laughs</O> mean and one for possible new
+
+laws<O>$A-laughs</O>
+<ICE-JA:S1B-044#170:1:B> Now <}> <-> I I probably</-> <=> one</=></}> of the largest single
+
+factors <}> <-> is</-> <=> is</=></}> enforcement of existing legislation
+
+because it just doesn't happen</I>

@@ -1,0 +1,706 @@
+<I>
+
+<$B> <ICE-JA:S1B-071#1:1:B> But uhm<O>clears-throat</O>
+<ICE-JA:S1B-071#2:1:B> There is something I want <}> <-> to</-> <=> to</=></}> ask you
+
+though uhm
+<ICE-JA:S1B-071#3:1:B> <}> <-> I we were</-> <=> there's</=></}> this gentleman who is uhm
+
+I was speaking to<,> an expert in like e-commerce and in terms of setting up
+
+like uh huge data bases and that kind of thing uhm especially where
+
+government entities are concerned cause it is a expatriate come from
+
+uh<{1><[1>I think</[1> he's from uhm one of those European countries so you
+
+know programming <}> <-> is</-> <=> is</=></}> his thing<{2><[2><,></[2>
+<ICE-JA:S1B-071#4:1:B> When I was doing my T C C<,> I had a hell of a time because I went
+
+down and <indig> ma</indig> have to go back down there to NIS
+
+office<{3><[3><,></[3> and they were telling me I have to bring back my
+
+original documents and I say to them but tax office already said I have this
+
+I have that <{4> <[4> <,> this is</[4> who I am<{5><[5><,></[5> so therefore
+
+why can't you just take what they say sign the thing and just give me a break
+
+<$A> <ICE-JA:S1B-071#5:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1B-071#6:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1B-071#7:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1B-071#8:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1B-071#9:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1B-071#10:1:A> You had to bring the documents you had carried to the tax
+
+office
+
+<$B> <ICE-JA:S1B-071#11:1:B> Everything back down to them when tax office <{> <[> already
+
+said<,> he has his list</[>
+
+<$A> <ICE-JA:S1B-071#12:1:A> <[> Alright <}> <-> they don't</-> <=> they don't</=></}>
+
+communicate</[></{> to
+
+<$B> <ICE-JA:S1B-071#13:1:B> None at all<{1><[1><,></[1>
+<ICE-JA:S1B-071#14:1:B> And there're computers there and I went on to the second floor
+
+above them I saw a paper leading all the way over to National Commercial Bank
+
+one room of paper
+<ICE-JA:S1B-071#15:1:B> Then I was thinking that<O>clears-throat</O> if I wanted to<,> have
+
+something introduced<{2><[2><,></[2> where you could have whether a number of
+
+points <}> <-> of of of of</-> <=> of</=></}> mass storage in terms of
+
+digitally <{3> <[3> like</[3> use a sequel server or
+
+something<{4><[4><,></[4> and an integration among all the ministries for
+
+relevant information
+<ICE-JA:S1B-071#16:1:B> Would that be you<,,>
+<ICE-JA:S1B-071#17:1:B> I mean you are the minister of commerce <?> at</?> <unclear>
+
+word</unclear><O>laughter</O><{5><[5><,></[5>
+<ICE-JA:S1B-071#18:1:B> <O> coughing</O><}><- >Who who</-></}> I mean <}> <-> would would
+
+you</-> <=> would you</=></}> your ministry be the best one to drive it to
+
+<{6> <[6> change the government into <}> <-> an an</- ></[6> <=> an</=></}>
+
+e-environment
+
+<$A> <ICE-JA:S1B-071#19:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1B-071#20:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1B-071#21:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1B-071#22:1:A> <[4> Yeah
+<ICE-JA:S1B-071#23:1:A> Yeah</[4></{4>
+
+<$A> <ICE-JA:S1B-071#24:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1B-071#25:1:A> <[6> Aha
+<ICE-JA:S1B-071#26:1:A> Uhm uhm</[6></{6>
+
+<$A> <ICE-JA:S1B-071#27:1:A> Well we're actually doing something like that now
+
+in<{1><[1><,></[1> one of the servers that we bought from you<{2><[2><,></[2>
+
+we're going to be putting uhm dominant server on it and run uhm uhm dot
+
+doc<{3><[3><,></[3> on top of it<{4><[4><,></[4>
+<ICE-JA:S1B-071#28:1:A> <}> <-> We're</-> <=> we also have</=></}> a kind of file system
+
+downstairs<{5><[5><,></[5> which we're using to digitise records <{6> <[6>
+
+<,> <unclear> words</unclear></[6>
+<ICE-JA:S1B-071#29:1:A> Right<{7><[7><,></[7>
+<ICE-JA:S1B-071#30:1:A> Uhm we're going to index them and have it available<{8><[8><,></[8>
+
+from the computer here accessing the dominant <{9> <[9> server</[9> using dot
+
+doc<{10><[10><,></[10>
+<ICE-JA:S1B-071#31:1:A> So you can bring up the register files on your screen
+
+<$B> <ICE-JA:S1B-071#32:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1B-071#33:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1B-071#34:1:B> <[3> Aha</[3></{3>
+
+<$B> <ICE-JA:S1B-071#35:1:B> <[4> Aha</[4></{4>
+
+<$B> <ICE-JA:S1B-071#36:1:B> <[5> Mhm</[5></{5>
+
+<$B> <ICE-JA:S1B-071#37:1:B> <[6> Right
+<ICE-JA:S1B-071#38:1:B> Yes
+<ICE-JA:S1B-071#39:1:B> I remember when you bought the scanner yeah yeah</[6></{6>
+
+<$B> <ICE-JA:S1B-071#40:1:B> <[7> Yeah</[7></{7>
+
+<$B> <ICE-JA:S1B-071#41:1:B> <[8> Mhm</[8></{8>
+
+<$B> <ICE-JA:S1B-071#42:1:B> <[9> Right right</[9></{9>
+
+<$B> <ICE-JA:S1B-071#43:1:B> <[10> Right</[10></{10>
+
+<$B> <ICE-JA:S1B-071#44:1:B> Because it was frustrating<{1><[1><,></[1>
+<ICE-JA:S1B-071#45:1:B> I mean is ridiculous
+<ICE-JA:S1B-071#46:1:B> <{2> <[2> Uh</[2>
+
+<$A> <ICE-JA:S1B-071#47:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1B-071#48:1:A> <[2> Would</[2></{2> the internet or wide area network <{1>
+
+<[1> with the other agencies</[1> with the <}> <-> same</-> <{2> <[2> <=>
+
+same</=></}></[2> system
+
+<$B> <ICE-JA:S1B-071#49:1:B> <[1> <}> <-> I</-> <=> I</=></}> yeah yeah</[1></{1>
+
+<$B> <ICE-JA:S1B-071#50:1:B> <[2> But</[2></{2>
+
+<$B> <ICE-JA:S1B-071#51:1:B> I could see the relevance if you know for instance nothing was
+
+there
+<ICE-JA:S1B-071#52:1:B> <{1> <[1> But</[1> when I saw the computer over the desk I'm like
+
+why do <{2> <[2> you have</[2> a computer</{3><[3><,></[3>
+<ICE-JA:S1B-071#53:1:B> <}> <-> Is</-> a computer <=> isn't</=></}> <}> <-> a</-> <=>
+
+a</=></}> fancy typewriter<{4><[4><,></[4> you know and even <}> <- > if</->
+
+<=> if</=></}> you didn't have it they could just e-mail and said is this
+
+true what he said and say yeah man you know check the so and so
+
+number<{5><[5><,></[5> dial that and that number so I was thinking you know
+
+uh<,> is there you know because I say uh granted <}> <-> it</-> <=>
+
+it</=></}> turn out to be a wonderful opportunity potentially<{6><[6><,></[6>
+<ICE-JA:S1B-071#54:1:B> However as a regular citizen <}> <-> <.> i</.></-> <=> it's</=></}>
+
+frustrating
+<ICE-JA:S1B-071#55:1:B> And it's sad because <O> clears-throat</O>the government has spent
+
+hundreds of millions of dollars right now<{7><[7><,></[7> on all these bids
+
+on computers and we're in the same <{8> <[8> position</[8>
+
+<$A> <ICE-JA:S1B-071#56:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1B-071#57:1:A> <[2> Yeah</[2></{2>
+
+<$A> <ICE-JA:S1B-071#58:1:A> <[3> Yeah yeah</[3></{3>
+
+<$A> <ICE-JA:S1B-071#59:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1B-071#60:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1B-071#61:1:A> <[6> Mhm
+<ICE-JA:S1B-071#62:1:A> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1B-071#63:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1B-071#64:1:A> <[8> Mhm
+<ICE-JA:S1B-071#65:1:A> Yeah yeah</[8></{8>
+
+<$B> <ICE-JA:S1B-071#66:1:B> It's fancy typewriters pretty server you <{> <[> know</[>
+
+there're very few ministries who're using the full potential you understand
+
+<$A> <ICE-JA:S1B-071#67:1:A> <[> <unclear> word</unclear><&>sound</&></[></{>
+
+<$A> <ICE-JA:S1B-071#68:1:A> Mhm mhm
+
+<$B> <ICE-JA:S1B-071#69:1:B> And it's just not right it's just not right so I was saying
+
+boy uhm if you know some kind of proposal was <unclear>
+
+word</unclear><O>clears-throat</O> but then again <}> <- > if you</-> <=> if
+
+you</=></}> guys are meant to be doing that because it going to be
+
+centralised from the ministry here out<{1><[1><,></[1>
+
+but<O>clears-throat</O> <{2> <[2> will it take</[2>
+
+<$A> <ICE-JA:S1B-071#70:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-071#71:1:A> <[2> <}> <-> We have</-></[2></{2> <=> we have</=></}> twenty
+
+how many twenty-eight<{1><[1><,></[1> or some such number<{2><[2><,></[2> of
+
+agencies<{3><[3><,></[3> fall directly under this ministry
+<ICE-JA:S1B-071#72:1:A> <{4> <[4> <,> You find that</[4> from time to time you need to have
+
+access to the same files that we keep in <{5> <[5> the register
+<ICE-JA:S1B-071#73:1:A> So</[5> so far it has been a sort of hard <?> computing</?> <{6>
+
+<[6> it to put <unclear> words</unclear> to copy the relevant information
+
+received</[6> or <}> <-> the</-> <=> the</=></}> file leaves not
+
+necessarily<}><->the</-> <=> this</=></}> building<{7><[7><,></[7> but it
+
+would leave the registry and it lost for however long<{8><[8><,></[8> in the
+
+building itself you know
+<ICE-JA:S1B-071#74:1:A> I worried but I sent for it<{9><[9><,></[9> but then uhm somebody
+
+else saw it on my desk and wanted some informations that they borrowed it
+
+somebody borrowed it from them so now nobody knows where it is
+<ICE-JA:S1B-071#75:1:A> So I tried to minimalise <{10> <[10> it</[10>
+
+<$B> <ICE-JA:S1B-071#76:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1B-071#77:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1B-071#78:1:B> <[3> Right</[3></{3>
+
+<$B> <ICE-JA:S1B-071#79:1:B> <[4> Oh</[4></{4>
+
+<$B> <ICE-JA:S1B-071#80:1:B> <[5> Oh</[5></{5>
+
+<$B> <ICE-JA:S1B-071#81:1:B> <[6> Right right right<,>
+<ICE-JA:S1B-071#82:1:B> Right right </[6> </{6>
+
+<$B> <ICE-JA:S1B-071#83:1:B> <[7> Right</[7></{7>
+
+<$B> <ICE-JA:S1B-071#84:1:B> <[8> So</[8></{8>
+
+<$B> <ICE-JA:S1B-071#85:1:B> <[9> Right</[9></{9>
+
+<$B> <ICE-JA:S1B-071#86:1:B> <[10> So</[10></{10> what about the integration with other
+
+ministries now because
+
+<$A> <ICE-JA:S1B-071#87:1:A> <{1> <[1> Well we're going to start<O>$B clears-throat</O>
+
+is</[1> <}> <-> the</- > <=> the</=></}> pilot project <{2> <[2> is
+
+between</[2> this and mining
+<ICE-JA:S1B-071#88:1:A> Mining is just downstairs <{3> <[3> <,> </[3> and both share the
+
+same<{4><[4><,></[4> common database <{5> <[5> <,> </[5>
+<ICE-JA:S1B-071#89:1:A> So<{6><[6><,> I</[6> <?> can't really</?> testing while I'm under
+
+this branch of funding
+
+<$B> <ICE-JA:S1B-071#90:1:B> <[1> <O> clears-throat</O></[1></{1>
+
+<$B> <ICE-JA:S1B-071#91:1:B> <[2> Is from here</[2></{2>
+
+<$B> <ICE-JA:S1B-071#92:1:B> <[3> Right right right right right</[3></{3>
+
+<$B> <ICE-JA:S1B-071#93:1:B> <[4> Right</[4></{4>
+
+<$B> <ICE-JA:S1B-071#94:1:B> <[5> Right</[5></{5>
+
+<$B> <ICE-JA:S1B-071#95:1:B> <[6> And go from there</[6></{6>
+
+<$B> <ICE-JA:S1B-071#96:1:B> So but you use a domino as a backbone in terms of the <{1>
+
+<[1> uh archiving</[1> <{2> <[2> digital archiving of the information</[2>
+<ICE-JA:S1B-071#97:1:B> Mhm
+
+<$A> <ICE-JA:S1B-071#98:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-071#99:1:A> <[2> Yeah yeah yeah yeah</[2></{2>
+
+<$A> <ICE-JA:S1B-071#100:1:A> <}> <-> That's that's</-> <=> that's</=></}> the plan
+<ICE-JA:S1B-071#101:1:A> <}> <-> What we were</-> <=> what I was</=></}> trying to do when
+
+I realised that that was uhm a better- plan<{1><[1><,></[1> I called uhm
+
+boutique today<{2><[2><,></[2> to talk <?> through</?> to ask them to change
+
+one of the server's configurations in terms of the software<{3><[3><,></[3>
+
+from windows two <{4> <[4> thousand</[4>
+<ICE-JA:S1B-071#102:1:A> No to uhm Linux we had<{5><[5><,><&>telephone-ringing</&>
+
+Linux</[5></{5> apparently it had already <}> <-> left the uh</-> <=>
+
+left</=></}> the factory
+
+<$B> <ICE-JA:S1B-071#103:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1B-071#104:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1B-071#105:1:B> <[3> Mhm</[3></{3>
+
+<$B> <ICE-JA:S1B-071#106:1:B> <[4> To advanced</[4></{4>
+
+<$B> <ICE-JA:S1B-071#107:1:B> <[5> Ahh</[5></{5>
+
+<$B> <ICE-JA:S1B-071#108:1:B> No it had not <,>
+<ICE-JA:S1B-071#109:1:B> The but <{> <[> it must have just left the factory today</[>
+
+<$A> <ICE-JA:S1B-071#110:1:A> <[> <unclear> word</unclear> there
+<ICE-JA:S1B-071#111:1:A> No
+<ICE-JA:S1B-071#112:1:A> Ah</[></{>
+
+<$B> <ICE-JA:S1B-071#113:1:B> They must have just left the factory <{> <[> today</[>
+
+<$A> <ICE-JA:S1B-071#114:1:A> <[> I don't</[></{> know uh <{> <[> <}> <-> it's it's</-> <=>
+
+it's</=></}> getting to Miami</[> on Friday
+<ICE-JA:S1B-071#115:1:A> <}> <-> It's</-> or <=> it's</=></}> going to leave Miami for here
+
+on Friday
+
+<$B> <ICE-JA:S1B-071#116:1:B> <[> Because I called and checked on them yesterday</[></{>
+
+<$B> <ICE-JA:S1B-071#117:1:B> Because I checked with <?> Teron yesterday</?>
+<ICE-JA:S1B-071#118:1:B> I have the servers left here and she what she <{> <[> gave me
+
+<unclear> name</unclear></[>
+
+<$A> <ICE-JA:S1B-071#119:1:A> <[> Who checked yesterday</[></{>
+<ICE-JA:S1B-071#120:1:A> But Ruth said she called today<{1><[1> and</[1> I called <{2> <[2>
+
+her this morning</[2>
+<ICE-JA:S1B-071#121:1:A> She called today alright now<{3><[3><,></[3>
+<ICE-JA:S1B-071#122:1:A> Yeah
+
+<$B> <ICE-JA:S1B-071#123:1:B> <[1> Aha</[1></{1>
+
+<$B> <ICE-JA:S1B-071#124:1:B> <[2> <}> She <-> <.> mu</.></-> eh <=> must</=></}> have just
+
+left today then</[2></{2>
+
+<$B> <ICE-JA:S1B-071#125:1:B> <[3> Okay</[3></{3>
+
+<$B> <ICE-JA:S1B-071#126:1:B> <O> clears-throat</O>That's a pity
+
+<$A> <ICE-JA:S1B-071#127:1:A> Mhm
+
+<$B> <ICE-JA:S1B-071#128:1:B> Would have been interesting to <?> dial</?> cause I know you
+
+have had a <unclear> word</unclear> thing for Linux from last year
+
+<$A> <ICE-JA:S1B-071#129:1:A> I've been trying to implement it but because <{1> <[1> <,>
+
+</[1> I don't have any support here I can't uhm like steal away and
+
+experiment on my own
+<ICE-JA:S1B-071#130:1:A> <{2> <[2> But there is</[2></{> training involved <}> <-> in
+
+the</-> <=> in the</=></}> I B M thing and <{3> <[3> <,> </[3> I get Linux
+
+training <{4> <[4> <,> <unclear> words</unclear></[4>
+<ICE-JA:S1B-071#131:1:A> <{5> <[5> <unclear> words</unclear></[5>
+<ICE-JA:S1B-071#132:1:A> <{6> <[6> <unclear> words</unclear> training and
+
+certification</[6>
+
+<$B> <ICE-JA:S1B-071#133:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1B-071#134:1:B> <[2> I <?> should now</?></[2></{2>
+
+<$B> <ICE-JA:S1B-071#135:1:B> <[3> Yeah</[3></{3>
+
+<$B> <ICE-JA:S1B-071#136:1:B> <[4> Oh
+<ICE-JA:S1B-071#137:1:B> That's why</[4></{4>
+
+<$B> <ICE-JA:S1B-071#138:1:B> <[5> I was thinking of <unclear> words</unclear></[5></{5>
+
+<$B> <ICE-JA:S1B-071#139:1:B> <[6> Hey is that <unclear> words</unclear></[6></{6>
+<ICE-JA:S1B-071#140:1:B> I could not understand how the man
+
+could<{><[><unclear>words</unclear></[>
+<ICE-JA:S1B-071#141:1:B> Yeh okay now I know
+
+<$A> <ICE-JA:S1B-071#142:1:A> <[> <O> laughter</O><ICE-JA:S1B-071#>Linux
+<ICE-JA:S1B-071#143:1:A> Linux and Lotus Linux</[></{>
+
+<$B> <ICE-JA:S1B-071#144:1:B>
+<ICE-JA:S1B-071#145:1:B> Alright I forgive you
+<ICE-JA:S1B-071#146:1:B> I forgive you <}> <-> I <.> for</.> I <.> for</.> I <.>
+
+forg</.></-> <=> I have to forgive you</=></}><{1><[1><,></[1>
+<ICE-JA:S1B-071#147:1:B> <{2> <[2> You should have just tell me</[2> you make me have it up
+
+in my heart<O>laughter</O>
+
+<$A> <ICE-JA:S1B-071#148:1:A> <[1> That's</[1></{1>
+
+<$A> <ICE-JA:S1B-071#149:1:A> <[2> That's<,> that's right</[2></{2>
+
+<$A> <ICE-JA:S1B-071#150:1:A> <O> laughter</O><ICE-JA:S1B-071#>That's good point
+
+<$B> <ICE-JA:S1B-071#151:1:B> Alright fine
+<ICE-JA:S1B-071#152:1:B> But <}> <-> in</-> <=> in</=></}> that case I probably would have
+
+done the same thing<{><[><,></[> because I mean as you know I hate Compacs
+
+and right now I sell Compac computers
+
+<$A> <ICE-JA:S1B-071#153:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1B-071#154:1:A> Now this man now this man doesn't like Compac computers and
+
+that is what he has started to sell <{1> <[1> and he</[1> swore to me in a
+
+Compac discount <{2> <[2> <unclear> words</unclear></[2>
+
+<$B> <ICE-JA:S1B-071#155:1:B> <[1> No</[1></{1>
+
+<$B> <ICE-JA:S1B-071#156:1:B> <[2> No no no no no no no no no</[2>/{2>
+
+<$B> <ICE-JA:S1B-071#157:1:B> I don't sell them to any of my regular customers I sell them
+
+to people who have the Compac global agreements like some of the hotels and
+
+stuff
+
+<$A> <ICE-JA:S1B-071#158:1:A> Okay <{> <[> <unclear> words</unclear></[>
+
+<$B> <ICE-JA:S1B-071#159:1:B> <[> I would not sell <}> <-> I would <.>
+
+n</.></-></}></[></{>
+<ICE-JA:S1B-071#160:1:B> Yeah I know putting a Compac in one of my <w> customers'</w> face
+
+<$A> <ICE-JA:S1B-071#161:1:A> <}> <-> I wouldn't buy</-> <=> I wouldn't</=></}> buy a
+
+Compac laptop uh Compac uhm P C I probably would buy a Compac uh server
+
+<$B> <ICE-JA:S1B-071#162:1:B> <}> <-> I could wink at a server</-><{1><[1><,></[1> <=> I
+
+could wink at a server</=></}> <{2> <[2> but I am not no no no</[2>
+
+<$A> <ICE-JA:S1B-071#163:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-071#164:1:A> <[2> A P C and and a laptop <unclear>
+
+word(s)</unclear></[2></{2>
+<ICE-JA:S1B-071#165:1:A> I've never seen a Compac laptop <}> <-> that that</-> <=>
+
+that</=></}> just works period<{1><[1><,></[1> you know what I am saying
+<ICE-JA:S1B-071#166:1:A> The one of <unclear> word</unclear> done <{2> <[2> <,> </[2> the
+
+one the one <}> <-> this</-> <=> this</=></}> guy that asked me to look at it
+
+but I heard Compac and uh this kind of Sir <unclear> word(s)</unclear>
+<ICE-JA:S1B-071#167:1:A> So that's two <unclear> words</unclear> couple down my arm <{3>
+
+<[3> where it <unclear> words</unclear></[3>
+
+<$B> <ICE-JA:S1B-071#168:1:B> <[1> No</[1></{1>
+
+<$B> <ICE-JA:S1B-071#169:1:B> <[2> <O> laughter</O></[2></{2>
+
+<$B> <ICE-JA:S1B-071#170:1:B> <[3> Not to mention <}> <-> the <.> dr</.></-> <=> the
+
+droves</=></}> of P Cs I mean paymaster can't tell you about the horror the
+
+nightmare that they have
+
+<$A> <ICE-JA:S1B-071#171:1:A> Who master
+
+<$B> <ICE-JA:S1B-071#172:1:B> Paymaster
+
+<$A> <ICE-JA:S1B-071#173:1:A> Paymaster
+
+<$B> <ICE-JA:S1B-071#174:1:B> Mhm
+
+<$A> <ICE-JA:S1B-071#175:1:A> That's what they have done
+
+<$B> <ICE-JA:S1B-071#176:1:B> They had a whole bunch of them and were changing them to H P
+
+with us but we uhm uhm<O>laughter</O> a T P B <.> car</.>
+<ICE-JA:S1B-071#177:1:B> <}> <-> <.> Who</.> <.> who</.></-> <=> most</=></}> of our
+
+customers can tell you Compac nightmare regular thing uhm but I only sold two
+
+and I'm <{> <[> trying not to sell</[>
+
+<$A> <ICE-JA:S1B-071#178:1:A> <[> <}> <-> Since you've been</-></[></{> <=> since you've
+
+been </=> </}> there
+
+<$B> <ICE-JA:S1B-071#179:1:B> No since I've started my thing there<{><[>
+<ICE-JA:S1B-071#180:1:B> The <?> Leroy</?>
+<ICE-JA:S1B-071#181:1:B> Yeah just two</[>
+
+<$A> <ICE-JA:S1B-071#182:1:A> <[> Is that <?> Leroy</?> uh uh ok</[></{> mhm just two since
+
+there<{1><[1><,></[1>
+<ICE-JA:S1B-071#183:1:A> Say <unclear> words</unclear> aren't too badly <unclear>
+
+words</unclear> <{2> <[2> <}> <-> <.> wha</.></-></[2> <=> what</=></}> you
+
+say is <}> <-> my my</-> <=> my</=></}> business right this is my business
+
+<$B> <ICE-JA:S1B-071#184:1:B> <[1> Two</[1></{1>
+
+<$B> <ICE-JA:S1B-071#185:1:B> <[2> No no no</[2></{2>
+
+<$B> <ICE-JA:S1B-071#186:1:B> No no no <}> <-> your</-> <=> your</=></}> thing is Toshiba
+
+and I trust that
+
+<$A> <ICE-JA:S1B-071#187:1:A> No no no I'm saying besides my business <{1> <[1> <}> <->
+
+home</-></[1> <=> home</=></}> <{2> <[2> <unclear> words</unclear></[2>
+
+<$B> <ICE-JA:S1B-071#188:1:B> <[1> Yeah</[1></{1>
+
+<$B> <ICE-JA:S1B-071#189:1:B> <[2> Oh no no not going too badly it not going
+
+badly</[2></{2><{1><[1><,></[1> not going too badly
+<ICE-JA:S1B-071#190:1:B> I mean you have your slow weeks but <}> <-> it not</-> <=> it
+
+not</=></}> going too badly I must admit I must admit that what I tell you
+
+though the margins suck the margins suck because the <{2> <[2> <.>
+
+mar</.></[2>
+
+<$A> <ICE-JA:S1B-071#191:1:A> <[1> Not going to badly since then</[1></{1>
+
+<$A> <ICE-JA:S1B-071#192:1:A> <[2> How do we get a <unclear> word</unclear></[2></{2> the
+
+margin <unclear> word</unclear>
+
+<$B> <ICE-JA:S1B-071#193:1:B> No it's better in terms of the fact that when you get
+
+commission<{1><[1><,></[1> obviously a whole lot better<{2><[2><,></[2> but
+
+in terms of over all margin
+<ICE-JA:S1B-071#194:1:B> When you look at how much you pay for the equipment you know
+
+<$A> <ICE-JA:S1B-071#195:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1B-071#196:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1B-071#197:1:A> Oh you mean <}> <-> the <.> ma</.></-> <=> your profit
+
+margin</=></}> <{> <[> <,> </[> <}> <-> is is</-> <=> is</=></}> low
+
+<$B> <ICE-JA:S1B-071#198:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1B-071#199:1:B> Yeah
+<ICE-JA:S1B-071#200:1:B> Way to count how much
+
+<$A> <ICE-JA:S1B-071#201:1:A> Is it low on boutiques
+
+<$B> <ICE-JA:S1B-071#202:1:B> No<,> no no because with boutique
+
+<$A> <ICE-JA:S1B-071#203:1:A> Say you know <?> we'll count</?> <{> <[> it<O>laugh</O> I
+
+don't mean to disappoint you</[>
+
+<$B> <ICE-JA:S1B-071#204:1:B> <[> <O> laughter</O><ICE-JA:S1B-071#>No no let me tell you
+
+something</[></{>
+<ICE-JA:S1B-071#205:1:B> We saying boutique boutique there're certain things that boutique
+
+did not do for their customer that you are willing to do<{1><[1><,></[1>
+<ICE-JA:S1B-071#206:1:B> And there uh you see sometimes the customers are actually willing
+
+to more further with you than they would <}> <-> with the</-> <=> with
+
+the</=></}> boutique<{2><[2><,></[2> you understand<{3><[3><,></[3> and uhm
+
+because there're some customers who recognise that boy I will literally try
+
+and do anything for you<{4><[4><,></[4> as long as not illegal or something
+
+like kill me I'm not gonna <{5> <[5> you know</[5> break the back
+<ICE-JA:S1B-071#207:1:B> But they realise that I had constraints<{6><[6><,><[6> and those
+
+constraints <}> <-> <.> mea</.></-> <=> did not endear</=></}> them <}> <->
+
+to that</-> <=> to that</=></}><{7><[7><,></[7> entity you understand
+
+so<{8><[8><,></[8> so <}> <-> <.> b</.></-> <=> by</=></}> the time I was on
+
+my own and I say oh okay<,> and you find that as you know you offer something
+
+a requisition is written
+
+<$A> <ICE-JA:S1B-071#208:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1B-071#209:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1B-071#210:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1B-071#211:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1B-071#212:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1B-071#213:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1B-071#214:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1B-071#215:1:A> <[8> Yeah</[8></{8>
+
+<$A> <ICE-JA:S1B-071#216:1:A> Well <}> <-> when I went</-> <=> when I went</=></}> to <{1>
+
+<[1> <?> Toronto</?></[1> to uhm <{2> <[2> boutique</[2> to give them <}> <->
+
+the</-> <=> the</=></}> fifty percent deposit they had asked before you did
+<ICE-JA:S1B-071#217:1:A> You're very late so I couldn't assist <{3> <[3> in that area
+
+again</[3>
+
+<$B> <ICE-JA:S1B-071#218:1:B> <[1> <O> coughing</O></[1></{1>
+
+<$B> <ICE-JA:S1B-071#219:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1B-071#220:1:B> <[3> Yeah<,> yeah</[3></{3>
+
+<$A> <ICE-JA:S1B-071#221:1:A> You got the <{> <[> Did I give you <?> the contract</?></[>
+
+<$B> <ICE-JA:S1B-071#222:1:B> <[> Yeah man I got this I got it yeah
+<ICE-JA:S1B-071#223:1:B> Mhm</[></{>
+
+<$A> <ICE-JA:S1B-071#224:1:A> Uhm <}> <-> mister</-> <=> mister</=></}> <@>
+
+Miller</@><{1><[1><,></[1> was giving me a whole you know he gave me this sit
+
+down in his office<{2><[2><,></[2> and sat me down there was talking to me
+
+and almost beseeching me then for more business<{3><[3><,></[3> and see
+
+through some means we don't know <?> what he's doing
+
+there</?><{4><[4><,></[4> or maybe Ruth<{5><[5><,></[5> told him that uhm
+
+there's a lot of business to be had here<{6><[6><,></[6> and uh somehow he
+
+found out that uh it was much more than what they got<{7><[7><,></[7> couple
+
+servers and so <{8> <[8> on</[8> so he was wondering
+<ICE-JA:S1B-071#225:1:A> Wanted to know the reasons why he hasn't been
+
+getting<{9><[9><,></[9> more business<{10><[10><,></[10> you know and so he
+
+called in Ruth
+<ICE-JA:S1B-071#226:1:A> I don't know if he knew that I knew her already<{11><[11><,></[11>
+
+says he wanted to introduce me to this gorgeous girl <{12> <[12> or some
+
+other thing </[12> so you know she's not in charge of our account she's back
+
+in sales apparently
+
+<$B> <ICE-JA:S1B-071#227:1:B> <[1> <Mhm </[1> </{1>
+
+<$B> <ICE-JA:S1B-071#228:1:B> <[2> <O> laughter</O></[2></{2>
+
+<$B> <ICE-JA:S1B-071#229:1:B> <[3> Yeah</[3></{3>
+
+<$B> <ICE-JA:S1B-071#230:1:B> <[4> Right</[4></{4>
+
+<$B> <ICE-JA:S1B-071#231:1:B> <[5> Yeah</[5></{5>
+
+<$B> <ICE-JA:S1B-071#232:1:B> <[6> Yeah</[6></{6>
+
+<$B> <ICE-JA:S1B-071#233:1:B> <[7> Right</[7></{7>
+
+<$B> <ICE-JA:S1B-071#234:1:B> <[8> Right</[8></{8>
+
+<$B> <ICE-JA:S1B-071#235:1:B> <[9> Right right</[9></{9>
+
+<$B> <ICE-JA:S1B-071#236:1:B> <[10> Right</[10></{10>
+
+<$B> <ICE-JA:S1B-071#237:1:B> <[11> <O> coughing</O>Right</[11></{11>
+
+<$B> <ICE-JA:S1B-071#238:1:B> <[12> <O> laughter</O>Yeah</[12></{12>
+
+<$B> <ICE-JA:S1B-071#239:1:B> She is back in sales</I>

@@ -1,0 +1,561 @@
+<I>
+
+<$A> <ICE-JA:S1B-062#1:1:A> Miss <@> Poland</@>
+
+<$B> <ICE-JA:S1B-062#2:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#3:1:A> You loved your mother of course
+
+<$B> <ICE-JA:S1B-062#4:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#5:1:A> And your mother's death is a great loss to you
+
+<$B> <ICE-JA:S1B-062#6:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#7:1:A> You said the name of your boyfriend is <@> Nelson Baker</@>
+<ICE-JA:S1B-062#8:1:A> <@> Nelson Baker</@>
+<ICE-JA:S1B-062#9:1:A> And you gave us a middle name as well
+<ICE-JA:S1B-062#10:1:A> <@> Stephen</@> was it
+<ICE-JA:S1B-062#11:1:A> <@> Nelson Stephen Baker</@>
+<ICE-JA:S1B-062#12:1:A> Officer please call <@> Nelson Baker</@>
+<ICE-JA:S1B-062#13:1:A> M'Lord sir I am going to ask a person to come into the courtroom
+
+<$C> <ICE-JA:S1B-062#14:1:C> Yes
+
+<$D> No answer
+
+<$A> <ICE-JA:S1B-062#15:1:A> He is out there
+<ICE-JA:S1B-062#16:1:A> He is outside
+<ICE-JA:S1B-062#17:1:A> Madam Miss <@> Poland</@> I am going to ask somebody to come into
+
+the courtroom you see and I am going to ask you not to say anything when the
+
+person is in the courtroom
+
+<$C> <ICE-JA:S1B-062#18:1:C> Just look at the person
+
+<$D> <ICE-JA:S1B-062#19:1:D> No one is answering
+
+<$A> <ICE-JA:S1B-062#20:1:A> He is downstairs
+
+<$C> <ICE-JA:S1B-062#21:1:C> Counsel she said nobody is answering
+<ICE-JA:S1B-062#22:1:C> He is not on the building
+
+<$A> <ICE-JA:S1B-062#23:1:A> He wasn't allowed to come into the building
+<ICE-JA:S1B-062#24:1:A> He is outside in front of the building
+<ICE-JA:S1B-062#25:1:A> Let me ask you while we are waiting Miss <@> Poland</@>
+
+<$C> <ICE-JA:S1B-062#26:1:C> So does the officer know where he can be located
+
+<$A> <ICE-JA:S1B-062#27:1:A> Mr <@> Sanders</@> knows sir
+<ICE-JA:S1B-062#28:1:A> He is gone
+<ICE-JA:S1B-062#29:1:A> Do you remember madam you told this court that when you left the
+
+house to come
+<ICE-JA:S1B-062#30:1:A> I am sorry
+<ICE-JA:S1B-062#31:1:A> I gather that he has left
+
+<$C> <ICE-JA:S1B-062#32:1:C> Just a second
+<ICE-JA:S1B-062#33:1:C> He has left
+<ICE-JA:S1B-062#34:1:C> I didn't hear the rest of what you said
+
+<$A> <ICE-JA:S1B-062#35:1:A> My information is that he has left sir
+
+<$C> <ICE-JA:S1B-062#36:1:C> I see
+
+<$A> <ICE-JA:S1B-062#37:1:A> Yes ma'am
+<ICE-JA:S1B-062#38:1:A> You told the court that when you came out that morning
+
+<$B> <ICE-JA:S1B-062#39:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#40:1:A> After you heard your mother call you
+
+<$B> <ICE-JA:S1B-062#41:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#42:1:A> You left <@> Nelson</@> asleep
+
+<$B> <ICE-JA:S1B-062#43:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#44:1:A> In bed
+<ICE-JA:S1B-062#45:1:A> Remember you said that
+
+<$B> <ICE-JA:S1B-062#46:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#47:1:A> But that is not true
+
+<$B> <ICE-JA:S1B-062#48:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#49:1:A> It is true
+
+<$B> <ICE-JA:S1B-062#50:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#51:1:A> All right
+<ICE-JA:S1B-062#52:1:A> You and I are going to have a little discussion about this case you
+
+see
+
+<$C> <ICE-JA:S1B-062#53:1:C> No counsel
+<ICE-JA:S1B-062#54:1:C> Just a second
+
+<$A> <ICE-JA:S1B-062#55:1:A> Beg pardon
+
+<$C> <ICE-JA:S1B-062#56:1:C> You are not having a discussion about the case
+
+<$A> <ICE-JA:S1B-062#57:1:A> Let me rephrase
+<ICE-JA:S1B-062#58:1:A> I am going to ask you some questions about this case you see and I
+
+am going to put certain things to you and I am going to put that you told the
+
+court a number of untruths
+
+<$B> <ICE-JA:S1B-062#59:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#60:1:A> Not true
+<ICE-JA:S1B-062#61:1:A> I am also going to put to you that it is not your fault
+<ICE-JA:S1B-062#62:1:A> Now
+
+<$C> <ICE-JA:S1B-062#63:1:C> You can't answer that
+
+<$A> <ICE-JA:S1B-062#64:1:A> Beg pardon
+
+<$C> <ICE-JA:S1B-062#65:1:C> She can't answer that
+
+<$A> <ICE-JA:S1B-062#66:1:A> You gave evidence at the preliminary enquiry in this matter
+
+madam
+
+<$B> <ICE-JA:S1B-062#67:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#68:1:A> And that was at Half Way Tree Court
+<ICE-JA:S1B-062#69:1:A> Am I correct
+
+<$B> <ICE-JA:S1B-062#70:1:B> It was at Half Way Tree Court sir
+<ICE-JA:S1B-062#71:1:B> No sir I never been to the Half Way Tree Court to give evidence
+
+<$A> <ICE-JA:S1B-062#72:1:A> All right
+<ICE-JA:S1B-062#73:1:A> Which court was it that you gave evidence
+
+<$B> <ICE-JA:S1B-062#74:1:B> It was the Gun Court
+
+<$A> <ICE-JA:S1B-062#75:1:A> Down at the Gun Court
+<ICE-JA:S1B-062#76:1:A> I beg your pardon
+<ICE-JA:S1B-062#77:1:A> Now during those proceedings you were asked whether <@> Nelson</@>
+
+was asleep when you came out of the house
+
+<$E> <ICE-JA:S1B-062#78:1:E> Objection
+<ICE-JA:S1B-062#79:1:E> My learned friend knows the rules of evidence
+<ICE-JA:S1B-062#80:1:E> I am objecting to <}> <-> the way</-> <=> the manner </=> </}> in
+
+which my learned friend is going about it
+
+<$A> <ICE-JA:S1B-062#81:1:A> Let me put to you first of all that when you were asked those
+
+questions the judge wrote them down at the preliminary enquiry
+
+<$C> <ICE-JA:S1B-062#82:1:C> Counsel counsel
+<ICE-JA:S1B-062#83:1:C> If you are relying on what is usually called a previous
+
+inconsistent statement you cannot go about it like that
+
+<$A> <ICE-JA:S1B-062#84:1:A> If I were sir
+
+<$C> <ICE-JA:S1B-062#85:1:C> If you are relying on what is usually called a previous
+
+inconsistent statement you cannot go about it like that
+
+<$A> <ICE-JA:S1B-062#86:1:A> Very well very well
+<ICE-JA:S1B-062#87:1:A> Did you tell the court at the preliminary enquiry madam that <@>
+
+Nelson</@> was awake when you came out
+
+<$B> <ICE-JA:S1B-062#88:1:B> <@> Nelson</@> was awake
+
+<$A> <ICE-JA:S1B-062#89:1:A> Yes
+
+<$B> <ICE-JA:S1B-062#90:1:B> <@> Nelson</@> was awake that is my son
+
+<$C> <ICE-JA:S1B-062#91:1:C> So did you say that at the preliminary enquiry that <@>
+
+Nelson</@> was awake
+
+<$B> <ICE-JA:S1B-062#92:1:B> Yes that was my son
+
+<$C> <ICE-JA:S1B-062#93:1:C> Wait a second
+<ICE-JA:S1B-062#94:1:C> Your son
+
+<$B> <ICE-JA:S1B-062#95:1:B> Yes sir
+
+<$C> <ICE-JA:S1B-062#96:1:C> Yes
+
+<$A> <ICE-JA:S1B-062#97:1:A> Now I am not talking about your son ma'am
+<ICE-JA:S1B-062#98:1:A> Did you tell the court that your boyfriend was awake
+
+<$B> <ICE-JA:S1B-062#99:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#100:1:A> I am suggesting to you madam that you did
+
+<$B> <ICE-JA:S1B-062#101:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#102:1:A> All right
+<ICE-JA:S1B-062#103:1:A> Now when you gave the evidence at the preliminary enquiry the
+
+judge wrote it down
+
+<$B> <ICE-JA:S1B-062#104:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#105:1:A> And when you had finished the judge read it back to you
+
+<$B> <ICE-JA:S1B-062#106:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#107:1:A> And in addition to that the judge invited you to correct
+
+anything which was wrong in what the judge had written down
+
+<$B> <ICE-JA:S1B-062#108:1:B> No sir I don't know of that
+
+<$A> <ICE-JA:S1B-062#109:1:A> You don't know of that
+
+<$B> <ICE-JA:S1B-062#110:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#111:1:A> But what the judge
+
+<$C> <ICE-JA:S1B-062#112:1:C> Just a minute
+
+<$A> <ICE-JA:S1B-062#113:1:A> But what the judge read back to you was what you had told the
+
+court
+
+<$B> <ICE-JA:S1B-062#114:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#115:1:A> Madam Registrar can I have the original please
+<ICE-JA:S1B-062#116:1:A> And you also signed the evidence that you gave that the judge
+
+wrote down at the preliminary enquiry
+
+<$B> <ICE-JA:S1B-062#117:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#118:1:A> And of course if you see your signature on it will you be
+
+able to recognise it
+
+<$B> <ICE-JA:S1B-062#119:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#120:1:A> Now madam
+
+<$B> <ICE-JA:S1B-062#121:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#122:1:A> Were you asked
+
+<$C> <ICE-JA:S1B-062#123:1:C> Just a second
+
+<$A> <ICE-JA:S1B-062#124:1:A> Did you tell the court
+
+<$C> <ICE-JA:S1B-062#125:1:C> Just a second counsel
+<ICE-JA:S1B-062#126:1:C> Exactly what you are putting
+
+<$A> <ICE-JA:S1B-062#127:1:A> Exactly what I am putting now
+<ICE-JA:S1B-062#128:1:A> Should I say it in the presence of the witness sir
+<ICE-JA:S1B-062#129:1:A> That she told the court that her boyfriend was awake before she
+
+went outside
+
+<$C> <ICE-JA:S1B-062#130:1:C> You never added <quote> before she went outside</quote>
+<ICE-JA:S1B-062#131:1:C> She said that she did not tell the court her boyfriend was awake
+
+that is what you put to her
+
+<$A> <ICE-JA:S1B-062#132:1:A> Very well
+<ICE-JA:S1B-062#133:1:A> Sorry thank you
+<ICE-JA:S1B-062#134:1:A> Miss <@> Poland</@>
+
+<$B> <ICE-JA:S1B-062#135:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#136:1:A> Did you not tell the court
+
+<$C> <ICE-JA:S1B-062#137:1:C> Just a second counsel
+<ICE-JA:S1B-062#138:1:C> Are you going to go over it again
+<ICE-JA:S1B-062#139:1:C> If it is a previous inconsistent statement just have her identify
+
+it on the document and you can show her where it is if there is anything that
+
+you wish her to read quietly
+
+<$E> <ICE-JA:S1B-062#140:1:E> Madam Registrar may I see that
+
+<$C> <ICE-JA:S1B-062#141:1:C> Before we show her she has to identify the document
+
+<$A> <ICE-JA:S1B-062#142:1:A> Yes sir
+<ICE-JA:S1B-062#143:1:A> You see your signature there ma'am
+
+<$B> <ICE-JA:S1B-062#144:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#145:1:A> Now look further up the page where the learned clerk is
+
+showing you
+
+<$C> <ICE-JA:S1B-062#146:1:C> Is that what the judge wrote down ma'am when you gave
+
+evidence at the Gun Court
+
+<$B> <ICE-JA:S1B-062#147:1:B> If is this the
+
+<$C> <ICE-JA:S1B-062#148:1:C> Yes
+
+<$B> <ICE-JA:S1B-062#149:1:B> I don't know if she was writing or she was using a
+
+<$C> <ICE-JA:S1B-062#150:1:C> You just look at that
+<ICE-JA:S1B-062#151:1:C> You say you signed it
+
+<$B> <ICE-JA:S1B-062#152:1:B> Yes I sign it
+
+<$C> <ICE-JA:S1B-062#153:1:C> That is what you signed at the Gun Court
+
+<$B> <ICE-JA:S1B-062#154:1:B> Yes
+
+<$C> <ICE-JA:S1B-062#155:1:C> Yes counsel
+<ICE-JA:S1B-062#156:1:C> Have you read it ma'am
+
+<$B> <ICE-JA:S1B-062#157:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#158:1:A> So you now agree with me ma'am
+
+<$C> <ICE-JA:S1B-062#159:1:C> Just a second counsel
+<ICE-JA:S1B-062#160:1:C> Having read that ma'am are you still saying that you never told
+
+the court that your boyfriend was awake
+
+<$B> <ICE-JA:S1B-062#161:1:B> I never told the court my boyfriend was awake
+
+<$A> <ICE-JA:S1B-062#162:1:A> You never told the court that your boyfriend was awake
+
+<$B> <ICE-JA:S1B-062#163:1:B> No sir
+
+<$C> <ICE-JA:S1B-062#164:1:C> Just a second please
+<ICE-JA:S1B-062#165:1:C> Yes
+
+<$A> <ICE-JA:S1B-062#166:1:A> Hold on
+<ICE-JA:S1B-062#167:1:A> You think this is a conspiracy against you by the court
+
+<$C> <ICE-JA:S1B-062#168:1:C> Just a second
+<ICE-JA:S1B-062#169:1:C> That is argument counsel which you are not entitled to embark on
+
+<$A> <ICE-JA:S1B-062#170:1:A> Look let me put to you ma'am that you did say it to the court
+
+and that you are changing now
+
+<$C> <ICE-JA:S1B-062#171:1:C> Counsel she had indicated that she did not tell the court
+
+that<ICE-JA:S1B-062#>She is shown something and she said she still says she never told the
+
+court that
+
+<$A> <ICE-JA:S1B-062#172:1:A> M'Lord so the defence for <@> Moon</@> and <@> Tallmer</@>
+
+tender that section of the evidence as exhibit number one in this case
+
+<$C> <ICE-JA:S1B-062#173:1:C> Could you assist us as to what section
+
+<$A> <ICE-JA:S1B-062#174:1:A> Yes sir
+
+<$C> <ICE-JA:S1B-062#175:1:C> What the passage starts with and what the passage ends with
+
+<$A> <ICE-JA:S1B-062#176:1:A> It starts
+
+<$C> <ICE-JA:S1B-062#177:1:C> The passage that you are supposed to have shown the witness
+
+<$A> <ICE-JA:S1B-062#178:1:A> It starts with a question with the first word <quote>
+
+before</quote> and it ends with an answer with the word <quote> yes</quote>
+<ICE-JA:S1B-062#179:1:A> Read the whole question sir
+
+<$C> <ICE-JA:S1B-062#180:1:C> No no
+
+<$A> <ICE-JA:S1B-062#181:1:A> Very well
+
+<$C> <ICE-JA:S1B-062#182:1:C> Could you assist me as to the lines rather that form that are
+
+to be put in as an exhibit
+
+<$A> <ICE-JA:S1B-062#183:1:A> It is on page four sir of her evidence and it is from the
+
+fifth line to the seventh line on page four
+
+<$C> <ICE-JA:S1B-062#184:1:C> Page four lines five to seven
+
+<$A> <ICE-JA:S1B-062#185:1:A> That is correct
+<ICE-JA:S1B-062#186:1:A> inclusive
+
+<$C> <ICE-JA:S1B-062#187:1:C> May I see it
+<ICE-JA:S1B-062#188:1:C> Yes
+<ICE-JA:S1B-062#189:1:C> Tendered as exhibit one the lines mentioned lines five to seven
+
+page four of the deposition of Miss <@> Poland</@>
+
+<$A> <ICE-JA:S1B-062#190:1:A> Yes
+<ICE-JA:S1B-062#191:1:A> Let me put to you ma'am that in fact what happened that morning
+
+was that some voices out in the street called out saying and said <quote>
+
+<indig> A <@> Lilly</@> a <@> Lilly</@> dem kill</indig></quote>
+
+<$C> <ICE-JA:S1B-062#192:1:C> That is what happened that morning that there were some
+
+voices in the street saying <quote> <indig> A<@>Lilly</@> dem
+
+kill</indig></quote>
+
+<$B> <ICE-JA:S1B-062#193:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#194:1:A> And the voice repeated it a second time
+
+<$C> <ICE-JA:S1B-062#195:1:C> The voice
+<ICE-JA:S1B-062#196:1:C> You asked about voices
+
+<$A> <ICE-JA:S1B-062#197:1:A> The voices
+<ICE-JA:S1B-062#198:1:A> Beg pardon
+<ICE-JA:S1B-062#199:1:A> The voices repeated it <quote> <indig> A <@> Lilly</@> a <@>
+
+Lilly</@> dem kill</indig></quote>
+
+<$C> <ICE-JA:S1B-062#200:1:C> What is your answer to that
+
+<$B> <ICE-JA:S1B-062#201:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#202:1:A> And your boyfriend is also called <@> Zoom</@> isn't that so
+
+<$B> <ICE-JA:S1B-062#203:1:B> Yes sir
+
+<$C> <ICE-JA:S1B-062#204:1:C> Is he still your boyfriend ma'am
+
+<$B> <ICE-JA:S1B-062#205:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#206:1:A> Your ex-boyfriend your then boyfriend
+
+<$C> <ICE-JA:S1B-062#207:1:C> She never referred to him as boyfriend
+<ICE-JA:S1B-062#208:1:C> She referred to him as baby-father
+
+<$A> <ICE-JA:S1B-062#209:1:A> Your then baby-father is also called <@> Zoom</@> am I
+
+correct
+
+<$B> <ICE-JA:S1B-062#210:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#211:1:A> And you looked at <@> Zoom</@> and you said to him <quote>
+
+<indig> A mi madda dem kill</indig></quote>
+
+<$B> <ICE-JA:S1B-062#212:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-062#213:1:A> And you hurried and put on a skirt with a white ganzi
+
+<$B> <ICE-JA:S1B-062#214:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#215:1:A> You had slept in white ganzi that night
+
+<$B> <ICE-JA:S1B-062#216:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#217:1:A> What I am saying madam is that you hurried and put on a skirt
+
+with a white ganzi that you slept in that night
+
+<$B> <ICE-JA:S1B-062#218:1:B> No sir
+
+<$A> <ICE-JA:S1B-062#219:1:A> And you rushed out of the room leaving <@> Zoom</@> and the
+
+baby
+
+<$B> <ICE-JA:S1B-062#220:1:B> Yes
+
+<$A> <ICE-JA:S1B-062#221:1:A> We can't hear you ma'am
+
+<$B> <ICE-JA:S1B-062#222:1:B> Yes
+
+<$C> <ICE-JA:S1B-062#223:1:C> Mr Nelson about how much longer will you be with this
+
+particular witness
+<ICE-JA:S1B-062#224:1:C> Is this a convenient time
+
+<$A> <ICE-JA:S1B-062#225:1:A> Very long
+
+<$C> <ICE-JA:S1B-062#226:1:C> Is this a convenient time
+
+<$A> <ICE-JA:S1B-062#227:1:A> Yes it is a convenient time
+
+<$C> <ICE-JA:S1B-062#228:1:C> Miss <@> Poland</@> you are going to have to come back
+
+tomorrow
+<ICE-JA:S1B-062#229:1:C> We won't finish with you today
+<ICE-JA:S1B-062#230:1:C> Counsel it was brought to my attention that this particular
+
+courtroom tomorrow morning at ten will be the scene of another activity
+<ICE-JA:S1B-062#231:1:C> I gather that somebody is being called to the Bar
+<ICE-JA:S1B-062#232:1:C> In the circumstances adjournment today will be to ten thirty and
+
+that is depending on the activity finishing before that time
+<ICE-JA:S1B-062#233:1:C> If it goes over then you can appreciate
+
+<$A> <ICE-JA:S1B-062#234:1:A> Ten thirty or a later time
+
+<$C> <ICE-JA:S1B-062#235:1:C> Mr <@> Tempest</@> and your members I am going to ask you to
+
+come back to court tomorrow morning in time for ten thirty
+<ICE-JA:S1B-062#236:1:C> There is I gather to be some activities in this court which would
+
+mean that we could not start at ten o'clock
+<ICE-JA:S1B-062#237:1:C> I am going to tentatively adjourn to ten thirty hoping that we
+
+will be able to start at ten thirty but the function may go a little beyond
+
+that
+<ICE-JA:S1B-062#238:1:C> Now I am obliged to ask you once again not to discuss this case
+
+with anybody or have anybody approach you to discuss the case with you
+<ICE-JA:S1B-062#239:1:C> Anybody who attempts to do that it should not be done and if any
+
+attempt is made please report to the Registrar or the nearest police officer
+<ICE-JA:S1B-062#240:1:C> I am going to ask you please to come back in time for ten thirty
+<ICE-JA:S1B-062#241:1:C> We may start later than ten thirty but definitely not earlier
+<ICE-JA:S1B-062#242:1:C> Yes
+<ICE-JA:S1B-062#243:1:C> The matter is adjourned to
+
+<$A> <ICE-JA:S1B-062#244:1:A> Before you adjourn sir there is a witness who your Lordship
+
+had bound over and is not here
+<ICE-JA:S1B-062#245:1:A> Whatever your Lordship sees fit to issue we are going to ask for
+
+the stay of execution
+
+<$C> <ICE-JA:S1B-062#246:1:C> Well counsel I did in fact bind a witness over but what is
+
+the name of the witness that is absent
+<ICE-JA:S1B-062#247:1:C> Is that the witness for the crown
+
+<$A> <ICE-JA:S1B-062#248:1:A> <@> Nelson Baker</@>
+
+<$C> <ICE-JA:S1B-062#249:1:C> You may come down ma'am
+<ICE-JA:S1B-062#250:1:C> The witness who was bound over and not appearing stay of execution
+
+<$A> <ICE-JA:S1B-062#251:1:A> Until tomorrow
+
+<$C> <ICE-JA:S1B-062#252:1:C> Yes
+
+<$A> <ICE-JA:S1B-062#253:1:A> Thank you very much indeed m'Lord
+
+<$C> <ICE-JA:S1B-062#254:1:C> Yes
+<ICE-JA:S1B-062#255:1:C> Resume tomorrow morning at ten thirty
+<ICE-JA:S1B-062#256:1:C> The gentlemen in the dock are remanded in custody until then
+
+<$E> <ICE-JA:S1B-062#257:1:E> My Lord may the other witnesses be bound over
+
+<$C> <ICE-JA:S1B-062#258:1:C> Other witnesses present
+<ICE-JA:S1B-062#259:1:C> What are the names of the officers
+
+<$E> <ICE-JA:S1B-062#260:1:E> Detective Inspector <@> Kenny Lodge</@> m'Lord Constable <@>
+
+Greg West</@>
+
+<$C> <ICE-JA:S1B-062#261:1:C> Return to court tomorrow at ten thirty when the case will
+
+continue
+<ICE-JA:S1B-062#262:1:C> We adjourn until tomorrow morning at ten thirty</I>

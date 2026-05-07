@@ -1,0 +1,421 @@
+<I>
+
+<p> <ICE-JA:W2A-022#1:1> <h> <bold> The Effect of Kingston Harbour Outflow on the
+
+Zooplankton Populations of Hellshire, South-east Coast, Jamaica </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2A-022#2:1> <bold> Mona K. Lindo </bold> </p>
+
+<p> <ICE-JA:W2A-022#3:1> <it> Department of Zoology, University of the West Indies, ( Mona)
+
+Kingston 7, Jamaica </p>
+
+<p> <ICE-JA:W2A-022#4:1> Received 5 April 1990 and in revised form 8 November 1990 </it>
+
+</p>
+
+<p> <ICE-JA:W2A-022#5:1> <bold> Keywords: </bold> zooplankton populations; spatial
+
+distribution; eutrophication; Kingston Harbour; Hellshire coastline </p>
+
+<p> <ICE-JA:W2A-022#6:1> Zooplantkon sampling was conducted at 16 stations located at the
+
+mouth of Kingston Harbour and throughout the Hellshire area from November
+
+1985 to March 1987.
+<ICE-JA:W2A-022#7:1> Parameters examined included total biomass, total numbers and numbers
+
+of numerically important zooplankton species.
+<ICE-JA:W2A-022#8:1> Maximum values were recorded west of the Harbour mouth ( station 1)
+
+and these gradually decreased with distance from the harbour especially at
+
+the <quote> 'offshore' </quote> stations, producing a gradient effect in this
+
+area.
+<ICE-JA:W2A-022#9:1> Mean biomass and abundance for the period sampled ranged from 14 gm
+
+<sp> - 3 </sp> and 16 313 individuals m <sp> - 3 </sp> at the western side of
+
+the Harbour mouth to 0.4 gm <sp> - 3 </sp> and 172 individuals m <sp> - 3
+
+</sp> at the Wreck Reef.
+<ICE-JA:W2A-022#10:1> Stations within the bays of Hellshire occasionally had values similar
+
+to those recorded at the mouth of Kingston Harbour and here there was less
+
+evidence of a gradual decline.
+<ICE-JA:W2A-022#11:1> Considerable monthly fluctuation occurred in these parameters but
+
+there was no discernible seasonal pattern.
+<ICE-JA:W2A-022#12:1> Copepods dominated the population at most stations and the sergestid
+
+<it> Lucifer faxoni </it> also proved an important member at the western
+
+Harbour mouth station. </p>
+
+<p> <ICE-JA:W2A-022#13:1> <h> <bold> Introduction </bold> </h> </p>
+
+<p> <ICE-JA:W2A-022#14:1> Tropical coastal zooplankton communities have been employed in
+
+the identification of water quality and as an index of eutrophication in
+
+numerous investigations ( Cluter, 1973; Desai, 1977; Youngbluth, 1976; Wear,
+
+1984).
+<ICE-JA:W2A-022#15:1> Usually the pollutant reduces species diversity, increases population
+
+size and causes episodic pulses of the zooplankton community. </p>
+
+<p> <ICE-JA:W2A-022#16:1> In Jamaica, Kingston Harbour has been the focus of numerous
+
+ecological studies which primarily sought to monitor the levels of pollution
+
+and its impact on the flora and fauna of the area.
+<ICE-JA:W2A-022#17:1> Wade ( 1971) reported that the Harbour was polluted and that the most
+
+severe form of pollution was eutrophication.
+<ICE-JA:W2A-022#18:1> Successive studies revealed the rate of deterioration of the benthic
+
+communities was such that total destruction was imminent if the increasing
+
+eutrophication remained unchecked ( Wade <it> et al. </it> , 1972).
+<ICE-JA:W2A-022#19:1> This increasing organic pollution was also reported to have
+
+significant effects on the planktonic communities within the Harbour (
+
+Grahame, 1976; Moore & Sander, 1979), causing increases in phytoplankton
+
+production and zooplankton community size.
+<ICE-JA:W2A-022#20:1> By 1982, Moore and Sander described Kingston Harbour as a highly
+
+eutrophic body of water. </p>
+
+<p> <ICE-JA:W2A-022#21:1> Previous zooplankton investigations on the southern shelf of
+
+Jamaica have compared the eutrophic Harbour to the coastal shelf and oceanic
+
+waters ( Moore, 1967; Moore & Sander, 1979).
+<ICE-JA:W2A-022#22:1> However, there is no comprehensive investigation of the zooplankton
+
+of the Hellshire area which lies immediately south-west of Kingston Harbour.
+<ICE-JA:W2A-022#23:1> It has been suggested that outflow from the harbour, which is
+
+normally via a weak, southerly-flowing surface current ( Sherwin & Deeming,
+
+1980), impacts the Hellshire coastline.
+<ICE-JA:W2A-022#24:1> This polluted outflow is thought to produce a gradient of
+
+eutrophication from the north-eastern sector of Hellshire which decreases
+
+towards the south-west.
+<ICE-JA:W2A-022#25:1> Investigations along Hellshire have also reported rapid, deleterious
+
+changes in the coral reef and seagrass communities, coupled with observations
+
+of severe beach erosion in the bays closest to Kingston Harbour ( Head &
+
+Hendry, 1985; Bacon & Head, 1985).
+<ICE-JA:W2A-022#26:1> The observed degra <l> dation along Hellshire and the proposed
+
+further development of the area as a major urban centre created the need for
+
+intensive baseline studies and the identification of sources of
+
+eutrophication to the area. </p>
+
+<p> <ICE-JA:W2A-022#27:1> The above information suggests that there is one major source of
+
+eutrophication to the Hellshire area, Kingston Harbour.
+<ICE-JA:W2A-022#28:1> These polluted waters are advected through the area undergoing
+
+progressive dilution by oceanic waters as the distance form the harbour
+
+increases.
+<ICE-JA:W2A-022#29:1> Alternatively there may be other sources of eutrophication located in
+
+the Hellshire area which would have immediate and large-scale effects on the
+
+area. </p>
+
+<p> <ICE-JA:W2A-022#30:1> The objectives of this study were therefore to provide basic data
+
+on the zooplankton populations of Hellshire, identify zooplankton indices
+
+which may be useful monitors of increasing organic pollution (
+
+eutrophication) and identify the source or sources of eutrophication stress
+
+to the Hellshire area. </p>
+
+<p> <ICE-JA:W2A-022#31:1> <h> <bold> Site description </bold> </h> </p>
+
+<p> <ICE-JA:W2A-022#32:1> The Hellshire area ( Figure 1), which lies south-west of
+
+Kingston, consists of approxi <l> mately 10 000 acres of arid karst limestone
+
+hills, coastal lagoons, beaches and rocky head <l> lands.
+<ICE-JA:W2A-022#33:1> The 27-km stretch of coastline consists of a variety of highly
+
+productive coastal habitats which include coral reefs, seagrass beds and
+
+mangals.
+<ICE-JA:W2A-022#34:1> The major lagoonal system in the area, the Great Salt Pond, is a
+
+shallow mangrove lagoon of 17.2 ha ( Reeson, 1971).
+<ICE-JA:W2A-022#35:1> It receives land runoff and partially treated sewage from the Breaton
+
+area of St Catherine ( P. Bacon, pers. comm.)
+<ICE-JA:W2A-022#36:1> The Salt Pond opens into the eastern end of Hellshire Bay via a 10-m
+
+wide artificial channel. </p>
+
+<p> <ICE-JA:W2A-022#37:1> The north-eastern sector of the Hellshire coastline which is
+
+delimited by Small Point in the north-east and Wreck Point in the south-west
+
+is 15 km long and consists of seven major bays.
+<ICE-JA:W2A-022#38:1> These bays are all relatively shallow ( 1-5 m) and are protected by
+
+reefs and sand banks to varying degrees.
+<ICE-JA:W2A-022#39:1> Kingston Harbour will not be described here as this has been
+
+extensively done by Goodbody ( 1961) and Moore and Sander ( 1982). </p>
+
+<p> <ICE-JA:W2A-022#40:1> <h> <bold> Methods </bold> </h> </p>
+
+<p> <ICE-JA:W2A-022#41:1> The 16 stations selected ( Figure 1) were sampled at monthly
+
+intervals for a 17- month period.
+<ICE-JA:W2A-022#42:1> Three stations ( 1, 2 and 3) were located across the mouth of
+
+Kingston Harbour, six ( stations 4, 6, 7, 8, 9 and 10) within the bays found
+
+along the Hellshire coastline and one ( station 5) inside the Great Salt
+
+Pond.
+<ICE-JA:W2A-022#43:1> Five stations ( 11 to 15) were located approximately <O> map </O> <O>
+
+caption </O> 3 km from the shoreline ( called <quote> 'offshore' </quote>
+
+stations).
+<ICE-JA:W2A-022#44:1> An additional station ( 16) was located at South-east Cay, the most
+
+easterly of the Port Royal Cays, in an area which would not come under the
+
+influence of Kingston Harbour or be affected by land runoff from Hellshire.
+
+</p>
+
+<p> <ICE-JA:W2A-022#45:1> Zooplankton collections were made with a 200-&mu; m mesh plankton
+
+net with a hoop diameter of 0.5 m ( SCOR, WP2 pattern; UNESCO, 1968). Surface
+
+tows were conducted in a circular path ( circle diameter 30-40 m) at a speed
+
+of 0.5 ms <sp> - 1 </sp> and lasted 5 min.
+<ICE-JA:W2A-022#46:1> Sampling coefficient of variation, given by the equation, C.V. = (
+
+standard deviaton x 100)/mean involving repeated tows at the same station (
+
+n=5), was determined for all stations.
+<ICE-JA:W2A-022#47:1> This yielded an average sampling coefficient of variation for the
+
+area of 15.6% ( range 2.29-25.99).
+<ICE-JA:W2A-022#48:1> Salinity and temperature measurements were also done at each station
+
+contemporaneously with faunal collections.
+<ICE-JA:W2A-022#49:1> The filtering efficiency of the net used was determined at each
+
+station using two general oceanic digital flow meters with low-velocity
+
+rotors.
+<ICE-JA:W2A-022#50:1> This ranged from 50% at the Harbour mouth to 80% at Wreck Reef. </p>
+
+<p> <ICE-JA:W2A-022#51:1> Identification and counting were performed on an aliquot of the
+
+sample preserved in 10% formalin.
+<ICE-JA:W2A-022#52:1> A subsample was taken using a 60-ml graduated syringe while keeping
+
+the sample agitated ( Tremblay & Roff, 1983).
+<ICE-JA:W2A-022#53:1> All taxonomic groups were subsampled in this manner with the
+
+exception of the larger medusae and ctenophores which were too large to be
+
+picked up by the syringe and were counted separately.
+<ICE-JA:W2A-022#54:1> Each subsample was transferred to the circular tray of a modified
+
+James Ward Plankton Counter ( Bacon, 1971; Ferraris, 1982) and viewed under a
+
+Wolfe dissecting microscope.
+<ICE-JA:W2A-022#55:1> The precision of this technique was tested by enumerating the total
+
+numbers in five subsamples from each station and calculating the coefficient
+
+of variation.
+<ICE-JA:W2A-022#56:1> These yielded an average subsampling coefficient of variation of 7.5%
+
+( range between 2.07 and 16.28).
+<ICE-JA:W2A-022#57:1> For biomass determinations, a portion of each sample was washed with
+
+distilled water and dried to constant weight at 60 &degree; C. </p>
+
+<p> <ICE-JA:W2A-022#58:1> Two communities index tests were applied to the data using the
+
+species composition.
+<ICE-JA:W2A-022#59:1> These were the Jaccard Community Coefficient ( Whittaker & Fairbanks,
+
+1958) and the Percent Similarity Coefficient ( e.g. Kwiatkowski & Roff,
+
+1976).
+<ICE-JA:W2A-022#60:1> The Jaccard Community Coefficient is given by the formula <O> formula
+
+</O> where <it> a </it> is the number of species present at both stations,
+
+<it> b </it> is the number of species present at station 1 but not at station
+
+2 and <it> c </it> is the number of species present at station 2 but not at
+
+station 1.
+<ICE-JA:W2A-022#61:1> This coefficient thus neglects conjoint absences and is based on
+
+presence or absence, not the number of times present of the quantity.
+<ICE-JA:W2A-022#62:1> Thus single rare occurrences will carry as much weight as those that
+
+are regular and in large amounts.
+<ICE-JA:W2A-022#63:1> The Percent Similarity Coefficient is given by the equation <O>
+
+formula </O> where <it> a' </it> and <it> b' </it> are the respective
+
+percentage of animals ( for each species) at each pair of stations.
+<ICE-JA:W2A-022#64:1> This coefficient neglects single rare occurrences and thus may
+
+compensate for the weakness of the Jaccard Community Coefficient.
+<ICE-JA:W2A-022#65:1> Both coefficients were calculated com <l> paring the community at
+
+stations 1, 6 and 15 to that at all other stations.
+<ICE-JA:W2A-022#66:1> Stations 1 ( Harbour mouth) and 6 ( Great Salt Pond) were the
+
+suspected sources to the area and 15 was thought to represent the extreme
+
+pristine end of the system. </p>
+
+<p> <ICE-JA:W2A-022#67:1> <h> <bold> Results and discussion </bold> </h> </p>
+
+<p> <ICE-JA:W2A-022#68:1> <h> <it> Physical parameters </it> </h> </p>
+
+<p> <ICE-JA:W2A-022#69:1> Salinity and temperature with means of 33.5 and 28.5 &degree; C,
+
+respectively, were found to not vary significantly spatially or temporally (
+
+MANOVA test with <it> F </it> value probabilities of 0.9670 and 0.9136).
+<ICE-JA:W2A-022#70:1> The lack of spatial and temporal variation in these variables is
+
+typical of this area ( Moore & Sander, 1979, 1982) and thus cannot account
+
+for spatial variation of the biota.
+<ICE-JA:W2A-022#71:1> The salinity in Kingston Harbour and along Hellshire changes
+
+significantly only under conditions of extreme flooding ( Goodbody, 1961).
+
+</p>
+
+<p> <ICE-JA:W2A-022#72:1> <h> <it> Sampling variability </it> </h> </p>
+
+<p> <ICE-JA:W2A-022#73:1> The coefficient of variation associated with subsamples and
+
+repeated plankton tows at each station indicated the degree of variability
+
+associated with the techniques.
+<ICE-JA:W2A-022#74:1> It must be noted that the variation inherent in the methodology (
+
+average 7.5 and 15.6% C.V.) was low compared with that obtained from monthly
+
+variation in the parameters, which in some cases exceeded 300% C.V. ( Figure
+
+3). </p>
+
+<p> <ICE-JA:W2A-022#75:1> <h> <it> Zooplankton biomass and abundance </it> </h> </p>
+
+<p> <ICE-JA:W2A-022#76:1> It can be postulated that high mean biomass or numbers coupled
+
+with high monthly fluctuations are indicative of an area subject to periodic
+
+large-scale enrichment ( land <l> derived nutrients); high mean values with
+
+low fluctuations indicate regular large-scale enrichment.
+<ICE-JA:W2A-022#77:1> Similarly, low mean values with high monthly fluctuations are
+
+indicative of an area subject to infrequent enrichment and areas where both
+
+mean values and monthly fluctuations are low constantly receive little or no
+
+enrichment. </p>
+
+<p> <ICE-JA:W2A-022#78:1> Biomass and numbers m <sp> - 3 </sp> of the zooplankton
+
+population at each station ( Figure 2) varied significantly throughout the
+
+area ( Table 1).
+<ICE-JA:W2A-022#79:1> Maximum mean values were recorded at station 1, at the west of the
+
+Harbour mouth, usually followed by the other Harbour mouth stations ( 2 and
+
+3).
+<ICE-JA:W2A-022#80:1> Occasionally the population size at station 5 at the mouth of the
+
+Great Salt Pond and station 7 in Hellshire Bay exceeded those at the harbour
+
+mouth stations, and the monthly fluctuations ( % C.V.) calculated for these
+
+stations usually exceeded that at the Harbour or any other station throughout
+
+the area.
+<ICE-JA:W2A-022#81:1> The degree of monthly fluctuation ( % C.V.) in total numbers and
+
+biomass was greater than 50% at most stations and was as high as 200% at
+
+stations 5 and 9.
+<ICE-JA:W2A-022#82:1> High monthly fluctuation or episodic behaviour is not uncommon in
+
+tropical coastal zooplankton communities, but such large values suggest
+
+community instability usually resulting from enrichment. </p>
+
+<p> <ICE-JA:W2A-022#83:1> There was a pattern of gradual decline in total numbers at
+
+<quote> 'offshore' </quote> stations ( 11 to 15) with distance from the
+
+Harbour.
+<ICE-JA:W2A-022#84:1> There was no similar gradual decline along the bays due to the large
+
+values recorded at stations 5 and 7.
+<ICE-JA:W2A-022#85:1> Station 4 ( Green Bay) is the closest bay to the Harbour and would
+
+therefore be expected to have the greatest values of all bay stations.
+<ICE-JA:W2A-022#86:1> Stations within Hellshire Bay however had the greatest populations of
+
+all the bay stations.
+<ICE-JA:W2A-022#87:1> Thus the distribution within the bays cannot be explained by gradual
+
+dilution with distance from a source of enrichment ( Kingston Harbour).
+<ICE-JA:W2A-022#88:1> Simple linear regression revealed that a greater per cent of the
+
+variation in biomass and, to a lesser extent, total numbers at the <quote> 'offshore'
+
+</quote > stations was attributable to distance from the harbour, more so
+
+than at the bays ( Table 2).
+<ICE-JA:W2A-022#89:1> This successful regression model suggests a gradual decline with
+
+distance along Hellshire which is strongest along the <quote> 'offshore'
+
+</quote> area. </p>
+
+<p> <ICE-JA:W2A-022#90:1> <h> <it> Zooplanktion taxa </it> </h> </p>
+
+<p> <ICE-JA:W2A-022#91:1> Seventy-nine different taxa were identified throughout the area
+
+sampled ( Table 3). </I>

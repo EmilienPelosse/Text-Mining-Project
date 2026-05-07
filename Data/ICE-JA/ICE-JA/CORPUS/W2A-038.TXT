@@ -1,0 +1,424 @@
+<I>
+
+<p> <ICE-JA:W2A-038#1:1> <h> <bold> Glycine is Not Formed through the Amino Transferase
+
+Reaction in Human or Rat Placenta </bold> </h> </p>
+
+<p> <ICE-JA:W2A-038#2:1> <bold> F. I. Bennett <fnr> <sp> a </sp> </fnr> and A. A. Jackson
+
+<fnr> <sp> b </sp> </fnr> <sp> , c </sp> <footnote>
+<ICE-JA:W2A-038#3:1> <sp> a </sp> Department of Pathology, University of the West Indies,
+
+Mona, Kingston 7, Jamaica, West Indies </footnote> <footnote>
+<ICE-JA:W2A-038#4:1> <sp> b </sp> Institute of Human Nutrition, University of Southampton,
+
+Bassett Crescent East, Southampton SO16 7PX, UK </footnote> </p>
+
+<p> <ICE-JA:W2A-038#5:1> Paper accepted 7 November 1997 </p>
+
+<p> <ICE-JA:W2A-038#6:1> The fetus has a substantial demand for glycine, which is satisfied
+
+in part by placental formation.
+<ICE-JA:W2A-038#7:1> The ability to form glycine through the activity of alanine :
+
+glyoxylate aminotransferase enzyme was measured in placentae from normal term
+
+human pregnancies and placentae from rats at day 20 of gestation.
+<ICE-JA:W2A-038#8:1> There was no detectable enzyme activity in either human or rat
+
+placentae, although activity was measured in rat liver.
+<ICE-JA:W2A-038#9:1> It is concluded that in the placenta glycine is only formed from
+
+serine through the activity or serine hydroxymethyl transferase enzyme, which
+
+uses folate as a cofactor, because there are no other known metabolic
+
+pathways for endogenous glycine production. </p>
+
+<p> <ICE-JA:W2A-038#10:1> © 1998 W. B. Saunders Company Ltd </p>
+
+<p> <ICE-JA:W2A-038#11:1> Placenta ( 1998), <bold> 19, </bold> 329-331 </p>
+
+<p> <ICE-JA:W2A-038#12:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-038#13:1> The fetal demand for amino acids is high for net tissue
+
+deposition and as an oxidizable substrate to provide energy.
+<ICE-JA:W2A-038#14:1> The demands for individual amino acids are uneven with the highest
+
+fetal demand being for glycine ( Widdowson, Southgate and Hey, 1979; Jackson,
+
+1991).
+<ICE-JA:W2A-038#15:1> Glycine, the simplest amino acid, is a component of most proteins,
+
+but is also needed as a building block for the biosynthesis of a range of
+
+more complex molecules and plays an important role in the development and
+
+function of the central nervous system ( Jackson, 1991).
+<ICE-JA:W2A-038#16:1> In adequately nourished individuals on a normal dietary intake, up to
+
+90 per cent of the requirement for glycine might be met by endogenous
+
+formation ( Neuberger, 1981), and therefore it has been considered to be a
+
+dietarily non-essential amino acid.
+<ICE-JA:W2A-038#17:1> However, with the increased demands of pregnancy or growth during
+
+neonatal life, the availability of the amino acid is constrained and it
+
+becomes conditionally essential ( Jackson et al., 1997c,d). </p>
+
+<p> <ICE-JA:W2A-038#18:1> The fetus might obtain its glycine from the mother, by formation
+
+in the placenta, or its own production.
+<ICE-JA:W2A-038#19:1> Maternal provision only satisfies about 10 per cent of the need of
+
+the human fetus ( Cetin et al., 1995) and, based upon sheep studies, the
+
+formation of glycine by the placenta appears to play a major role ( Geddie et
+
+al., 1996).
+<ICE-JA:W2A-038#20:1> Serine is taken from the maternal circulation, and also from fetal
+
+liver, as the precursor for placental glycine formation and thus, the pathway
+
+for glycine synthesis is presumed to be through the serine hydroxymethyl
+
+transferase reaction ( SHMT), which uses folate as a cofactor ( Neuberger,
+
+1981, Stover and Schirch, 1990).
+<ICE-JA:W2A-038#21:1> However, there is a possible alternative pathway for glycine
+
+formation, through the enzyme alanine glyoxylate transaminase ( AGT, <it> EC
+
+2.6.1.44 </it> ) in which glycine is produced by transamination of glyoxylate
+
+with either alanine or glutamic acid ( Noguchi and Takada, 1979).
+<ICE-JA:W2A-038#22:1> The placenta has a net consumption of glutamic acid which might
+
+provide the amino group for glycine formation. </p>
+
+<p> <ICE-JA:W2A-038#23:1> The present study was undertaken to identify the activity of AGT
+
+in human and rat placenta in order to determine whether this pathway could
+
+contribute to the additional glycine required by the fetus. </p>
+
+<p> <ICE-JA:W2A-038#24:1> <h> <bold> MATERIALS AND METHODS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-038#25:1> Placentae were collected from mothers who were part of a larger
+
+study being conducted at the Princess Anne Hospital, Southampton, UK.
+<ICE-JA:W2A-038#26:1> The mothers had given their consent for the placenta to be used for
+
+research purposes.
+<ICE-JA:W2A-038#27:1> A research assistant attended the delivery, collected and processed
+
+the placenta as soon as it was delivered.
+<ICE-JA:W2A-038#28:1> A sample was taken and immedialtely placed on ice.
+<ICE-JA:W2A-038#29:1> The sample was stored at 4 &degree; C and analyses performed within
+
+24 h.
+<ICE-JA:W2A-038#30:1> Rat dams had received a formula diet based on casein ( 120g/kg) from
+
+2 weeks before becoming pregnant and for the duration of pregnancy. <O>
+
+caption </O> <O> table </O>
+<ICE-JA:W2A-038#31:1> At 20 days gestation, samples of liver and placenta were taken.
+<ICE-JA:W2A-038#32:1> The samples were immediately snap-frozen in liquid nitrogen and
+
+stored at 80 &degree; C until analysis.
+<ICE-JA:W2A-038#33:1> For each tissue a known weight of approximately 10 mg was taken and
+
+homogenized at 4 &degree; C in 400 &mu; l phosphate buffer ( 0.1 <smallcaps>
+
+M </smallcaps> , pH 8.0) which con <l> tained 250 m <smallcaps> M
+
+</smallcaps> sucrose.
+<ICE-JA:W2A-038#34:1> The suspension was sonicated at 4 &degree; C for three periods of 30
+
+sec at intervals of 30 sec and centrifuged at 10000 <it> g </it> for 10 min
+
+at 4 &degree; C.
+<ICE-JA:W2A-038#35:1> The supernatant was analysed for enzyme activity and protein content.
+<ICE-JA:W2A-038#36:1> The activity of AGT was determined as the formation of pyruvate,
+
+measured spectro <l> photometrically by the method described by Petrarulo et
+
+al. ( 1992), a modification of the method of Rowsell et al. ( 1972) and
+
+Wanders et al. ( 1990).
+<ICE-JA:W2A-038#37:1> Under the assay conditions, it is estimated that for human liver,
+
+<smallcaps> L </smallcaps> - glutamate: glyoxylate amino transferase ( GGT,
+
+<it> EC 2.6.1.4 </it> ) is responsible for 5-10 per cent of the pyruvate
+
+formed ( Thompson and Richardson, 1966).
+<ICE-JA:W2A-038#38:1> The activity of GGT was measured by substituting glutamate for
+
+alanine in the assay medium.
+<ICE-JA:W2A-038#39:1> The true AGT activity was calculated as the total activity minus the
+
+activity attributed to GGT.
+<ICE-JA:W2A-038#40:1> Protein concentration was determined using the bi-cinchonic acid
+
+modification of the Lowry assay for protein ( Smith et al., 1985). </p>
+
+<p> <ICE-JA:W2A-038#41:1> <h> <bold> RESULTS </bold> </h>
+
+<p>
+
+<p> <ICE-JA:W2A-038#42:1> The weight of the three human placentae was 640, 547 and 679 g,
+
+and the birthweight of the infants was 2830, 3770 and 4010 g, respectively.
+<ICE-JA:W2A-038#43:1> For the human placenta and for the rat placenta, no measurable
+
+activity was detected, for either AGT or GGT ( Table 1).
+<ICE-JA:W2A-038#44:1> To validate that the method was in fact capable of measuring activity
+
+if present, the assays were carried out in rat liver.
+<ICE-JA:W2A-038#45:1> Table 1 shows that for rats at 20 days gestation, the mean AGT
+
+activity in liver was 10.5 &mu; mol pyruvate/h/mg protein.
+<ICE-JA:W2A-038#46:1> The activity for liver GGT was 0.5 &mu; mol oxalo <?> - </?>
+
+acetate/h/mg protein.
+<ICE-JA:W2A-038#47:1> The GGT activity was measured in an initial experiment, but not in
+
+subsequent assays. </p>
+
+<p> <ICE-JA:W2A-038#48:1> <h> <bold> DISCUSSION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-038#49:1> Glycine is required in large amounts for normal growth ( Jackson,
+
+1991).
+<ICE-JA:W2A-038#50:1> Although the fetal liver may make some contribution ( Moores et al.,
+
+1994), delivery of adequate amounts from the placenta is considered to be the
+
+most important source for normal fetal development.
+<ICE-JA:W2A-038#51:1> In the human, placental uptake of glycine from the maternal
+
+circulation contributes less than 10 per cent to the flow of glycine in the
+
+umbilical vein and the transporter systems for glycine are much less active
+
+than those for leucine, for example ( Cetin et al., 1995); rather, serine is
+
+taken up by the placenta from the maternal circulation in relatively large
+
+amounts, and most of this is released into the umbilical vein as glycine (
+
+Geddie et al., 1996).
+<ICE-JA:W2A-038#52:1> Based on this evidence it has been concluded that the placental
+
+formation of glycine from serine, derived either from the maternal
+
+circulation or the fetal liver itself, is the major source of glycine for the
+
+fetus ( Meschia, 1997).
+<ICE-JA:W2A-038#53:1> In the present study we have shown that the alternative pathway for
+
+glycine formation by transamination does not take place in either the rat
+
+placenta at 20 days gestation or the term human placenta.
+<ICE-JA:W2A-038#54:1> From this we conclude that the formation of glycine from serine
+
+through the pathway catalysed by SHMT is the most important, if not only,
+
+pathway for glycine formation in the placenta ( Neuberger, 1981). </p>
+
+<p> <ICE-JA:W2A-038#55:1> SHMT requires folate as a co-factor, and in rats experimen <l>
+
+tal folate deficiency reduces the interconversion of serine and glycine by 50
+
+per cent ( Arnstein and Stankovic, 1956).
+<ICE-JA:W2A-038#56:1> There <l> fore, it can be presumed that if maternal folate status is
+
+marginal or inadequate the placental synthesis of glycine will be
+
+constrained.
+<ICE-JA:W2A-038#57:1> Periconceptual folate status has been associated with neural tube
+
+defects ( MRC Vitamin Study Research Group, 1991) and is linked directly with
+
+fetal development ( Shojania, 1984).
+<ICE-JA:W2A-038#58:1> Poor folate status during pregnancy has been associated with an
+
+increased prevalence of low birth weight babies ( Baumslag, Edelstein and
+
+Metz, 1970, Shojania, 1984, Tamura et al., 1992).
+<ICE-JA:W2A-038#59:1> In infants with intrauterine growth retardation, the activity of the
+
+placental system A transporter, which carries glycine and serine, is reduced
+
+so that both direct glycine transfer, and the glycine endogenously produced
+
+from serine are reduced ( Dicke et al., 1993; Mahendran et al., 1993). </p>
+
+<p> <ICE-JA:W2A-038#60:1> We have used the urinary excretion of 5- <smallcaps> L
+
+</smallcaps> - oxoproline as a marker for glycine status.
+<ICE-JA:W2A-038#61:1> In pregnancies where glycine status is poorer, the offspring tend to
+
+be smaller ( Jackson et al., 1997d).
+<ICE-JA:W2A-038#62:1> It appears that mothers with poor folate status tend to have children
+
+with poor glycine status ( Jackson et al., 1997a).
+<ICE-JA:W2A-038#63:1> As glycine status is itself related to vascular development ( Sherman
+
+et al., 1998), and has been associated directly with the development of
+
+maturity onset diabetes mellitus ( Jackson et al., 1997b), the possibility
+
+emerges that the ability to form adequate amounts of glycine is programmed in
+
+utero in relation to maternal glycine status at the time.
+<ICE-JA:W2A-038#64:1> If this were to be so then the factors which determine the ability of
+
+the placenta to provide adequate amounts of glycine to the fetus need to be
+
+explored in much greater detail. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2A-038#65:2> <h> <bold> Insecticidally Active Sesquiterpene Furan from <it>
+
+Bontia Daphnoides L. </it> </bold> </h> </p>
+
+<p> <ICE-JA:W2A-038#66:2> <bold> LAWRENCE A. D. WILLIAMS </bold> <sp> 1 </sp> </p>
+
+<p> <ICE-JA:W2A-038#67:2> <bold> and LISA CALEB-WILLIAMS </bold> <sp> 2 </sp> </p>
+
+<p> <ICE-JA:W2A-038#68:2> Department of Basic Medicinal Sciences <sp> 1 </sp> and Zoology
+
+<sp> 2 </sp> </p>
+
+<p> <ICE-JA:W2A-038#69:2> University of the West Indies Mona, Kingston 7, Jamaica </p>
+
+<p> <ICE-JA:W2A-038#70:2> <h> <bold> ABSTRACT </bold> </h> </p>
+
+<p> <ICE-JA:W2A-038#71:2> <it>
+<ICE-JA:W2A-038#72:2> Activity guided isolation of the crude ethanol extract of the leaves
+
+and stems of <ul> Bontia </ul> <ul> daphnoides </ul> using adult <ul> Cylas
+
+</ul> <ul> formicarius </ul> as the test organism revealed that the most
+
+insecticidally active compound was the sesquiterpene furan, epingaione.
+<ICE-JA:W2A-038#73:2> This compound was previously isolated and characterized by Chinnock
+
+<ul> et </ul> <ul> al. </ul> , ( 1987).
+<ICE-JA:W2A-038#74:2> The 72 hour Lc <sb> 50 </sb> values ( &mu; g/insect) found for the
+
+furan was 20.80 ( 17.34  24.52), while the values obtained for a nicotine
+
+rich extract of tobacco and a commercial organophosphate insecticide,
+
+dimethoate were 32.00 ( 28.15  40.32) and 9.54 ( 8.40  10.62) &mu;
+
+g/insect, respectively. </it> </p>
+
+<p> <ICE-JA:W2A-038#75:2> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-038#76:2> The long term use and misuse of conventional synthetic
+
+insecticides ( organochlorines, organophosphates and carbamates) has created
+
+many ecological and environmental problems ( Brown, 1978; Flickinger <it> et
+
+al. </it> , 1986; Stromborg, 1986).
+<ICE-JA:W2A-038#77:2> Chief among these problems include: induction of resistance in
+
+several pest species ( Georghiou and Melon, 1982), toxicity to non-target
+
+organisms including man and the natural enemies of various pest species (
+
+Reid, 1987; Georghiou and Melon, 1982), contamination of several water bodies
+
+( National Research Council of Canada, 1975; Williams and Chow, 1993) and
+
+high levels of residues in agricultural food products ( Thomson and Abbott,
+
+1967; Vettorazzi and Miles-Vettorazzi, 1975; Flickinger <it> et al. </it> ,
+
+1986).
+<ICE-JA:W2A-038#78:2> Thus, there is an urgent need to find safer pesticides for use in
+
+present day pest management programmes.
+<ICE-JA:W2A-038#79:2> One source of these safer pesticides is the secondary metabolites (
+
+natural products) isolated from plants ( Williams, et al., 1989).
+<ICE-JA:W2A-038#80:2> These compounds have demonstrated a diverse array of biological
+
+actions on arthropod species which include disruption cytochrome P450
+
+activities by monoterpenes ( Brattsten, 1982); retardation of corpora allata
+
+development by the precocenes ( Bowers, 1982) and inhibition of
+
+neuroendocrine processes, protein and lipid metabolisms by several limonoids
+
+e.g. the azadirachtins ( Rembold <it> et al. </it> , 1984; Sieber, <it> et
+
+al. </it> , 1984; Bidmon <it> et al. </it> , 1987; Dorn <it> et al. </it> ,
+
+1987; Wilps, <it> et al. </it> , 1992). </p>
+
+<p> <ICE-JA:W2A-038#81:2> Williams ( 1992) demonstrated that extracts from the leaves and
+
+stems of <it> Bontia daphnoides </it> were effective in killing <it>
+
+Tribolium confusum </it> .
+<ICE-JA:W2A-038#82:2> These findings were confirmed in a later study by Williams and
+
+Mansingh ( 1993).
+<ICE-JA:W2A-038#83:2> However, the major insecticidally active compound ( s) was not
+
+elucidated from the extract.
+<ICE-JA:W2A-038#84:2> Thus, in the present study an attempt was made in isolating and
+
+elucidating the active compound. </p>
+
+<p> <ICE-JA:W2A-038#85:2> <h> <bold> MATERIALS AND METHODS </bold> </h>
+
+<p>
+
+<p> <ICE-JA:W2A-038#86:2> <h> <bold> Preparation of crude extracts and fraction from B.
+
+daphnoides </bold> </h> </p>
+
+<p> <ICE-JA:W2A-038#87:2> Leaves and stems of <it> B. daphnoides </it> were air dried in
+
+the laboratory for 5 days.
+<ICE-JA:W2A-038#88:2> Dried plant material weighing 400 g was then pulverized and extracted
+
+with 8.0 L of 95 % ethanol for 120 hrs.
+<ICE-JA:W2A-038#89:2> The resulting crude extract was then concentrated <it> in vacuo </it>
+
+to 20 mL using a rotary evaporator.
+<ICE-JA:W2A-038#90:2> To the concentrated crude extract 200 mL of hexane and 200 mL of a
+
+methanol-water ( 10: 1; v/v) mixture were added for separating the extract
+
+into non-polar ( hexane) and polar ( water-methanol) fractions for bioassay.
+
+</p>
+
+<p> <ICE-JA:W2A-038#91:2> <h> <bold> Separation and isolation of the active compound in the
+
+hexane fraction </bold> </h> </p>
+
+<p> <ICE-JA:W2A-038#92:2> A twenty gram portion of the hexane fraction was redissolved in
+
+hexane and separated using a solvent system of 12.0 % ethyl acetate in
+
+petroleum ether ( 30 &degree; C to 40 &degree; C) on a flash glass column.
+<ICE-JA:W2A-038#93:2> The glass column of 75.0 cm length and dia of 2.5 cm was packed with
+
+kieselgel 60 ( particle size = 0.07 mm) and pressurized with air at 1 bar/min
+
+during the separation process. </p> </I>

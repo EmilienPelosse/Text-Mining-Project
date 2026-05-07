@@ -1,0 +1,615 @@
+<I>
+
+<$A> <ICE-JA:S1A-077#1:1:A> Where are you rushing off to
+
+<$B> <ICE-JA:S1A-077#2:1:B> The bank
+
+<$A> <ICE-JA:S1A-077#3:1:A> Okay<,,> <{> <[> to</[>
+
+<$B> <ICE-JA:S1A-077#4:1:B> <[> To</[></{> withdraw some cash that I need now
+
+<$A> <ICE-JA:S1A-077#5:1:A> So I mean aren't you supposed to be at work
+
+<$B> <ICE-JA:S1A-077#6:1:B> Yeah but don't know <}> <-> <.> i</.> I need some I need
+
+some</-> <=> I need</=></}> cash <?> now</?>
+
+<$A> <ICE-JA:S1A-077#7:1:A> <?> Okay</?>
+<ICE-JA:S1A-077#8:1:A> Taking your special girl to lunch or something
+
+<$B> <ICE-JA:S1A-077#9:1:B> <O> laughter</O>A special girl to lunch
+<ICE-JA:S1A-077#10:1:B> No no no no
+
+<$A> <ICE-JA:S1A-077#11:1:A> Oh
+<ICE-JA:S1A-077#12:1:A> Just checking<,>
+
+<$B> <ICE-JA:S1A-077#13:1:B> No <{> <[> not a</[>
+
+<$A> <ICE-JA:S1A-077#14:1:A> <[> And I mean</[></{> uhm
+<ICE-JA:S1A-077#15:1:A> What have you uhm planned for the day
+
+<$B> <ICE-JA:S1A-077#16:1:B> What I have planned for the day<{1><[1><,></[1>
+<ICE-JA:S1A-077#17:1:B> Well actually I have some task to complete
+<ICE-JA:S1A-077#18:1:B> <}> <-> We're <.> pu</.></-> <=> we're putting</=></}> on a
+
+conference and I need to <}> <-> we</-> <=> we</=></}> need to uhm ensure
+
+that the participants that we have sent uhm contact information
+
+to<{2><[2><,></[2> have been contacted
+<ICE-JA:S1A-077#19:1:B> So I have to liaise with the other <}> <-> staff</-><=>members of
+
+staff</=></}><{3><[3><,></[3> to see that they're up to date with what they
+
+need to do<,> or
+
+<$A> <ICE-JA:S1A-077#20:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-077#21:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-077#22:1:A> <[3> Okay</[3></{3>
+
+<$A> <ICE-JA:S1A-077#23:1:A> Okay
+<ICE-JA:S1A-077#24:1:A> So where do you work
+
+<$B> <ICE-JA:S1A-077#25:1:B> I work at the U W I Development and Endowment Fund
+
+<$A> <ICE-JA:S1A-077#26:1:A> What do you do <{> <[> there</[>
+
+<$B> <ICE-JA:S1A-077#27:1:B> <[> What</[></{> do I do
+<ICE-JA:S1A-077#28:1:B> I'm what you call a development researcher<,>
+
+<$A> <ICE-JA:S1A-077#29:1:A> Okay
+<ICE-JA:S1A-077#30:1:A> Job description<,>
+
+<$B> <ICE-JA:S1A-077#31:1:B> Uh
+<ICE-JA:S1A-077#32:1:B> Job <}> <-> <.> des</.></-><+>description</+></}><O>laughs</O>
+<ICE-JA:S1A-077#33:1:B> Well that's kind of complex now job description
+
+<$A> <ICE-JA:S1A-077#34:1:A> Just tell me what you do
+<ICE-JA:S1A-077#35:1:A> <}> <-> What</-> <=> what</=></}> <{> <[> does <?> it
+
+usually</?></[> <?> entail</?>
+
+<$B> <ICE-JA:S1A-077#36:1:B> <[> My job just</[></{>
+<ICE-JA:S1A-077#37:1:B> Uh<&>voice-from-bank-machine-in-background</&>
+<ICE-JA:S1A-077#38:1:B> Simple
+<ICE-JA:S1A-077#39:1:B> Just to find uhm<,> funders for <?> the</?> university<,> to
+
+identify new funding sources for the university so that they can complete
+
+uhm<{><[><,></[> projects <}> <-> when <.> the</.></-> uhm <=> when
+
+they</=></}> need to
+
+<$A> <ICE-JA:S1A-077#40:1:A> <[> Projects</[></{>
+
+<$A> <ICE-JA:S1A-077#41:1:A> Okay
+<ICE-JA:S1A-077#42:1:A> And do you find your job <?> very</?> interesting exciting or
+
+boring<,><&>machine-in-background</&>
+
+<$B> <ICE-JA:S1A-077#43:1:B> <O> exhales</O>I find it very <}> <-> <.>
+
+bo</.></-><+>boring</+></}> uhm<O>laughs</O> very
+
+interesting<O>speaker-A-laughs</O> very interesting uhm
+<ICE-JA:S1A-077#44:1:B> <}> <-> We meet</-> <=> we</=></}> interact with <}> <-> <?>
+
+other</?></-> <=> the</=></}> non-profit community in the <{1> <[1>
+
+Caribbean<,></[1>
+<ICE-JA:S1A-077#45:1:B> We also interact with funders uh development agencies you know
+
+foreign governments<{2><[2><,></[2> many uhm different university
+
+personnel<{3><[3><,></[3> uh because we have to match funders with the
+
+projects <{4> <[4> that</[4> exist on the campus<,>
+
+<$A> <ICE-JA:S1A-077#46:1:A> <[1> Mhm mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-077#47:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-077#48:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-077#49:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-077#50:1:A> Okay
+
+<$B> <ICE-JA:S1A-077#51:1:B> Right<&>noises-from-machine-in-background</&>
+
+<$A> <ICE-JA:S1A-077#52:1:A> And uhm<,> by doing this <}> <-> <.> d</.></-> <=> do</=></}>
+
+you meet a lot of people or is just by phone or fax or<{><[><,> internet</[>
+
+<$B> <ICE-JA:S1A-077#53:1:B> <[> No <}> <-> <.> bo</.></-><+>both</+></}></[></{>
+
+everything
+<ICE-JA:S1A-077#54:1:B> Phone fax internet and <}> <-> <.> pers</.></-><+>personal</+></}>
+
+and uhm
+
+<$A> <ICE-JA:S1A-077#55:1:A> Personal <{> <[> linking</[>
+
+<$B> <ICE-JA:S1A-077#56:1:B> <[> Personal</[></{> right
+
+<$A> <ICE-JA:S1A-077#57:1:A> Okay<&>machine-voice-in-background</&>
+
+<$A> <ICE-JA:S1A-077#58:1:A> Uhm so tell me
+<ICE-JA:S1A-077#59:1:A> Do you plan to move up in this job or is this a temporary thing
+
+<$B> <ICE-JA:S1A-077#60:1:B> Well I enjoy working with N G Os so there's a chance for me to
+
+uhm learn <}> <- > how</-> <=> how</=></}> N G Os run<{1><[1><,></[1> and
+
+that you know the type of the business processes of these type of
+
+organizations<{2><[2><,></[2>
+<ICE-JA:S1A-077#61:1:B> And UWI has one of the best N G Os <}> <-> in the</-> <=> in
+
+the</=></}> Caribbean
+
+<$A> <ICE-JA:S1A-077#62:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-077#63:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-077#64:1:A> Okay
+<ICE-JA:S1A-077#65:1:A> So you think you're in the right place
+
+<$B> <ICE-JA:S1A-077#66:1:B> Right
+<ICE-JA:S1A-077#67:1:B> I know I'm in the right place
+
+<$A> <ICE-JA:S1A-077#68:1:A> Okay
+<ICE-JA:S1A-077#69:1:A> So uhm does this give you <}> <-> an</-> uh <=> an</=></}>
+
+opportunity to you know go out on your own or you know to develop your own
+
+business
+
+<$B> <ICE-JA:S1A-077#70:1:B> Well yes
+<ICE-JA:S1A-077#71:1:B> Well<,,> it gives me the opportunity to do that
+<ICE-JA:S1A-077#72:1:B> We have been through a lot of trainings<{><[><,></[> uhm you know
+
+you always have to stay current with what's happening you know <}> <-> in in
+
+the the<.>f</.></-> <=> in the field</=></}>
+<ICE-JA:S1A-077#73:1:B> So <}> <-> I I</-> <=> I</=></}> think I have the skill set or I'm
+
+developing the skills necessary <}> <-> to</-> <=> to</=></}> uhm move out
+
+<}> <-> on</-><=>on</=></}> my own<&>voice-from-machine</&>
+
+<$A> <ICE-JA:S1A-077#74:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-077#75:1:A> Okay
+<ICE-JA:S1A-077#76:1:A> And uhm this will not be like your time in the future now <}> <->
+
+any</-> <{> <[> <=> any</=></}> time soon</[> that is
+
+<$B> <ICE-JA:S1A-077#77:1:B> <[> Well</[></{>
+
+<$B> <ICE-JA:S1A-077#78:1:B> I don't know I'm young<O>laughs</O> so I think <}> <-> I I</->
+
+<=> I</=></}> uhm
+
+<$A> <ICE-JA:S1A-077#79:1:A> How young are you may I ask
+
+<$B> <ICE-JA:S1A-077#80:1:B> I'm twenty-four
+<ICE-JA:S1A-077#81:1:B> I'm <?> not</?> young<{1><[1><,><ICE-JA:S1A-077#>I'm <?> that</?></[1> young
+<ICE-JA:S1A-077#82:1:B> <{2> <[2> <,> But but</[2> but uhm<,> I'm involved in different N G
+
+Os in the country<{3><[3><,></[3> <?> in Clarendon</?> so I moving out
+<ICE-JA:S1A-077#83:1:B> <}> <-> I</-> <=> I</=></}> don't <?> say</?> <}> <-> I have <?>
+
+uh</?></-> <=> ought to</=></}> move out but<&>machine</&> I'm involved in my
+
+own capacity in helping develop N G Os so I'm already transferring some of
+
+the knowledge that I've learnt here at my organization to other N G Os in the
+
+country
+
+<$A> <ICE-JA:S1A-077#84:1:A> <[1> Oh okay</[1></{1>
+
+<$A> <ICE-JA:S1A-077#85:1:A> <[2> So it <?> counts</?></[2></{2>
+
+<$A> <ICE-JA:S1A-077#86:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-077#87:1:A> Okay
+<ICE-JA:S1A-077#88:1:A> So tell me <{> <[> uh</[> what do you do in the evenings
+
+<$B> <ICE-JA:S1A-077#89:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-077#90:1:B> Well Catilda what do I do in the evenings<{><[><,></[>
+<ICE-JA:S1A-077#91:1:B> Well I
+
+<$A> <ICE-JA:S1A-077#92:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-077#93:1:A> After work what do you do
+
+<$B> <ICE-JA:S1A-077#94:1:B> After work what do I do
+<ICE-JA:S1A-077#95:1:B> Well I usually go home relax
+<ICE-JA:S1A-077#96:1:B> Sometimes I take home some work<{1><[1><,></[1> that needs to be
+
+completed <{2> <[2>
+<ICE-JA:S1A-077#97:1:B> Uhm</[2>
+
+<$A> <ICE-JA:S1A-077#98:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-077#99:1:A> <[2> So you're one</[2></{2> of those workaholics
+
+<$B> <ICE-JA:S1A-077#100:1:B> Yes I'm a workaholic serious workaholic
+
+<$A> <ICE-JA:S1A-077#101:1:A> Which is bad
+
+<$B> <ICE-JA:S1A-077#102:1:B> <}> <-> Which is</-> <=> which is</=></}> probably
+
+good<O>laughs</O> bad for me but good for the organization
+<ICE-JA:S1A-077#103:1:B> But uhm I go to the gym or I go to the <foreign> dojo</foreign>
+<ICE-JA:S1A-077#104:1:B> I love martial arts I <}> <-> do that</-> uhm <=> try to do
+
+that</=></}> as frequently as possible or golf <{> <[> <,> you know</[>
+
+<$A> <ICE-JA:S1A-077#105:1:A> <[> So uhm</[></{> is that the explanation to your
+
+figure<O>both-of-them- laugh</O>
+
+<$B> <ICE-JA:S1A-077#106:1:B> Woooohhh
+<ICE-JA:S1A-077#107:1:B> <{> <[> Woooooh</[>
+
+<$A> <ICE-JA:S1A-077#108:1:A> <[> You know that was a question </[> </{>
+
+actually<&>voice-from-machine</&>
+
+<$B> <ICE-JA:S1A-077#109:1:B> That was a question<{1><[1><,></[1>
+<ICE-JA:S1A-077#110:1:B> Boy let me tell you<,>
+<ICE-JA:S1A-077#111:1:B> Let me tell you
+<ICE-JA:S1A-077#112:1:B> Cancel<,><&>noises-from-ATM-machine</&>
+<ICE-JA:S1A-077#113:1:B> I'm not even concentrating
+<ICE-JA:S1A-077#114:1:B> Mhm<&>voice-from-machine</&>
+<ICE-JA:S1A-077#115:1:B> Yes<{2><[2><,></[2>
+<ICE-JA:S1A-077#116:1:B> It is it is it is
+
+<$A> <ICE-JA:S1A-077#117:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1A-077#118:1:A> <[2> It is</[2></{2>
+
+<$A> <ICE-JA:S1A-077#119:1:A> Okay
+<ICE-JA:S1A-077#120:1:A> So do you party
+
+<$B> <ICE-JA:S1A-077#121:1:B> Yes I
+<ICE-JA:S1A-077#122:1:B> Well not a lot but I do party <{1> <[1> not a lot</[1> uhm
+<ICE-JA:S1A-077#123:1:B> I try to <}> <-> get</-> <=> maintain</=></}> a balance you <{2>
+
+<[2> understand</[2>
+
+<$A> <ICE-JA:S1A-077#124:1:A> <[1> <?> So how</?></[1></{1>
+
+<$A> <ICE-JA:S1A-077#125:1:A> <[2> Okay</[2></{2>
+<ICE-JA:S1A-077#126:1:A> So that means you go to like uhm seminars <{> <[> <unclear>
+
+word(s)</unclear></[>
+
+<$B> <ICE-JA:S1A-077#127:1:B> <[> Right
+<ICE-JA:S1A-077#128:1:B> I go to</[></{> seminars
+<ICE-JA:S1A-077#129:1:B> I go to parties
+<ICE-JA:S1A-077#130:1:B> I go to the gallery
+<ICE-JA:S1A-077#131:1:B> I try to have a very wide you know world view <{1> <[1> a wide <?>
+
+perspective</?>
+<ICE-JA:S1A-077#132:1:B> Of course I read
+<ICE-JA:S1A-077#133:1:B> Yes</[1>
+<ICE-JA:S1A-077#134:1:B> I try to read a new book every weekend
+<ICE-JA:S1A-077#135:1:B> <{2> <[2> So this</[2> weekend I did something on Malcolm X
+<ICE-JA:S1A-077#136:1:B> I read his last speeches
+
+<$A> <ICE-JA:S1A-077#137:1:A> <[1> Do you read like <?> read</?> fiction</[1></{1>
+
+<$A> <ICE-JA:S1A-077#138:1:A> <[2> <unclear> word(s)</unclear></[2></{2>
+
+<$A> <ICE-JA:S1A-077#139:1:A> So uhm what type of books do you read
+<ICE-JA:S1A-077#140:1:A> What type of <?> which</?> genre do you uhm <{> <[> <?> go
+
+on</?></[>
+
+<$B> <ICE-JA:S1A-077#141:1:B> <[> I read everything</[></{> from fiction to non-fiction
+
+<$A> <ICE-JA:S1A-077#142:1:A> You also read fiction
+
+<$B> <ICE-JA:S1A-077#143:1:B> <}> <-> I read</-> <=> I mostly read</=></}> <{> <[>
+
+fiction<,></[>
+<ICE-JA:S1A-077#144:1:B> I read uhm magazines novels books playboy
+
+<$A> <ICE-JA:S1A-077#145:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-077#146:1:A> Playboy
+
+<$B> <ICE-JA:S1A-077#147:1:B> Playboy
+<ICE-JA:S1A-077#148:1:B> Anything<{><[><,></[>
+<ICE-JA:S1A-077#149:1:B> I read everything honestly from its you know
+
+<$A> <ICE-JA:S1A-077#150:1:A> <[> Okay</[></{>
+
+<$A> <ICE-JA:S1A-077#151:1:A> You read it or you look at the pictures
+
+<$B> <ICE-JA:S1A-077#152:1:B> I read it because it's Playboy<O>they-both-laugh</O> Playboy
+
+has articles you know<{><[><,><ICE-JA:S1A-077#>Yeah</[> Playboy has articles you know
+<ICE-JA:S1A-077#153:1:B> Read you know <}> <- > you just</-> <=> you just</=></}>
+
+read<&>noises-from-machine</&>
+<ICE-JA:S1A-077#154:1:B> Come on
+
+<$A> <ICE-JA:S1A-077#155:1:A> <[> Yes I know it</[></{>
+
+<$A> <ICE-JA:S1A-077#156:1:A> <}> <-> You're</-> <=> you're</=></}> like the second person
+
+guy<{><[><,></[> <}> <-> who</-> <=> who</=></}> told me <?> that</?> they
+
+read the Playboy
+<ICE-JA:S1A-077#157:1:A> Okay
+<ICE-JA:S1A-077#158:1:A> Interesting
+<ICE-JA:S1A-077#159:1:A> Uhm so <}> <-> what are some of the <.> non-f</.></-> <=> what is
+
+the latest non-fiction</=></}> that you've read
+
+<$B> <ICE-JA:S1A-077#160:1:B> <[> Aha</[></{>
+
+<$B> <ICE-JA:S1A-077#161:1:B> The latest non-fiction<{><[><,></[> well the Malcolm X which
+
+is this weekend just finished this morning
+
+<$A> <ICE-JA:S1A-077#162:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-077#163:1:A> So what are you going on to read
+
+<$B> <ICE-JA:S1A-077#164:1:B> <}> <-> Well I'm going</-> <=> well I want to</=></}> <}> <->
+
+lead</-> <=> read</=></}> uhm Lee Kuan Yew's book on Singapore<{><[><,></[>
+
+or Jack Welch's book on Jack Welch uhm manager of General Electric <}> <->
+
+just did a book on</-> uhm<&>machine-in-background</&> <=> just did a book
+
+on</=></}> his stint at uhm
+
+<$A> <ICE-JA:S1A-077#165:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-077#166:1:A> I don't think this machine is working
+
+<$B> <ICE-JA:S1A-077#167:1:B> Okay because of the thing I'm going nuts
+<ICE-JA:S1A-077#168:1:B> Yeah<O>laughter</O>
+<ICE-JA:S1A-077#169:1:B> <}> <- > <.> D</.></-> <=> did</=></}> a stint at uhm his stint
+
+at<&>voice-from-machine</&> General Electric
+<ICE-JA:S1A-077#170:1:B> He was voted the most uh one of the greatest managers in the
+
+century
+<ICE-JA:S1A-077#171:1:B> And he was <?> credited attorney</?> on General Electric
+<ICE-JA:S1A-077#172:1:B> So uhm I bought his book but <?> I</?> didn't have time to read it
+
+<$A> <ICE-JA:S1A-077#173:1:A> Uhm so did you read <}> <-> the</-> <=> the</=></}> book
+
+about <}> <-> the the the</-> <=> the</=></}> uhm Prime
+
+Minister<&>noises-from-machine</&>
+
+<$B> <ICE-JA:S1A-077#174:1:B> The well actually we have the book at office<O>laughs</O> but
+
+I haven't read it
+<ICE-JA:S1A-077#175:1:B> But <}> <-> I think</-><,><&>machine-noises:money</&>
+<ICE-JA:S1A-077#176:1:B> Mhm mhm
+<ICE-JA:S1A-077#177:1:B> <=> I think</=></}> I'm gonna read it<{1><[1><,></[1> and try to
+
+understand <}> <-> the what</- > <=> what</=></}> the Prime Minister his
+
+achievement<&>machine-noises</&>
+<ICE-JA:S1A-077#178:1:B> So the next time I see him <}> <-> we can</-> <=> I can</=></}>
+
+have a <?> very</?> intelligent discussion because I think <}> <-> it's</->
+
+<=> it's</=></}> very important to understand <}> <-> his</-> what he sees as
+
+<=> his</=></}> vision and what he has achieved
+<ICE-JA:S1A-077#179:1:B> Whether or not that is so that's another debate <{2> <[2> but</[2>
+
+he has taken the time out to write down his achievements
+<ICE-JA:S1A-077#180:1:B> So I think you know <}> <-> we need to</-> <=> we need to</=></}>
+
+really read it and understand uhm you know <}> <-> where he</-> <=> where
+
+<{3> <[3> he's</=></}> coming from</[3>
+
+<$A> <ICE-JA:S1A-077#181:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-077#182:1:A> <[2> Okay<O>laughs</O></[2></{2>
+
+<$A> <ICE-JA:S1A-077#183:1:A> <[3> Okay </[3> </{3>
+<ICE-JA:S1A-077#184:1:A> Uhm so what about <}> <-> the</-> <=> the</=></}> opposition's
+
+fortieth uhm anniversary book
+<ICE-JA:S1A-077#185:1:A> Have you read <{> <[> that</[>
+
+<$B> <ICE-JA:S1A-077#186:1:B> <[> <}> <-> That that's what that he has</-> <=>
+
+that's</=></}></[></{> a new one or the old book
+
+<$A> <ICE-JA:S1A-077#187:1:A> <}> <-> <.> I</.> it's</-> <=> it's</=></}> not new but it
+
+was republished
+
+<$B> <ICE-JA:S1A-077#188:1:B> Okay
+<ICE-JA:S1A-077#189:1:B> Well <}> <-> I</-> <=> I</=></}> don't know about it but <}> <- >
+
+<.> a</.></-> <=> as</=></}> a <{1> <[1> historian</[1>
+<ICE-JA:S1A-077#190:1:B> No not convenient
+<ICE-JA:S1A-077#191:1:B> As a historian <}> <-> I'd love to uhm read I like to I'll
+
+read</-> <=> I'll read</=></}> anything done by any Caribbean
+
+leader<{2><[2><,></[2> especially to kind of understand of how they think or
+
+<}> <-> what</-> <=> what</=></}> they have contributed to <}> <-> the
+
+Caribbean</-> <=> the Caribbean</=></}> development
+<ICE-JA:S1A-077#192:1:B> Especially when you're alive versus when they die and then we
+
+start to kind of <}> <-> interpret what they</-> <=> interpret</=></}> <}>
+
+<-> what</-> <=> what</=></}> was your contribution to development
+<ICE-JA:S1A-077#193:1:B> So you know it's very important I think
+<ICE-JA:S1A-077#194:1:B> So <}> <-> I read</-> if I get a copy of <}> <-> the</-> uhm <=>
+
+the</=></}> leader of opposition's book <=> I will read</=></}> it you know
+<ICE-JA:S1A-077#195:1:B> <}> <-> I was invited to his</-> uhm I was downtown Friday <=> I
+
+was invited to his</=></}> uhm
+<ICE-JA:S1A-077#196:1:B> They had a function <?> at the National Library</?> for
+
+him<{3><[3><,></[3> but I knew about it very late
+<ICE-JA:S1A-077#197:1:B> But if I'd known I would have gone you know because they have
+
+contributed to the country
+<ICE-JA:S1A-077#198:1:B> But there is also they have also contributed other negative
+
+aspects you know
+
+<$A> <ICE-JA:S1A-077#199:1:A> <[1> Conveniently</[1></{1>
+
+<$A> <ICE-JA:S1A-077#200:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-077#201:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-077#202:1:A> Anyway
+<ICE-JA:S1A-077#203:1:A> So <unclear> several-words</unclear>
+<ICE-JA:S1A-077#204:1:A> However uhm <}> <-> have you <.> s</.></-> uhm <=> have you
+
+seen</=></}> <}> <-> your</-> <=> your</=></}> history degree or degrees for
+
+that matter uhm has <?> it</?> contributed or has uhm made an impact on your
+
+<}> <-> <.> wor</.></-> uhm area of <=> work</=></}>
+
+<$B> <ICE-JA:S1A-077#205:1:B> Yes <}> <-> the degree</-> well <=> my degree</=></}> has
+
+given me the skills or any tools necessary<{><[><,></[> to do the job that I
+
+am doing
+
+<$A> <ICE-JA:S1A-077#206:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-077#207:1:A> How so
+<ICE-JA:S1A-077#208:1:A> Because when we talk about history uh we talk about the class room
+<ICE-JA:S1A-077#209:1:A> So uhm could you expound a little
+
+<$B> <ICE-JA:S1A-077#210:1:B> <O> exhales</O>Uh well history is just not <}> <-> a <.>
+
+theo</.></-> is not only <=> a theoretical</=></}> subject<{1><[1><,></[1>
+<ICE-JA:S1A-077#211:1:B> You know we do research <}> <- > <.> metho</.></-> <=>
+
+methodologies</=></}><{2><[2><,></[2> uhm <}> <-> we</-> uhm <=> we</=></}>
+
+develop research skills<,> and I have often used that in the different places
+
+that I've worked<{3><[3><,>from the</[3> private sector to UWI now <{4> <[4>
+
+<,> </[4>
+<ICE-JA:S1A-077#212:1:B> So uhm you know <}> <-> that that's</-><,> <=> that's</=></}> just
+
+one aspect
+<ICE-JA:S1A-077#213:1:B> But I think a degree provides <}> <-> or</-> <=> or</=></}> a
+
+university degree provides uhm students with the tools they need <}> <->
+
+to</-> <=> to</=></}> work <}> <-> in this</-> and <-> in</-> <=> in
+
+this</=></}> the twenty-first century workplace<{5><[5><,></[5>
+<ICE-JA:S1A-077#214:1:B> Yes
+<ICE-JA:S1A-077#215:1:B> I know you disagree with me Catilda
+
+<$A> <ICE-JA:S1A-077#216:1:A> <[1> <?> I see</?></[1></{1>
+
+<$A> <ICE-JA:S1A-077#217:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-077#218:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-077#219:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-077#220:1:A> <[5> <?> You</?> really</[5></{5>
+
+<$A> <ICE-JA:S1A-077#221:1:A> No <}> <-> I</-> <=> I</=></}> did not say that <{1> <[1> <}>
+
+<-> I</-> <=> I</=></}></[1> did not disagree <{2> <[2> with you <unclear>
+
+word</unclear></[2>
+
+<$B> <ICE-JA:S1A-077#222:1:B> <[1> Okay</[1></{1>
+
+<$B> <ICE-JA:S1A-077#223:1:B> <[2> You did not disagree</[2></{2> with <{> <[> me</[>
+
+<$A> <ICE-JA:S1A-077#224:1:A> <[> No</[></{>
+
+<$B> <ICE-JA:S1A-077#225:1:B> No you not all
+
+<$A> <ICE-JA:S1A-077#226:1:A> No I don't <{1> <[1> disagree</[1> with you
+<ICE-JA:S1A-077#227:1:A> At the same time I would really love to know you know how so
+<ICE-JA:S1A-077#228:1:A> Because you know since I have been here<{2><[2><,></[2> <}> <->
+
+all all</-> <=> all</=></}> I ever hear about <}> <-> the <.> his</.></-> <=>
+
+the history</=></}> department is that oh uhm
+<ICE-JA:S1A-077#229:1:A> What can you do with history<,> <{3> <[3> <}> <-> other than</->
+
+<=> other than</=></}><,> teaching</[3>
+
+<$B> <ICE-JA:S1A-077#230:1:B> <[1> Okay</[1></{1>
+
+<$B> <ICE-JA:S1A-077#231:1:B> <[2> Right</[2></{2>
+
+<$B> <ICE-JA:S1A-077#232:1:B> <[3> Well <?> that</?>
+<ICE-JA:S1A-077#233:1:B> Well students are responsible</[3></{3> for their own development
+
+and <}> <-> they</-> before they do a degree<,> <=> they</=></}> should
+
+ensure they should find out <}> <-> where where they can</-> uhm <=> where
+
+they can</=></}> uh apply <}> <-> <.> wh<./><-> <=> in which</=></}> areas
+
+that degree can be applied to<{1><[1><,></[1>
+<ICE-JA:S1A-077#234:1:B> But I don't think students should also limit themselves to their
+
+area of study you know
+<ICE-JA:S1A-077#235:1:B> So I think <}> <-> if if students</-> want to uhm <=> if
+
+students</=></}> only limit themselves to teaching well I think that's their
+
+own fault<,><{2><[2><,></[2> you know<,,>
+<ICE-JA:S1A-077#236:1:B> <{3> <[3> But <}> <-> you you you <.> do</.></-></[3> <=>
+
+you</=></}> don't have to limit
+<ICE-JA:S1A-077#237:1:B> I don't believe in limiting oneself
+
+<$A> <ICE-JA:S1A-077#238:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-077#239:1:A> <[2> Okay</[2></{2>
+
+<$A> <ICE-JA:S1A-077#240:1:A> <[3> <?> Okay</?></[3></{3>
+
+<$A> <ICE-JA:S1A-077#241:1:A> So uhm tell me something
+<ICE-JA:S1A-077#242:1:A> What would you say to such a student who decide that
+<ICE-JA:S1A-077#243:1:A> Oh I'm just doing history to transfer to law
+
+<$B> <ICE-JA:S1A-077#244:1:B> Well <}> <-> if if <.> l</.> if</-> <=> if law</=></}> is the
+
+ultimate goal <}> <- > then</-> <=> then</=></}> that's okay <{> <[>
+
+because</[> history will still provide you with the tools <}> <-> the</-> <=>
+
+the</=></}> real rigorous analytical tools that you need to go into law
+<ICE-JA:S1A-077#245:1:B> So if law is a step to your ultimate goal and you have an ultimate
+
+goal I have no problem with that
+
+<$A> <ICE-JA:S1A-077#246:1:A> <[> No but</[></{></I>

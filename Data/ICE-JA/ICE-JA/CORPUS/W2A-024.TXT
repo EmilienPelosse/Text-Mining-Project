@@ -1,0 +1,418 @@
+<I>
+
+<p> <ICE-JA:W2A-024#1:1> <bold> CHARACTERIZATION OF APRIL-MAY RAINFALL </bold> </h> </p>
+
+<p> <ICE-JA:W2A-024#2:1> A.A. Chen </p>
+
+<p> <ICE-JA:W2A-024#3:1> Department of Physics, University of the West Indies, Jamaica,
+
+W.I. </p>
+
+<p> <ICE-JA:W2A-024#4:1> P. Brown </p>
+
+<p> <ICE-JA:W2A-024#5:1> Underground Water Authority, Jamaica, W.I. </p>
+
+<p> <ICE-JA:W2A-024#6:1> ABSTRACT <space>
+<ICE-JA:W2A-024#7:1> Statistics and periodicities in the April-May-June rainfall were
+
+investigated.
+<ICE-JA:W2A-024#8:1> The rainfall was more intensive in May than in April and June.
+<ICE-JA:W2A-024#9:1> April rainfall had longer periodicities than June, with May falling in
+
+between.
+<ICE-JA:W2A-024#10:1> Some of the April periodicities can be correlated to the solar
+
+activity during the westerly phase of the Quasi-Biennial Oscillation ( QBO)
+
+at 15 mb.
+<ICE-JA:W2A-024#11:1> A partial explanation is offered in terms of the coincidence of cold
+
+fronts and increased solar radiation.
+<ICE-JA:W2A-024#12:1> The possible association of one of the May periodicities with the
+
+occurrence of El Ni&ntilde;o was investigated and an association between
+
+heavy rainfall ( over 300 mm) in May and the occurrence of El Ni&ntilde;o was
+
+found.
+<ICE-JA:W2A-024#13:1> Other periodicities are discussed.
+<ICE-JA:W2A-024#14:1> The April showers of 1993 are explained in terms of abnormally cold
+
+weather in North America and the May rainfall of 1993 is associated with a
+
+mature phase of the El Ni&ntilde;o. </p>
+
+<p> <ICE-JA:W2A-024#15:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-024#16:1> The April-May showers of 1993 were ab <l> normally heavy.
+<ICE-JA:W2A-024#17:1> The islandwide precipitation averaged over 200 mm and 400 mm for the
+
+respective months.
+<ICE-JA:W2A-024#18:1> The above numbers are based on a sample of data since the final 1993
+
+data were not available.
+<ICE-JA:W2A-024#19:1> Many questions were asked as to the cause, such as, <quote> " Were
+
+the heavy rains a result of global warming?" </quote> or <quote> " Were they
+
+due to environmental degradation?" </quote>
+<ICE-JA:W2A-024#20:1> This paper will not try to answer explicitly questions such as the
+
+above, although inferences can be made.
+<ICE-JA:W2A-024#21:1> The paper will look specifically at some statistics of the April-May
+
+rainfall, search for periodicities and correlations and attempt to give some
+
+physical explanations and point out the need for research using general
+
+circulation models. </p>
+
+<p> <ICE-JA:W2A-024#22:1> <h> <bold> STATISTICS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-024#23:1> Rainfall data from 21 stations, covering the period 1951 to 1990,
+
+were analyzed.
+<ICE-JA:W2A-024#24:1> The sta <l> tions were chosen on the basis of continuity of data over
+
+40 years.
+<ICE-JA:W2A-024#25:1> Figure 1 shows the location of the stations and Figure 2 gives a
+
+histogram of the mean monthly rainfall obtained.
+<ICE-JA:W2A-024#26:1> The frequency of rainfall is bimodal with peaks in May and October.
+<ICE-JA:W2A-024#27:1> There is a marked increase in rainfall from March to April.
+<ICE-JA:W2A-024#28:1> An earlier analysis showed that western parishes have maximum
+
+rainfall in May and that the increase in rainfall from March to April was
+
+more marked in these parishes <fnr> <sp> 1 </sp> </fnr> . <footnote>
+<ICE-JA:W2A-024#29:1> 1. The Climatology Branch of the Jamaican Meteorology Service.
+<ICE-JA:W2A-024#30:1> The Climate of Jamaica, First Edition, 1973. </footnote> </p>
+
+<p> <ICE-JA:W2A-024#31:1> Since the rainfall seems to peak around April, May and June (
+
+Figure 2), it is of interest to see if these months have the same charac <l>
+
+teristics.
+<ICE-JA:W2A-024#32:1> Table 1 shows the mean, maximum, minimum and standard deviations for
+
+the an <l> nual monthly average rainfall for the three months.
+<ICE-JA:W2A-024#33:1> In addition to the peak in May, one sees that the mean rainfall in
+
+June is greater than in April and that the fractional deviation in May is
+
+less than in April and June.
+<ICE-JA:W2A-024#34:1> Other compari <l> sons of characteristics of individual months are
+
+given below. </p> <O> caption </O> <O> table </O>
+
+<p> <ICE-JA:W2A-024#35:1> <h> <bold> PERIODICITY </bold> </h> </p>
+
+<p> <ICE-JA:W2A-024#36:1> A power spectrum analysis, the results of which are given in Fig.
+
+3, shows that the annual <O> map </O> <O> caption </O> <O> graph </O> <O>
+
+caption </O> <O> graph </O> <O> caption </O> average of the April  June
+
+rainfall has a domi <l> nant periodicity of 64.1 years ( frequency = 0.01563
+
+year <sp> - 1 </sp> ) and a secondary periodicity of 9.15 years (
+
+frequency=0.10938 year <sp> 1 </sp> ) .
+<ICE-JA:W2A-024#37:1> The 95% confidence intervals for the periodograms for the two periods
+
+are 6.30 x 10 <sp> 4 </sp> to 918.90 x 10 <sp> 4 </sp> and 0.52 x 10 <sp> 4
+
+</sp> to 76.28 x 10 <sp> 4 </sp> respectively.
+<ICE-JA:W2A-024#38:1> The 64 year period is a trend in the data.
+<ICE-JA:W2A-024#39:1> Less significant periods of 6.9, 2.9, 2.2 and 1.9 years were
+
+observed. </p>
+
+<p> <ICE-JA:W2A-024#40:1> The individual months were analyzed by means of harmonic analysis
+
+and related power spectrum analysis to determine if they exhibited the same
+
+periodicity as the average.
+<ICE-JA:W2A-024#41:1> Tables 2(a)-2(c) show the first 5 leading harmonics for April, May
+
+and June respectively.
+<ICE-JA:W2A-024#42:1> Table 3 shows the corresponding results for the power spectrum
+
+analysis.
+<ICE-JA:W2A-024#43:1> The three months exhibit different harmonic behavior.
+<ICE-JA:W2A-024#44:1> Both tables show that April's rainfall tend to be composed of
+
+harmonics of lower frequencies or greater peri <l> ods, June rainfall of
+
+higher frequencies or lower periods, while May rainfall comes in between.
+<ICE-JA:W2A-024#45:1> Table 3 shows that, while the three months exhibit a 64 year
+
+periodicity, only April and May have a 9.1 year periodicity. </p> <O> caption
+
+</O> <O> table </O> <O> caption </O> <O> table </O>
+
+<p> <ICE-JA:W2A-024#46:1> <h> <bold> CORRELATIONS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-024#47:1> The power spectra for April, May and June are composed of many
+
+frequencies, some of which may be mathematical representations of the time
+
+series.
+<ICE-JA:W2A-024#48:1> Some however, may be associ <l> ated with physical phenomena. </p>
+
+<p> <ICE-JA:W2A-024#49:1> The Quasi-Biennial Oscillation ( QBO) has a period of
+
+approximately 26 months or 2.1 years.
+<ICE-JA:W2A-024#50:1> The June data has a strong 2.1 year component, while the April data
+
+has a weak peak for the same period.
+<ICE-JA:W2A-024#51:1> Some studies have attempted to show a correlation between rain <l>
+
+fall and QBO and this would have to be inves <l> tigated further.
+<ICE-JA:W2A-024#52:1> It will be shown below that the longer periods in the April data
+
+could be related to the 11 year solar cycle through the phase of the QBO in
+
+such a way that the 11 year period of the solar activity will not be
+
+explicitly evi <l> dent. </p>
+
+<p> <ICE-JA:W2A-024#53:1> Results reported by Labitzke and Von Loon <fnr> <sp> 2 </sp>
+
+</fnr> show that correlations between weather elements and solar activity
+
+increase when the years are grouped according to the phase of the QBO.
+
+<footnote>
+<ICE-JA:W2A-024#54:1> 2. Labitzke, K.; Von Loon, H. Recent Work Correlating the 11-Year
+
+Solar Cycle with Atmospheric Elements Grouped According to the Phase of the
+
+Quasi-Biennial Oscillation. <it> Space Sci. Rev., </it> 1989, 49, 239-258.
+
+</footnote>
+<ICE-JA:W2A-024#55:1> In particular, they found that correla <l> tions were higher when
+
+weather elements were correlated with solar activity during the west <l> erly
+
+phase of the QBO. Figure 4 shows a plot of rainfall and solar activity during
+
+the years when the QBO was in the westerly phase at 15 mb.
+<ICE-JA:W2A-024#56:1> The years were chosen in such a way that the western phase of the QBO
+
+was evident at 15 mb for most of the year, starting at least in January and
+
+continuing through to July, at least.
+<ICE-JA:W2A-024#57:1> In this way the physical phenomenon responsible for the westerly
+
+phase of the QBO would be well established in April.
+<ICE-JA:W2A-024#58:1> The coefficient of corre <l> lation between corresponding rainfall
+
+values and solar flux values was 0.79.
+<ICE-JA:W2A-024#59:1> Since the num <l> ber of data points is so small, the 95% confi <l>
+
+dence limit lies between 0.95 and 0.32.
+<ICE-JA:W2A-024#60:1> Al <l> though the cycle is approximately 11 years, it may not be
+
+evident when all years are consid <l> ered, such as in harmonic analysis of
+
+time se <l> ries.
+<ICE-JA:W2A-024#61:1> Figure 5 shows the variation of April rainfall from 1951  1990.
+<ICE-JA:W2A-024#62:1> The rainfall data for years in which the QBO was in the westerly
+
+phase at 15 mb are denoted by filled boxes.
+<ICE-JA:W2A-024#63:1> It can be seen that, although the filled boxes ex <l> hibit an
+
+approximate 11 year cycle, such a cycle is masked when the rainfall from
+
+other years are taken into account.
+<ICE-JA:W2A-024#64:1> It could however combine with other periods, acting as a modulation,
+
+to produce other frequencies as explained in the next section. </p>
+
+<p> <ICE-JA:W2A-024#65:1> Blake and Brown <sp> 3 </sp> reported at a regional conference
+
+that, during recorded El Ni&ntilde;o years for the 1951-1983 period, the
+
+ratio of above normal rainfall anomalies to below normal anomalies was 2:1
+
+for May, whereas the ratio was 1:1 or less for other months. <footnote>
+<ICE-JA:W2A-024#66:1> 3. Blake, J.; Brown, P. National Meteorological Office, Private
+
+Communication, 1993. </footnote>
+<ICE-JA:W2A-024#67:1> It is worth <l> while investigating whether or not the 4 year
+
+periodicity in the May data, shown in Tables 2(b) and 3, may in some way be
+
+correlated to moderate and stronger El Ni&ntilde;o events, since the period
+
+of re-occurrence of these events from 1951  1990 was approximately 4.3
+
+years.
+<ICE-JA:W2A-024#68:1> The moderate and stronger El Ni&ntilde;o years 1951  1987 are listed
+
+by Enfield <fnr> <sp> 4 </sp> </fnr> as 1953 ( M+), 1957/58 ( S), 1965 ( M+),
+
+1972/73 ( S), 1976 ( M), 1982/83 ( VS) and 1987 ( M), where ( M) refers to
+
+moderate, ( S) to strong and ( VS) to very strong. <footnote>
+<ICE-JA:W2A-024#69:1> 4. Enfield, D.B. Is El Nino becoming more Common? <it> Oceanography,
+
+</it> 1988, 1, 23-27, 59. </footnote>
+<ICE-JA:W2A-024#70:1> Sotelo <fnr> <sp> 5 </sp> </fnr> also includes the year <O> graph
+
+</O> <O> caption </O> <O> graph </O> <O> caption </O> 1969 as an El
+
+Ni&ntilde;o year. <footnote> 5. Sotelo, Romulo Jordon. The Ecological and
+
+Economic Impacts of the El Ni&ntilde;o in the South-East Pacific. WMO No.
+
+649, 1986. </footnote> </p>
+
+<p> <ICE-JA:W2A-024#71:1> Figure 6 shows the annual average May rainfall for the 21
+
+stations analyzed in this study.
+<ICE-JA:W2A-024#72:1> Datum for 1993 is added since this can also be considered an El
+
+Ni&ntilde;o year <fnr> <sp> 6 </sp> </fnr> . <footnote>
+<ICE-JA:W2A-024#73:1> 6. Climate System Monitoring Monthly Bulletin, Issue No. 5, 1993,
+
+UNEP-WMO. </footnote>
+<ICE-JA:W2A-024#74:1> The value of 359 mm for 1993 is an estimation based on data available
+
+from 14 of the 21 stations used in the 1951-1990 analysis; the average
+
+rainfall in May 1993 for the island based on all data collected at the
+
+National Meteorological Serv <l> ice is 559 mm, with a long-term mean of 211
+
+mm for May.
+<ICE-JA:W2A-024#75:1> Rainfall data for 1992, also an El Ni&ntilde;o year, as well as
+
+previous years were de <l> stroyed in a fire at the National Meteorological
+
+Service.
+<ICE-JA:W2A-024#76:1> The years of moderate or stronger El Ni&ntilde;o events are
+
+highlighted by filled boxes and the mean value of the rainfall for the
+
+period, 1951-90, is indicated by the solid horizontal line.
+<ICE-JA:W2A-024#77:1> From the graph it can be seen that, for El Ni&ntilde;o years, the
+
+ration of above mean to below mean rainfall is 7:4 for the 1951-1990 period
+
+and 8:4 or 2 when 1993 is included.
+<ICE-JA:W2A-024#78:1> For other months the ratio was found to be 1:1 or less for the 1951 
+
+1990 period, except for the months of January and April, where the ratio is
+
+6:5. </p>
+
+<p> <ICE-JA:W2A-024#79:1> Table 4(a) shows a contingency table used to test the
+
+significance of the relationship be <l> tween May rainfall and El Ni&ntilde;o
+
+events.
+<ICE-JA:W2A-024#80:1> The years from 1951  1990 and 1993 were classi <l> fied as either El
+
+Ni&ntilde;o or non El Ni&ntilde;o years.
+<ICE-JA:W2A-024#81:1> The rainfall for each classification was placed into either of 2
+
+classes, those years when rainfall was above the 1951  1990 average and
+
+those years with rainfall below.
+<ICE-JA:W2A-024#82:1> The Pearson chi- square for the table is &chi; <sp> 2 </sp> = 2.82.
+
+Since &chi; <sp> 2 </sp> <sb> .95 </sb> = 3.84, then deviations from
+
+expectation as large or larger than occurred in this table could be found
+
+more than 5% of the time, and the null hypothesis that above normal rainfall
+
+is unre <l> lated to El Ni&ntilde;o events cannot be rejected. </p>
+
+<p> <ICE-JA:W2A-024#83:1> Figure 6 also shows that of the 5 years in which May rainfall
+
+exceeded 300 mm, 4 of those years were El Ni&ntilde;o years.
+<ICE-JA:W2A-024#84:1> Table 4(b) gives the contingency table for the above data when the
+
+classes are defined as those years with rainfall above 300 mm and rainfall
+
+below 300 <O> figure </O> <O> caption </O> <O> caption </O> <O> table </O>
+
+<O> caption </O> <O> table </O> mm.
+<ICE-JA:W2A-024#85:1> The Pearson chi-square for this table is &chi; <sp> 2 </sp> = 7.08.
+<ICE-JA:W2A-024#86:1> However, the significance of the test is suspect since the frequency
+
+of two of the cells is less than 5.
+<ICE-JA:W2A-024#87:1> Nonetheless the Yates corrected chi-square, which corrects for small
+
+data, gives &chi; <sp> 2 </sp> = 4.56.
+<ICE-JA:W2A-024#88:1> Thus the null hypothesis that there is no relationship between heavy
+
+rainfall above 300 mm and El Ni&ntilde;o events can be rejected. </p>
+
+<p> <ICE-JA:W2A-024#89:1> The question of whether or not the 4 year periodicity of the May
+
+rainfall is associated with the 4.3 year re-occurrence period of El
+
+Ni&ntilde;o is still unanswered.
+<ICE-JA:W2A-024#90:1> From Figure 6 it can be seen that from 1951  1070, the peaks in the
+
+May rainfall in 1953, 1958, 1963 and 1970 coincide approximately with the
+
+re-occurrence of El Ni&ntilde;o, if 1957/58 is counted as one occur <l> ence,
+
+as it was in determining the 4.3 year period.
+<ICE-JA:W2A-024#91:1> However the pattern is not obvious after 1970.
+<ICE-JA:W2A-024#92:1> In fact, it is noted that 1 occurrence, in 1976, is associated with
+
+minimum rainfall, and 2 occurrences, in 1972/3 and 1982/3, are associated
+
+with near average and minimum rainfall.
+<ICE-JA:W2A-024#93:1> This needs to be investigated as dis <l> cussed below. </p>
+
+<p> <ICE-JA:W2A-024#94:1> <h> <bold> EXPLANATION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-024#95:1> A hypothesis can be put forward to partially explain the positive
+
+correlation between rain <l> fall and solar activity during the westerly
+
+phase of the QBO.
+<ICE-JA:W2A-024#96:1> The April rainfall can be ex <l> plained in terms of precipitation
+
+resulting from the advance of cold fronts from the north over land ( Jamaica)
+
+which is being heated by solar radiation, which is in that part of its cycle
+
+where the intensity of radiation has nearly peaked <fnr> <sp> 7 </sp> </fnr> .
+
+<footnote>
+<ICE-JA:W2A-024#97:1> 7. National Meteorological Service Climate Branch.
+<ICE-JA:W2A-024#98:1> An overview of the Climate of Jamaica, 1986. </footnote>
+<ICE-JA:W2A-024#99:1> Figure 7 shows the monthly variation of global radiation over Jamaica
+
+with the radiation start <l> ing to peak in March. <X>
+<ICE-JA:W2A-024#X100:1> Thus April showers are caused by the coincidental occurrence of
+
+cold fronts and increased solar radiation over land.
+<ICE-JA:W2A-024#X101:1> The cold air moves in under the warm air over land and forces moist
+
+air upward.
+<ICE-JA:W2A-024#X102:1> The resulting uplifting of moist air leads to the formation of
+
+cumulonimbus clouds and eventual precipita<l>tion.
+<ICE-JA:W2A-024#X103:1> The effect in March is not as pronounced, perhaps because of the
+
+time lag required for solar heating to take effect.</p>
+
+<p> <ICE-JA:W2A-024#X104:1> It is now hypothesized that, near solar maxi<l>mum in the solar
+
+cycle, the mechanism above <O> figure</O> <O> caption</O> will be amplified
+
+due to slight increases in solar heating near solar maximum, and conversely
+
+it will be diminished during solar minimum.
+<ICE-JA:W2A-024#X105:1> In this way there should be increased precipitation near solar
+
+maximum and decreased precipitation near solar minimum.</X></I>

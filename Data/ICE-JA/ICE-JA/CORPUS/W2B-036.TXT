@@ -1,0 +1,418 @@
+<I>
+
+<p> <ICE-JA:W2B-036#1:1> <h> <bold> Windows makes as much sense as OS/2 </bold> </h> </p>
+
+<p> <ICE-JA:W2B-036#2:1> <bold> By Robert Moskowitz </p>
+
+<p> <ICE-JA:W2B-036#3:1> I HAVE to admit I was sceptical.
+<ICE-JA:W2B-036#4:1> Any time a giant corporation starts trying to convince me to start
+
+using their new product for my own bene <l> fit, I get suspicious. </p>
+
+<p> <ICE-JA:W2B-036#5:1> With Microsoft Windows, my suspicions proved largely correct for
+
+several years, too.
+<ICE-JA:W2B-036#6:1> The product was slow, balky, and a memory hog.
+<ICE-JA:W2B-036#7:1> It locked up my computer as often as it ran, and more than half of my
+
+favourite software was incompatible with it. </p>
+
+<p> <ICE-JA:W2B-036#8:1> But more recently, Windows has matured into a product that looks
+
+more and more attractively  par <l> ticularly in comparison to OS/2, which
+
+another giant corporation is trying to convince me to start using for my own
+
+benefit. </p>
+
+<p> <ICE-JA:W2B-036#9:1> One of the big reasons that Win <l> dows looks like a good
+
+alternative for many business installations is that the number of powerful,
+
+usable application software is impressively large. </p>
+
+<p> <ICE-JA:W2B-036#10:1> Starting with Excel and Page-Maker, the list of useful software
+
+designed to run with Windows is as long as your arm, and encompasses most of
+
+the important tasks that users like computers to tackle. </p>
+
+<p> <ICE-JA:W2B-036#11:1> Another big reason is that proc <l> essors running at 20, 25, and
+
+33 MHz tend to solve a lot of software performance problems that slower
+
+machines leave open to criticisms.
+<ICE-JA:W2B-036#12:1> Today's hardware is a lot faster and more powerful than the machines
+
+on which most of us evaluated Win <l> dows during the early years. </p>
+
+<p> <ICE-JA:W2B-036#13:1> <h> <bold> Fancy tricks </bold> </h> </p>
+
+<p> <ICE-JA:W2B-036#14:1> Windows is not really compara <l> ble to OS/2 from a technical
+
+stand <l> point.
+<ICE-JA:W2B-036#15:1> It's not a full-fledged operat <l> ing <}> <-> systems </-> <+>
+
+system </+> </}> , for example, and it doesn't have the potential for all the
+
+inter-process communications and automated integration among software,
+
+processors, and peripher <l> als that IBM's new offering will eventually
+
+provide. </p>
+
+<p> <ICE-JA:W2B-036#16:1> But today, a user sitting in front of a PC equipped with
+
+Microsoft Windows is in a good position to do a lot of fancy tricks that
+
+look, feel, sound, and smell like the work of a graphics-oriented,
+
+multi-tasking computer system running in much more than 640K of memory. </p>
+
+<p> <ICE-JA:W2B-036#17:1> With Windows installed ( some <l> times a difficult trick for PCs
+
+with non-standard components or pe <l> ripherals), you have a lot of options
+
+DOS never delivered.
+<ICE-JA:W2B-036#18:1> For example, several different programmes can be booted and
+
+simultaneously held ready to run.
+<ICE-JA:W2B-036#19:1> Most software won't actually process unless they have direct access
+
+to the keyboard and the screen, but Windows will make them available in the
+
+wink of an eye, eliminating the need to close down one application before
+
+loading the next one. </p>
+
+<p> <ICE-JA:W2B-036#20:1> <w> DOS' </w> 640K memory limitation is effectively circumvented
+
+by tech <l> niques for swapping inactive pro <l> gramme code and data files
+
+between RAM and hard disk storage spaces, and by Window's ability to address
+
+more than the meagre amount of memory that DOS ordinarily allows. </p>
+
+<p> <ICE-JA:W2B-036#21:1> For programmes designed to run with Windows, the difficult DOS
+
+command line and word-based in <l> terface is replaced with a Mac-like
+
+graphical one.
+<ICE-JA:W2B-036#22:1> This means you point the cursor with your mouse at an icon of the
+
+file or computer process you want to access.
+<ICE-JA:W2B-036#23:1> Click the mouse button and the computer responds. </p>
+
+<p> <ICE-JA:W2B-036#24:1> It also means that you can change how a programme or how the
+
+computer itself operates without editing a command file.
+<ICE-JA:W2B-036#25:1> Instead, you simply interact with a <quote> " dialogue box" </quote>
+
+and use the mouse to select the new choices you want to make. </p>
+
+<p> <ICE-JA:W2B-036#26:1> <h> <bold> Various utilities </bold> </h> </p>
+
+<p> <ICE-JA:W2B-036#27:1> One of the biggest remaining obstacles to its proliferation is
+
+that the market contains far fewer appli <l> cation packages for Windows than
+
+for DOS.
+<ICE-JA:W2B-036#28:1> But DOS, too, was hand <l> icapped in this fashion during its early
+
+years of availability, and every month brings more Windows-oriented
+
+applications to market. </p>
+
+<p> <ICE-JA:W2B-036#29:1> Already, various utilities are on the market to expand <w>
+
+Windows' </w> command and file-management ca <l> pabilities without forcing
+
+you back to native DOS.
+<ICE-JA:W2B-036#30:1> Some permit you to build custom menus to automate specific functions,
+
+loading and run <l> ning specific application software against designated
+
+data files, and performing other file-management routines.
+<ICE-JA:W2B-036#31:1> Others add more icons to Windows, including ones for file names, for
+
+file deletions, and more. </p>
+
+<p> <ICE-JA:W2B-036#32:1> With a set of high-end, Windows-oriented command files in place,
+
+an organization can effectively aug <l> ment Windows to create <}> <-> an
+
+</-> <+> a </+> </}> com <l> plete, custom operating environ <l> ment for all
+
+its users that relies on <w> DOS' </w> capabilities the way a 747 relies on
+
+the Wright <w> Brothers' </w> basic concepts of flying machines.
+<ICE-JA:W2B-036#33:1> The resulting level of standardized oper <l> ations and automated
+
+integration of applications can significantly sim <l> plify day-to-day work
+
+with PCs in large organizations. </p>
+
+<p> <ICE-JA:W2B-036#34:1> Another reason to consider Win <l> dows over DOS is that many of
+
+applications designed for it deliver abilities far greater than their coun
+
+<l> terparts in DOS.
+<ICE-JA:W2B-036#35:1> Excel, for example, is far more powerful than DOS-based spreadsheets.
+
+</p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-036#36:2> <h> <bold> Don't mess with the brakes </bold> </h> </p>
+
+<p> <ICE-JA:W2B-036#37:2> <it> bold> They could be lethal </it> </bold> </p>
+
+<p> <ICE-JA:W2B-036#38:2> <it> <bold> M </bold> </it> AKE no mistake about it.
+<ICE-JA:W2B-036#39:2> The brakes of your ve <l> hicle is extremely impor <l> tant.
+<ICE-JA:W2B-036#40:2> Mechanics will tell us bluntly, that this goes without saying. </p>
+
+<p> <ICE-JA:W2B-036#41:2> There is nothing more nerve-racking in driving than to apply the
+
+brakes and find none.
+<ICE-JA:W2B-036#42:2> No brakes, <}> <-> than </-> <+> then </+> </}> the bang, wham,
+
+crash, pop.
+<ICE-JA:W2B-036#43:2> Our foot can tell a lot about the brakes.
+<ICE-JA:W2B-036#44:2> We merely step on the pedal and wait for the vehicle to obediently
+
+reduce speed. </p>
+
+<p> <ICE-JA:W2B-036#45:2> This is fine at slow speeds on dry hard pavement, but requires
+
+deft <l> ness and experience and good brakes under adverse driving condi <l>
+
+tions.
+<ICE-JA:W2B-036#46:2> Here's a simple illustration on how important proper braking
+
+techniques are.
+<ICE-JA:W2B-036#47:2> Take your car up to Queen Hill, in the Meadow Brook area and let it
+
+roll down.
+<ICE-JA:W2B-036#48:2> Keep the brakes on slightly all the way to the bottom.
+<ICE-JA:W2B-036#49:2> Then get out and feel one of the wheels.
+<ICE-JA:W2B-036#50:2> Wet the end of your finger because the wheel will be quite hot.
+<ICE-JA:W2B-036#51:2> You will notice because of the length of the hill more pedal pressure
+
+is required as you get near to the bottom of the hill. </p>
+
+<p> <ICE-JA:W2B-036#52:2> This is brake fade.
+<ICE-JA:W2B-036#53:2> Everytime you step on the brake think of heat.
+<ICE-JA:W2B-036#54:2> Remember that it is causing wear at slow speeds and can cause fade at
+
+higher velocities.
+<ICE-JA:W2B-036#55:2> Heat, is <}> <-> reall </-> <+> really </+> </}> <}> <-> niot </->
+
+<+> not </+> </}> a friend of efficient braking.
+<ICE-JA:W2B-036#56:2> Fric <l> tion caused by the rubbing of the shoes against the surface
+
+of the drums generates intense heat.
+<ICE-JA:W2B-036#57:2> Com <l> pare this as when you rub the palms of your two hands
+
+together. </p>
+
+<p> <ICE-JA:W2B-036#58:2> The heat causes the surfaces of the brake shoes and drums to lose
+
+their abrasive qualities.
+<ICE-JA:W2B-036#59:2> This other, reducing the drag which causes the cars to slow down.
+<ICE-JA:W2B-036#60:2> This drop in braking efficiency is referred to as <quote> 'FADE'
+
+</quote> <+> . </+>
+<ICE-JA:W2B-036#61:2> Fade can be identified through a sponginess in the brake pedal and it
+
+normally requires more <}> <-> foor </-> <+> foot </+> </}> pressure. </p>
+
+<p> <ICE-JA:W2B-036#62:2> <h> <bold> Action </bold> </h> </p>
+
+<p> <ICE-JA:W2B-036#63:2> The dangerous part of emergency braking action comes when the
+
+drums and wheels are locked up.
+<ICE-JA:W2B-036#64:2> This of course means that the tyres are no longer turning and one seg
+
+<l> ment of rubber is skating along the pavement.
+<ICE-JA:W2B-036#65:2> Frictional heat will build quickly to a point where the rubber melts,
+
+reducing adhesion even more.
+<ICE-JA:W2B-036#66:2> This accounts for the black marks on the road.
+<ICE-JA:W2B-036#67:2> In actual fact, the farther the tyre slides, the hot <l> ter it gets
+
+progressively reducing adhesion. </p>
+
+<p> <ICE-JA:W2B-036#68:2> Cars have 2 kinds of brakes.
+<ICE-JA:W2B-036#69:2> They usually have disc brakes on the front wheels and drum brakes at
+
+the back.
+<ICE-JA:W2B-036#70:2> In a disc brake, a steel disc is fixed to the wheels and turns with
+
+it.
+<ICE-JA:W2B-036#71:2> When the driver presses the brake pedal, hydraulic pistons force a
+
+pair of pads against the disc.
+<ICE-JA:W2B-036#72:2> This makes the wheel slow down.
+<ICE-JA:W2B-036#73:2> In a drum brake, curved brake shoes are forced against the inside of
+
+a drum that turns with the back wheel. </p>
+
+<p> <ICE-JA:W2B-036#74:2> there are three major kinds of brakes: </p>
+
+<p> <ICE-JA:W2B-036#75:2> 1. The mechanical brakes </p>
+
+<p> <ICE-JA:W2B-036#76:2> 2. The hydraulic brakes </p>
+
+<p> <ICE-JA:W2B-036#77:2> 3. The air brakes </p>
+
+<p> <ICE-JA:W2B-036#78:2> The mechanical brakes have le <l> vers that push the brake shoe
+
+down to the wheel.
+<ICE-JA:W2B-036#79:2> Most light-weight bicy <l> cle use a mechanical brake, called
+
+calliper brake. </p>
+
+<p> <ICE-JA:W2B-036#80:2> The hydraulic brake use various fluids instead of levers of
+
+cables.
+<ICE-JA:W2B-036#81:2> In cars, the brake fluid is in the cham <l> ber called cylinders.
+<ICE-JA:W2B-036#82:2> Metal tubes connect the master cylinder with wheel cylinder located
+
+near the wheel.
+<ICE-JA:W2B-036#83:2> When the driver steps on the car's brake pedal, a piston moves
+
+towards inside the master cylinder. </p>
+
+<p> <ICE-JA:W2B-036#84:2> The air brakes use compressed <}> <-> oursupplied </-> <+> air
+
+supplied </+> </}> by the machine called a compressor.
+<ICE-JA:W2B-036#85:2> Most buses, heavy trucks, and train have air brakes. </p>
+
+<p> <ICE-JA:W2B-036#86:2> There is also the power brake which provide additional force for
+
+the brake shoes on frictional pads.
+<ICE-JA:W2B-036#87:2> Many trailers use electric brakes which use electromagnets, attached
+
+to a disk on each wheel.
+<ICE-JA:W2B-036#88:2> When changed with electricity from a bat <l> tery, the electromagnet
+
+activates the brake shoes to slow or stop the vehicle. </p>
+
+<p> <ICE-JA:W2B-036#89:2> Now, being more aware of the brakes in our vehicles, we will real
+
+<l> ize that driving in slow city traffic on dry roads is probably the best
+
+environment in which braking technique is the least important.
+<ICE-JA:W2B-036#90:2> One smooth application of our brakes to slow us from say 30 mph for a
+
+red light will do no damage be made gently, with the vehicle roll <l> ing
+
+quietly to a STOP.
+<ICE-JA:W2B-036#91:2> Charging up to the stop light and then slamming <O> text </O> on the
+
+brakes is abusive to the vehicle and does not usually save time. </p>
+
+<p> <ICE-JA:W2B-036#92:2> <h> <bold> Friction </bold> </h> </p>
+
+<p> <ICE-JA:W2B-036#93:2> Driving becomes more dangerous when the road is wet.
+<ICE-JA:W2B-036#94:2> The friction between the tyres and the road is reduced, meaning the
+
+brakes may stop the wheel from rotating but the car will continue on. </p>
+
+<p> <ICE-JA:W2B-036#95:2> When a driver finds that the surface is very slippery <{> <-> us
+
+</> <+> use </+> </{> the <quote> 'ON-OFF' </quote> TECHNIQUE.
+<ICE-JA:W2B-036#96:2> Not <quote> 'pump the <}> <-> prakes </-> <+> brakes </+> </}> '
+
+</quote> as this is not advised.
+<ICE-JA:W2B-036#97:2> Pumping implies rapid depression and release of the brake pedal. </p>
+
+<p> <ICE-JA:W2B-036#98:2> It is best to apply the brakes until the wheels almost stop turn
+
+<l> ing.
+<ICE-JA:W2B-036#99:2> Then release the brakes then reapply.
+<ICE-JA:W2B-036#100:2> By continuing this action one will find that speed fells off very
+
+quickly no matter how slippery the road. </p>
+
+<p> <ICE-JA:W2B-036#101:2> When using the brakes on wet surfaces, DO NOT SLAM the pedal
+
+down, especially if one has power brakes.
+<ICE-JA:W2B-036#102:2> A hard application for a second, where the tyres have no grip can
+
+lock things.
+<ICE-JA:W2B-036#103:2> Simply, de <l> press the pedal smoothly and firmly at all times.
+
+</p>
+
+<p> <ICE-JA:W2B-036#104:2> When approaching a corner, the one after leaving the Clarendon
+
+Park Railway Crossing for example, light braking will be required.
+<ICE-JA:W2B-036#105:2> A driver ought to leave himself with a margin in the unfortunate
+
+event that brakes fail. </p>
+
+<p> <ICE-JA:W2B-036#106:2> Look at this example, if a bend in the highway is coming up,
+
+back off on the throttle early enough so that it can be negotiated without
+
+the brakes.
+<ICE-JA:W2B-036#107:2> If the brakes fail, unfortu <l> nately, one would not be in a
+
+totally hopeless situation.
+<ICE-JA:W2B-036#108:2> As a skillful driver one would have gone through the corner a bit
+
+faster, but at least one would have gone through. </p>
+
+<p> <ICE-JA:W2B-036#109:2> We must remember that braking interferes with steering control
+
+and can be dangerous in corners, espe <l> cially on slippery corners.
+<ICE-JA:W2B-036#110:2> We are sometimes reminded of slippery pavements by the sign SLIPPERY
+
+WHEN WET.
+<ICE-JA:W2B-036#111:2> The margin of which we speak cannot be looked at in terms of feet
+
+and K.P.H. and given to the driver in steps.
+<ICE-JA:W2B-036#112:2> It is some <l> thing that a driver has to feel.
+<ICE-JA:W2B-036#113:2> Learner or new drivers will obvious <l> ly have poor judgements.
+<ICE-JA:W2B-036#114:2> However, as they learn with and from the car, that margin of ? ?
+
+will become more apparent. </p>
+
+<p> <ICE-JA:W2B-036#115:2> It is important to consider that the gearbox can play a part in
+
+re <l> ducing speed.
+<ICE-JA:W2B-036#116:2> If the driver finds himself without brakes, he should not pave.
+<ICE-JA:W2B-036#117:2> It never help.
+<ICE-JA:W2B-036#118:2> Shift down to a lower gear for more engine braking.
+<ICE-JA:W2B-036#119:2> Downshifting for slippery roads is also recommended. </p>
+
+<p> <ICE-JA:W2B-036#120:2> <h> <bold> Obstacles </bold> </h> </p>
+
+<p> <ICE-JA:W2B-036#121:2> In an emergency, brake hard up to the point of locking the
+
+brakes, then release them.
+<ICE-JA:W2B-036#122:2> When the brakes are locked up, the tyres are no longer turning and
+
+one segment of rubber is skating along the pave <l> ment.
+<ICE-JA:W2B-036#123:2> So when one hears, the screech of rubber and feel the vehi <l> cle
+
+sliding along, simply get off the brakes of a second. </p>
+
+<p> <ICE-JA:W2B-036#124:2> Definitely, with some sort of obstacles looming up, the natural
+
+reaction is to stand on the brakes as hard as one can and stay on them until
+
+the vehicle stops. </p>
+
+<p> <ICE-JA:W2B-036#125:2> The seriousness of brake failure depends on where it occurs.
+<ICE-JA:W2B-036#126:2> Should one regrettably lose his brake on a steep hill, this is
+
+trouble.
+<ICE-JA:W2B-036#127:2> Try to stop the car as quickly as possible rather than attempting to
+
+drive out of trouble.
+<ICE-JA:W2B-036#128:2> The longer the car goes, the more momentum increases and the more
+
+difficult to stop. </p> </I>

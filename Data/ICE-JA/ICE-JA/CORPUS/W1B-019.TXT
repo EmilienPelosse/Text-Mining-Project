@@ -1,0 +1,595 @@
+<I>
+
+<p> <ICE-JA:W1B-019#1:1> <h> <bold> Memorandum</bold></h></p>
+
+<p> <ICE-JA:W1B-019#2:1> Date<space> : <space> May 18, 1999</p>
+
+<p> <ICE-JA:W1B-019#3:1> To<space> : <space> See Distribution List</p>
+
+<p> <ICE-JA:W1B-019#4:1> From<space> : <space> <@> Amy Richardson</@>, Campus Bursar</p>
+
+<p> <ICE-JA:W1B-019#5:1> Chairman  Y2K Committee</p>
+
+<p> <ICE-JA:W1B-019#6:1> <bold> RE<space> : <space> RESULTS OF Y2K COMPUTER
+
+TESTING</bold></p>
+
+<p> <ICE-JA:W1B-019#7:1> Earlier in the year, computers on the Mona campus were put through
+
+a series of tests to determine their ability to handle problems associated
+
+with the year 2000.
+<ICE-JA:W1B-019#8:1> The results of the tests on the machines in your department are
+
+provided on the attached Compliance Report.</p>
+
+<p> <ICE-JA:W1B-019#9:1> Recognizing that the results of the tests may be <quote>
+
+'confusing'</quote> to some, this document seeks to explain what the results
+
+of the tests mean.</p>
+
+<p> <ICE-JA:W1B-019#10:1> <h> <bold> <ul> Understanding the Test
+
+Results</ul></bold></h></p>
+
+<p> <ICE-JA:W1B-019#11:1> The result of each test can be either a <quote> '1'</quote> or a
+
+<quote> '0'</quote>.
+<ICE-JA:W1B-019#12:1> A <quote> '1'</quote> signifies that the test was <quote>
+
+'passed'</quote> while a <quote> '0'</quote> signifies that the test was
+
+<quote> 'failed'</quote></p>
+
+<p> <ICE-JA:W1B-019#13:1> The following tests were performed on the machines:</p>
+
+<p> <ICE-JA:W1B-019#14:1> &bullet; Ability to handle dates up to and beyond 2000</p>
+
+<p> <ICE-JA:W1B-019#15:1> &bullet; Recognition of the year 2000 as a leap year and leap
+
+years following</p>
+
+<p> <ICE-JA:W1B-019#16:1> &bullet; Ability of the computers systems clock to <quote>
+
+'rollover'</quote> from 1999 to 2000</p>
+
+<p> <ICE-JA:W1B-019#17:1> &bullet; Testing of the computers <quote> 'real time
+
+clock'</quote><fnr><sp>1</sp></fnr> via the BIOS ( Basic Input Output System)
+
+<footnote>
+<ICE-JA:W1B-019#18:1> <sp> 1</sp>Every personal computer contains two clocks  a built-in
+
+real time clock ( RTC-also known as CMOS/RTC Chip) which is part of PC
+
+motherboard and a system clock ( a virtual clock).
+<ICE-JA:W1B-019#19:1> The RTC runs whether the system is on or off as long as the internal
+
+battery is working.
+<ICE-JA:W1B-019#20:1> The system clock is set to the RTC when the computer is turned on and
+
+exists only while the computer is operating.
+<ICE-JA:W1B-019#21:1> While the computer is up and running, the two clocks run independent
+
+of each other.</footnote></p>
+
+<p> <ICE-JA:W1B-019#22:1> &bullet; Testing of the computers <quote> 'real time
+
+clock'</quote> via the CMOS ( Complementary Metal-Oxide Semiconductor)</p>
+
+<p> <ICE-JA:W1B-019#23:1> Based on the results each machine was assigned a <bold>
+
+Compliance Status Code.</bold>
+<ICE-JA:W1B-019#24:1> These codes are set out below:</p>
+
+<p> <ICE-JA:W1B-019#25:1> 0  Has no date function.
+<ICE-JA:W1B-019#26:1> Compliance is not an issue.</p>
+
+<p> <ICE-JA:W1B-019#27:1> 1  Y2K Compliant.</p>
+
+<p> <ICE-JA:W1B-019#28:1> 2  Can be made compliant with intervention such as user action,
+
+software or hardware upgrade. </p>
+
+<p> <ICE-JA:W1B-019#29:1> 3  Product is being investigated, information not yet
+
+available.</p>
+
+<p> <ICE-JA:W1B-019#30:1> 4  Cannot be effectively made compliant, seek alternative.</p>
+
+<p> <ICE-JA:W1B-019#31:1> 5  According to the manufacturer, product has been retired or
+
+will be retired.
+<ICE-JA:W1B-019#32:1> Y2K compliance will not be assessed.</p>
+
+<p> <ICE-JA:W1B-019#33:1> The columns <bold> Date Setting, System Level, Bios Level</bold>
+
+and <bold> CMOS Level</bold> on the Compliance Report represent summaries of
+
+the tests performed.</p>
+
+<p> <ICE-JA:W1B-019#34:1> If the machine passes the <bold> CMOS Level</bold> tests then all
+
+others should also have been passed and the machine is fully compliant.
+<ICE-JA:W1B-019#35:1> No action is necessary.</p>
+
+<p> <ICE-JA:W1B-019#36:1> Where a machine's <bold> Compliance Status Code</bold> is <quote>
+
+2</quote>, one of the following actions may be necessary:</p>
+
+<p> <ICE-JA:W1B-019#37:1> ( a) If the machine passes at the <bold> BIOS Level</bold> then
+
+compliance can be assured by simply making sure that the machine is <bold>
+
+OFF</bold> during the changeover period and rebooting after midnight December
+
+31, 1999.
+<ICE-JA:W1B-019#38:1> Simply put, if the machine is not left running during the changeover
+
+period it will be fine.</p>
+
+<p> <ICE-JA:W1B-019#39:1> ( b) If the machine passes the <bold> Date Setting</bold> and
+
+<bold> System Level</bold> tests it should be possible to manually make the
+
+machine compliant after Midnight 31st December 1999.
+<ICE-JA:W1B-019#40:1> It will be necessary to bring the machine up in <bold> DOS
+
+MODE</bold> ( where you have the <quote> C:</quote> prompt showing) and set
+
+the date there.
+<ICE-JA:W1B-019#41:1> This can be done as follows:</p>
+
+<p> <ICE-JA:W1B-019#42:1> 1.) Type <quote> Date</quote> at the <quote> 'C'</quote> prompt
+
+and press <quote> 'Enter'</quote></p>
+
+<p> <ICE-JA:W1B-019#43:1> 2.) At the resulting prompt enter the date according to the
+
+prompt shown.
+<ICE-JA:W1B-019#44:1> Some computers will prompt for a month/day/year entry while others
+
+will prompt for a day/month/year entry.
+<ICE-JA:W1B-019#45:1> The year must be entered as a four ( 4) digit entry regardless of the
+
+prompt.</p>
+
+<p> <ICE-JA:W1B-019#46:1> <bold> E.g.</bold> Prompt:<space> Enter new date ( mm-dd-yy):</p>
+
+<p> <ICE-JA:W1B-019#47:1> <bold> You enter:</bold><space> 01-01-2000</p>
+
+<p> <ICE-JA:W1B-019#48:1> It should not be necessary for you to do this again.</p>
+
+<p> <ICE-JA:W1B-019#49:1> In the event that there is any trouble getting this exercise
+
+completed, personnel will be available to assist.
+<ICE-JA:W1B-019#50:1> A request must be made MISU to arrange to have someone on hand.</p>
+
+<p> <ICE-JA:W1B-019#51:1> If your machine has a status code <quote> '4'</quote> or <quote>
+
+'5'<quote> it needs to be replaced before the year 2000.</p>
+
+<p> <ICE-JA:W1B-019#52:1> <bold> All machines being used for research must have a
+
+compliance code of <quote> '1'</quote>.</p>
+
+<p> <ICE-JA:W1B-019#53:1> <h> <ul> What You Need To Do</ul></bold></h></p>
+
+<p> <ICE-JA:W1B-019#54:1> Departments must confirm whether all machines in your department
+
+are included on the Compliance Report list supplied, and send a reply in this
+
+regard to the Y2K Committee, attention <@> Amy Richardson</@>.
+<ICE-JA:W1B-019#55:1> Responses must be submitted by Wednesday, June 9, 1999.</p>
+
+<p> <ICE-JA:W1B-019#56:1> Departments may also direct any queries on the foregoing to the
+
+Y2K Committee.</p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1B-019#57:2> <h> <bold> Memo</h></p>
+
+<p> <ICE-JA:W1B-019#58:2> To<space> : <space> Heads of Departments/Campus &
+
+Centre</bold></p>
+
+<p> <ICE-JA:W1B-019#59:2> From<space> : <space> <bold> Campus Bursar/Chairman Y2K
+
+Committee</bold></p>
+
+<p> <ICE-JA:W1B-019#60:2> Date<space> : <space> October 27, 1999</p>
+
+<p> <ICE-JA:W1B-019#61:2> <bold> Re<space> : <space> Backup of data files</p>
+
+<p> <ICE-JA:W1B-019#62:2> The current exercise being conducted on Campus, as a part of the
+
+Y2K project, to upgrade the operating systems and microsoft office products
+
+on individual PCs has led to the realization that many users have been
+
+neglecting important procedures regarded as vital to the <quote>
+
+safe</quote> use of computers.</p>
+
+<p> <ICE-JA:W1B-019#63:2> Specifically, the apparent lack of adequate backup of data files
+
+is cause for concern.</p>
+
+<p> <ICE-JA:W1B-019#64:2> The attached document has been prepared to provide users with a
+
+better understanding of the importance of backing up data files and what
+
+needs to be done to ensure proper backup of files.</p>
+
+<p> <ICE-JA:W1B-019#65:2> It has been pointed out in previous correspondence that as a part
+
+of the Y2K contingency planning, the backup of data files and systems is
+
+essential.</p>
+
+<p> <ICE-JA:W1B-019#66:2> Kindly read the attached document and use it to assist you in not
+
+only in your Y2K preparation but to apply routinely to your departments
+
+operations.</p>
+
+<p> <ICE-JA:W1B-019#67:2> Should you have any queries or require additional guidance, you
+
+may contact one of the persons listed below:</p>
+
+<p> <ICE-JA:W1B-019#68:2> <bold> <@> Kenneth Bennett</@><space> - <space> Ext. 2436</p>
+
+<p> <ICE-JA:W1B-019#69:2> <@> Devon Hailey</@><space> - <space> Ext. 2720</p>
+
+<p> <ICE-JA:W1B-019#70:2> Ms. <@> Silvia Woods</@><space> - <space> Ext. 2720</p>
+
+<p> <ICE-JA:W1B-019#71:2> <@> Amy Richardson</@> ( Mrs.)</bold></p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1B-019#72:3> <h> <bold> <ul> Memorandum</ul></h></p>
+
+<p> <ICE-JA:W1B-019#73:3> To:</bold><space> Dr. H. Devonish, Head, Language Linguistics and
+
+Philosophy</p>
+
+<p> <ICE-JA:W1B-019#74:3> <bold> Fr:</bold><space> Mr. <@> C.C. Wayne</@>, Project Manager,
+
+Y2K Embedded Systems.</p>
+
+<p> <ICE-JA:W1B-019#75:3> <bold> Date:</bold> November 1, 1999</p>
+
+<p> <ICE-JA:W1B-019#76:3> <bold> Re:<space> Departmental Year 2000 Compliance
+
+Status</bold></p>
+
+<p> <ICE-JA:W1B-019#77:3> Subsequent to taking the inventory of your department, we are
+
+presenting you with the Year 2000 Compliance Status of your instruments.</p>
+
+<p> <ICE-JA:W1B-019#78:3> Please confirm that this inventory is a correct representation of
+
+the department's assets.</p>
+
+<p> <ICE-JA:W1B-019#79:3> In the unlikely event that there are instruments missing from our
+
+listing or, your department <bold> <ul> has since acquired new
+
+equipment</ul></bold>, please send us the following information.</p>
+
+<p> <ICE-JA:W1B-019#80:3> The <w> Instruments'</w> name, Manufacturer's name, Model number,
+
+Type number, Type number, Serial number and the University number of these
+
+instruments.</p>
+
+<p> <ICE-JA:W1B-019#81:3> In the event that it is a newly acquired instrument, please state
+
+if the Manufacturer has provided you with the Y2K compliance status of that
+
+instrument.</p>
+
+<p> <ICE-JA:W1B-019#82:3> <@> C. C. Wayne</@></p>
+
+<p> <ICE-JA:W1B-019#83:3> Project Manager, Y2K Embedded Systems</p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1B-019#84:4> <bold> November 2, 1999</bold></p>
+
+<p> <ICE-JA:W1B-019#85:4> Dr. Monica Taylor</p>
+
+<p> <ICE-JA:W1B-019#86:4> Department of Language, Linguistics & Philosophy</p>
+
+<p> <ICE-JA:W1B-019#87:4> UWI, Mona</p>
+
+<p> <ICE-JA:W1B-019#88:4> Dear Dr. Taylor:</p>
+
+<p> <ICE-JA:W1B-019#89:4> We refer to our letter of January 7, 1999, with regard to a
+
+request for funds to assess the relative efficiencies of selected mediated
+
+and unmediated collateral resources for writing improvement, in which you
+
+were asked to clarify the number of tutors involved in the project and a
+
+statement of costs.</p>
+
+<p> <ICE-JA:W1B-019#90:4> The Mona Campus Committee for Research & Publications and
+
+Graduate Awards, at its meeting on October, 10, 1999, received the
+
+information requested above and approved a grant of <bold> J$20,500</bold>
+
+from the <bold> Postgraduate Research Fund</bold> to cover the following
+
+costs:</p>
+
+<p> <ICE-JA:W1B-019#91:4> Reference copies of writing skills manuals<space> J$ 3,000</p>
+
+<p> <ICE-JA:W1B-019#92:4> Writing Skills Software<space> J$17,500</p>
+
+<p> <ICE-JA:W1B-019#93:4> The Committee was not able to support the other items budgeted,
+
+namely:</p>
+
+<p> <ICE-JA:W1B-019#94:4> Staff Orientation Workshops<space> J$ 5,000</p>
+
+<p> <ICE-JA:W1B-019#95:4> Training of Tutors, Consultant's honorarium & Lab fees<space>
+
+J$20,000</p>
+
+<p> <ICE-JA:W1B-019#96:4> Clerical fees for documentation, etc.<space> J$ 8,000</p>
+
+<p> <ICE-JA:W1B-019#97:4> Salaries of tutors<space> J$50,000</p>
+
+<p> <ICE-JA:W1B-019#98:4> The Committee has recommended, however, that you consult with the
+
+Dean, Faculty of Arts & Education, if you wish to involve graduate students.
+<ICE-JA:W1B-019#99:4> This, the Committee agreed, should be done through departmental
+
+awards.</p>
+
+<p> <ICE-JA:W1B-019#100:4> Kindly contact <bold> Mr. <@> Daniel Black</@></bold> in the
+
+Bursary for disbursement of funds.</p>
+
+<p> <ICE-JA:W1B-019#101:4> Please note that it is necessary that a report on the grant be
+
+submitted to the committee as soon as possible.</p>
+
+<p> <ICE-JA:W1B-019#102:4> Yours sincerely,</p>
+
+<p> <ICE-JA:W1B-019#103:4> <@> Laura M. Smith</@> ( Mrs.)</p>
+
+<p> <ICE-JA:W1B-019#104:4> Secretary, Mona Campus Committee for Research & Publications and
+
+Graduate Awards</p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1B-019#105:5> January 24, 2001</p>
+
+<p> <ICE-JA:W1B-019#106:5> Dr. Silvia Kouwenberg</p>
+
+<p> <ICE-JA:W1B-019#107:5> Department of Language, Linguistics & Philosophy</p>
+
+<p> <ICE-JA:W1B-019#108:5> UWI, Mona</p>
+
+<p> <ICE-JA:W1B-019#109:5> Dear Dr. Kouwenberg,</p>
+
+<p> <ICE-JA:W1B-019#110:5> The Mona Campus Committee for Research & Publications and
+
+Graduate Awards at its meeting on January 23, 2001, considered your
+
+application for a grant to cover attendance of graduate students at the 2001
+
+Summer Institute of the Linguistic Society of America, University of
+
+California, June 25  August 3, 2001.</p>
+
+<p> <ICE-JA:W1B-019#111:5> The Committee approved a grant in principle, pending submission
+
+of a letter of acceptance from the Institution.</p>
+
+<p> <ICE-JA:W1B-019#112:5> Please let us have this information as soon as possible.</p>
+
+<p> <ICE-JA:W1B-019#113:5> Yours sincerely,</p>
+
+<p> <ICE-JA:W1B-019#114:5> <@> Laura M. Smith</@> ( Mrs.)</p>
+
+<p> <ICE-JA:W1B-019#115:5> Secretary, Campus Committee for Research & Publications and
+
+Graduate Awards</p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1B-019#116:6> To:<space> <@> Laura M. Smith</@></p>
+
+<p> <ICE-JA:W1B-019#117:6> Graduate Studies & Research</p>
+
+<p> <ICE-JA:W1B-019#118:6> Re:<space> R&P grant</p>
+
+<p> <ICE-JA:W1B-019#119:6> 08 / 02 / 01</p>
+
+<p> <ICE-JA:W1B-019#120:6> I hereby acknowledge receipt of your letter, stating that a
+
+grant has been awarded which will allow three graduate linguistics students
+
+to attend the 2001 Summer Institute of the Linguistic Society of America.
+<ICE-JA:W1B-019#121:6> I am happy that our students will be afforded this opportunity.</p>
+
+<p> <ICE-JA:W1B-019#122:6> The letter stipulates as a condition of the award that a letter
+
+of acceptance from the host university be submitted.
+<ICE-JA:W1B-019#123:6> Unfortunately, the host university simply registers students as they
+
+send in their registration forms with payment.
+<ICE-JA:W1B-019#124:6> It is not possible, therefore, to get any proof of acceptance from
+
+the host university until payment of registration fees is made.</p>
+
+<p> <ICE-JA:W1B-019#125:6> In light of this, I would like to ask that you waive the
+
+requirement.</p>
+
+<p> <ICE-JA:W1B-019#126:6> Yours sincerely,</p>
+
+<p> <ICE-JA:W1B-019#127:6> Department of Language, Linguistics & Philosophy</p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1B-019#128:7> March 9, 2001</p>
+
+<p> <ICE-JA:W1B-019#129:7> Dr. Silvia Kouwenberg</p>
+
+<p> <ICE-JA:W1B-019#130:7> Department of Language, Linguistics & Philosophy</p>
+
+<p> <ICE-JA:W1B-019#131:7> UWI, Mona</p>
+
+<p> <ICE-JA:W1B-019#132:7> Dear Dr. Kouwenberg,</p>
+
+<p> <ICE-JA:W1B-019#133:7> I write further to our letter of February <}> <->
+
+21,2001</-><+>21, 2001</+></}> and your response of March <}> <->
+
+5,2001</-><+>5, 2001</+></}> to advise that the Chairman, Mona Campus
+
+Committee for Research & Publications and Graduate Awards, having
+
+reconsidered your application, has agreed to a grant from the <bold>
+
+Postgraduate Research Fund</bold> - Centre as follows:</p>
+
+<p> <ICE-JA:W1B-019#134:7> <space> <bold> J$</bold></p>
+
+<p> <ICE-JA:W1B-019#135:7> i)<space> Airfare<space>
+<ICE-JA:W1B-019#136:7> <bold> <@> Heidi Phelps</@><space>
+<ICE-JA:W1B-019#137:7> <@> Eugene Bali</@><space>
+<ICE-JA:W1B-019#138:7> <@> Mary Stanson</@>  Total 122,758.00</bold></p>
+
+<p> <ICE-JA:W1B-019#139:7> ii)<space> American Home Insurance<space> <bold>
+
+7,800.00</bold></p>
+
+<p> <ICE-JA:W1B-019#140:7> iii)<space> application fee<space> US$<space> 85.00<space>
+
+US$<space> 85.00<space> US$<space> 85.00</p>
+
+<p> <ICE-JA:W1B-019#141:7> iv)<space> programme fee<space> 950.00<space> 1,550.00<space>
+
+950.00</p>
+
+<p> <ICE-JA:W1B-019#142:7> v) <space> course material<space> 250.00<space> 250.00<space>
+
+250.00</p>
+
+<p> <ICE-JA:W1B-019#143:7> vi)<space> <}> <-> Subsistence(9</-><+>Subsistence ( 9</+></}>
+
+days @US$100)<space> 900.00<space> 900.00<space> 900.00</p>
+
+<p> <ICE-JA:W1B-019#144:7> The Travel agents have confirmed that departure tax is included
+
+in the airfare quoted.</p>
+
+<p> <ICE-JA:W1B-019#145:7> The Chairman regrets that the Committee would not be able to
+
+support an additional per diem and suggests that you solicit funding from
+
+your Department ( <space> e.g. Research and Publications Departmental
+
+Allocations).</p>
+
+<p> <ICE-JA:W1B-019#146:7> Kindly do the following:</p>
+
+<p> <ICE-JA:W1B-019#147:7> i)<space> request a Purchase Requisition Form ( AZ purchase
+
+order) through the Head of Department</p>
+
+<p> <ICE-JA:W1B-019#148:7> ii)<space> contact Mr. <@> Peter Powell</@>, in the Office of
+
+Finance, with the above for the disbursement of funds</p>
+
+<p> <ICE-JA:W1B-019#149:7> iii)<space> note that the Office of Finance requires five ( 5)
+
+days for the preparation of cheques, after full supporting documents are
+
+received.</p>
+
+<p> <ICE-JA:W1B-019#150:7> Please note that a report on the grant and receipts should be
+
+submitted to the Committee as soon as possible.</p>
+
+<p> <ICE-JA:W1B-019#151:7> Yours sincerely,</p>
+
+<p> <ICE-JA:W1B-019#152:7> <@> Laura M. Smith</@> ( Mrs.)</p>
+
+<p> <ICE-JA:W1B-019#153:7> Secretary, Campus Committee for Research & Publications and
+
+Graduate Awards</p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1B-019#154:8> May 14, 2001</p>
+
+<p> <ICE-JA:W1B-019#155:8> Dr. J. Bewaji</p>
+
+<p> <ICE-JA:W1B-019#156:8> Department of Language, Linguistics & Philosophy</p>
+
+<p> <ICE-JA:W1B-019#157:8> UWI, Mona</p>
+
+<p> <ICE-JA:W1B-019#158:8> Dear Dr. Bewaji,</p>
+
+<p> <ICE-JA:W1B-019#159:8> The Mona Campus Committee for Research & Publications and
+
+Graduate Awards at its meeting on May 8, 2001, received the information
+
+requested at its last meeting, with<space> regard to a research<space>
+
+project entitled <quote> Beauty & Culture: Perspectives in Black Aesthetics
+
+ an introduction to African & African Diaspora Philosophy of
+
+Arts</quote>.</p>
+
+<p> <ICE-JA:W1B-019#160:8> The Committee approved a sum of <bold> J$100,000.00</bold> from
+
+the <bold> Research and Publications Campus Fund,</bold> towards the
+
+publication of the book, as an advance to be repaid from Royalties.</p>
+
+<p> <ICE-JA:W1B-019#161:8> Kindly do the following:</p>
+
+<p> <ICE-JA:W1B-019#162:8> i)<space> request a Purchase Requisition Form ( AZ purchase
+
+order) through the Head of the Department</p>
+
+<p> <ICE-JA:W1B-019#163:8> ii)<space> contact Mr. <@> Daniel Black</@>, in Bursary, with
+
+the above, for the disbursement of funds</p>
+
+<p> <ICE-JA:W1B-019#164:8> iii)<space> note that the Bursary requires five ( 5) <}> <->
+
+day</- ><+>days</+></}> for the preparation of cheques, after full supporting
+
+documents are received.</p>
+
+<p> <ICE-JA:W1B-019#165:8> Please note that a report should be submitted to the Committee
+
+as soon as possible.</p>
+
+<p> <ICE-JA:W1B-019#166:8> Yours sincerely,</p> <p <
+<ICE-JA:W1B-019#167:8> <@> Laura M. Smith</@> ( Mrs.)</p>
+
+<p> <ICE-JA:W1B-019#168:8> Secretary, Campus Committee for Research & Publications and
+
+Graduate Awards</p></I>

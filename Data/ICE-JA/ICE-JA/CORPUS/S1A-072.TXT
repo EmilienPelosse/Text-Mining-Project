@@ -1,0 +1,728 @@
+<I>
+
+<$A> <ICE-JA:S1A-072#1:1:A> So what is your name
+<ICE-JA:S1A-072#2:1:A> I forgot to ask you
+
+<$B> <ICE-JA:S1A-072#3:1:B> Uhm my name is Samuel Morgan
+
+<$A> <ICE-JA:S1A-072#4:1:A> Samuel Morgan
+<ICE-JA:S1A-072#5:1:A> <{> <[> You live</[> on Chancellor
+
+<$B> <ICE-JA:S1A-072#6:1:B> <[> Yes</[></{>
+
+<$B> <ICE-JA:S1A-072#7:1:B> Yes I do
+
+<$A> <ICE-JA:S1A-072#8:1:A> Oh <?> I've always been on Seacole</?><{><[><,>
+<ICE-JA:S1A-072#9:1:A> Alright</[>
+
+<$B> <ICE-JA:S1A-072#10:1:B> <[> Oh
+<ICE-JA:S1A-072#11:1:B> You're</[></{> <?> a Seacolite</?>
+
+<$A> <ICE-JA:S1A-072#12:1:A> Yes<{><[><,></[>
+<ICE-JA:S1A-072#13:1:A> So what do you do
+
+<$B> <ICE-JA:S1A-072#14:1:B> <[> Okay</[></{>
+
+<$B> <ICE-JA:S1A-072#15:1:B> Uh you mean at university<{><[><,></[>
+<ICE-JA:S1A-072#16:1:B> Well currently I do mathematics and computer science
+
+<$A> <ICE-JA:S1A-072#17:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-072#18:1:A> Oh <?> all the brains</?>
+<ICE-JA:S1A-072#19:1:A> Why<{><[><,></[>
+<ICE-JA:S1A-072#20:1:A> Because you like it
+
+<$B> <ICE-JA:S1A-072#21:1:B> <[> <O> laughs</O></[></{>
+<ICE-JA:S1A-072#22:1:B> Well uhm it wasn't entire because of love but<,>
+<ICE-JA:S1A-072#23:1:B> Uh I guess uhm it's just what I'm forced to do right now
+
+circumstances so
+
+<$A> <ICE-JA:S1A-072#24:1:A> What <?> do</?> you mean forced why
+<ICE-JA:S1A-072#25:1:A> They placed you in it because <{> <[> it's in</[>
+
+<$B> <ICE-JA:S1A-072#26:1:B> <[> No I</[></{> <}> <-> <.> i</.></-> <=> it</=></}>
+<ICE-JA:S1A-072#27:1:B> Well now <}> <-> I</-> <=> I</=></}> love it but before it wasn't
+
+really because of love
+<ICE-JA:S1A-072#28:1:B> It was <{1> <[1> just</[1> something I did uhm<,> interim you know
+
+<{2> <[2> <}> <-> until</- ></[2> <=> until</=></}> I had the opportunity to
+
+do something else
+<ICE-JA:S1A-072#29:1:B> But now I think I might pursue it<{3><[3><,> uhm</[3>
+
+<$A> <ICE-JA:S1A-072#30:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#31:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#32:1:A> <[3> Mhm
+<ICE-JA:S1A-072#33:1:A> What</[3></{3> did you want to do
+
+<$B> <ICE-JA:S1A-072#34:1:B> Well originally I wanted to do medicine<{1><[1><,></[1>
+<ICE-JA:S1A-072#35:1:B> <}> <-> Now</-> <=> now</=></}> <{2> <[2> not any more</[2>
+
+<$A> <ICE-JA:S1A-072#36:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#37:1:A> <[2> Why you see</[2></{2> the pressures of <}> <-> the <{>
+
+<[> the</-> <=> the</=></}> <unclear> word(s)</unclear></[>
+
+<$B> <ICE-JA:S1A-072#38:1:B> <[> Yes
+<ICE-JA:S1A-072#39:1:B> Then I uh realised</[></{> it's not worth it
+
+<$A> <ICE-JA:S1A-072#40:1:A> Why you say it's not worth it
+
+<$B> <ICE-JA:S1A-072#41:1:B> Well uhm I mean I don't really love it that much <{1> <[1>
+<ICE-JA:S1A-072#42:1:B> For me</[1> it's not worth it<{2><[2><,></[2> because you know <}>
+
+<-> I <?> had</?></-> <=> I was</=></}> just drawn to <}> <-> the</-> <=>
+
+the</=></}> money factor<{3><[3><,></[3>
+<ICE-JA:S1A-072#43:1:B> Yeah
+
+<$A> <ICE-JA:S1A-072#44:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#45:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#46:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-072#47:1:A> Okay well I guess the money computer depending on <{1> <[1>
+
+where you go</[1>
+<ICE-JA:S1A-072#48:1:A> Mhm<{2><[2><,></[2>
+<ICE-JA:S1A-072#49:1:A> Okay
+
+<$B> <ICE-JA:S1A-072#50:1:B> <[1> It depends</[1></{1>
+
+<$B> <ICE-JA:S1A-072#51:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-072#52:1:B> So what's the purpose of this <{> <[> interview</[>
+
+<$A> <ICE-JA:S1A-072#53:1:A> <[> What
+<ICE-JA:S1A-072#54:1:A> Oh</[></{> I forgot to tell you
+<ICE-JA:S1A-072#55:1:A> Uhm the purpose is they want <O> speaker-B-coughs</O>to see <}> <->
+
+<.> E</.></-> how Jamaicans use <=> English</=></}><{1><[1><,></[1>
+<ICE-JA:S1A-072#56:1:A> It's for the language department and they gonna send it
+
+uhm<O>speaker-B-coughs</O> to the U K or Germany I think to uhm for them to
+
+analyse <{2> <[2> <,> our language</[2>
+
+<$B> <ICE-JA:S1A-072#57:1:B> <[1> Aha</[1></{1>
+
+<$B> <ICE-JA:S1A-072#58:1:B> <[2> Oh so you couldn't do</[2></{2> the analysis here
+
+<$A> <ICE-JA:S1A-072#59:1:A> Uh I don't know<O>speaker-B-laughs</O>
+<ICE-JA:S1A-072#60:1:A> That's what the <}> <-> professior <.> t</.></-> uh <=>
+
+professor</=></}> told me<{><[><O>laughs</O></[>
+<ICE-JA:S1A-072#61:1:A> Uh so why you chose to live on Chancellor
+
+<$B> <ICE-JA:S1A-072#62:1:B> <[> Okay</[></{>
+
+<$B> <ICE-JA:S1A-072#63:1:B> Uhm well because of<O>laughs</O> well<O>laughs</O> if I said
+
+because of Chancellor Hall reputation <{1> <[1> then it would be a <unclear>
+
+word</unclear> thing right</[1> but I choose to live on Chancellor because of
+
+<}> <-> the positive uhm the positive <.> re</.></-> <=> the positive part of
+
+the <{2> <[2> reputation</[2></=></}> right uhm
+<ICE-JA:S1A-072#64:1:B> I guess you can say that Chancellor Hall is a very successful hall
+
+that <?> it</?> <{3> <[3> has produced</[3> a lot of successful people <{4>
+
+<[4> throughout the past</[4>
+<ICE-JA:S1A-072#65:1:B> <}> <-> So</- ><&>talking-in-background</&><{5><[5><,></[5> <=>
+
+so</=></}> you know I guess that's why I was attracted to the hall
+
+<$A> <ICE-JA:S1A-072#66:1:A> <[1> <O> laughs</O>Mhm mhmmhm mhmmhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#67:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#68:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-072#69:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-072#70:1:A> <[5> Mhm mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-072#71:1:A> The reputation
+<ICE-JA:S1A-072#72:1:A> But uh Taylor does well too<{1><[1><,></[1> in sports <{2> <[2>
+
+and</[2>
+
+<$B> <ICE-JA:S1A-072#73:1:B> <[1> You know </[1> </{1>
+
+<$B> <ICE-JA:S1A-072#74:1:B> <[2> Yes</[2></{2> they do
+<ICE-JA:S1A-072#75:1:B> Uhm I guess<,> looking at <}> <-> the number</-> <=> the
+
+numbers</=></}> of uhm Prime Ministers politicians uhm doctors and <}> <-> I
+
+just</-> <=> I</=></}> believe that Chancellor Hall was a more <{> <[>
+
+uhm</[> profound hall
+
+<$A> <ICE-JA:S1A-072#76:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-072#77:1:A> You went to Munro
+
+<$B> <ICE-JA:S1A-072#78:1:B> No I didn't
+
+<$A> <ICE-JA:S1A-072#79:1:A> Oh <{1> <[1> <?> cause a lot of</?></[1>
+<ICE-JA:S1A-072#80:1:A> You went to Wolmers <{2> <[2>
+<ICE-JA:S1A-072#81:1:A> Okay</[2>
+<ICE-JA:S1A-072#82:1:A> You are on the school <?> Chancellor's team</?>
+
+<$B> <ICE-JA:S1A-072#83:1:B> <[1> I went to Wolmers</[1></{1>
+
+<$B> <ICE-JA:S1A-072#84:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-072#85:1:B> I did that for some time
+
+<$A> <ICE-JA:S1A-072#86:1:A> Oh okay
+<ICE-JA:S1A-072#87:1:A> So you're from Kingston
+
+<$B> <ICE-JA:S1A-072#88:1:B> Yes I am
+
+<$A> <ICE-JA:S1A-072#89:1:A> So why you choose to live on hall
+
+<$B> <ICE-JA:S1A-072#90:1:B> Well I live on hall because of the convenience
+<ICE-JA:S1A-072#91:1:B> Uh <{1> <[1> it's</[1> more convenient to live on hall obviously
+
+than off because <{2> <[2> you're</[2> able to use the facilities any time
+
+you want<{3><[3><,></[3>
+<ICE-JA:S1A-072#92:1:B> Can <?> run up</?> to sleep whenever you want
+
+<$A> <ICE-JA:S1A-072#93:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#94:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#95:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-072#96:1:A> Yes that's true
+<ICE-JA:S1A-072#97:1:A> That's my reason too <{> <[>
+<ICE-JA:S1A-072#98:1:A> I went</[> to Queen's
+
+<$B> <ICE-JA:S1A-072#99:1:B> <[> Okay</[></{>
+
+<$B> <ICE-JA:S1A-072#100:1:B> Oh <}> <-> you live</-> <=> you're a</=></}>
+
+Kingstonian<{1><[1><,></[1>
+<ICE-JA:S1A-072#101:1:B> Okay that's <{2> <[2> good</[2>
+
+<$A> <ICE-JA:S1A-072#102:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#103:1:A> <[2> Okay</[2></{2>
+<ICE-JA:S1A-072#104:1:A> I haven't still oh yeah <?> look at that</?>
+<ICE-JA:S1A-072#105:1:A> Uhm <}> <-> why you why you here</-> <=> why you still
+
+here</=></}>
+
+<$B> <ICE-JA:S1A-072#106:1:B> I'm currently at school right right right now because well I
+
+was sick I went to the doctor right
+<ICE-JA:S1A-072#107:1:B> What I was sick with that's another story<O>laughs</O>
+<ICE-JA:S1A-072#108:1:B> <{1> <[1> Uhm</[1> I went to the doctor and then I went to visit
+
+some of my friends still on hall<{2><[2><,></[2> <?> someone kept</?>
+
+<unclear> word</unclear>
+
+<$A> <ICE-JA:S1A-072#109:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#110:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#111:1:A> Oh so you're not actually staying here
+
+<$B> <ICE-JA:S1A-072#112:1:B> No <}> <-> not not</-> <=> not</=></}> for the summer
+
+holidays
+
+<$A> <ICE-JA:S1A-072#113:1:A> Mhm
+<ICE-JA:S1A-072#114:1:A> Doing summer school or something
+
+<$B> <ICE-JA:S1A-072#115:1:B> No I don't think <?> it</?><{1><[1><,></[1> but then <{2>
+
+<[2> you know</[2> how it is right
+<ICE-JA:S1A-072#116:1:B> You might see a grade that you not expected and you end up
+
+<unclear> word</unclear>
+
+<$A> <ICE-JA:S1A-072#117:1:A> <[1> Oh</[1></{1>
+
+<$A> <ICE-JA:S1A-072#118:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#119:1:A> What year are you
+
+<$B> <ICE-JA:S1A-072#120:1:B> I'm in first
+<ICE-JA:S1A-072#121:1:B> I'm going to <{> <[> second</[>
+
+<$A> <ICE-JA:S1A-072#122:1:A> <[> Oh</[></{> you're in first year<{1><[1><,></[1>
+<ICE-JA:S1A-072#123:1:A> Oh
+<ICE-JA:S1A-072#124:1:A> I know I thought <}> <-> I saw you</-> <=> I see you</=></}> at
+
+Seacole <}> <-> in <unclear> name</unclear>'s room</-><{2><[2><,></[2> <=> in
+
+<unclear> name</unclear>'s room</=></}> <{3> <[3> <,>
+<ICE-JA:S1A-072#125:1:A> You been to</[3> <unclear> name</unclear>'s room<{4><[4><,>
+<ICE-JA:S1A-072#126:1:A> Mhm</[4>
+
+<$B> <ICE-JA:S1A-072#127:1:B> <[1> Yeah</[1></{1>
+
+<$B> <ICE-JA:S1A-072#128:1:B> <[2> Hm</[2></{2>
+
+<$B> <ICE-JA:S1A-072#129:1:B> <[3> Oh</[3></{3>
+
+<$B> <ICE-JA:S1A-072#130:1:B> <[4> Okay
+<ICE-JA:S1A-072#131:1:B> Yes I</[4></{4>
+<ICE-JA:S1A-072#132:1:B> Yeah <?> your place</?> <}> <-> it's</-> <=> it's</=></}> <?>
+
+fundamental</?>
+
+<$A> <ICE-JA:S1A-072#133:1:A> Yeah
+<ICE-JA:S1A-072#134:1:A> Uhm <}> <-> you</-> <=> you</=></}> did some tourism thing
+
+<$B> <ICE-JA:S1A-072#135:1:B> Yes I did<{><[><O>laughs</O></[>
+
+<$A> <ICE-JA:S1A-072#136:1:A> <[> Oh</[></{> what was it like
+<ICE-JA:S1A-072#137:1:A> What was it actually
+<ICE-JA:S1A-072#138:1:A> And how did you <{> <[> get involved</[>
+
+<$B> <ICE-JA:S1A-072#139:1:B> <[> <O> laughs</O> I don't <unclear> word</unclear>
+
+the</[></{> tourism thing
+
+<$A> <ICE-JA:S1A-072#140:1:A> Okay
+
+<$B> <ICE-JA:S1A-072#141:1:B> Uhm
+
+<$A> <ICE-JA:S1A-072#142:1:A> Say everything
+
+<$B> <ICE-JA:S1A-072#143:1:B> Well I've been involved in tourism <}> <-> since</-> <=>
+
+since</=></}> lower six at Wolmers which is <}> <-> since<,> since two
+
+thousand one</-> <=> since two thousand</=></}> right
+<ICE-JA:S1A-072#144:1:B> And from two thousand till now I've been doing a lot of things
+
+regarding tourism alright
+<ICE-JA:S1A-072#145:1:B> Uhm <}> <-> the</-> <=> the</=></}> climax or the high point of it
+
+really was when I became tourism president <{1> <[1> national</[1> tourism
+
+president<{2><[2><,></[2> and since then <}> <-> <?> you</?> have</-> <=>
+
+I've</=></}> done a lot of uhm<,> diplomatic stuff<{3><[3><,></[3> regarding
+
+tourism
+<ICE-JA:S1A-072#146:1:B> So I went to Germany uh in November <{4> <[4> to</[4> present a
+
+thesis on sustainable tourism
+
+<$A> <ICE-JA:S1A-072#147:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#148:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#149:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-072#150:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-072#151:1:A> Hm
+<ICE-JA:S1A-072#152:1:A> That's really nice <{> <[>
+<ICE-JA:S1A-072#153:1:A> Okay <}> <->
+<ICE-JA:S1A-072#154:1:A> How</-></[>
+<ICE-JA:S1A-072#155:1:A> Okay <=>
+<ICE-JA:S1A-072#156:1:A> How</=></}> did you get that post and
+
+<$B> <ICE-JA:S1A-072#157:1:B> <[> Yeah <?> it</?> was an experience</[></{>
+
+<$B> <ICE-JA:S1A-072#158:1:B> Well I was elected in you know a democratic process <{1> <[1>
+
+and <?> you</?></[1> get elected at a conference<{2><[2><,></[2> of students
+
+<$A> <ICE-JA:S1A-072#159:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#160:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#161:1:A> Okay
+<ICE-JA:S1A-072#162:1:A> Tell me about the entire experience in Germany from the airport to
+
+Germany and back
+
+<$B> <ICE-JA:S1A-072#163:1:B> <O> laughs</O> Well<O>laughs</O> that would take more than
+
+twenty-five minutes
+
+<$A> <ICE-JA:S1A-072#164:1:A> Okay go ahead
+<ICE-JA:S1A-072#165:1:A> <}> <-> That's</-><O>speaker-B-coughs</O> <=> that's</=></}> <{>
+
+<[> good</[>
+
+<$B> <ICE-JA:S1A-072#166:1:B> <[> But</[></{> uhm <?> hold on</?><{1><[1><,></[1>
+<ICE-JA:S1A-072#167:1:B> Uh <}> <- > <.> le</.></-> <=> let</=></}> me say that Germany <}>
+
+<-> is is</-> uh <=> it's</=></}> better than what I expected<{2><[2><,></[2>
+
+you know uhm
+<ICE-JA:S1A-072#168:1:B> One of the things that really surprised me was <}> <-> how</-><,>
+
+uhm what do you say now <=> how</=></}> what a contrast it is when you
+
+compare it to Jamaica uhm the economy and <}> <-> how rich</-> <=> how
+
+obviously rich</=></}> it was<{3><[3><,></[3> you know
+<ICE-JA:S1A-072#169:1:B> I mean the taxi drivers drove two thousand and two E class
+
+Benzes<{4><[4><,></[4>
+<ICE-JA:S1A-072#170:1:B> Yeah at the airport <{5> <[5> and you know</[5>
+<ICE-JA:S1A-072#171:1:B> I mean I was looking for some taxi you know a regular
+
+taxi<{6><[6>you know</[6> the type you see in New York or in <{7> <[7>
+
+Kingston</[7> or wherever
+<ICE-JA:S1A-072#172:1:B> And I saw Benzes there you <{8> <[8> know</[8> and everything
+<ICE-JA:S1A-072#173:1:B> And that was good uhm
+<ICE-JA:S1A-072#174:1:B> I went on the train<{9><[9><,></[9>
+<ICE-JA:S1A-072#175:1:B> Well not necessarily in chronological order<{10><[10><,></[10> uhm
+<ICE-JA:S1A-072#176:1:B> You know <}> <-> it</-> I don't know how to put it well <=>
+
+it</=></}> was cold <{11> <[11>
+<ICE-JA:S1A-072#177:1:B> <}> <- > It was</-></[11> <=> it was</=></}> cold
+<ICE-JA:S1A-072#178:1:B> Uhm <}> <-> <.> i</.></-> <=> it</=></}> was a different
+
+experience <{12> <[12> <unclear> word</unclear></[12>
+
+<$A> <ICE-JA:S1A-072#179:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#180:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#181:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-072#182:1:A> <[4> <O> laughs</O>Oh my God</[4></{4>
+
+<$A> <ICE-JA:S1A-072#183:1:A> <[5> Aha</[5></{5>
+
+<$A> <ICE-JA:S1A-072#184:1:A> <[6> <O> laughs</O>Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-072#185:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1A-072#186:1:A> <[8> Mhm</[8></{8>
+
+<$A> <ICE-JA:S1A-072#187:1:A> <[9> Mhm</[9></{9>
+
+<$A> <ICE-JA:S1A-072#188:1:A> <[10> Mhm</[10></{10>
+
+<$A> <ICE-JA:S1A-072#189:1:A> <[11> Mhm</[11></{11>
+
+<$A> <ICE-JA:S1A-072#190:1:A> <[12> Okay</[12></{12> <}> <-> you</-> <=> you</=></}> left
+
+the airport <{> <[> and <}> <-> you you</-> <=> you</=></}> went into the
+
+Benz you went into <}> <- > the</-> <=> the</=></}> taxi</[>
+
+<$B> <ICE-JA:S1A-072#191:1:B> <[> I left the airport
+<ICE-JA:S1A-072#192:1:B> I went into the hotel uh I went to
+<ICE-JA:S1A-072#193:1:B> <}> <-> And the </[> </{> highways</-><{1><[1><,></[1> <=> and the
+
+highways</=></}> have no speed limits <{2> <[2> <,>
+<ICE-JA:S1A-072#194:1:B> No</[2>
+<ICE-JA:S1A-072#195:1:B> No <}> <-> it <.> i</.></-> <=> it</=></}> depends on I guess the
+
+time of the year or so
+
+<$A> <ICE-JA:S1A-072#196:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#197:1:A> <[2> No speed limit</[2></{2>
+
+<$A> <ICE-JA:S1A-072#198:1:A> Oh I guess they wouldn't want
+
+Jamaican<O>speaker-B-clears-throat</O> drivers there <{1> <[1> <,>
+<ICE-JA:S1A-072#199:1:A> Please</[1> cause like two hundred<{2><[2><O>laughs</O></[2>
+
+<$B> <ICE-JA:S1A-072#200:1:B> <[1> <O> laughs</O>No right</[1></{1>
+
+<$B> <ICE-JA:S1A-072#201:1:B> <[2> And then there is a limit</[2></{2> to how fast the car
+
+can go right<{1><[1><,></[1>
+<ICE-JA:S1A-072#202:1:B> But uhm yeah you know
+<ICE-JA:S1A-072#203:1:B> And so I went to the hotel uh
+<ICE-JA:S1A-072#204:1:B> <}> <-> When</-> you know <=> when</=></}> we stepped outside it
+
+was really really cold <{2> <[2> <?> but</?></[2> I'm kind of used to the
+
+cold <{3> <[3> <?> you know</?></[3>
+<ICE-JA:S1A-072#205:1:B> Uhm we thought of <?> just</?> trying to get into the hotel as
+
+fast as possible and you know <?> you</?> went in and up to your room
+<ICE-JA:S1A-072#206:1:B> We turned on the T V and saw that all of those channels were in
+
+German<{4><[4><,></[4>
+<ICE-JA:S1A-072#207:1:B> Uhm you know and I <}> <-> listen</-> <=> turned on</=></}> the
+
+radio and there was English <{5> <[5> surprisingly<,></[5>
+<ICE-JA:S1A-072#208:1:B> Uh <.> i<.> everybody spoke German obviously but they spoke
+
+English as well<{6><[6><,></[6>
+<ICE-JA:S1A-072#209:1:B> So <}> <-> they're very</-> <=> they're highly</=></}> educated
+
+<{7> <[7> commonly</[7>
+
+<$A> <ICE-JA:S1A-072#210:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#211:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#212:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-072#213:1:A> <[4> Mhm<O>laughs</O></[4></{4>
+
+<$A> <ICE-JA:S1A-072#214:1:A> <[5> Mhm
+<ICE-JA:S1A-072#215:1:A> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-072#216:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-072#217:1:A> <[7> Bilingual</[7></{7> I guess
+<ICE-JA:S1A-072#218:1:A> Mhm
+
+<$B> <ICE-JA:S1A-072#219:1:B> Uhm<,> <}> <-> the what the the</-> <=> I spent</=></}> five
+
+days in Germany yes five days <{1> <[1> in Germany</[1> and for two or three
+
+days alright there was the presentation <{2> <[2> so</[2> I had to journey
+
+from the hotel which is at a place called <}> <-> Bad Homburg</-> <=> Bad
+
+Homburg</=></}><O>speaker-A-laughs</O> to a place called Friedrichstor
+<ICE-JA:S1A-072#220:1:B> No Friedrichstor was where the hotel was
+<ICE-JA:S1A-072#221:1:B> Bad Homburg is where the conference centre was <{3> <[3> so</[3> I
+
+had to take a train there every day<{4><[4><,></[4> back and forth I remember
+
+uhm
+<ICE-JA:S1A-072#222:1:B> <}> <-> It was a</-> <=> it was a</=></}> good experience you know
+<ICE-JA:S1A-072#223:1:B> I presented the thesis and that was good<{5><[5><,></[5>
+<ICE-JA:S1A-072#224:1:B> Uhm and then we had a day or two to wander around and <{6> <[6>
+
+you know</[6> explore Frankfurt<{7><[7><,></[7>
+<ICE-JA:S1A-072#225:1:B> So it was really good
+<ICE-JA:S1A-072#226:1:B> And I came back but I came back through New York and Miami then
+
+here <{8> <[8>
+<ICE-JA:S1A-072#227:1:B> <?> Less</?> travel</[8> in Miami though <{9> <[9> <unclear> two-
+
+words</unclear></[9>
+
+<$A> <ICE-JA:S1A-072#228:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#229:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#230:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-072#231:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-072#232:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-072#233:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-072#234:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1A-072#235:1:A> <[8> Oh</[8></{8>
+
+<$A> <ICE-JA:S1A-072#236:1:A> <[9> <}> <-> As usual</-></[9></{9> <=> as usual</=></}>
+<ICE-JA:S1A-072#237:1:A> Miami is <?> that out</?>
+<ICE-JA:S1A-072#238:1:A> <}> <-> What</-> <=> what</=></}> uhm flight it was
+
+<$B> <ICE-JA:S1A-072#239:1:B> American Airlines
+
+<$A> <ICE-JA:S1A-072#240:1:A> As usual
+<ICE-JA:S1A-072#241:1:A> Mhm
+<ICE-JA:S1A-072#242:1:A> Okay
+<ICE-JA:S1A-072#243:1:A> So <}> <-> how many persons</-> <=> how many persons</=></}> from
+
+Jamaica went
+
+<$B> <ICE-JA:S1A-072#244:1:B> Uh well two persons
+<ICE-JA:S1A-072#245:1:B> Uhm I don't know if I call the other person's name right now but
+
+<$A> <ICE-JA:S1A-072#246:1:A> Oh <}> <-> is</-> yeah <-> <.> sh</.></-> <=> she</=></}> is
+
+from Immaculate
+<ICE-JA:S1A-072#247:1:A> <{> <[> I saw her</[>
+
+<$B> <ICE-JA:S1A-072#248:1:B> <[> Yes she's from</[></{> yes
+<ICE-JA:S1A-072#249:1:B> You saw her <{> <[>
+<ICE-JA:S1A-072#250:1:B> Okay</[>
+
+<$A> <ICE-JA:S1A-072#251:1:A> <[> Mhm</[></{>
+<ICE-JA:S1A-072#252:1:A> Okay
+<ICE-JA:S1A-072#253:1:A> And <}> <-> who was you</-> uhm <=> who were the person
+
+you</=></}> <{> <[> <unclear> word</unclear></[>
+<ICE-JA:S1A-072#254:1:A> Who was the person that you went with
+
+<$B> <ICE-JA:S1A-072#255:1:B> <[> Oh</[></{>
+
+<$B> <ICE-JA:S1A-072#256:1:B> Oh the person I went <{> <[> with
+<ICE-JA:S1A-072#257:1:B> Her</[> name well she's uh I don't know if I should tell the name
+
+but
+
+<$A> <ICE-JA:S1A-072#258:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-072#259:1:A> No the uhm you didn't have a <{> <[> wait<,>
+<ICE-JA:S1A-072#260:1:A> Yes supervisor or something</[>
+
+<$B> <ICE-JA:S1A-072#261:1:B> <[> A super
+<ICE-JA:S1A-072#262:1:B> <}> <-> She she</-> yes <-> she she was</-></[></{> <=> she
+
+was</=></}> the guide basically <{1> <[1> to the</[1> whole project
+<ICE-JA:S1A-072#263:1:B> Uhm she is from the Jamaica Tourist Board right <{2> <[2>
+<ICE-JA:S1A-072#264:1:B> She is the</[2> public education manager<{3><[3><,>
+<ICE-JA:S1A-072#265:1:B> So</[3> what the thing that we went on it's actually called the G
+
+T T P<,> <{4> <[4> the</[4> Global Travel and Tourism Partnership right and
+
+uhm that's basically it
+<ICE-JA:S1A-072#266:1:B> <}> <-> The <.> glo</.></-><+>global</+> <=> the</=></}> G T T P
+
+has some educational section to it you know
+<ICE-JA:S1A-072#267:1:B> It has about ten member countries and<{5><[5><,></[5> they have
+
+to<,> get involved in tourism education <{6> <[6> or</[6> something <?> they
+
+will start on</?>
+<ICE-JA:S1A-072#268:1:B> The Jamaica Tourist Board is the home of the G T T P in <{7> <[7>
+
+Jamaica</[7>
+<ICE-JA:S1A-072#269:1:B> So she's the G T T P representative for Jamaica<ICE-JA:S1A-072#>So <{8> <[8>
+
+she</[8> went with us basically
+
+<$A> <ICE-JA:S1A-072#270:1:A> <[1> The guide
+<ICE-JA:S1A-072#271:1:A> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#272:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#273:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-072#274:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-072#275:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-072#276:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-072#277:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1A-072#278:1:A> <[8> Mhm</[8></{8>
+
+<$A> <ICE-JA:S1A-072#279:1:A> Oh so she is Jamaican
+
+<$B> <ICE-JA:S1A-072#280:1:B> Yes she is <{> <[> Jamaican</[>
+
+<$A> <ICE-JA:S1A-072#281:1:A> <[> Oh I guess</[></{> she travels <{> <[> a lot
+<ICE-JA:S1A-072#282:1:A> Mhm</[>
+
+<$B> <ICE-JA:S1A-072#283:1:B> <[> But that <}> <-> it</-> <=> it</=></}></[></{> wasn't her
+
+first time in Germany<O>laughs</O>
+
+<$A> <ICE-JA:S1A-072#284:1:A> I guess if you will imagine
+<ICE-JA:S1A-072#285:1:A> <{> <[> She has been <?> there</?>
+<ICE-JA:S1A-072#286:1:A> Mhm
+<ICE-JA:S1A-072#287:1:A> Japan
+<ICE-JA:S1A-072#288:1:A> Okay</[>
+
+<$B> <ICE-JA:S1A-072#289:1:B> <[> She's been all over Japan all over
+<ICE-JA:S1A-072#290:1:B> Really nice</[></{> job she has
+
+<$A> <ICE-JA:S1A-072#291:1:A> Okay
+<ICE-JA:S1A-072#292:1:A> Uhm<,> so you see Germany
+<ICE-JA:S1A-072#293:1:A> How you think Jamaica can improve as in
+
+<$B> <ICE-JA:S1A-072#294:1:B> To become<{><[><,></[> uhm close to the standards of Germany
+
+<$A> <ICE-JA:S1A-072#295:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-072#296:1:A> Mhm
+
+<$B> <ICE-JA:S1A-072#297:1:B> Well I guess Germany is the way it is because of the years
+
+and years <}> <-> of</-> uhm <=> of</=></}> colonialism<,> <{1> <[1> you
+
+know</[1> European colonialism and everything
+<ICE-JA:S1A-072#298:1:B> So I mean when we compare Europe to the Caribbean we shouldn't
+
+really feel <}> <-> too</-> uhm <=> too</=></}> distressed or anything
+
+because the Caribbean you know we're young we just got our independence forty
+
+fifty years ago<{2><[2><,></[2> right and
+<ICE-JA:S1A-072#299:1:B> But <}> <-> I <.> th</.> I think</-> <=> I think</=></}> what
+
+Jamaica needs though is uhm transparency<,> <{3> <[3> in the</[3> government
+
+and everything <{4> <[4> because</[4> what you see in Germany is effective
+
+use <}> <-> of</-> <=> of</=></}> capital you know<{5><[5><,></[5> uhm
+
+efficient use of capital rather <}> <- > when them</-> <=> when them</=></}>
+
+spend the money<{6><[6><,> in</[6> fact <?> uh</?> when they <{7> <[7> spend
+
+<?> their</?></[7> money them get their money's worth right<{8><[8><,></[8>
+<ICE-JA:S1A-072#300:1:B> So I guess uh mhm then Jamaica needs a lot more
+
+investment<{9><[9><,></[9> uh so that's
+
+<$A> <ICE-JA:S1A-072#301:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-072#302:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-072#303:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-072#304:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-072#305:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-072#306:1:A> <[6> Mhm</[6><{6>
+
+<$A> <ICE-JA:S1A-072#307:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1A-072#308:1:A> <[8> Mhm</[8></{8>
+
+<$A> <ICE-JA:S1A-072#309:1:A> <[9> Mhm</[9></{9>
+
+<$A> <ICE-JA:S1A-072#310:1:A> Okay
+<ICE-JA:S1A-072#311:1:A> <}> <-> You</-> <=> you</=></}> think
+<ICE-JA:S1A-072#312:1:A> Uh you're still the president of the <{> <[> tourism</[>
+
+<$B> <ICE-JA:S1A-072#313:1:B> <[> <}> <-> Currently</-></[></{> <=> currently</=></}> yes
+
+because of some uhm thing but
+<ICE-JA:S1A-072#314:1:B> Yes I'm <{> <[> still the president
+<ICE-JA:S1A-072#315:1:B> Yeah</[>
+
+<$A> <ICE-JA:S1A-072#316:1:A> <[> Some thing
+<ICE-JA:S1A-072#317:1:A> Okay
+<ICE-JA:S1A-072#318:1:A> So when</[></{> is the other election
+<ICE-JA:S1A-072#319:1:A> <}> <- > You're</-> <=> you're</=></}> for it this
+
+year<{><[><,></[> until
+<ICE-JA:S1A-072#320:1:A> Mhm
+
+<$B> <ICE-JA:S1A-072#321:1:B> <[> Yes and I</[></{>
+
+<$B> <ICE-JA:S1A-072#322:1:B> <}> <-> The</-> <=> the</=></}> other election actually <}>
+
+<-> should be this year</-> <{> <[> <=> should be</=></}></[> this year it
+
+should be
+
+<$A> <ICE-JA:S1A-072#323:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-072#324:1:A> Mhm
+<ICE-JA:S1A-072#325:1:A> So you have another trip as the president</I>

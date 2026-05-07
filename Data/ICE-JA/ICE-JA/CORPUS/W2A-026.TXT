@@ -1,0 +1,605 @@
+<I>
+
+<p> <ICE-JA:W2A-026#1:1> <h> Oxidation of Biological Substrates by Chromium( <smallcaps> VI
+
+</smallcaps> ) .
+<ICE-JA:W2A-026#2:1> Part 1.
+<ICE-JA:W2A-026#3:1> Mechanism of the Oxidation of <smallcaps> L </smallcaps> - Ascorbic
+
+Acid in Aqueous Solution </h> </p>
+
+<p> <ICE-JA:W2A-026#4:1> <bold> Donovan A. Dixon, Novelette P. Sadler* and Tara P.
+
+Dasgupta* </bold> </p>
+
+<p> <ICE-JA:W2A-026#5:1> <it> Department of Chemistry, University of the West Indies, Mona,
+
+Kingston 7, Jamaica, West Indies. </it>
+
+<p>
+
+<p> <ICE-JA:W2A-026#6:1> The kinetics of oxidation of <smallcaps> L </smallcaps> - ascorbic
+
+acid ( H <sb> 2 </sb> A) by potassium chromate has been studied under aerobic
+
+and anaerobic conditions over the range 0.002 &equal-or-less-than; [ A] <sb>
+
+T </sb> &equal-or-less-than; 0.040 mol dm <sp> - 3 </sp> , 3.50
+
+&equal-or-less-than; pH &equal-or-less-than; 8.70, 17.8 &equal-or-less-than;
+
+<it> T </it> &equal-or-less-than; 35.1 &degree; C, 0.06 &equal-or-less-than;
+
+<it> I </it> &equal-or-less-than; 0.50 mol dm <sp> - 3 </sp> ( NaClO <sb> 4
+
+</sb> ) and 0.05 &equal-or-less-than; [ O <sb> 2 </sb> ] &equal-or-less-than;
+
+0.12 mmol dm <sp> - 3 </sp> .
+<ICE-JA:W2A-026#7:1> The experi <l> mental rate constants obtained in the presence of
+
+oxygen are about 10 times smaller than those obtained in its absence.
+<ICE-JA:W2A-026#8:1> A mechanism involving the formation of a chromium( <smallcaps> VI
+
+</smallcaps> ) - ascorbate-oxygen intermedi <l> ate is discussed in an
+
+attempt to explain this.
+<ICE-JA:W2A-026#9:1> The disappearance of chromium( <smallcaps> VI </smallcaps> ) under
+
+aerobic conditions follows the rate law ( i) where <O> formula </O> . </p>
+
+<O> formula </O>
+
+<p> <ICE-JA:W2A-026#10:1> At 25 &degree; C and <it> I </it> = 0.50 mol dm <sp> - 3 </sp> (
+
+NaClO <sb> 4 </sb> ) , <it> k </it> <sb> 1 </sb> = 59.4 &plus-minus; 0.5,
+
+<it> k </it> <sb> 2 </sb> = 0.10 &plus-minus; 0.02 and <it> k </it> <sb3>
+
+</sb> = 115 &plus-minus; 3 dm <sp> 3 </sp> mol <sp> - 1 </sp> s <sp> - 1
+
+</sp> . </p>
+
+<p> <ICE-JA:W2A-026#11:1> <smallcaps> L </smallcaps> - Ascorbic acid ( H <sb> 2 </sb> A) is
+
+very widely known and used for its reducing properties. <fnr> <sp> 1-10 <sp>
+
+</fnr> <footnote>
+<ICE-JA:W2A-026#12:1> 1 R. R. Grinstead, <it> J. Am. Chem. Soc. </it> , 1960, <bold> 82
+
+</bold> , 3464. </footnote> <footnote>
+<ICE-JA:W2A-026#13:1> 2 K. Kustin and D. L. Toppen, <it> Inorg. Chem. </it> , 1973, <bold>
+
+12 </bold> , 1404. </footnote> <footnote>
+<ICE-JA:W2A-026#14:1> 3 E. Pellizetti, E. Mentasti and E. Pramauro, <it> Inorg. Chem. </it>
+
+, 1976, <bold> 15 </bold> , 2898. </footnote> <footnote>
+<ICE-JA:W2A-026#15:1> 4 K.B. Yatsimirskii, Yu. I. Bratusko, I. L. Zatsny, E. E. Kriss and
+
+G. T. Kurbatova, <it> Russ. J. Inorg. Chem. </it> , 1977, <bold> 22 </bold> ,
+
+1320. </footnote> <footnote>
+<ICE-JA:W2A-026#16:1> 5 Z. Amjad, J. C. Brodovitch and A. McAuley, <it> Can. J. Chem. </it>
+
+, 1977, <bold> 55 </bold> , 3581. </footnote> <footnote>
+<ICE-JA:W2A-026#17:1> 6 E. Pellizetti, E. Mentasti and E. Pramauro, <it> Inorg. Chem. </it>
+
+, 1978, <bold> 17 </bold> , 1181. </footnote> <footnote>
+<ICE-JA:W2A-026#18:1> 7 D. Macartney and A. McAuley, <it> Can. J. Chem. </it> , 1981,
+
+<bold> 59 </bold> , 132. </footnote> <footnote>
+<ICE-JA:W2A-026#19:1> 8 D. Macartney and N. Sutin, <it> Inorg. Chim. Acta </it> , 1983,
+
+<bold> 74 </bold> , 221. </footnote> <footnote>
+<ICE-JA:W2A-026#20:1> 9 M. J. Akhtar and A. Haim, <it> Inorg. Chem. </it> , 1989, <bold> 27
+
+</bold> , 1608. </footnote> <footnote>
+<ICE-JA:W2A-026#21:1> 10 S. K. Ghosh and E. S. Gould, <it> Inorg. Chem. </it> , 1989,
+
+<bold> 28 </bold> , 1538. </footnote>
+<ICE-JA:W2A-026#22:1> Among the many reactions studied are those involving its efficient
+
+reduction of many transition <?> - </?> metal ions and complexes by outer-
+
+and innersphere mechanisms. <fnr> <sp> 11-13 </sp> </fnr> <footnote>
+<ICE-JA:W2A-026#23:1> 11 M. M. Taqui Khan and A. E. Martell, <it> J. Am. Chem. Soc. </it> ,
+
+1967, <bold> 89 </bold> , 4167. </footnote> <footnote>
+<ICE-JA:W2A-026#24:1> 12 R. F. Jameson and N. J. Blackburn, <it> J. Inorg. Nucl. Chem.
+
+</it> , 1975, <bold> 37 </bold> , 809. </footnote> <footnote>
+<ICE-JA:W2A-026#25:1> 13 M. M. Taqui-Khan and R. S. Shukla, <it> Inorg. Chim. Acta </it> ,
+
+1988, <bold> 149 </bold> , 89. </footnote> </p>
+
+<p> <ICE-JA:W2A-026#26:1> It has also been shown that <smallcaps> L </smallcaps> - ascorbic
+
+acid is oxidized by the potentially carcinogenic chromium( <smallcaps> VI
+
+</smallcaps> ) ion at the body's physiological pH of 7.40, as well as at
+
+lower pH. <fnr> <sp> 14-16 </sp> </fnr> <footnote>
+<ICE-JA:W2A-026#27:1> 14 P. H. Connett and K. E. Wetterhahn, <it> J. Am. Chem. Soc. </it> ,
+
+1985, <bold> 107 </bold> , 4283. </footnote> <footnote>
+<ICE-JA:W2A-026#28:1> 15 P. H. Connett and K. E. Wetterhahn, <it> J. Am. Chem. Soc. </it> ,
+
+1986, <bold> 108 </bold> , 1842. </footnote> <footnote>
+<ICE-JA:W2A-026#29:1> 16 B. Banas, <it> Inorg. Chim. Acta </it> , 1981, <bold> 53 </bold> ,
+
+L13. </footnote>
+<ICE-JA:W2A-026#30:1> The use of chromate as an oxidant is now discouraged as a result of
+
+its link to the formation of skin cancers. <fnr> <sp> 17 </sp> </fnr>
+
+<footnote>
+<ICE-JA:W2A-026#31:1> 17 P. H. Connett and K. E. Wetterhahn, <it> Struct. Bonding ( Berlin)
+
+</it> , 1983, <bold> 54 </bold> , 94. </footnote>
+<ICE-JA:W2A-026#32:1> This carcinogenicity is thought to be related to the oxidation of
+
+various cellular constituents.
+<ICE-JA:W2A-026#33:1> Ascorbic acid, being a constituent of the cell, and a good reductant
+
+may therefore function as an antichrome agent <it> in vivo </it> against
+
+chromate poisoning. <fnr> <sp> 14, 15, 17 </sp> </fnr> </p>
+
+<p> <ICE-JA:W2A-026#34:1> Connett and Wetterhahn <fnr> <sp> 14, 15, 17 </sp> </fnr>
+
+observed that various inter <?> - </?> cellular metabolites, including
+
+ascorbic acid, are capable of reducing chromate under physiological
+
+conditions.
+<ICE-JA:W2A-026#35:1> However, their reports were somewhat limited in kinetic and
+
+mechanistic details.
+<ICE-JA:W2A-026#36:1> We have therefore extended the study to involve a wider range of pH,
+
+ascorbic acid concentration and ionic strength.
+<ICE-JA:W2A-026#37:1> Most interesting, however, is our observation that molecular oxygen
+
+is involved in the reaction.
+<ICE-JA:W2A-026#38:1> This paper reports the results of a comprehensive study of the
+
+oxidation of <smallcaps> L </smallcaps> - ascorbic acid by the chromium(
+
+<smallcaps> VI </smallcaps> ) ion under aerobic and anaerobic conditions.
+
+</p>
+
+<p> <ICE-JA:W2A-026#39:1> <h> Experimental </h> </p>
+
+<p> <ICE-JA:W2A-026#40:1> <it> Materials. </it>
+<ICE-JA:W2A-026#41:1> - The chemicals used were either analytical or of the desired reagent
+
+grade ( BDH), used as received.
+<ICE-JA:W2A-026#42:1> The purity of <smallcaps> L </smallcaps> - ascorbic acid was
+
+determined iodometrically. <fnr> <sp> 18 </sp> </fnr> <footnote>
+<ICE-JA:W2A-026#43:1> 18 S. K. Ghosh, E. S. Gould and R. N. Bose, <it> Inorg. Chem. </it> ,
+
+1987, <bold> 26 </bold> , 3722. </footnote>
+<ICE-JA:W2A-026#44:1> The concen <l> tration of hexaaquachromium( <smallcaps> III
+
+</smallcaps> ) perchlorate was determined by complexometric <fnr> <sp> 19
+
+</sp> </fnr> titration and spectrophotometry. <fnr> <sp> 20 </sp> </fnr>
+
+<footnote>
+<ICE-JA:W2A-026#45:1> 19 G. H. Jeffery, J. Bassett, J. Mendham and R. C. Denney, <it>
+
+Vogel's Textbook of Quantitative Chemical Analysis </it> , 5th edn., Longmann
+
+Scientific, London, ch. 10, p. 335. </footnote> <footnote>
+<ICE-JA:W2A-026#46:1> 20 H. Taube and E. Deutch, <it> Inorg. Chem. </it> , 1968, <bold> 7
+
+</bold> , 1537. </footnote>
+<ICE-JA:W2A-026#47:1> The deionised water used in all experimental work was obtained by
+
+passing distilled water through a Milli-Q Reagent grade water system (
+
+Millipore Corporation, Bedford, MA).
+<ICE-JA:W2A-026#48:1> Nitrogen was supplied by Jamaica Oxygen and Acetylene Limited.
+<ICE-JA:W2A-026#49:1> Micro <?> - </?> analysis was done by Butterworth Laboratories, UK.
+
+</p>
+
+<p> <ICE-JA:W2A-026#50:1> <it> Preparation of Chromium( <smallcaps> III </smallcaps> ) -
+
+Ascorbate Complex. </it>
+<ICE-JA:W2A-026#51:1> - The complex was prepared from K <sb> 2 </sb> CrO <sb> 4 </sb> (
+
+0.088 g) in water ( 25 m <sp> 3 </sp> ) and <smallcaps> L </smallcaps> -
+
+ascorbic acid ( 0.34 g).
+<ICE-JA:W2A-026#52:1> The reaction was allowed to proceed for 0.5 h at about 29 &degree; C
+
+after adjustment to pH 7 with KOH.
+<ICE-JA:W2A-026#53:1> The green solution was concentrated by heating at 40 &degree; C.
+<ICE-JA:W2A-026#54:1> The viscous liquid formed was cooled in ice, methanol added, and
+
+further cooled in ice.
+<ICE-JA:W2A-026#55:1> The green product was filtered off, washed with cold methanol and
+
+placed in a desiccator.
+<ICE-JA:W2A-026#56:1> Yield 0.33 g.
+<ICE-JA:W2A-026#57:1> UV/VIS: &lambda; <sb> max </sb> / nm 590 and 410 ( &epsilon;, 38 and
+
+61 dm <sp> 3 </sp> mol <sp> - 1 </sp> cm <sp> - 1 </sp> ) { Found: C, 25.5;
+
+H, 2.9; Cr, 10.5; K, 11.7. K[Cr(C <sb> 6 </sb> H <sb> 6 </sb> O <sb> 6 </sb> )
+
+<sb> 2 </sb> ( OH) <sb> 2 </sb> ] &dot; 0.5KOH requires C, 28.7; H, 2.9; Cr,
+
+10.4; K, 11.7%}. </p>
+
+<p> <ICE-JA:W2A-026#58:1> <it> Stoichiometry </it>
+<ICE-JA:W2A-026#59:1> - The redox stoichiometry [ ascorbate: Cr <sb> VI </sp> ] was
+
+determined by measuring the absorbance at 550 nm as a function of the ratio [
+
+Cr <sp> VI </sp> ] : [ ascorbate], while varying [ ascorbate]. </p>
+
+<p> <ICE-JA:W2A-026#60:1> <it> Ion-exchange Properties. </it>
+<ICE-JA:W2A-026#61:1> - Ion-exchange resins, Na <sp> + </sp> and Cl <sp> - </sp> forms (
+
+Dowex-50W, 100-200 mesh), were used.
+<ICE-JA:W2A-026#62:1> The solutions from the mixtures were chromatographed on both resins.
+<ICE-JA:W2A-026#63:1> Green and brown bands were eluted from the Na <sp> + </sp> resin
+
+using water.
+<ICE-JA:W2A-026#64:1> Most of the green product was removed with 0.50 mol dm <sp> - 3 </sp>
+
+NaCl solution from the Cl <sp> - </sp> resin.
+<ICE-JA:W2A-026#65:1> The brown band was removed with 4 mol dm <sp> - 3 </sp> NaCl from the
+
+Cl <sp> - </sp> resin. </p>
+
+<p> <ICE-JA:W2A-026#66:1> <it> Kinetics. </it>
+<ICE-JA:W2A-026#67:1> - Kinetic studies were conducted by monitoring the absorbance of the
+
+chromate ion at 370 mm <it> vs. </it> time under pseudo-first- order
+
+conditions of excess of ascorbic acid.
+<ICE-JA:W2A-026#68:1> Constant ionic strength was maintained at 0.50 mol dm <sp> - 3 </sp>
+
+( NaClO <sb> 4 </sb> ) .
+<ICE-JA:W2A-026#69:1> Phosphate-citrate and Tris [ tris/hydroxymethyl)-methylamine]-HCl
+
+were used to maintain the lower and higher pH regions respectively.
+<ICE-JA:W2A-026#70:1> All pH measurements were done using an Orion model 701 pH meter,
+
+fitted with a Cole Parmer combination electrode.
+<ICE-JA:W2A-026#71:1> The faster reactions were studied using a Hi-Tech scientific model
+
+SF-51 stopped-flow unit connected to a SU-40 UV/VIS spectrophotometer.
+<ICE-JA:W2A-026#72:1> Constant temperature was maintained with a Haake GH constant-
+
+temperature water <?> - </?> bath fitted with a Haake D8 circulating pump.
+
+</p>
+
+<p> <ICE-JA:W2A-026#73:1> The slower reactions were studied using the spectro <l>
+
+photometric method.
+<ICE-JA:W2A-026#74:1> Solutions for anaerobic study were flushed with oxygen-free nitrogen
+
+while being equilibrated.
+<ICE-JA:W2A-026#75:1> They were protected by rubber serum caps and handled by standard
+
+syringe techniques.
+<ICE-JA:W2A-026#76:1> The oxygen concentration in the kinetic solutions was measured using
+
+a YSI Scientific Water Quality instrument, fitted with a YSI model 5739
+
+oxygen electrode. </p>
+
+<p> <ICE-JA:W2A-026#77:1> Pseudo-first-order rate constants for the slower reactions were
+
+determined using a STATGRAPHICS computer program <fnr> <sp> 21 </sp> </fnr>
+
+in the non-linear mode. <footnote>
+<ICE-JA:W2A-026#78:1> 21 STATGRAPHICS, Statistical Graphics Corporation Inc., version 2.1,
+
+1986. </footnote>
+<ICE-JA:W2A-026#79:1> All plots of ln( <it> A </it> <sb> t </sb> - <it> A </it> <sb>
+
+&infinity; </sb> ) <it> vs. </it> time were linear for at least three half-
+
+lives. </p>
+
+<p> <ICE-JA:W2A-026#80:1> <it> Spectral Measurements. </it>
+<ICE-JA:W2A-026#81:1> - The UV/VIS spectra were recorded using either a Varian-Cary 219 or
+
+a Hewlett-Packard 8452A diode-array spectrophotometer.
+<ICE-JA:W2A-026#82:1> These were connected to thermostatted water-baths maintained to
+
+&plus-minus; 0.1 &degree; C. </p>
+
+<p> <ICE-JA:W2A-026#83:1> <h> Results </h> </p>
+
+<p> <ICE-JA:W2A-026#84:1> The addition of ascorbate to a solution of chromium( <smallcaps>
+
+VI </smallcaps> ) at pH 7.4 resulted in the formation of a green complex.
+<ICE-JA:W2A-026#85:1> During repetitive scanning of the reaction the chromate peak at 370
+
+nm gradually disappeared, while a peak at 550-600 nm indicative of chromium(
+
+<smallcaps> III </smallcaps> ) species was formed ( Figs. 1 and 2).
+<ICE-JA:W2A-026#86:1> No clear isobestic point was seen in the repetitive scanning ( Fig.
+
+1), hence intermediates were probably formed during the reaction.
+<ICE-JA:W2A-026#87:1> A spectrum of the green product was similar to that of a solu <l>
+
+tion of hexaaquachromium( <smallcaps> III </smallcaps> ) in ascorbate under
+
+the same conditions. </p>
+
+<p> <ICE-JA:W2A-026#88:1> The green product slowly turned brown in air.
+<ICE-JA:W2A-026#89:1> This was due to the formation of products involving dehydroascorbic
+
+acid <fnr> <sp> 22 </sp> </fnr> ( Fig. 2) and chromium( <smallcaps> III
+
+</smallcaps> ) , as was confirmed by matching the <O> figure </O> <O> caption
+
+</O> spectrum of this solution with that of a synthetic mixture of
+
+dehydroascorbic acid and hexaaquachromium( <smallcaps> III </smallcaps> )
+
+which also appeared brown after &approximate-sign; 30 min. <footnote>
+<ICE-JA:W2A-026#90:1> 22 B. M. Tolbert and J.B. Ward, <it> Ascorbic Acid: Chemistry,
+
+Metabolism and Uses </it> , American Chemical Society, Washington, 1982, ch.
+
+5, p. 102. </footnote>
+<ICE-JA:W2A-026#91:1> In the absence of oxygen the green colour persisted. </p>
+
+<p> <ICE-JA:W2A-026#92:1> <it> Characterization of the Major Product. </it>
+<ICE-JA:W2A-026#93:1> - Additional evi <l> dence for the formation of chromium( <smallcaps>
+
+III </smallcaps> ) was provided by ethylenediaminetetraacetate ( edta)
+
+titration. <fnr> <sp> 19 </sp> </fnr>
+<ICE-JA:W2A-026#94:1> Microanalytical results indicated that the green complex contained
+
+about 2 mol of ascorbate to each chromium( <smallcaps> III </smallcaps> )
+
+ion.
+<ICE-JA:W2A-026#95:1> Some potassium hydroxide present as impurity could not easily be
+
+removed. </p>
+
+<p> <ICE-JA:W2A-026#96:1> <it> Stoichiometry of the Reaction. </it> -
+<ICE-JA:W2A-026#97:1> The stoichiometric data in Table 1 are consistent with the reaction
+
+summarized in equation ( 1) [ H <sb> 2 </sb> A = ascorbic acid, A' =
+
+dehydroascorbic acid]. This result corroborates well with that determined at
+
+a lower pH by an entirely different method. <fnr> <sp> 16 </sp> </fnr> </p>
+
+<O> formula </O>
+
+<p> <ICE-JA:W2A-026#98:1> <it> Ascorbic Acid and pH Dependance of the Reaction. </it>
+<ICE-JA:W2A-026#99:1> - Kinetic runs were carried out at 25.0 &degree; C with the ascorbic
+
+acid concentration ranging from 0.002 to 0.040 mol dm <sp> - 3 </sp> over the
+
+range pH 4.60-7.40, at an ionic strength of 0.50 mol dm <sp> - 3 </sp> in
+
+NaClO <sb> 4 </sb> .
+<ICE-JA:W2A-026#100:1> The pseudo-first-order rate constants increase with increasing
+
+ascorbate concentration, and decrese as the pH is increased at a fixed
+
+ascorbate concentration ( Table 2). </p>
+
+<p> <ICE-JA:W2A-026#101:1> Plots of <it> k </it> <sb> obs </sb> <it> vs. </it> [ ascorbate]
+
+<sb> T </sb> were linear with small intercepts ( Fig. 3) which decrease with
+
+increasing pH.
+<ICE-JA:W2A-026#102:1> These results indicate that the reaction is first order with respect
+
+to ascorbate <O> figure </O> <O> caption </O> <O> figure </O> <O> caption
+
+</O> <O> caption </O> <O> table </O> <O> caption </O> <O> table </O> <O>
+
+caption </O> <O> table </O> concentration and also that there is a second
+
+step independent of ascorbate concentration making some minor contribution,
+
+especially at lower pH.
+<ICE-JA:W2A-026#103:1> The rate-determining step of the reaction can therefore be of the
+
+form ( 2). The product of this reaction is <O> formula </O> a
+
+chromate-ascorbate ester intermediate.
+<ICE-JA:W2A-026#104:1> The resulting rate expression is as in equation ( 3).
+<ICE-JA:W2A-026#105:1> Values for <it> k </it> <sb> f </sb> and <it> k </it> <sb> r </sb>
+
+were <O> formula </O> evaluated directly from the slopes and intercepts
+
+respectively of the plots of <it> k </it> <sb> obs </sb> <it> versus </it> [
+
+ascorbate] and are given in Table 3.
+<ICE-JA:W2A-026#106:1> All values for <it> k </it> <sb> f </sb> are much larger than those
+
+for <it> k </it> <sb> r </sb> , indicating that this is the major route
+
+accounting for the disappearance of the chromium( <smallcaps> IV </smallcaps> ) .
+<ICE-JA:W2A-026#107:1> Estimates of the equilibrium constant, <it> K </it> <sb> e </sb> ,
+
+for the reaction were obtained from the ratio <it> k </it> <sb> f </sb> /
+
+<it> k </it> <sb> r </sb> .
+<ICE-JA:W2A-026#108:1> These were found to vary from 7.4 x 10 <sp> 2 </sp> to 1.0 x 10 <sp>
+
+3 </sp> dm <sp> 3 </sp> mol <sp> - 1 </sp> at 25 &degree; C depending on the
+
+pH. </p>
+
+<p> <ICE-JA:W2A-026#109:1> <it> Effect of Ionic Strength </it> . -
+<ICE-JA:W2A-026#110:1> A change in ionic strength from 0.06 to 0.20 mol dm <sp> - 3 </sp>
+
+at pH 4 produced an increase of 0.03 s <sp> - 1 </sp> in the experimental
+
+rate constants, while at pH 7.4 a decrease in ionic strength from 0.50 to
+
+0.29 mol dm <sp> - 3 </sp> gave an increase of 2.17 x 10 <sp> - 3 </sp> s
+
+<sp> - 1 </sp> . </p>
+
+<p> <ICE-JA:W2A-026#111:1> <it> Effect of Anaerobic Conditions. </it>
+<ICE-JA:W2A-026#112:1> - The oxygen concentration was varied from 0.05 to 0.12 mmol dm <sp>
+
+- 3 </sp> .
+<ICE-JA:W2A-026#113:1> Under anaerobic conditions <smallcaps> L </smallcaps> - ascorbic
+
+acid rapidly reduces chromium( <smallcaps> VI </smallcaps> ) at <O> caption
+
+</O> <O> table </O> a rate which is about ten times faster than the rates of
+
+reactions carried out in oxygen.
+<ICE-JA:W2A-026#114:1> The rate constants increase as oxygen concentration decreases (
+
+Table 4).
+<ICE-JA:W2A-026#115:1> The rate constants also increase with decreasing pH, similar to the
+
+reaction studied under aerobic conditions: <it> k </it> <sb> obs </sb> 2.95,
+
+2.60, 2.16, 1.32, 0.61 and 0.31 s <sp> - 1 </sp> at pH 7.70, 7.78, 7.85,
+
+8.09, 8.39 and 8.77 respectively at [ O <sb> 2 </sb> ] = 0.06 mmol dm <sp> -
+
+3 </sp> . </p>
+
+<p> <ICE-JA:W2A-026#116:1> <h> Discussion </h> </p>
+
+<p> <ICE-JA:W2A-026#117:1> The reduction of chromate by ascorbate occurs <it> via </it> the
+
+formation of a chromate-ascorbate ester intermediate in the rate-determining
+
+step.
+<ICE-JA:W2A-026#118:1> This intermediate undergoes rapid electron transfers, <it> via </it>
+
+an inner-sphere type mechanism, to produce chromium( <smallcaps> III
+
+</smallcaps> ) and dehydroascorbate as final products. </p>
+
+<p> <ICE-JA:W2A-026#119:1> The estimate of the equilibrium constant, <it> K </it> <sb> e
+
+</sb> , for the chromate-ascorbate ester formation ( 740-1000 dm <sp> 3 </sp>
+
+mol <sp> - 1 </sp> ) , obtained in our study are similar to that reported (
+
+K= 250 dm <sp> 3 </sp> mol <sp> - 1 </sp> ) for the formation of the
+
+oxygen-bonded chromate <?> - </?> isopropyl alcohol ester. <fnr> <sp> 23a
+
+</sp> </fnr> </p>
+
+<p> <ICE-JA:W2A-026#120:1> The formation of chromate-ester intermediates, by these organic
+
+substrates, <fnr> <sp> 23-28 </sp> </fnr> apparently provides a low-energy
+
+pathway for the transfer of electrons <fnr> <sp> 29 </sp> </fnr> <it> via
+
+</it> an inner-sphere mechanism. <footnote>
+<ICE-JA:W2A-026#121:1> 23 K. B. Wiberg and H. Schafer, <it> J. Am. Chem. Soc. </it> , 1969,
+
+<bold> 91 </bold> , ( <it> a </it> ) 927, ( <it> b </it> ) 933. </footnote>
+
+<footnote>
+<ICE-JA:W2A-026#122:1> 24 K. B. Wiberg and P. A. Lepse, <it> J. Am. Chem. Soc. </it> ,
+
+1954, <bold> 86 </bold> , 2612. </footnote> <footnote>
+<ICE-JA:W2A-026#123:1> 25 G. V. Bakore and C. L. Jain, <it> J. Inorg. Nucl. Chem. </it> ,
+
+1969, <bold> 31 </bold> , 2527. </footnote> <footnote>
+<ICE-JA:W2A-026#124:1> 26 D. A. Durham, <it> J. Inorg. Nucl. Chem. </it> , 1969, <bold> 31
+
+</bold> , 3549. </footnote> <footnote>
+<ICE-JA:W2A-026#125:1> 27 J. Hampton, A. Leo and F. H. Westheimer, <it> J. Am. Chem. Soc.
+
+</it> , 1956, <bold> 78 </bold> , 306. </footnote> <footnote>
+<ICE-JA:W2A-026#126:1> 28 J. J. Cawley and F. H. Westheimer, <it> J. Am. Chem. Soc. </it> ,
+
+1963, <bold> 85 </bold> , 1771. </footnote> <footnote>
+<ICE-JA:W2A-026#127:1> 29 A. McAuley and M. A. Olatunji, <it> Can. J. Chem. </it> , 1977,
+
+<bold> 55 </bold> , 3335. </footnote>
+<ICE-JA:W2A-026#128:1> The ascorbate-chromate intermediate formed may be of the form shown
+
+on the left of equation ( 4) and can undergo <O> formula </O> electron
+
+transfer as indicated. <X>
+<ICE-JA:W2A-026#X129:1> Its formation is favoured at lower pH, as the undissociated
+
+ascorbic acid, H <sb> 2 </sb> A, can lose a proton to an OH of [ HcrO <sb> 4
+
+</sb> ] <sp> - </sp> thereby increasing the lability of a CR-O bond.
+<ICE-JA:W2A-026#X130:1> This ensures the easy loss of a molecule of water. <fnr> <sp> 14,30
+
+</sp> </fnr> <footnote> 30 J. P. McCann and A. McAuley, <it> J. Chem. So.
+
+</it> , <it> Dalton Trans. </it> , 1975, 783. </footnote>
+<ICE-JA:W2A-026#X131:1> This proposed intermediate can decompose <it> via </it> a second
+
+route without the transfer of electrons.
+<ICE-JA:W2A-026#X132:1> It may revert to the original reactants, and it is this pathway
+
+which is described by the rate constant <it> k </it> <sb> r </sb> in equation
+
+( 2). </p>
+
+<p> <ICE-JA:W2A-026#X133:1> The pH dependence of the rate constants suggests that [ HCrO
+
+<sb> 4 </sb> ] <sp> - </sp> H <sb> 2 </sb> A and HA <sp> - </sp> are the
+
+reactive species in the rate <?> - </?> determining step producing the ester.
+<ICE-JA:W2A-026#X134:1> The very small concen <l> tration of chromium( <smallcaps> IV
+
+</smallcaps> ) was such that the amount of the dimeric product, [ Cr <sb> 2
+
+</sb> O <sb> 7 </sb> ] <sp> 2- </sp> , was negligible at all pH values. <fnr>
+
+<sp> 31 </sp> </fnr> <footnote>
+<ICE-JA:W2A-026#X135:1> 31 R. G. Wilkins, <it> The Study of Kinetics and Mechanism of
+
+Reactions of Transition Metal Complexes </it> , 1st edn., Allyn and Bacon,
+
+Boston, 1974, ch. 2. </footnote>
+<ICE-JA:W2A-026#X136:1> Below pH 5, H <sb> 2 </sb> A is the dominant form of the ascorbic
+
+acid , whereas above this pH the monoanionic form is predominant.
+<ICE-JA:W2A-026#X137:1> Equation ( 2) can therefore be represented more completely in terms
+
+of these reactive species as shown in Scheme 1.
+<ICE-JA:W2A-026#X138:1> The <O> figure </O> <O> caption </O> <O> scheme </O> <O> caption
+
+</O> overall rate law consistent with this scheme is given in equa <l> tion (
+
+12).
+<ICE-JA:W2A-026#X139:1> After making the relevant substitutions for the rate = <O> formula
+
+</O> concentrations of each species, equation ( 13) is obtained.
+<ICE-JA:W2A-026#X140:1> Comparing equation ( 3) with ( 13), it can be seen that <it> k
+
+</it> <sb> f </sb> is given <O> formula </O> by ( 14).
+<ICE-JA:W2A-026#X141:1> Since <it> k </it> <sb> r </sb> represents only a minor reaction it
+
+can be <O> formula </O> excluded from further analysis.
+<ICE-JA:W2A-026#X142:1> It was found that the best fits for the rate constants were
+
+obtained by considering the <it> k </it> <sb> 1 </sb> and <it> k </it> <sb> 3
+
+</sb> pathways as being the significant ones below pH 5 while <it> k </it>
+
+<sb> 1 </sb> and <it> k </it> <sb> 2 </sb> were taken as contributing most to
+
+the reaction above pH 5.
+<ICE-JA:W2A-026#X143:1> The <it> k </it> <sb> 1 </sb> and <it> k </it> k <sb> 4 </sb> paths
+
+are mechanistic <l> ally identical, but indistinguishable. </I>

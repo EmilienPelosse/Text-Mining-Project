@@ -1,0 +1,1230 @@
+<I>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X1:1:Z> What sort of reading did you do</X>
+
+<$A> <ICE-JA:S1B-011#X2:1:A> I was looking at a historical review of creole language in the
+
+Caribbean
+
+<$Z> <X>
+<ICE-JA:S1B-011#X3:1:Z> By</X>
+
+<$A> <ICE-JA:S1B-011#X4:1:A> Hubert Devonish
+
+<$Z> <X>
+<ICE-JA:S1B-011#X5:1:Z> Was that on the reading list</X>
+
+<$A> <ICE-JA:S1B-011#X6:1:A> Mh nuh
+
+<$Z> <X>
+<ICE-JA:S1B-011#X7:1:Z> Was that on the reading list</X>
+
+<$A> <ICE-JA:S1B-011#X8:1:A> I <?> at some some point or elsewhere</?>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X9:1:Z> Ha</X>
+
+<$A> <ICE-JA:S1B-011#X10:1:A> <?> At some some kind of it</?>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X11:1:Z> Right
+<ICE-JA:S1B-011#X12:1:Z> There're titles on the reading list that you're supposed to refer
+
+to though<{1><[1><,></[1>
+<ICE-JA:S1B-011#X13:1:Z> Have you read <{2> <[2> anything from the list</[2></X>
+
+<$A> <ICE-JA:S1B-011#X14:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1B-011#X15:1:A> <[2> I thought maybe those were the <unclear>
+
+words</unclear></[2></{2>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X16:1:Z> Right but I'm still asking you
+<ICE-JA:S1B-011#X17:1:Z> What have you read as from the list so far</X>
+
+<$A> <ICE-JA:S1B-011#X18:1:A> <unclear> several words</unclear> I was looking at <unclear>
+
+name</unclear>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X19:1:Z> Aha
+<ICE-JA:S1B-011#X20:1:Z> That's the first thing you're reading that's on the
+
+list<{1><[1><,></[1>
+<ICE-JA:S1B-011#X21:1:Z> Is that the first thing <{2> <[2> you're reading</[2> that's on
+
+the list
+<ICE-JA:S1B-011#X22:1:Z> What else</X>
+
+<$A> <ICE-JA:S1B-011#X23:1:A> <[1> Ha</[1></{1>
+
+<$A> <ICE-JA:S1B-011#X24:1:A> <[2> No no no</[2></{2>
+
+<$A> <ICE-JA:S1B-011#X25:1:A> <unclear> several words(list)</unclear>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X26:1:Z> No no talk to me so far
+<ICE-JA:S1B-011#X27:1:Z> Talk to me</X>
+
+<$A> <ICE-JA:S1B-011#X28:1:A> <unclear> words</unclear> <?> come up with</?>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X29:1:Z> Yes</X>
+
+<$A> <ICE-JA:S1B-011#X30:1:A> <unclear> words</unclear> <?> about</?> Trinidad<,,> Trinidad
+
+and Tobago<,>
+<ICE-JA:S1B-011#X31:1:A> <{> <[> I read something about these</[> <unclear> word</unclear>
+
+used to
+
+<$Z> <X>
+<ICE-JA:S1B-011#X32:1:Z> <[> <}> <-> We</-> <=> we've</=></}> heard <?> already</?>
+
+something</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X33:1:Z> Aha
+<ICE-JA:S1B-011#X34:1:Z> Uhm
+<ICE-JA:S1B-011#X35:1:Z> Do I get the impression that you're really behind in your
+
+reading</X>
+
+<$A> <ICE-JA:S1B-011#X36:1:A> Could be <unclear> words</unclear> forgiven after four
+
+assignments <?> down stairs</?> and test in [ between  deleted] <unclear>
+
+words</unclear> that I'm trying to cope
+
+<$Z> <X>
+<ICE-JA:S1B-011#X37:1:Z> Don't worry you have to catch up
+<ICE-JA:S1B-011#X38:1:Z> <@> Gabrielle<@></X>
+
+<$B> <ICE-JA:S1B-011#X39:1:B> Well I'm still in week four to five with uhm the article
+
+about <?> African attention</?> right I <?> would</?><{1><[1><,></[1>
+<ICE-JA:S1B-011#X40:1:B> No uhm sources of <unclear> word</unclear> and African <unclear>
+
+several-words</unclear> and so on<{2><[2><,></[2> uhm
+
+<$Z> <X>
+<ICE-JA:S1B-011#X41:1:Z> <[1> By</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X42:1:Z> <[2> Aha</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X43:1:Z> Which you all know <?> what</?> by now</X>
+
+<$B> <ICE-JA:S1B-011#X44:1:B> <O> laughter</O><?>Exactly</?> I don't think
+
+that<O>laughter</O>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X45:1:Z> <O> laughter</O><@>Sandra<@></X>
+
+<$C> <ICE-JA:S1B-011#X46:1:C> Uhm I uhm I looked at uhm acculturation and <}> <-> the</->
+
+<=> the</=></}> cultural natives of creolisation
+
+<$Z> <X>
+<ICE-JA:S1B-011#X47:1:Z> By</X>
+
+<$C> <ICE-JA:S1B-011#X48:1:C> By Alleyne Mervin I mean but it's not on the reading list
+
+<$Z> <X>
+<ICE-JA:S1B-011#X49:1:Z> Yes it is
+<ICE-JA:S1B-011#X50:1:Z> It's on the reading list for I think</X>
+
+<$C> <ICE-JA:S1B-011#X51:1:C> Not <}> <-> for eight</-> <=> for week six to eight</=></}>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X52:1:Z> No it's on the reading list for week two to three</X>
+
+<$C> <ICE-JA:S1B-011#X53:1:C> Oh
+<ICE-JA:S1B-011#X54:1:C> Yes <{> <[> I think</[>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X55:1:Z> <[> Can you just give us</[></{> the main point of that
+
+article</X>
+
+<$C> <ICE-JA:S1B-011#X56:1:C> Okay
+<ICE-JA:S1B-011#X57:1:C> Uhm Alleyne looked at uhm there's an expansion on Bloomfield's
+
+theory on <}> <-> the</-> <=> the</=></}> process of uhm pidginisation
+<ICE-JA:S1B-011#X58:1:C> And he looked at several
+<ICE-JA:S1B-011#X59:1:C> <}> <-> He</-> <=> he</=></}> uhm spoke about how should I put
+
+this now how the other theories and sort of gave uhm reasons for them being
+<ICE-JA:S1B-011#X60:1:C> He looked at uhm pidginisation
+<ICE-JA:S1B-011#X61:1:C> The first one is
+<ICE-JA:S1B-011#X62:1:C> Right <}> <-> he</-> <=> he</=></}> is saying that it couldn't
+
+really be uh saying that uhm we shouldn't really look at creole as a
+
+nativised pidgin because of uhm two specific factors he mentioned
+<ICE-JA:S1B-011#X63:1:C> One was that uhm I can't say
+
+<$Z> <X>
+<ICE-JA:S1B-011#X64:1:Z> What do you recall of the main point of the article</X>
+
+<$C> <ICE-JA:S1B-011#X65:1:C> Okay
+<ICE-JA:S1B-011#X66:1:C> <}> <-> He he</-> <=> he</=></}> uhm how creoles developed
+<ICE-JA:S1B-011#X67:1:C> <}> <- > One</-> <=> one</=></}> argument is that uhm people<,>
+<ICE-JA:S1B-011#X68:1:C> I don't remember you know
+<ICE-JA:S1B-011#X69:1:C> But he went on and <}> <-> he he</-> <=> he</=></}> said that he
+
+couldn't find any evidence <}> <-> for for</-> <=> uhm for</=></}> French or
+
+English being seen <}> <-> as <.> simpl</.></-> <=> as simplified</=></}>
+
+versions <}> <-> of</-> uhm <=> of</=></}> the mother tongue and because
+
+there're no <}> <-> the</-> <=> the</=></}> features such as <mention>
+
+ka</mention> and <mention> na</mention> which is uhm <}> <-> they're <.>
+
+lex</.></-> <=> they're</=></}> <}> <-> African</-> <=> West African
+
+based</=></}> <{> <[> and</[>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X70:1:Z> <[> And</[></{> what are the <unclear> words</unclear></X>
+
+<$C> <ICE-JA:S1B-011#X71:1:C> <mention> Ka</mention> and <mention> na</mention>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X72:1:Z> I don't know what they are</X>
+
+<$C> <ICE-JA:S1B-011#X73:1:C> <}> <-> They're uhm<,> they are</-> <=> they are
+
+words</=></}><&>end-of- recording</&> <&> tape-continued</&><$C><ICE-JA:S1B-011#>What's the
+
+function of <unclear> word</unclear> rather than<{><[><,></[> preposition
+
+that in the <unclear> word</unclear>
+
+<$D> <ICE-JA:S1B-011#X74:1:D> <[> Yeah</[></{>
+
+<$C> <ICE-JA:S1B-011#X75:1:C> I don't remember
+<ICE-JA:S1B-011#X76:1:C> I cannot say anything about my classes<,,>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X77:1:Z> <@> Sandra<@> <}> <-> do you do</-> <=> do you take notes</=></}>
+
+from what you're reading<{><[><,></[> or do you just try to keep it in your
+
+head
+<ICE-JA:S1B-011#X78:1:Z> Taking notes might be useful you know</X>
+
+<$C> <ICE-JA:S1B-011#X79:1:C> <[> No</[></{>
+
+<$C> <ICE-JA:S1B-011#X80:1:C> Okay
+
+<$Z> <X>
+<ICE-JA:S1B-011#X81:1:Z> Right
+<ICE-JA:S1B-011#X82:1:Z> Because we cannot all remember what we're reading right
+<ICE-JA:S1B-011#X83:1:Z> So notes will help you kind of recall things more quickly</X>
+
+<$C> <ICE-JA:S1B-011#X84:1:C> Okay
+<ICE-JA:S1B-011#X85:1:C> Can I do it over for next week
+
+<$Z> <X>
+<ICE-JA:S1B-011#X86:1:Z> Yes but you're also <}> <-> gonna <.> s</.></-> <=> gonna</=></}>
+
+be reading something else for next week</X>
+
+<$C> <ICE-JA:S1B-011#X87:1:C> That's <{> <[> alright</[>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X88:1:Z> <[> Right</[></{>
+<ICE-JA:S1B-011#X89:1:Z> Okay
+<ICE-JA:S1B-011#X90:1:Z> <@> Hila<@></X>
+
+<$E> <ICE-JA:S1B-011#X91:1:E> I have a forgotten to do any reading for this week but I
+
+didn't take <?> whether or not it matter that case</?> but uhm that many
+
+reading for this week
+
+<$Z> <X>
+<ICE-JA:S1B-011#X92:1:Z> Bad girl<O>laughter</O></X>
+
+<$E> <ICE-JA:S1B-011#X93:1:E> Yeah I know
+<ICE-JA:S1B-011#X94:1:E> Yeah
+
+<$Z> <X>
+<ICE-JA:S1B-011#X95:1:Z> <@> Clint<@></X>
+
+<$D> <ICE-JA:S1B-011#X96:1:D> Alright <}> <-> this</-> <=> this</=></}> article is called
+
+<quote> Trinidad Yoruba <}> <-> a language in exile</-> <=> a language of
+
+exile</=></}></quote>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X97:1:Z> Mhm
+<ICE-JA:S1B-011#X98:1:Z> By</X>
+
+<$D> <ICE-JA:S1B-011#X99:1:D> <}> <-> Warner Lewis</-> <=> Maureen Warner Lewis</=></}>
+<ICE-JA:S1B-011#X100:1:D> Well she's just looking at uhm the factors which led to the
+
+significant decline in Trinidad and Tobago
+<ICE-JA:S1B-011#X101:1:D> And I mean after reading this and then reading <unclear>
+
+name</unclear>'s article on Trinidad <?> much for ya</?> I've got complaints
+
+that Trinidad is like a little graveyard for languages<O>$Z-laughs</O>
+<ICE-JA:S1B-011#X102:1:D> So <}> <-> she</-> <=> she</=></}> talks about first of
+
+all<{1><[1><,></[1> uhm the demographic factor
+<ICE-JA:S1B-011#X103:1:D> She says that before eighteen o seven that's a
+<ICE-JA:S1B-011#X104:1:D> Right
+<ICE-JA:S1B-011#X105:1:D> <}> <-> <.> Ear</.></-> <=> early</=></}> eighteen hundred before
+
+the end of the slave trade there were a few Yoruba speakers but the real
+
+influence of Yoruba speakers was in eighteen forty-one to sixty-seven
+<ICE-JA:S1B-011#X106:1:D> However in eighteen sixty-one the percentage of Yoruba speakers
+
+to African speakers that were already using a creole was seven point one
+
+percent
+<ICE-JA:S1B-011#X107:1:D> Note it <}> <-> as</-> <=> as</=></}> Sylvia pointed out <}> <->
+
+us</-> <=> to us</=></}> yesterday that absolute figures are sometime
+
+important I'll write it down and the ratio was eighty-four thousand four
+
+hundred and thirty-eight creole speaking slaves already<{2><[2><,></[2>
+
+versus only six thousand and twenty-five Yoruba speakers
+
+<$E> <ICE-JA:S1B-011#X108:1:E> <[1> What</[1></{1><O>laughter</O>
+
+<$E> <ICE-JA:S1B-011#X109:1:E> <[2> Mhm</[2></{2>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X110:1:Z> Slaves what period is this talking about</X>
+
+<$D> <ICE-JA:S1B-011#X111:1:D> Uhm eighteen sixty-one
+<ICE-JA:S1B-011#X112:1:D> <}> <-> Well not</-> <=> well not</=></}> slaves ex- slaves
+
+rather <}> <-> this</-> <=> this</=></}> population <?> tends</?> a lot of
+
+thing in eighteen sixty-one
+<ICE-JA:S1B-011#X113:1:D> So you had eighty-four thousand four hundred and thirty-eight <}>
+
+<- > creole Africans</-> <=> creole speaking African people</=></}> versus
+
+only six thousand twenty-five Yoruba speakers
+<ICE-JA:S1B-011#X114:1:D> By eighteen sixty-five uhm African indentureship was phased out
+
+so there was no new Yoruba speakers coming into Trinidad<{1><[1><,></[1> at
+
+all
+<ICE-JA:S1B-011#X115:1:D> And then of course <}> <-> the</-> <=> the</=></}> final factor
+
+which I think is like you know <}> <-> the the</-> <=> the</=></}> classical
+
+stage in a language death is that Yoruba speakers now had to deal with the
+
+issue of usefulness you know whether this language was useful or not uh
+<ICE-JA:S1B-011#X116:1:D> They had to integrate themself into a community now because
+
+referring what <unclear> name</unclear>'s article she said that the minimal
+
+requirement for minority language to survive is that the people have to
+
+remain isolated and virtually cut off from the rest of society and that could
+
+just not do <}> <-> in</-> <=> in</=></}> post- emancipation Trinidad
+<ICE-JA:S1B-011#X117:1:D> So you had <?> teamed</?> <}> <-> the the</-> <=> the</=></}>
+
+church and education and everything <}> <-> they</-> <=> they</=></}> just
+
+had to adopt the uh creole
+<ICE-JA:S1B-011#X118:1:D> Fortunately Yoruba now <}> <-> is</-> <=> is</=></}> uhm Yorubans
+
+whether that's really Yorubans uhm <}> <-> they're they're they're
+
+the<O>laughter</O></-> <=> they're the</=></}> type of people that uhm went
+
+to extreme measures to preserve their language
+<ICE-JA:S1B-011#X119:1:D> <}> <-> So</-> <=> so</=></}> for example you have a Yoruba
+
+family the only one <}> <-> let</-> <=> let's</=></}> say the grandfather is
+
+the only speaker of Yoruba
+<ICE-JA:S1B-011#X120:1:D> He would take the young one and raise the young one
+<ICE-JA:S1B-011#X121:1:D> So and <}> <-> <.> a a</.></-> <=> actually</=></}> give him
+
+formal instruction on how use and speak Yoruba
+<ICE-JA:S1B-011#X122:1:D> So you know<{2><[2><,></[2> yeah <}> <-> that</-> <=>
+
+that's</=></}> very extreme but you know
+
+<$Z> <X>
+<ICE-JA:S1B-011#X123:1:Z> <[1> Mhm</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X124:1:Z> <[2> It</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X125:1:Z> Has it helped</X>
+
+<$D> <ICE-JA:S1B-011#X126:1:D> It surprisingly it has not helped<O>laughter</O>
+<ICE-JA:S1B-011#X127:1:D> It has just been reduced to you know uhm ritual religion and a
+
+few words especially <}> <-> in</-> <=> in</=></}> <}> <- > some</-> <=>
+
+some</=></}> <}> <-> one</-> <=> one</=></}> uhm example Lewis gave us was uh
+
+uh a daughter warned her mother in a <?> sermon</?> of the family supply of
+
+water being contaminated by urine in the presence of visitors
+<ICE-JA:S1B-011#X128:1:D> So the visitors couldn't know<{1><[1><,></[1>
+<ICE-JA:S1B-011#X129:1:D> <}> <-> She</-> <=> she</=></}> used a special term which I first
+
+<?> remember up on</?> this cryptolect and a cryptogram is like a little
+
+puzzle they have <{2> <[2> <unclear> word</unclear></[2> and length have some
+
+pretty language<{3><[3><,></[3>
+<ICE-JA:S1B-011#X130:1:D> So that's basically what Yorubans administer a cryptolect
+<ICE-JA:S1B-011#X131:1:D> It's you know just for religious purposes and you know anybody
+
+want to
+
+<$Z> <X>
+<ICE-JA:S1B-011#X132:1:Z> <[1> Oh</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X133:1:Z> <[2> Right</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X134:1:Z> <[3> <Okay </[3> </{3> </X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X135:1:Z> So if extreme isolation is the precondition for language survival
+
+then why is it that all those languages survived in
+
+Surinam<&>student-laughing-in-background</&>
+<ICE-JA:S1B-011#X136:1:Z> <}> <-> Everyone in a group</-> <=> everyone in a group</=></}>
+
+in Surinam has preserved his language</X>
+
+<$D> <ICE-JA:S1B-011#X137:1:D> Well I guess they're in isolation<{1><[1><,></[1>
+<ICE-JA:S1B-011#X138:1:D> They're not
+<ICE-JA:S1B-011#X139:1:D> Then <}> <- > how</-> <{2> <[2> <=> how</=></}> do they manage to
+
+survive</[2>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X140:1:Z> <[1> No</[1></{1></X>
+
+<$B> <ICE-JA:S1B-011#X141:1:B> <[2> <unclear> words</unclear>
+<ICE-JA:S1B-011#X142:1:B> But <}> <-> what kind</-></[2></{2> <=> what kind</=></}> of
+
+communities do they have because I mean like <}> <-> in in the <.> S</.></- >
+
+<=> in America</=></}> you have uhm like some streets I don't know where
+
+exactly they're located but they had a report on television where they were
+
+saying that uhm the persons in these communities I think they were Chinese
+
+<}> <-> they they <.> s</.> they were just</-> <=> they just</=></}> kept to
+
+themself they're in their community they maintained their language
+<ICE-JA:S1B-011#X143:1:B> <}> <-> The</-> <=> the</=></}> streets<{1><[1><,> all the</[1>
+
+Chinatown all <}> <-> the</-> <=> the</=></}> stores were in Chinese <}> <->
+
+the <.> s</.></- > <=> the</=></}> names of the <.> stree</.> I don't
+
+remember the name of the streets but and they live in America<{2><[2><,>
+<ICE-JA:S1B-011#X144:1:B> So</[2> so I mean if that is the case like that in Surinam then
+
+maybe that is why the languages <}> <-> have been</-> <{3> <[3> <=> are
+
+kept</=></}></[3>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X145:1:Z> <[1> Chinatown</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X146:1:Z> <[2> Mhm Chinatown</[2></{2></X>
+
+<$D> <ICE-JA:S1B-011#X147:1:D> <[3> <?> In Trinidad you know</?></[3></{3>
+<ICE-JA:S1B-011#X148:1:D> I wanna bet that as soon as there'll be a rule to some of those
+
+communities <}> <-> you</-> <=> you'll</=></}> see some stop that or some
+
+other
+
+<$Z> <X>
+<ICE-JA:S1B-011#X149:1:Z> You're on the main road</X>
+
+<$D> <ICE-JA:S1B-011#X150:1:D> <}> <-> Let</-> <=> is</=></}> the drive on the main road
+
+<}> <-> are they</-> <=> are they</=></}>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X151:1:Z> Some of them <{> <[> are in</[> <?> Paramibo</?> the capital
+
+one</X>
+
+<$B> <ICE-JA:S1B-011#X152:1:B> <[> But</[></{>
+
+<$B> <ICE-JA:S1B-011#X153:1:B> But do they interact <{> <[> on a large</[> basis with uhm
+
+whites people
+
+<$D> <ICE-JA:S1B-011#X154:1:D> <[> Are they literate people</[></{>
+<ICE-JA:S1B-011#X155:1:D> They are literate
+
+<$Z> <X>
+<ICE-JA:S1B-011#X156:1:Z> Well to the extent that people can be literate in a society where
+
+the education system uh is extremely vague</X><O>laughter</O>
+
+<$F> <ICE-JA:S1B-011#X157:1:F> Say it
+
+<$Z> <X>
+<ICE-JA:S1B-011#X158:1:Z> Now how does literacy make a difference</X>
+
+<$D> <ICE-JA:S1B-011#X159:1:D> <O> laughter</O>Well clearly because <}> <-> if</-> <=>
+
+if</=></}> you're literate now <}> <-> and</-> <=> and</=></}> you wanted
+
+your child to be literate<{1><[1><,></[1> <}> <-> you</-> <=> you'd</=></}>
+
+introduce him to the standard language<{2><[2><,></[2>
+<ICE-JA:S1B-011#X160:1:D> In general Dutch is it right <{3> <[3> in the education</[3>
+
+system
+
+<$Z> <X>
+<ICE-JA:S1B-011#X161:1:Z> <[1> Aha</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X162:1:Z> <[2> Which is</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X163:1:Z> <[3> Exactly</[3></{3></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X164:1:Z> Now in the case of uhm Trinidad did literacy uhm contribute to
+
+the demise of Yoruba
+<ICE-JA:S1B-011#X165:1:Z> Some other people have been reading about Yoruba and Trinidad
+
+Dutch <unclear> name</unclear>
+<ICE-JA:S1B-011#X166:1:Z> No
+<ICE-JA:S1B-011#X167:1:Z> They're on the programme</X>
+
+<$E> <ICE-JA:S1B-011#X168:1:E> But I've ordered article <?> whereas</?><{><[><,></[>
+
+<unclear> word(s)</unclear>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X169:1:Z> <[> Okay</[></{></X>
+
+<$D> <ICE-JA:S1B-011#X170:1:D> Yeah well education was one of the contributors
+
+<$Z> <X>
+<ICE-JA:S1B-011#X171:1:Z> Right
+<ICE-JA:S1B-011#X172:1:Z> Now how could education have helped in Trinidad for people to
+
+actually shift to creole because education is not supposed to target
+
+creole<&>long- pause</&></X>
+
+<$Z> <X> <{> <[> Well</[></X>
+
+<$D> <ICE-JA:S1B-011#X173:1:D> <[> Right</[>
+<ICE-JA:S1B-011#X174:1:D> Well <}> <-> I'm</-> <=> I'm</=></}> gonna make a
+
+guess<{1><[1><,></[1> <}> <-> for</-> <=> for</=></}> <unclear>
+
+two-words</unclear> right
+<ICE-JA:S1B-011#X175:1:D> <unclear> two-words</unclear> speakers <}> <-> were <.> s</.></->
+
+<=> were surrounded</=></}> by people who would speak an English creole
+
+already<{2><[2><,></[2> right and these people went to school too and they
+
+could always speak an English creole<{3><[3><,></[3>
+<ICE-JA:S1B-011#X176:1:D> So you know <}> <-> I</-> <=> I'm</=></}> guessing that <}> <->
+
+<.> e e</.></-> <=> eventually</=></}> <}> <-> <.> ev</.></-> <=>
+
+even</=></}> without education system you would go towards <}> <-> the</->
+
+<=> the</=></}> English creole that's already there
+
+<$Z> <X>
+<ICE-JA:S1B-011#X177:1:Z> <[1> Aha</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X178:1:Z> <[2> Mhm</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X179:1:Z> <[3> Mhm</[3></{3></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X180:1:Z> Right
+<ICE-JA:S1B-011#X181:1:Z> Right
+<ICE-JA:S1B-011#X182:1:Z> But <}> <-> it is</-> <=> it has been said</=></}> <}> <- >
+
+that</-> <=> that</=></}> education provided an impetus
+<ICE-JA:S1B-011#X183:1:Z> Now in the case of Surinam would education provide impetus for
+
+people to shift to their Creole in Surinam
+<ICE-JA:S1B-011#X184:1:Z> I would say no for a very obvious reason</X>
+
+<$C> <ICE-JA:S1B-011#X185:1:C> Because Dutch is what is taught
+
+<$Z> <X>
+<ICE-JA:S1B-011#X186:1:Z> Right and how does Dutch relate to the Creole of Surinam</X>
+
+<$D> <ICE-JA:S1B-011#X187:1:D> Different lexicon
+
+<$Z> <X>
+<ICE-JA:S1B-011#X188:1:Z> Different lexicon
+<ICE-JA:S1B-011#X189:1:Z> Exactly
+<ICE-JA:S1B-011#X190:1:Z> So Dutch <{1> <[1> education does not help</[1> in shifting <{2>
+
+<[2> to</[2> Creole because it's a different lexicon</X>
+
+<$C> <ICE-JA:S1B-011#X191:1:C> <[1> So <unclear> words</unclear></[1></[1>
+
+<$D> <ICE-JA:S1B-011#X192:1:D> <[2> No</[2></{2>
+
+<$D> <ICE-JA:S1B-011#X193:1:D> Well <}> <-> that's a</-> <=> that's a</=></}> very tricky
+
+linguistic situation <}> <- > and</-> <=> and</=></}> <}> <-> how</-> <=>
+
+how</=></}> is it like that though
+<ICE-JA:S1B-011#X194:1:D> <}> <-> Why is it that why why</-> <=> why is that</=></}>
+
+stereotype there<{><[><,></[> <}> <-> to</-> <=> to</=></}> this day
+<ICE-JA:S1B-011#X195:1:D> <}> <-> I'm</-> <=> I'm</=></}> surprised
+
+<$C> <ICE-JA:S1B-011#X196:1:C> <[> We'll have to gonna ask the speakers how come</[></{>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X197:1:Z> So uhm isolation can be literal people can be physically isolated
+
+no road to their village etcetera <{> <[> but</[> can also be self-imposed
+<ICE-JA:S1B-011#X198:1:Z> Right
+<ICE-JA:S1B-011#X199:1:Z> As <@> Hila<@> said you can live in a big city and still be
+
+isolated isolate your community from other people</X>
+
+<$C> <ICE-JA:S1B-011#X200:1:C> <[> Right</[></{>
+
+<$E> <ICE-JA:S1B-011#X201:1:E> Alright
+<ICE-JA:S1B-011#X202:1:E> Yeah
+<ICE-JA:S1B-011#X203:1:E> Well I think that's the only thing that I can think of <}> <- >
+
+why the</-> <=> why</=></}> uhm <}> <-> the</-> <=> the</=></}> creole
+
+languages <}> <-> are</-> <=> were</=></}> spoken in Surinam are still being
+
+maintained I think for any reason
+
+<$Z> <X>
+<ICE-JA:S1B-011#X204:1:Z> But isolation can also be imposed by uhm uhm a colonial
+
+government</X>
+
+<$E> <ICE-JA:S1B-011#X205:1:E> Mhm
+
+<$Z> <X>
+<ICE-JA:S1B-011#X206:1:Z> Any idea how
+<ICE-JA:S1B-011#X207:1:Z> <}> <-> If you</-> <=> if you</=></}> had been the Dutch
+
+government of the day in Surinam and you wanted to ensure that your in common
+
+contract labour did not really communicate and relate to the existing
+
+population of Surinam so that you could nicely control the population
+<ICE-JA:S1B-011#X208:1:Z> What you would have done</X>
+
+<$D> <ICE-JA:S1B-011#X209:1:D> Got some more
+
+<$Z> <X>
+<ICE-JA:S1B-011#X210:1:Z> That's a lot</X> <SE>
+<ICE-JA:S1B-011#X211:1:Z> Wow
+
+<$E> <ICE-JA:S1B-011#X212:1:E> <{1> <[1> Well <}> <-> you tell them</-> <=> you tell
+
+them</=></}></[1> where to live<{2><[2><,></[2>
+<ICE-JA:S1B-011#X213:1:E> And make sure <}> <-> it's</-> <=> it's</=></}>
+
+isolated<{3><[3><,> uhm</[3> then
+<ICE-JA:S1B-011#X214:1:E> Dododododoo
+<ICE-JA:S1B-011#X215:1:E> Well <}> <-> <.> y</.></-> <=> you'd</=></}> already have control
+
+over their work situation<{4><[4><,></[4> uhm<{5><[5><,></[5>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X216:1:Z> <[1> What would you do</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X217:1:Z> <[2> Yes</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X218:1:Z> <[3> Right</[3></{3></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X219:1:Z> <[4> Mhm</[4></{4></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X220:1:Z> <[5> Yeah</[5></{5></X>
+
+<$D> <ICE-JA:S1B-011#X221:1:D> Is it <}> <-> the</-> <=> the</=></}> thing
+
+<$Z> <X>
+<ICE-JA:S1B-011#X222:1:Z> And what about
+<ICE-JA:S1B-011#X223:1:Z> <}> <-> <.> Reme</.></-> <=> remember</=></}> what is
+
+it<{><[><,></[>
+<ICE-JA:S1B-011#X224:1:Z> Remember the contexts in which languages do survive
+<ICE-JA:S1B-011#X225:1:Z> For what kinds of contexts again
+<ICE-JA:S1B-011#X226:1:Z> You have Yoruba surviving for what purposes</X>
+
+<$D> <ICE-JA:S1B-011#X227:1:D> <[> Alright</[></{>
+
+<$D> <ICE-JA:S1B-011#X228:1:D> Ritual<{1><[1><,></[1> <}> <-> <.> re</.></-> <=>
+
+religious</=></}> uhm
+
+<$Z> <X>
+<ICE-JA:S1B-011#X229:1:Z> Uh you've Dutch <unclear> word</unclear> <}> <-> <.> sur</.></->
+
+<=> surviving</=></}> while Hindi rather surviving for what purpose</X>
+
+<$D> <ICE-JA:S1B-011#X230:1:D> For uhm cultural reasons like as in religion <{3> <[3>
+
+religious reasons</[3>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X231:1:Z> <[1> Ritual</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X232:1:Z> <[3> Right</[3></{3>
+<ICE-JA:S1B-011#X233:1:Z> So as a government what would you do
+<ICE-JA:S1B-011#X234:1:Z> You would support culture</X>
+
+<$D> <ICE-JA:S1B-011#X235:1:D> Right
+<ICE-JA:S1B-011#X236:1:D> Okay
+
+<$Z> <X>
+<ICE-JA:S1B-011#X237:1:Z> How would that help</X>
+
+<$E> <ICE-JA:S1B-011#X238:1:E> Oh
+<ICE-JA:S1B-011#X239:1:E> So then they feel like uhm their languages are worth something so
+
+they'll keep speaking it
+<ICE-JA:S1B-011#X240:1:E> <{> <[> but it's <unclear> words</unclear></[>
+
+<$D> <ICE-JA:S1B-011#X241:1:D> <[> Might be their religion you <?> ye</?> might be the
+
+religion<O>laughter</O></[></{>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X242:1:Z> So you see how different that is from the treatment that the
+
+Africans got<{1><[1><,></[1>
+<ICE-JA:S1B-011#X243:1:Z> Right
+<ICE-JA:S1B-011#X244:1:Z> Okay so instead of supporting the use of the language and
+
+supporting the survival of religion and other cultural
+
+customs<{2><[2><,></[2> the Africans got the bad deal<,>
+<ICE-JA:S1B-011#X245:1:Z> Okay more on this next week</X>
+
+<$E> <ICE-JA:S1B-011#X246:1:E> <[1> Yeah</[1></{1>
+
+<$G> <ICE-JA:S1B-011#X247:1:G> <[2> Okay</[2></{2>
+
+<$D> <ICE-JA:S1B-011#X248:1:D> Oh <}> <-> here's a here's</-> <=> here's</=></}> a
+
+statement<{><[>that</[>
+<ICE-JA:S1B-011#X249:1:D> Alright that <}> <-> <.> th</.> this</-> <=> this</=></}> was a
+
+view by one of the Yoruba speakers I <?> sailed</?> with the language so let
+
+me bury with it <}> <-> <.> whi</.></-> <=> which</=></}> means you know I
+
+was bought as a slave in this language so let me go <?> bury</?> it and I
+
+think that is an extreme isolation without the physical<{2><[2><,></[2>
+
+right<{3><[3><,> isolation<}><->as you</-> <=> as you</=></}></[3> pointed
+
+out to us
+
+<$Z> <X>
+<ICE-JA:S1B-011#X250:1:Z> <[1> Yes</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X251:1:Z> <[2> Self-imposed</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X252:1:Z> <[3> Right right right</[3></{3></X>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X253:1:Z> Note that <}> <-> the</-> <=> what</=></}> the man says also
+
+suggests that the treatment they got was not better than
+
+slaves<{1><[1><,></[1> even though they were so- called voluntary men <{2>
+
+<[2> <,> </[2> on contract</X>
+
+<$D> <ICE-JA:S1B-011#X254:1:D> <[1> Mhm</[1></{1>
+
+<$D> <ICE-JA:S1B-011#X255:1:D> <[2> Yeah </[2> </{2>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X256:1:Z> Alright
+<ICE-JA:S1B-011#X257:1:Z> Uhm
+<ICE-JA:S1B-011#X258:1:Z> What I want from you next week is I want you to actually write up
+
+a list of what reading you have done both compulsory and non-compulsory for
+
+various topics and hand in that list
+<ICE-JA:S1B-011#X259:1:Z> So I want some idea of you know how well you're doing in that
+
+respect<,,>
+<ICE-JA:S1B-011#X260:1:Z> And you might want to remind me next week that we need to talk
+
+about the possibility of the Guyana trip
+<ICE-JA:S1B-011#X261:1:Z> Those of you who are interested</X>
+
+<$A> <ICE-JA:S1B-011#X262:1:A> On a credit system
+
+<$Z> <X>
+<ICE-JA:S1B-011#X263:1:Z> Ha say again</X>
+
+<$A> <ICE-JA:S1B-011#X264:1:A> On a credit basis
+
+<$Z> <X>
+<ICE-JA:S1B-011#X265:1:Z> The Guyana trip</X>
+
+<$A> <ICE-JA:S1B-011#X266:1:A> On a credit basis
+
+<$Z> <X>
+<ICE-JA:S1B-011#X267:1:Z> Well uhm uh
+<ICE-JA:S1B-011#X268:1:Z> What do you mean on a credit basis</X>
+
+<$A> <ICE-JA:S1B-011#X269:1:A> I can go and pay afterwards and come back
+
+<$E> <ICE-JA:S1B-011#X270:1:E> Yeah
+
+<$Z> <X>
+<ICE-JA:S1B-011#X271:1:Z> Oh on that basis
+<ICE-JA:S1B-011#X272:1:Z> I don't think so</X>
+
+<$G> <ICE-JA:S1B-011#X273:1:G> I don't know it's not a time to quarrel but how <?> did that
+
+<{> <[> argument on</[> the whole</?>
+
+<$Z> <X>
+<ICE-JA:S1B-011#X274:1:Z> <[> Have a quick look</[></{></X><&>students-leaving-
+
+classroom</&><&>end-of-recording</&></I>
+
+
+<I>
+
+<$A> <ICE-JA:S1B-011#X275:2:A> So as Alleyne reports they're used in fixed and stylised
+
+expressions but they have no creativity<,,>
+<ICE-JA:S1B-011#X276:2:A> And he also goes on to say because he collected some data from
+
+some of the Maroon communities older people<,> particularly if they're over
+
+fifty or so when they're in the waters and that's particularly rum what they
+
+end up doing is competing with each other to see who can produce as many of
+
+these uhm <?> tree</?> or <unclear> word</unclear> phrases as possible
+<ICE-JA:S1B-011#X277:2:A> Younger people <}> <-> the</-> uhm <=> the</=></}> varieties are
+
+more and more uhm like wider Accompong or wider St Thomas or wider Mo Bay
+<ICE-JA:S1B-011#X278:2:A> <}> <-> There's a good</-> <=> there's a good</=></}> discussion
+
+of it though in the reading list <quote> Roots of Jamaican culture</quote>
+
+okay yes so and particularly around pages page a hundred and twenty-seven
+
+around in that section of the book he discusses Maroon language in
+
+Jamaica<,,>
+<ICE-JA:S1B-011#X279:2:A> Okay Surinam<,,>
+<ICE-JA:S1B-011#X280:2:A> Remember the issue in Surinam is that you have Dutch arriving
+
+into a colony that has British settlement and that creates <}> <-> the</->
+
+<=> the</=></}> occasion for the <}> <-> mass</-> <=> mass</=></}> exodus
+
+from some of the plantations
+<ICE-JA:S1B-011#X281:2:A> So in seventeen thirty-eight you have about six thousand Maroons
+
+that's the estimate<,,>
+<ICE-JA:S1B-011#X282:2:A> First peace treaties signed in seventeen sixty<,,>
+<ICE-JA:S1B-011#X283:2:A> Contemporary estimates are that there are about twenty thousand
+
+Saramaccan about sixteen thousand Ndjuka<,,> and there's a small group of
+
+about a thousand Matawai<,,>
+<ICE-JA:S1B-011#X284:2:A> <}> <-> I <.> ga</.> I <.> ho</.></-> <=> I gave</=></}> you all
+
+the Saramaccan and the Ndjuka texts right<,,>
+<ICE-JA:S1B-011#X285:2:A> Yes no
+
+<$B> <ICE-JA:S1B-011#X286:2:B> <unclear> words</unclear>
+
+<$A> <ICE-JA:S1B-011#X287:2:A> You got examples of Saramaccan and Ndjuka already didn't you
+
+<$C> <ICE-JA:S1B-011#X288:2:C> Yeah the beginning of
+
+it<&>students-talking-in-background</&>
+
+<$A> <ICE-JA:S1B-011#X289:2:A> Think
+
+<$C> <ICE-JA:S1B-011#X290:2:C> We got stuck<,,> Saramaccan<&>long pause</&>
+
+<$C> <ICE-JA:S1B-011#X291:2:C> This is some twenty Saramaccan right and sixteen Ndjuka
+
+<$A> <ICE-JA:S1B-011#X292:2:A> Thousand
+
+<$D> <ICE-JA:S1B-011#X293:2:D> Yes it's twenty thousand and sixteen
+
+<$A> <ICE-JA:S1B-011#X294:2:A> Yes<,,>
+<ICE-JA:S1B-011#X295:2:A> Most of the Saramacca fled between sixteen seventy-five and
+
+seventeen fifteen
+<ICE-JA:S1B-011#X296:2:A> Many of them fled from Jewish owned plantations
+<ICE-JA:S1B-011#X297:2:A> Hence the heavy Portuguese influence in the lexicon<,>
+
+<$C> <ICE-JA:S1B-011#X298:2:C> <}> <-> <.> Be</.></-> <=> between</=></}> sixteen what and
+
+what
+
+<$A> <ICE-JA:S1B-011#X299:2:A> Sixteen seventy-five and seventeen fifteen<,,>
+<ICE-JA:S1B-011#X300:2:A> So the Matao for example that's one of the Saramaccan clan<,,>
+
+and the Matao originally come out of Emanuel <?> Machados</?> plantation
+
+hence they have that clan name of Matao<,,>
+<ICE-JA:S1B-011#X301:2:A> There's another Saramaccan clan called the <unclear>
+
+name</unclear> who originally came off of somebody's plantation named <?>
+
+Kadosso</?>
+<ICE-JA:S1B-011#X302:2:A> So they have these Portuguese uhm clan names which are derived
+
+largely from the plantations that they escaped from<,>
+<ICE-JA:S1B-011#X303:2:A> So the creole that they speak is English Portuguese lexicon also
+
+heavily influenced by Congo Twi Ewe and Fon<,,>
+<ICE-JA:S1B-011#X304:2:A> And if you remember from the example of Saramaccan I gave you it
+
+is a very conservative Creole
+<ICE-JA:S1B-011#X305:2:A> Uh Alleyne people like Alleyne suggest that it represents maybe
+
+the oldest layer of Creoles in the Caribbean
+<ICE-JA:S1B-011#X306:2:A> And the group is still very isolated
+<ICE-JA:S1B-011#X307:2:A> There was a documentary on TV in fact about them a few years ago
+
+because there's a heavy interest in their use of herbal medicine
+<ICE-JA:S1B-011#X308:2:A> And you do literally have to travel for days or over to get to
+
+where they are
+<ICE-JA:S1B-011#X309:2:A> So they're still fairly isolated<,,>
+<ICE-JA:S1B-011#X310:2:A> The Ndjuka probably formed or became a Maroon group <}> <->
+
+at</-> <=> in</=></}> about seventeen fifteen<,,>
+<ICE-JA:S1B-011#X311:2:A> An they formed a separate group from the Saramaccan but they are
+
+also <?> bush in grace</?> that's the designation<,,>
+<ICE-JA:S1B-011#X312:2:A> And when you compare the older these older Creoles Saramaccan
+
+Ndjuka with Sranan<,> they have open syllables they have some vestiges of a
+
+tone system they have pre-nasalised stops
+<ICE-JA:S1B-011#X313:2:A> Can I take this off
+
+<$E> <ICE-JA:S1B-011#X314:2:E> Yeah
+
+<$A> <ICE-JA:S1B-011#X315:2:A> <&> writes-something-on-blackboard</&><,,>So you get forms
+
+like this in Saramaccan<,,>
+<ICE-JA:S1B-011#X316:2:A> This is a pre-nasalised stop<,,>
+<ICE-JA:S1B-011#X317:2:A> Sranan on the contrary has closed syllables does not have the
+
+tone does not have the pre-nasalised stops
+<ICE-JA:S1B-011#X318:2:A> And this is why the argument is that it represents a more
+
+conservative layer<,> of Creoles the <?> bushly called</?> speech of
+
+Surinam<,,>
+<ICE-JA:S1B-011#X319:2:A> For Ndjuka there was a writing system developed in nineteen ten
+
+but it was never widely accepted<,,>
+<ICE-JA:S1B-011#X320:2:A> But the preservation of Surinam uhm Maroon society is because of
+
+their isolation and therefore we're back to the issue that I raised of
+
+focussed norms uhm and more frequent interaction within the group and <}> <->
+
+that's</-> <=> that</=></}> tends to maintain language forms<,,>
+<ICE-JA:S1B-011#X321:2:A> When we come to Barbados there's a report in Barbados that up to
+
+sixteen seventy<,> you had slave and servant maronage<,>
+<ICE-JA:S1B-011#X322:2:A> And remember the distinction between slave and servant<,,>
+<ICE-JA:S1B-011#X323:2:A> After sixteen seventy though the island largely became a series
+
+of sugar estates and maronage does not become a feature <}> <-> of</-> <=>
+
+of</=></}> Barbados
+<ICE-JA:S1B-011#X324:2:A> And we've already discussed the geography of Barbados and why
+
+that would not be the case<,,><&>very-long- pause</&>
+<ICE-JA:S1B-011#X325:2:A> Okay uhm maronage and Indians because I want to discuss
+
+Garifuna<,,>
+<ICE-JA:S1B-011#X326:2:A> Garifuna is the speech of people called Black Caribs largely in
+
+Belize to some extent there is a small community in St Vincent<,>
+<ICE-JA:S1B-011#X327:2:A> But they originally came from St Vincent<,>
+<ICE-JA:S1B-011#X328:2:A> The story goes sixteen thirty-five<,> two Spanish slave ships
+
+were shipwrecked off the coast of St Vincent<,>
+<ICE-JA:S1B-011#X329:2:A> And these slaves are coming from uhm Niger Delta in the <unclear>
+
+word</unclear><,,>
+<ICE-JA:S1B-011#X330:2:A> Sixteen seventy-five British slave ship shipwrecked off the coast
+
+as well
+<ICE-JA:S1B-011#X331:2:A> So we have two sets of shipwrecks<,,>
+<ICE-JA:S1B-011#X332:2:A> It's a largely male group
+<ICE-JA:S1B-011#X333:2:A> The next report that you have coming out of St Vincent is
+
+seventeen twenty-three that suggests that you have two groups of people Black
+
+and Red Caribs existing<,,>
+<ICE-JA:S1B-011#X334:2:A> The implication of that therefore is that uhm Black Caribs must
+
+be the off-spring of or the mixing with these <}> <-> shipraf</-> <=>
+
+shipwrecked</=></}> Africans as opposed to Red Caribs who do not have uh any
+
+substantial mixing with Africans<,,>
+<ICE-JA:S1B-011#X335:2:A> Seventeen thirty there's report of conflict between Black and Red
+
+Carib which tells us what as well<,,>
+
+<$C> <ICE-JA:S1B-011#X336:2:C> Same thing Miss Golding
+
+<$D> <ICE-JA:S1B-011#X337:2:D> Uhn we would want <unclear> words</unclear> uh
+
+<$A> <ICE-JA:S1B-011#X338:2:A> If the groups are in contact it means there is some
+
+construct of a separate identity the groups are uhm distinct from each other
+
+and probably have little interaction with each other
+<ICE-JA:S1B-011#X339:2:A> The Red Carib form an alliance with the colonial power<,> who at
+
+the time were French
+<ICE-JA:S1B-011#X340:2:A> The British took over in seventeen sixty-three<,,> and signed a
+
+treaty with the Black Caribs<,,>
+<ICE-JA:S1B-011#X341:2:A> And what you have is a series of alliances after that between
+
+colonial power and different Carib group
+<ICE-JA:S1B-011#X342:2:A> So initially the Red Caribs form an alliance with the French
+
+colonial power against the Black Caribs
+<ICE-JA:S1B-011#X343:2:A> In seventeen seventy-six the Black Caribs form an alliance with
+
+the French against the British and recapture St Vincent<,,>
+<ICE-JA:S1B-011#X344:2:A> In seventeen eighty-nine the British recapture St Vincent<,,>
+
+<$C> <ICE-JA:S1B-011#X345:2:C> When was that again
+
+<$A> <ICE-JA:S1B-011#X346:2:A> Eighty-nine<,,>
+<ICE-JA:S1B-011#X347:2:A> <}> <-> The</-> <=> ultimately though the</=></}> consequence of
+
+that recapture is that in seventeen ninety-six the British decide to deal
+
+with the problem once and for all and deport the Black Caribs from St Vincent
+<ICE-JA:S1B-011#X348:2:A> That's how they end up in Belize<,,>
+<ICE-JA:S1B-011#X349:2:A> In nineteen eighty-three population is estimated up
+
+to<O>coughing</O> ninety thousand people who speak Garifuna in Belize
+
+<$D> Ninety thousand
+
+<$A> <ICE-JA:S1B-011#X350:2:A> <,,> But like elsewhere in the Caribbean there is also a
+
+huge Garifuna speaking community apparently in New York as more and more
+
+people migrate out of the Caribbean <}> <-> for</-> <=> for</=></}> better
+
+circumstances<,,>
+<ICE-JA:S1B-011#X351:2:A> <}> <-> Garu</-> <=> Garifuna</=></}> is described as a
+
+Amerindian language it's agglutinating in morphology
+<ICE-JA:S1B-011#X352:2:A> Anybody want to help me with it<ICE-JA:S1B-011#><@>Hila<@> <@> Hila<@> is doing
+
+linguistics
+
+<$E> <ICE-JA:S1B-011#X353:2:E> Ah<O>laughs</O>
+
+<$A> <ICE-JA:S1B-011#X354:2:A> You want to explain to the class what agglutinating
+
+morphology is
+
+<$E> <ICE-JA:S1B-011#X355:2:E> Uhm<,>
+<ICE-JA:S1B-011#X356:2:E> Oh I think it's<,,> uhm
+<ICE-JA:S1B-011#X357:2:E> I don't I think it has something to do with well the morphology
+<ICE-JA:S1B-011#X358:2:E> Something to do with additions that are <?> made</?> to existing
+
+words
+<ICE-JA:S1B-011#X359:2:E> I don't quite remember what
+<ICE-JA:S1B-011#X360:2:E> I don't know<,>
+<ICE-JA:S1B-011#X361:2:E> Yeah<O>laughter</O> ask her
+<ICE-JA:S1B-011#X362:2:E> She is a good <{> <[> <unclear> word</unclear></[>
+<ICE-JA:S1B-011#X363:2:E> I don't remember a lot
+
+<$A> <ICE-JA:S1B-011#X364:2:A> <[> Okay</[></{>
+
+<$A> <ICE-JA:S1B-011#X365:2:A> So so
+<ICE-JA:S1B-011#X366:2:A> Anybody
+
+<$F> <ICE-JA:S1B-011#X367:2:F> What's the term
+
+<$A> <ICE-JA:S1B-011#X368:2:A> Agglutinating what does it sound like
+<ICE-JA:S1B-011#X369:2:A> What does it sound like is happening<O>stundents-talking</O>
+
+<$F> <ICE-JA:S1B-011#X370:2:F> Something words coming together
+
+<$A> <ICE-JA:S1B-011#X371:2:A> How would that make it different from English
+<ICE-JA:S1B-011#X372:2:A> English is not agglutinating
+
+<$F> <ICE-JA:S1B-011#X373:2:F> No but the other Creoles are more
+
+<$A> <ICE-JA:S1B-011#X374:2:A> Isolated right
+<ICE-JA:S1B-011#X375:2:A> So what does agglutinating sound like though
+
+<$F> <ICE-JA:S1B-011#X376:2:F> I think so
+
+<$A> <ICE-JA:S1B-011#X377:2:A> It doesn't sound like anything <{> <[> to you all</[>
+
+<$F> <ICE-JA:S1B-011#X378:2:F> <[> I think it's</[></{> <unclear> words</unclear>
+
+<$A> <ICE-JA:S1B-011#X379:2:A> No
+
+<$F> <ICE-JA:S1B-011#X380:2:F> Sounds like adding something
+
+<$A> <ICE-JA:S1B-011#X381:2:A> It doesn't sound like glue
+
+<$C> <ICE-JA:S1B-011#X382:2:C> Yes
+
+<$F> <ICE-JA:S1B-011#X383:2:F> Adding something
+
+<$A> <ICE-JA:S1B-011#X384:2:A> Adding what though I mean
+
+<$D> <ICE-JA:S1B-011#X385:2:D> <}> <-> Two two</-> <=> two</=></}> words that would
+
+<unclear> words</unclear>
+
+<$C> <ICE-JA:S1B-011#X386:2:C> I think it's a French and English mix
+
+<$A> <ICE-JA:S1B-011#X387:2:A> No no no we're talking about the morphology
+<ICE-JA:S1B-011#X388:2:A> In tutorial I'll give you some examples of
+
+Garifuna<O>students-talking</O>
+
+<$A> <ICE-JA:S1B-011#X389:2:A> Okay so let's isolating Jamaican
+
+isolating<,,><&>long-pause</&><ICE-JA:S1B-011#>Isn't that what that's what it is
+
+<$F> <ICE-JA:S1B-011#X390:2:F> Yeah
+
+<$A> <ICE-JA:S1B-011#X391:2:A> What<,,>
+<ICE-JA:S1B-011#X392:2:A> Inflecting English<,> so I uhm<,><&>writes-on-blackboard</&>
+
+you're adding on the grammatical elements to the verbal <?> end or</?>
+<ICE-JA:S1B-011#X393:2:A> Yes
+
+<$D> <ICE-JA:S1B-011#X394:2:D> Yeah
+
+<$G> <ICE-JA:S1B-011#X395:2:G> Agglutinating <&> students-talking</&>
+
+<$A> <ICE-JA:S1B-011#X396:2:A> That's what agglutinating would be like if you're using the
+
+analogy of <}> <-> the same</-> <=> the same</=></}> uhm form
+<ICE-JA:S1B-011#X397:2:A> So you get these large if you like words made up of several
+
+morphemes that are stocked together that <}> <-> in in</-> <=> in</=></}>
+
+essence give you a sense as opposed to individual grammatical or lexical
+
+items
+<ICE-JA:S1B-011#X398:2:A> But as I said in tutorial
+<ICE-JA:S1B-011#X399:2:A> But huh everybody here has done most of you have done a forty A
+<ICE-JA:S1B-011#X400:2:A> Who in here has done a forty A<O>students-talking</O>
+<ICE-JA:S1B-011#X401:2:A> Huh
+<ICE-JA:S1B-011#X402:2:A> You didn't have the tape<{><[><,></[> <}> <-> with the with the
+
+with this</-> <=> with the</=></}> excuse me you didn't have the tape with
+
+the Garifuna and the person saying <unclear> word(s)</unclear>
+<ICE-JA:S1B-011#X403:2:A> You didn't have any of that
+
+<$B> <ICE-JA:S1B-011#X404:2:B> <[> No</[></{>
+
+<$A> <ICE-JA:S1B-011#X405:2:A> That was Garifuna and you didn't have to translate it and
+
+see how the words were stuck together
+<ICE-JA:S1B-011#X406:2:A> So so why am I why am I talking up why am I being given faces
+
+like it's like Greek
+<ICE-JA:S1B-011#X407:2:A> So you didn't get that
+
+<$B> <ICE-JA:S1B-011#X408:2:B> No
+
+<$A> <ICE-JA:S1B-011#X409:2:A> Okay
+<ICE-JA:S1B-011#X410:2:A> Well that's what you did in forty A<,,>
+<ICE-JA:S1B-011#X411:2:A> So the language is Arawakan specifically
+<ICE-JA:S1B-011#X412:2:A> It's agglutinating but the many of the cultural traits of the
+
+Garifuna are African
+<ICE-JA:S1B-011#X413:2:A> Dance food things like that<,,>
+<ICE-JA:S1B-011#X414:2:A> Now the possibilities of what happened in St Vincent could be as
+
+follows
+<ICE-JA:S1B-011#X415:2:A> One you have <}> <-> these</-> <=> this</=></}> remember the
+
+shipped wreck slaves largely male possibilities are that there is <}> <->
+
+some</-> <=> some</=></}> uhm communication system contact system from the
+
+boat but you'll have people from several vernaculars
+<ICE-JA:S1B-011#X416:2:A> And <}> <-> they</-> <=> when they</=></}> come into contact when
+
+they escape into St Vincent with speakers of an Arawak or Arawakan varieties
+
+who are the red Caribs</I>

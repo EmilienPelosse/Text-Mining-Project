@@ -1,0 +1,499 @@
+<I>
+
+<$A> <ICE-JA:S1A-037#1:1:A> <}> <-> Kind of</-> <=> kind of</=></}> busy
+<ICE-JA:S1A-037#2:1:A> I'm at work
+<ICE-JA:S1A-037#3:1:A> I have a lot of stuff to deal with
+<ICE-JA:S1A-037#4:1:A> <?> I deal with</?> students kind of thing
+<ICE-JA:S1A-037#5:1:A> Yeah
+
+<$B> <ICE-JA:S1A-037#6:1:B> Okay
+<ICE-JA:S1A-037#7:1:B> So how were exams
+
+<$A> <ICE-JA:S1A-037#8:1:A> They were okay okay
+<ICE-JA:S1A-037#9:1:A> Not too bad
+
+<$B> <ICE-JA:S1A-037#10:1:B> So you <{> <[> <unclear> word</unclear></[> officially
+
+finished now
+
+<$A> <ICE-JA:S1A-037#11:1:A> <[> Uh</[></{>
+
+<$A> <ICE-JA:S1A-037#12:1:A> A paper to hand in next week and then I'm done
+<ICE-JA:S1A-037#13:1:A> This one last paper research paper
+
+<$B> <ICE-JA:S1A-037#14:1:B> Okay<,>
+<ICE-JA:S1A-037#15:1:B> So how is work
+<ICE-JA:S1A-037#16:1:B> How are things at work
+
+<$A> <ICE-JA:S1A-037#17:1:A> Cool
+<ICE-JA:S1A-037#18:1:A> I'm kind of pressured now because my boss gone for like three days
+
+and the other <indig> bredrin</indig> that work with me him gone out too for
+
+a week
+<ICE-JA:S1A-037#19:1:A> So it's like me alone
+<ICE-JA:S1A-037#20:1:A> So I'm doing like a three-in-one combo thing here
+
+<$B> <ICE-JA:S1A-037#21:1:B> Okay
+<ICE-JA:S1A-037#22:1:B> What exactly you do
+
+<$A> <ICE-JA:S1A-037#23:1:A> Well everything anything nothing
+
+<$B> <ICE-JA:S1A-037#24:1:B> I don't think I understand that<O>laughs</O>
+
+<$A> <ICE-JA:S1A-037#25:1:A> Mhm
+<ICE-JA:S1A-037#26:1:A> Alright
+<ICE-JA:S1A-037#27:1:A> It's really technical support
+<ICE-JA:S1A-037#28:1:A> So we configure the laptops work with the staff members and their
+
+machines
+<ICE-JA:S1A-037#29:1:A> I mean almost anything to do with computer we do<,> basically
+
+<$B> <ICE-JA:S1A-037#30:1:B> Okay
+<ICE-JA:S1A-037#31:1:B> Oh cos M S B uhm all the students get a laptop right
+
+<$A> <ICE-JA:S1A-037#32:1:A> Well not get they have to buy it
+
+<$B> <ICE-JA:S1A-037#33:1:B> Or buy
+
+<$A> <ICE-JA:S1A-037#34:1:A> Yeah and but you don't have to buy it from M S B
+<ICE-JA:S1A-037#35:1:A> The course just require that you have one
+<ICE-JA:S1A-037#36:1:A> But whether or not you bought it from M S B then we still have to
+
+configure it for them to go on the net
+<ICE-JA:S1A-037#37:1:A> These programs that they need for the classes and for the last
+
+thing we're fixing was the printing thing
+<ICE-JA:S1A-037#38:1:A> Fix up the print manager software so that they can just pay
+
+whenever
+<ICE-JA:S1A-037#39:1:A> Pay put money on their account and then they can just print
+
+stuff<,> straight from their accounts and it will<,> just take the money off
+
+their account based on what they print whether they print colour or black and
+
+white
+
+<$B> <ICE-JA:S1A-037#40:1:B> Okay
+<ICE-JA:S1A-037#41:1:B> So how long you've been working here
+
+<$A> <ICE-JA:S1A-037#42:1:A> About a year now from August last year
+
+<$B> <ICE-JA:S1A-037#43:1:B> And this <?> is</?> something related to what you did in
+
+undergrad
+
+<$A> <ICE-JA:S1A-037#44:1:A> Not really
+<ICE-JA:S1A-037#45:1:A> I did a Com Sci degree but then I don't think this is really
+
+related to it
+<ICE-JA:S1A-037#46:1:A> It's not like
+<ICE-JA:S1A-037#47:1:A> Alright this is like
+<ICE-JA:S1A-037#48:1:A> I don't know
+<ICE-JA:S1A-037#49:1:A> <}> <-> It's</-> <=> it's</=></}> not really <}> <-> <.>
+
+rel</.></-><+>related</+></}>
+<ICE-JA:S1A-037#50:1:A> I don't know
+<ICE-JA:S1A-037#51:1:A> Yes and no
+<ICE-JA:S1A-037#52:1:A> Yes and no
+<ICE-JA:S1A-037#53:1:A> More no though
+
+<$B> <ICE-JA:S1A-037#54:1:B> <?> Excuse me</?> <}> <-> I don't understand</-> <=> I don't
+
+think I understand</=></}> the difference
+
+<$A> <ICE-JA:S1A-037#55:1:A> Alright
+<ICE-JA:S1A-037#56:1:A> In the undergrad we do more programming
+<ICE-JA:S1A-037#57:1:A> We do <unclear> word</unclear> have not really done any programming
+
+here only a bit in terms of some database stuff like <unclear>
+
+word(s)</unclear>
+<ICE-JA:S1A-037#58:1:A> But that was <?> with the class that did</?> web page although <?>
+
+they don't know</?> much about web page and the web page development in
+
+undergrad either so<,>
+<ICE-JA:S1A-037#59:1:A> And the most we all do here is like troubleshooting network
+
+computers <unclear> words</unclear><&>someone-knocks</&>
+<ICE-JA:S1A-037#60:1:A> Come<&>interruption-of-recording</&><,,>
+
+<$B> <ICE-JA:S1A-037#61:1:B> Oh you were saying something about uhm the difference between
+
+what you're doing
+
+<$A> <ICE-JA:S1A-037#62:1:A> Okay and uh<,> oh about undergrad stuff
+<ICE-JA:S1A-037#63:1:A> I mean the courses in Com Sci and all of them are <}> <-> <.>
+
+compu</.></-> are just like two <=> compulsory</=></}> courses in second year
+
+and you have to do four third-year courses and you can really choose around
+<ICE-JA:S1A-037#64:1:A> If you like programming you can just <?> do</?> pure <}> <-> <.>
+
+pro</.></-> <=> programming</=></}> courses and still <}> <-> <.> wou</.></->
+
+<=> would</=></}> uh be like probably marketable
+<ICE-JA:S1A-037#65:1:A> Well I mean unless of course you want to do programming<,>
+<ICE-JA:S1A-037#66:1:A> People kind of think Com Sciences were a hands-on type of thing
+
+know how to use programs know how to fix computers
+<ICE-JA:S1A-037#67:1:A> Com Sci don't teach that
+
+<$B> <ICE-JA:S1A-037#68:1:B> Okay
+<ICE-JA:S1A-037#69:1:B> So uhm <?> you're going</?> to continue in this job now
+
+<$A> <ICE-JA:S1A-037#70:1:A> Uhm yes and no
+<ICE-JA:S1A-037#71:1:A> Uh actually I have applied to Digicell to<,> like in the I T
+
+department to do some similar to what I'm doing here but means to an end
+<ICE-JA:S1A-037#72:1:A> I don't really want do that for like too long cos ultimately<,>
+
+what I want do is like commercially
+<ICE-JA:S1A-037#73:1:A> So I mean I don't know how long I going be doing that for
+<ICE-JA:S1A-037#74:1:A> And of course I have applied to the J F as well so should I be
+
+called in I have to leave <?> in to go to</?> that
+
+<$B> <ICE-JA:S1A-037#75:1:B> Tell me more about that wanting to become a pilot ultimately
+
+<$A> <ICE-JA:S1A-037#76:1:A> Yeah
+<ICE-JA:S1A-037#77:1:A> And the military aviation is like the real gateway to do it
+<ICE-JA:S1A-037#78:1:A> That's what I really prefer to do
+
+<$B> <ICE-JA:S1A-037#79:1:B> So why that interest
+
+<$A> <ICE-JA:S1A-037#80:1:A> Why
+<ICE-JA:S1A-037#81:1:A> I think I've <?> arose</?> very very very probably unusual interest
+
+in the military
+<ICE-JA:S1A-037#82:1:A> I think I really really love it like every single thing about it
+
+and coupled with flying
+<ICE-JA:S1A-037#83:1:A> So I mean military aviation seem to be my thing<{><[><,></[>
+<ICE-JA:S1A-037#84:1:A> Alright that's what I love anyway
+
+<$B> <ICE-JA:S1A-037#85:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-037#86:1:B> Okay
+<ICE-JA:S1A-037#87:1:B> So you haven't any family members in the military or anything like
+
+that
+
+<$A> <ICE-JA:S1A-037#88:1:A> Yeah I have a brother that is in the Gulf War
+
+now<&>interruption-of- recording</&>
+<ICE-JA:S1A-037#89:1:A> Well he is in Kuwait
+<ICE-JA:S1A-037#90:1:A> He was actually down there before he came back up <&>
+
+beeping-sound</&>because of a minor operation he did in early April
+<ICE-JA:S1A-037#91:1:A> <}> <- > Stayed in</-> <=> stayed in</=></}> Jamaica for about a
+
+month and the wicked people them send him back down already
+<ICE-JA:S1A-037#92:1:A> And him don't even finish heal yet
+<ICE-JA:S1A-037#93:1:A> So he's in Kuwait now and he might soon be going back over into
+
+Iraq
+<ICE-JA:S1A-037#94:1:A> He's not really a frontline person so I'm not like a hundred
+
+percent worried yet because <}> <-> him doing like</-> <=> he's like
+
+a</=></}> I don't know one of them warehouse type persons <?> doing</?> some
+
+quartermaster duties
+<ICE-JA:S1A-037#95:1:A> So I think him say him control a warehouse type of thing
+<ICE-JA:S1A-037#96:1:A> You know take picture with them humvee and thing yes Uncle Sam
+
+vehicle<,,>
+<ICE-JA:S1A-037#97:1:A> Yeah <}> <- > him</-> <=> him</=></}> do him tour already I don't
+
+know why him don't leave the stupid army now but then you see people ask me
+
+if I going go fight war too
+<ICE-JA:S1A-037#98:1:A> Jamaica army not going fight no war
+<ICE-JA:S1A-037#99:1:A> The only war we going have is Tivoli and them place and even so I
+
+won't even be going down there because I'll be going in the air wings<,> so
+
+I'd still be okay free from all of them stress
+
+<$B> <ICE-JA:S1A-037#100:1:B> Okay
+<ICE-JA:S1A-037#101:1:B> So you'll be training with J D F
+
+<$A> <ICE-JA:S1A-037#102:1:A> Hopefully hopefully
+
+<$B> <ICE-JA:S1A-037#103:1:B> And they do all <}> <-> the</-> <=> the</=></}> air what <?>
+
+do</?> you call it
+
+<$A> <ICE-JA:S1A-037#104:1:A> <unclear> word</unclear> surveillance air sea rescue then the
+
+whole heap of stuff whole heap of stuff
+<ICE-JA:S1A-037#105:1:A> I think the coolest thing they do is how they land their chopper
+
+right over the hospital<O>imitates-sounds</O>
+<ICE-JA:S1A-037#106:1:A> Oh boy I don't even remember what them call that operation
+
+but<O>clicks-tongue</O>
+<ICE-JA:S1A-037#107:1:A> You know when them carry people from hospitals like in the country
+
+come up to <?> sick people</?> thing because of <?>
+
+admissions</?><{><[><,></[>
+<ICE-JA:S1A-037#108:1:A> Yeah man is like one <indig> likl</indig> small piece of grass
+
+them just land <?> it</?>
+<ICE-JA:S1A-037#109:1:A> It look even better in the night
+<ICE-JA:S1A-037#110:1:A> You really wonder how them find it
+<ICE-JA:S1A-037#111:1:A> So it's them thing I want to do
+<ICE-JA:S1A-037#112:1:A> Go England <indig> fi</indig> train and come back and living on
+
+the J D F for a while
+<ICE-JA:S1A-037#113:1:A> Yeah
+
+<$B> <ICE-JA:S1A-037#114:1:B> <[> Okay</[></{>
+
+<$B> <ICE-JA:S1A-037#115:1:B> So you start to do anything towards that lately
+
+<$A> <ICE-JA:S1A-037#116:1:A> Well I've applied<{><[><,></[> at J D F
+<ICE-JA:S1A-037#117:1:A> I'm actually waiting on them to call me now so
+<ICE-JA:S1A-037#118:1:A> I mean<,> any time now I should be getting a call from them
+
+hopefully<,>
+
+<$B> <ICE-JA:S1A-037#119:1:B> <[> Okay</[></{>
+
+<$B> <ICE-JA:S1A-037#120:1:B> Mhm
+<ICE-JA:S1A-037#121:1:B> So between then and now you continue you're still working and<,,>
+
+<$A> <ICE-JA:S1A-037#122:1:A> Yeah basically and hope that all is well<,,>
+<ICE-JA:S1A-037#123:1:A> Actually I've started flying already I don't think I mentioned
+
+that
+<ICE-JA:S1A-037#124:1:A> Fly at <unclear> words</unclear>
+<ICE-JA:S1A-037#125:1:A> I've been flying since ninety-nine
+<ICE-JA:S1A-037#126:1:A> Started ground school in ninety-eight August of ninety-eight
+<ICE-JA:S1A-037#127:1:A> I got my P P L in June
+
+<$B> <ICE-JA:S1A-037#128:1:B> What's a P P L
+
+<$A> <ICE-JA:S1A-037#129:1:A> Now Private Pilot's License
+
+<$B> <ICE-JA:S1A-037#130:1:B> Okay<O>laughs</O>
+<ICE-JA:S1A-037#131:1:B> Oh
+
+<$A> <ICE-JA:S1A-037#132:1:A> And uhm
+<ICE-JA:S1A-037#133:1:A> Yeah I've been flying since just basically to stay current to go
+
+by them air <?> laws</?> so that the license don't lapse cos it cost like a
+
+whole week to get it back up
+<ICE-JA:S1A-037#134:1:A> So it's easier to maintain it basically
+
+<$B> <ICE-JA:S1A-037#135:1:B> Mhm
+<ICE-JA:S1A-037#136:1:B> You seem <?> all set in</?>
+
+<$A> <ICE-JA:S1A-037#137:1:A> Well not really but kind of
+
+<$B> <ICE-JA:S1A-037#138:1:B> So you're living on campus or you're off
+
+<$A> <ICE-JA:S1A-037#139:1:A> I moved off like earlier this week
+
+<$B> <ICE-JA:S1A-037#140:1:B> Mhm
+<ICE-JA:S1A-037#141:1:B> Where were you before
+
+<$A> <ICE-JA:S1A-037#142:1:A> On Chancellor Hall
+
+<$B> <ICE-JA:S1A-037#143:1:B> Oh Chancellor the great Chancellor
+<ICE-JA:S1A-037#144:1:B> I always wonder about living on Chancellor always you know I used
+
+to wonder about Chancellor Hall
+
+<$A> <ICE-JA:S1A-037#145:1:A> Really
+
+<$B> <ICE-JA:S1A-037#146:1:B> Yeah
+
+<$A> <ICE-JA:S1A-037#147:1:A> All male
+
+<$B> <ICE-JA:S1A-037#148:1:B> Well <unclear> word</unclear><O>laughs</O>
+
+<$A> <ICE-JA:S1A-037#149:1:A> Okay
+<ICE-JA:S1A-037#150:1:A> Right
+<ICE-JA:S1A-037#151:1:A> Yeah
+<ICE-JA:S1A-037#152:1:A> What do you want to know about Chancellor
+
+<$B> <ICE-JA:S1A-037#153:1:B> Mhm what's up with this I noticed that Chancellor has this
+
+whole I guess that all other halls this whole I don't know thing about them
+
+this whole history spirit by its reputation whatever you want to call it
+
+<$A> <ICE-JA:S1A-037#154:1:A> Mhm
+<ICE-JA:S1A-037#155:1:A> Well not like all other halls really
+<ICE-JA:S1A-037#156:1:A> I think they take pride in the sports <}> <-> and</-> <=>
+
+and</=></}> the few people that come out as scholars the few good scholars we
+
+have few great people that have passed through the hall kind of thing
+<ICE-JA:S1A-037#157:1:A> So<,> I think that's that
+<ICE-JA:S1A-037#158:1:A> Uh this year they celebrated their fiftieth anniversary<,> and
+
+stuff
+<ICE-JA:S1A-037#159:1:A> There's a bit of history about the hall <indig> nutten</indig>
+
+well I wouldn't say <indig> nutten</indig> so great but it's not a whole heap
+
+for fifty years I think it could have been more<{><[><,></[> but <}> <->
+
+it's</-> <=> it's</=></}> okay
+
+<$B> <ICE-JA:S1A-037#160:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-037#161:1:B> So what did you do on Chancellor
+<ICE-JA:S1A-037#162:1:B> You did anything
+
+<$A> <ICE-JA:S1A-037#163:1:A> I played volleyball for Chancellor
+
+<$B> <ICE-JA:S1A-037#164:1:B> Okay
+<ICE-JA:S1A-037#165:1:B> So how was that
+
+<$A> <ICE-JA:S1A-037#166:1:A> It was okay
+<ICE-JA:S1A-037#167:1:A> I played what one two three years
+<ICE-JA:S1A-037#168:1:A> One two and the last one year
+<ICE-JA:S1A-037#169:1:A> Of course their biggest rival is Taylor Hall
+
+<$B> <ICE-JA:S1A-037#170:1:B> Okay
+
+<$A> <ICE-JA:S1A-037#171:1:A> Actually I tell you a trick
+<ICE-JA:S1A-037#172:1:A> In my first year I was attached to Taylor
+<ICE-JA:S1A-037#173:1:A> That year I never lived on hall any at all I used to commute
+<ICE-JA:S1A-037#174:1:A> But then when I decided to live on hall I change and live on
+
+Chancellor Hall
+
+<$B> <ICE-JA:S1A-037#175:1:B> Why
+
+<$A> <ICE-JA:S1A-037#176:1:A> Don't know
+<ICE-JA:S1A-037#177:1:A> Probably <unclear> words</unclear>
+<ICE-JA:S1A-037#178:1:A> All of my <indig> bredrin</indig> live on Chancellor so me <}> <->
+
+live</-> <=> live</=></}> on Chancellor
+
+<$B> <ICE-JA:S1A-037#179:1:B> Okay
+<ICE-JA:S1A-037#180:1:B> I see
+<ICE-JA:S1A-037#181:1:B> I mean Chancellor and Taylor always seem to have this thing going
+
+though some kind of rivalry
+
+<$A> <ICE-JA:S1A-037#182:1:A> I hear it used to be like <unclear> words</unclear> back in
+
+the days but it's <indig> nutten</indig> like that now
+<ICE-JA:S1A-037#183:1:A> I think people get smarter
+
+<$B> <ICE-JA:S1A-037#184:1:B> Okay<O>chuckles</O> you think so
+
+<$A> <ICE-JA:S1A-037#185:1:A> Yeah
+<ICE-JA:S1A-037#186:1:A> Like I remember one year at the Lions Banquet Dr <unclear>
+
+name</unclear> was telling us this man that lectures down in chemistry he was
+
+telling us that in his time when they used to go and do raids over Taylor
+
+Hall they got a new lock
+<ICE-JA:S1A-037#187:1:A> And they used to go and they screw off all the door locks and
+
+screw out the floats out the toilets a whole heap of thing crazy stuff
+<ICE-JA:S1A-037#188:1:A> But nobody no do them thing <unclear> words</unclear> I mean
+
+probably there woulda be like some serious war <unclear> words</unclear>
+<ICE-JA:S1A-037#189:1:A> Yes as I said people get smarter
+
+<$B> <ICE-JA:S1A-037#190:1:B> Thank God
+
+<$A> <ICE-JA:S1A-037#191:1:A> Except of course for few <indig> likl</indig> knuckleheads on
+
+the hall that keep on depriving some Irvinites of their underwear
+<ICE-JA:S1A-037#192:1:A> They have done it two times since I've been there
+<ICE-JA:S1A-037#193:1:A> About two years in a row right after or within the time of Lions
+
+Week
+<ICE-JA:S1A-037#194:1:A> They just go over and I don't know just go on the lines I guess
+
+just take all the underwears off and just decorate the tree
+<ICE-JA:S1A-037#195:1:A> And nobody seem to see them when they do it or <indig>
+
+nutten</indig>
+<ICE-JA:S1A-037#196:1:A> You just wake up and see the tree well decorated
+
+<$B> <ICE-JA:S1A-037#197:1:B> Is that like a Chancellor tradition
+
+<$A> <ICE-JA:S1A-037#198:1:A> No
+<ICE-JA:S1A-037#199:1:A> I don't know
+<ICE-JA:S1A-037#200:1:A> I don't know about that
+<ICE-JA:S1A-037#201:1:A> We never learn that in orientation about going and taking nobody
+
+thing
+
+<$B> <ICE-JA:S1A-037#202:1:B> <O> laughs</O>So where did it come from
+
+<$A> <ICE-JA:S1A-037#203:1:A> I don't know I guess I think it's something of the past like
+
+long long time<,,> something from some back-in-the-days thing you know
+<ICE-JA:S1A-037#204:1:A> Somebody probably hear it and think it might be cool if them try
+
+it now and tried it I guess
+
+<$B> <ICE-JA:S1A-037#205:1:B> Okay
+<ICE-JA:S1A-037#206:1:B> So where you're living now that you're off
+
+<$A> <ICE-JA:S1A-037#207:1:A> In Portmore back at me mummy
+
+<$B> <ICE-JA:S1A-037#208:1:B> Oh how is that
+
+<$A> <ICE-JA:S1A-037#209:1:A> Well far for one<,>
+<ICE-JA:S1A-037#210:1:A> I hear that the traffic is still <unclear> word</unclear> but I've
+
+never been travelling in the peak hours
+<ICE-JA:S1A-037#211:1:A> I either travel after and I travel late after<,> later in the
+
+morning later in the night
+<ICE-JA:S1A-037#212:1:A> So I've not really met the traffic yet
+<ICE-JA:S1A-037#213:1:A> Hopefully I don't have to meet it
+
+<$B> <ICE-JA:S1A-037#214:1:B> Mhm
+<ICE-JA:S1A-037#215:1:B> Can I tell you <unclear> words</unclear> Portmore though is
+
+terrible cos I have to come here early in the morning like eight thirty and I
+
+leave at four thirty
+
+<$A> <ICE-JA:S1A-037#216:1:A> You leave at what time
+
+<$B> <ICE-JA:S1A-037#217:1:B> Four thirty<,>
+
+<$A> <ICE-JA:S1A-037#218:1:A> What
+
+<$B> <ICE-JA:S1A-037#219:1:B> <?> It's all</?>
+<ICE-JA:S1A-037#220:1:B> What <?> do</?> you mean <quote> what</quote><O>laughs</O>
+<ICE-JA:S1A-037#221:1:B> What time do you leave work
+
+<$A> <ICE-JA:S1A-037#222:1:A> Oh you leave work at four thirty
+
+<$B> <ICE-JA:S1A-037#223:1:B> Yeah
+
+<$A> <ICE-JA:S1A-037#224:1:A> Oh
+<ICE-JA:S1A-037#225:1:A> Okay
+<ICE-JA:S1A-037#226:1:A> I can understand I think
+
+<$B> <ICE-JA:S1A-037#227:1:B> Uhu
+<ICE-JA:S1A-037#228:1:B> You mean what
+<ICE-JA:S1A-037#229:1:B> You thought it was the time I left home
+
+<$A> <ICE-JA:S1A-037#230:1:A> Yeah like <{> <[> in the morning <unclear>
+
+words</unclear></[>
+
+<$B> <ICE-JA:S1A-037#231:1:B> <[> Well close enough cos if I</[></{> have to wake up at
+
+five and leave by six to catch the six o'clock</I>

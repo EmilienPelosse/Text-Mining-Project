@@ -1,0 +1,693 @@
+<I>
+
+<$A> <ICE-JA:S1B-042#1:1:A> Hello
+
+<$B> <ICE-JA:S1B-042#2:1:B> Hello
+
+<$A> <ICE-JA:S1B-042#3:1:A> Dr Gallimore
+
+<$B> <ICE-JA:S1B-042#4:1:B> Yes Mr Perkins
+
+<$A> <ICE-JA:S1B-042#5:1:A> You having difficulty hearing me
+
+<$B> <ICE-JA:S1B-042#6:1:B> No not at all loud and clear
+
+<$A> <ICE-JA:S1B-042#7:1:A> Oh
+
+<$B> <ICE-JA:S1B-042#8:1:B> Are you having difficulty hearing <{> <[> me</[>
+
+<$A> <ICE-JA:S1B-042#9:1:A> <[> No</[></{> I'm not eh<ICE-JA:S1B-042#>Well <}> <-> I</-> <=> I</=></}>
+
+thought I was but <}> <-> I I</-> <=> I</=></}> can now hear you<,> uhm
+<ICE-JA:S1B-042#10:1:A> Dr Gallimore<,> you have been talking <}> <-> about the</-> <=>
+
+about</=></}> constitutional matters
+
+<$B> <ICE-JA:S1B-042#11:1:B> Yeah
+
+<$A> <ICE-JA:S1B-042#12:1:A> <}> <-> <.> An</.></-> <=> and</=></}> you've been saying <}>
+
+<-> that uhm that <.> i</.></-><,> <=> a danger</=></}> of separation the
+
+idea those of us who talk about separation of powers are really<,>
+
+promoting<,> a very dangerous thing for this country<,,> uh because the
+
+separation of powers can lead to military takeover<,,>
+<ICE-JA:S1B-042#13:1:A> That's what you're saying
+
+<$B> <ICE-JA:S1B-042#14:1:B> You're ready for a response
+
+<$A> <ICE-JA:S1B-042#15:1:A> Yes yes I'm asking you
+
+<$B> <ICE-JA:S1B-042#16:1:B> Yeah
+
+<$A> <ICE-JA:S1B-042#17:1:A> <{> <[> I beg your pardon</[>
+
+<$B> <ICE-JA:S1B-042#18:1:B> <[> What I</[></{>
+<ICE-JA:S1B-042#19:1:B> What I'm saying and what I've said in a nutshell<{1><[1><,></[1>
+
+<}> <-> my</-><,> <=> two of my</=></}> reasons<{2><[2><,></[2> for being
+
+opposed to<,> what you call separation of powers<{3><[3><,></[3> the
+
+executive president after the American style et cetera<{4><[4><,></[4> is
+
+that<,> one<,> I feel very strongly<{5><[5><,></[5> that those who form a
+
+cabinet<{6><[6><,></[6> who decide policies for the country<{7><[7><,></[7>
+
+should be people who are elected by the people<{8><[8><,></[8> people who<,>
+
+need to go back to the people every five years to renew that
+
+mandate<{9><[9><,></[9> so that they will
+
+<$A> <ICE-JA:S1B-042#20:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1B-042#21:1:A> <[2> Aha</[2></{2>
+
+<$A> <ICE-JA:S1B-042#22:1:A> <[3> Yes</[3></{3>
+
+<$A> <ICE-JA:S1B-042#23:1:A> <[4> Aha</[4></{4>
+
+<$A> <ICE-JA:S1B-042#24:1:A> <[5> Aha</[5></{5>
+
+<$A> <ICE-JA:S1B-042#25:1:A> <[6> Yes</[6></{6>
+
+<$A> <ICE-JA:S1B-042#26:1:A> <[7> Aha</[7></{7>
+
+<$A> <ICE-JA:S1B-042#27:1:A> <[8> Aha</[8></{8>
+
+<$A> <ICE-JA:S1B-042#28:1:A> <[9> Aha</[9></{9>
+
+<$A> <ICE-JA:S1B-042#29:1:A> But that's not what I asked you about Dr <{> <[> <}> <-> <.>
+
+G</.></-> <+> Gallimore</+></}></[>
+
+<$B> <ICE-JA:S1B-042#30:1:B> <[> No well</[></{> yeah but <}> <-> I</-> <=> I'm</=></}>
+
+telling you of my two points<{1><[1><,></[1> that I <{2> <[2> made</[2> and
+
+I'm dealing with this less controversial one first I hope less controversial
+
+<$A> <ICE-JA:S1B-042#31:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1B-042#32:1:A> <[2> Ah</[2></{2>
+
+<$A> <ICE-JA:S1B-042#33:1:A> Aha
+
+<$B> <ICE-JA:S1B-042#34:1:B> And I trust that we will be able to have this discussion in a
+
+calm and<,> civilized manner
+
+<$A> <ICE-JA:S1B-042#35:1:A> Yeah uh <.> da</.> <}> <-> are you have you</-> <=> are
+
+you</=></}> accustomed to hearing discussions on this programme that are not
+
+carried on in a calm and <{> <[> civilized eh</[>
+
+<$B> <ICE-JA:S1B-042#36:1:B> <[> Not very calm</[></{><O>laughs</O>
+<ICE-JA:S1B-042#37:1:B> Yeah <}> <-> we we we</-> <=> we</=></}> do hear you get heated and
+
+<{> <[> rustled</[>
+
+<$A> <ICE-JA:S1B-042#38:1:A> <[> I get heated</[></{>
+
+<$B> <ICE-JA:S1B-042#39:1:B> Anyway uhm <}> <-> I I</-> <=> I've</=></}> listened to you
+
+ever since morning <{> <[1> <,> </[1> and <}> <-> you</-> <=> you</=></}>
+
+seemed to be on a good track this morning so<{2><[2><O>laughs</O><,></[2>
+
+let's maintain it<,>
+<ICE-JA:S1B-042#40:1:B> Yes<,> I was saying that uhm<,> I figure that your ministers<,>
+
+ought to be drawn from the elected house by and large<,>
+<ICE-JA:S1B-042#41:1:B> Our forefathers<,,> saw the wisdom of saying that the finance
+
+minister although you could have<,> a couple of ministers from the senate
+
+who're not elected but nominated<,>
+<ICE-JA:S1B-042#42:1:B> But that the Minister of Finance had to come from the elected <{3>
+
+<[3> house
+<ICE-JA:S1B-042#43:1:B> He's the only man with the right to raise tax</[3>
+
+<$A> <ICE-JA:S1B-042#44:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1B-042#45:1:A> <[2> Ah</[2><{2>
+
+<$A> <ICE-JA:S1B-042#46:1:A> <[3> Dr Gallimore the question you</[3></{3>
+<ICE-JA:S1B-042#47:1:A> My understanding is that you have said<,> that there is a danger
+
+in<,> the<,> separation of powers because <}> <-> it can <.> l</.></-> <=> it
+
+is</=></}> likely to lead to military <{> <[> takeover</[>
+
+<$B> <ICE-JA:S1B-042#48:1:B> <[> Okay</[></{> Let me deal with that for you then
+
+<$A> <ICE-JA:S1B-042#49:1:A> Yes
+
+<$B> <ICE-JA:S1B-042#50:1:B> Okay you're only interested in what you're interested in and
+
+not what I am <{> <[> interested in <unclear> words</unclear></[>
+
+<$A> <ICE-JA:S1B-042#51:1:A> <[> But this is what you've told people <}> <-> Mr <.>
+
+Gall</.></-> <=> Dr</=></}> Gallimore</[></{>
+
+<$B> <ICE-JA:S1B-042#52:1:B> Let's deal with that
+<ICE-JA:S1B-042#53:1:B> Let's <{1> <[1> deal</[1> with that first
+<ICE-JA:S1B-042#54:1:B> <{2> <[2> Let's</[2> deal with that first
+
+<$A> <ICE-JA:S1B-042#55:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1B-042#56:1:A> <[2> Yes</[2></{2>
+
+<$A> <ICE-JA:S1B-042#57:1:A> Yes
+
+<$B> <ICE-JA:S1B-042#58:1:B> That's your burning thing<,>
+<ICE-JA:S1B-042#59:1:B> What I said in Parliament and I stand by it<{1><[1><,></[1> is
+
+that<,,> the<,> new constitution the separation of powers<{2><[2><,></[2> is
+
+not a cure-all<,,> as some people tend to make it out <{3> <[3> to be</[3>
+
+<$A> <ICE-JA:S1B-042#60:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1B-042#61:1:A> <[2> Aha</[2></{2>
+
+<$A> <ICE-JA:S1B-042#62:1:A> <[3> <}> <-> Who</-></[3></{3> <=> who</=></}> is it that <}>
+
+<-> make it out <.> ma</.> are making it</-> <=> is making it</=></}> out to
+
+be a cure-all
+
+<$B> <ICE-JA:S1B-042#63:1:B> Well since I'm not fussing with you I won't say you but a lot
+
+of people get the impression that<,> you<,,> tell a lot of people<,> on your
+
+programme<,>
+<ICE-JA:S1B-042#64:1:B> Oh if we had this everything would be all <{> <[> right then</[>
+
+<$A> <ICE-JA:S1B-042#65:1:A> <[> I have</[></{> never said that
+<ICE-JA:S1B-042#66:1:A> Dr Gallimore have you ever heard me say that
+
+<$B> <ICE-JA:S1B-042#67:1:B> Well I think I have and I will <{1> <[1> say that I think</[1>
+
+a lot of people think <{2> <[2> that<,></[2>you imply that Mister <{3> <[3>
+
+Perkins</[3> <?> but</?> I'm not gonna fuss this morning
+
+<$A> <ICE-JA:S1B-042#68:1:A> <[1> You think you have</[1></{1>
+
+<$A> <ICE-JA:S1B-042#69:1:A> <[2> Dr Gallimore</[2></{2>
+
+<$A> <ICE-JA:S1B-042#70:1:A> <[3> Dr Gallimore</[3></{3>
+
+<$A> <ICE-JA:S1B-042#71:1:A> Dr Gallimore
+<ICE-JA:S1B-042#72:1:A> Dr Gallimore
+<ICE-JA:S1B-042#73:1:A> My wife and I own fifty-seven acres of land overlooking the<,> the
+
+sea in Malvern in St. Elizabeth
+<ICE-JA:S1B-042#74:1:A> I am prepared to bet you that fifty- seven acres of land
+<ICE-JA:S1B-042#75:1:A> It has a house on it<,>
+<ICE-JA:S1B-042#76:1:A> Fifty-seven acres of land and a house against one dollar that you
+
+cannot produce and I am prepared K L A S will open the <}> <- > <.>
+
+a</.></-></}> archives of this programme to you
+<ICE-JA:S1B-042#77:1:A> And I'm prepared to bet you those fifty-seven acres of land and my
+
+house against one dollar that you cannot produce a tape on which I said
+
+that<,,>
+
+<$B> <ICE-JA:S1B-042#78:1:B> All <{> <[> right we</[>
+
+<$A> <ICE-JA:S1B-042#79:1:A> <[> You</[></{> you want to take up
+<ICE-JA:S1B-042#80:1:A> You're taking up the <{> <[> bet</[>
+
+<$B> <ICE-JA:S1B-042#81:1:B> <[> We will</[></{> do the research
+
+<$A> <ICE-JA:S1B-042#82:1:A> I am asking you are you prepared to take up the bet
+
+<$B> <ICE-JA:S1B-042#83:1:B> Yes man
+
+<$A> <ICE-JA:S1B-042#84:1:A> I'll tell you what I'll bet you that fifty-seven acres of land
+
+and a house against<,> your house
+
+<$B> <ICE-JA:S1B-042#85:1:B> No no hello
+
+<$A> <ICE-JA:S1B-042#86:1:A> Yes
+
+<$B> <ICE-JA:S1B-042#87:1:B> No <{> <[> we we'll eh that's a different offer I can't
+
+<unclear> words</unclear></[>
+
+<$A> <ICE-JA:S1B-042#88:1:A> <[> You back off now
+<ICE-JA:S1B-042#89:1:A> You're prepared to risk a dollar on it</[></{> you're not prepared
+
+to risk your house
+
+<$B> <ICE-JA:S1B-042#90:1:B> No as a good Seventh-day Adventist
+
+<$A> <ICE-JA:S1B-042#91:1:A> Well don't come here and make <{1> <[1> irresponsible</[1>
+
+statements <{2> </[2> Dr Gallimore</[2>
+
+<$B> <ICE-JA:S1B-042#92:1:B> <[1> <?> I know that</?></[1>
+
+<$B> <ICE-JA:S1B-042#93:1:B> <[2> No no no
+<ICE-JA:S1B-042#94:1:B> Don't start</[2></{2> don't start that way
+
+<$A> <ICE-JA:S1B-042#95:1:A> <{> <[> How you mean don't start that way</[>
+
+<$B> <ICE-JA:S1B-042#96:1:B> <[> Don't start that way Mister Perkins</[></{> you're <{> <[>
+
+not gonna get away with that </[>
+
+<$A> <ICE-JA:S1B-042#97:1:A> <[> Don't <.> d</.></[></{> you have never heard me say that
+<ICE-JA:S1B-042#98:1:A> <{> <[> <,> You have never heard me say that</[>
+
+<$B> <ICE-JA:S1B-042#99:1:B> <[> In fact one day I was speaking with you<,>
+<ICE-JA:S1B-042#100:1:B> One day I myself was</[></{> speaking with you
+
+<$A> <ICE-JA:S1B-042#101:1:A> Yes
+
+<$B> <ICE-JA:S1B-042#102:1:B> And you implied something like that <{1> <[1> and <}> <->
+
+when I said</-></[1> <=> when I repeated</=></}> it to you<,> you said you
+
+politicians always try to ridicule people <{2> <[2> <?> and that's
+
+irresponsible</?></[2>
+
+<$A> <ICE-JA:S1B-042#103:1:A> <[1> Implied something</[1></{1>
+
+<$A> <ICE-JA:S1B-042#104:1:A> <[2> Okay <}> <-> you have a house</-> <=> you have a
+
+house</=></}></[2></{2> in Mandeville
+<ICE-JA:S1B-042#105:1:A> You prepared to bet me <{> <[> that house against my fifty-seven
+
+acres</[>
+
+<$B> <ICE-JA:S1B-042#106:1:B> <[> I don't have a house in Mandeville</[></{>
+<ICE-JA:S1B-042#107:1:B> My wife rents a place there
+
+<$A> <ICE-JA:S1B-042#108:1:A> Your wife rents a place
+
+<$B> <ICE-JA:S1B-042#109:1:B> Yeah
+
+<$A> <ICE-JA:S1B-042#110:1:A> Well <}> <-> <.> wh</.></-> <=> the</=></}> house in which
+
+you live
+<ICE-JA:S1B-042#111:1:A> You prepared to bet me that <{> <[> house against your</[>
+
+<$B> <ICE-JA:S1B-042#112:1:B> <[> I don't bet</[></{> because I don't <{> <[> gamble
+
+because I am a Seventh-day Adventist <unclear> words</unclear></[>
+
+<$A> <ICE-JA:S1B-042#113:1:A> <[> You don't gamble I see what you mean
+<ICE-JA:S1B-042#114:1:A> <}> <-> And yet you make <.> irres</.></-> <=> you make
+
+irresponsible</=></}></[></{> and untruthful statements
+
+<$B> <ICE-JA:S1B-042#115:1:B> Uh
+
+<$A> <ICE-JA:S1B-042#116:1:A> Okay
+<ICE-JA:S1B-042#117:1:A> Go ahead
+<ICE-JA:S1B-042#118:1:A> Next point<,>
+
+<$B> <ICE-JA:S1B-042#119:1:B> As I say <{1> <[1> <,> </[1> we get this thing that <{2> <[2>
+
+the only other new <unclear> word</unclear></[2>
+
+<$A> <ICE-JA:S1B-042#120:1:A> <[1> Hmhm</[1></{1>
+
+<$A> <ICE-JA:S1B-042#121:1:A> <[2> <?> You don't gamble</?> It would be preferable to
+
+gamble</[2></{2>
+
+<$B> <ICE-JA:S1B-042#122:1:B> Fine let's leave that<{1><[1><,></[1>
+<ICE-JA:S1B-042#123:1:B> One of the dangers yeah no I<,> I also want to tell
+
+you<{2><[2><,></[2>that<,> the United States has separation of
+
+powers<{3><[3><,></[3> so do almost all the countries of Latin America
+
+<$A> <ICE-JA:S1B-042#124:1:A> <[1> <O> laughs</O>Yes alright</[1></{1>
+
+<$A> <ICE-JA:S1B-042#125:1:A> <[2> Yes</[2></{2>
+
+<$A> <ICE-JA:S1B-042#126:1:A> <[3> Yes</[3></{3>
+
+<$A> <ICE-JA:S1B-042#127:1:A> Yes
+
+<$B> <ICE-JA:S1B-042#128:1:B> So let us not compare Jamaica a developing country with the
+
+first world developed country of the U S
+<ICE-JA:S1B-042#129:1:B> <{> <[> Let us compare <}> <-> with eh</-> <=> with</=></}> Latin
+
+America</[>
+
+<$A> <ICE-JA:S1B-042#130:1:A> <[> Dr Gallimore you said that</[></{> separation of powers
+
+would lead to military takeover
+
+<$B> <ICE-JA:S1B-042#131:1:B> And I'm going to tell you how it can happen
+
+<$A> <ICE-JA:S1B-042#132:1:A> <}> <-> <.> y</.></-> <=> You</=></}> tell me
+
+<$B> <ICE-JA:S1B-042#133:1:B> Yes
+<ICE-JA:S1B-042#134:1:B> <}> <-> As it</-> <=> as has</=></}> happened in many other
+
+countries
+
+<$A> <ICE-JA:S1B-042#135:1:A> Yes <,,>
+
+<$B> <ICE-JA:S1B-042#136:1:B> Now<,> you have<,> a president<{><[><,></[> who belongs to
+
+one political party
+
+<$A> <ICE-JA:S1B-042#137:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1B-042#138:1:A> Yes
+
+<$B> <ICE-JA:S1B-042#139:1:B> In Jamaica political feelings run deep
+
+<$A> <ICE-JA:S1B-042#140:1:A> Yes
+
+<$B> <ICE-JA:S1B-042#141:1:B> Not like in the U S
+
+<$A> <ICE-JA:S1B-042#142:1:A> Mhm
+
+<$B> <ICE-JA:S1B-042#143:1:B> Much deeper
+
+<$A> <ICE-JA:S1B-042#144:1:A> Mhm
+
+<$B> <ICE-JA:S1B-042#145:1:B> Right now you know there's gridlock in the U
+
+S<&>$A-knocks-on-microphone</&>
+<ICE-JA:S1B-042#146:1:B> The fourteenth of this month they named for the first time in
+
+history miss servicing their debt <{> <[> <,> </[> because of gridlock
+
+<$A> <ICE-JA:S1B-042#147:1:A> <[> Yeah</[></{>
+
+<$A> <ICE-JA:S1B-042#148:1:A> Yes
+
+<$B> <ICE-JA:S1B-042#149:1:B> Now <,> and they have Democrats from the South who are more
+
+conservative than the Republicans<{1><[1><,></[1> and who vote consistently
+
+quite often <{2> <[2> with the Republicans</[2>
+
+<$A> <ICE-JA:S1B-042#150:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1B-042#151:1:A> <[2> Yes
+<ICE-JA:S1B-042#152:1:A> <}> <-> Would you</-> <=> would you</=></}></[2></{2> hold on for
+
+a moment please
+
+<$B> <ICE-JA:S1B-042#153:1:B> Sure<&>commercials</&>
+
+<$A> <ICE-JA:S1B-042#154:1:A> Okay thank you very much
+<ICE-JA:S1B-042#155:1:A> We're back with you Dr Gallimore
+
+<$B> <ICE-JA:S1B-042#156:1:B> Yes Mister Perkins
+
+<$A> <ICE-JA:S1B-042#157:1:A> Aha
+
+<$B> <ICE-JA:S1B-042#158:1:B> I'm saying you have a parliament<{1><[1><,></[1> under the
+
+separation of powers<{2><[2><,></[2> that you seem to advocate
+
+<$A> <ICE-JA:S1B-042#159:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1B-042#160:1:A> <[2> Yes</[2></{2>
+
+<$A> <ICE-JA:S1B-042#161:1:A> Yes
+
+<$B> <ICE-JA:S1B-042#162:1:B> You could have a parliament<,> where the president who is
+
+directly elected<{1><[1><,></[1> is of a different political party to the
+
+majority parliament<{2><[2><,></[2> the majority in the parliament
+<ICE-JA:S1B-042#163:1:B> You agree with that
+
+<$A> <ICE-JA:S1B-042#164:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-042#165:1:A> <[2> Yes</[2></[2>
+
+<$A> <ICE-JA:S1B-042#166:1:A> Aha
+
+<$B> <ICE-JA:S1B-042#167:1:B> Okay
+<ICE-JA:S1B-042#168:1:B> In our system where politics runs so deep<{1><[1><,></[1> where
+
+people tend to vote and speak the party line<{2><[2><,></[2><,,> you would
+
+find<{3><[3><,></[3> quite possibly<{4><[4><,></[4> after two and a half
+
+years of any government<{5><[5><,></[5> that once you turn that corner and
+
+people start to look towards the next election<{6><[6><,></[6> that a lot of
+
+<,> things coming from the president<{7><[7><,></[7> to that
+
+parliament<{8><[8><,></[8> would get tied up would get voted
+
+down<{9><[9><,></[9> would get bogged down <{10> <[10> <,> </[10>
+<ICE-JA:S1B-042#169:1:B> You could eventually get to the place<,,> where you<,> do not get
+
+a budget passed<{11><[11><,></[11> where we are unable to pay our civil
+
+servants<{12><[12><,></[12> and our contractors<{13><[13><,></[13> where the
+
+bickering continues to the point<{14><[14><,></[14> where I said
+<ICE-JA:S1B-042#170:1:B> Those who have sworn themselves<,> to protect
+
+Jamaica<{15><[15><,></[15> and are willing to give their lives in defence of
+
+this country<{16><[16><,></[16> could say<,>
+<ICE-JA:S1B-042#171:1:B> well these little boys and girls at Gordon House are like children
+
+playing dolly house <{17> <[17> <,> </[17>
+<ICE-JA:S1B-042#172:1:B> Let us move in and clean up this thing <{18> <[18> <,> </[18>
+<ICE-JA:S1B-042#173:1:B> And they could say we take power for three years <{19> <[19> <,>
+
+</[19> and we let them go back out <{20> <[20> <,> </[20> and hope that after
+
+three years they will<,> have learned to behave<,> in an adult manner <{21>
+
+<[21> <,> </[21> and can come back and establish a <{22> <[22> civilian</[22>
+
+government to <{23> <[23> run</[23> the country <{24> <[24> <,> </[24>
+<ICE-JA:S1B-042#174:1:B> I do not think Mr Perkins<{25><[25><,></[25> that this is beyond
+
+the realms<,> of <{26> <[26> possibility</[26> or probalitity <{27> <[27> <,>
+
+</[27> because<,,> I would say to you right now<{28><[28><,></[28>
+<ICE-JA:S1B-042#175:1:B> Those who are telling me about the separation of powers
+
+and<{29><[29><,></[29> giving parliament more power <{30> <[30> <,> </[30>
+<ICE-JA:S1B-042#176:1:B> I agree that the executive power needs to be reduced <{31> <[31>
+
+<,> </[31>
+<ICE-JA:S1B-042#177:1:B> I agree that<,> we need to curtail the Prime Minister's power in
+
+many ways <{32> <[32> <,> </[32>
+<ICE-JA:S1B-042#178:1:B> I agree that Parliament ought to have more power <{33> <[33> <,>
+
+</[33>
+<ICE-JA:S1B-042#179:1:B> And I argue that much of this can be achieved <,> with <,>
+
+amending<,> the present Westminster system<{34><[34><,></[34> to which we are
+
+accustomed <{35> <[35> <,> </[35>
+<ICE-JA:S1B-042#180:1:B> I see this danger<,> and I've seen it happen in Latin America
+<ICE-JA:S1B-042#181:1:B> I've lived in Latin America <{36> <[36> <,> </[36>
+<ICE-JA:S1B-042#182:1:B> When uhm<,> I spoke to a gentleman funny enough he's from
+
+Mandeville on the phone the other night <{37> <[37> <,> </[37>
+<ICE-JA:S1B-042#183:1:B> And he is thinking that he wants separation of powers because he
+
+says <quote> I can't get anything done in this country unless I know
+
+somebody</quote><{38><[38><,></[38>
+<ICE-JA:S1B-042#184:1:B> And I had to tell him that <}> <- > I live</-> <=> I've
+
+lived</=></}> in Latin America<,> where there is separation of powers <{39>
+
+<[39> <,> </[39>
+<ICE-JA:S1B-042#185:1:B> And no matter how good your ideas <{40> <[40> <,> </[40> no matter
+
+how sound your project <{41> <[41> <,> </[41> it's not just a matter of
+
+knowing somebody <{42> <[42> <,> </[42>
+<ICE-JA:S1B-042#186:1:B> Down there it is called <foreign> la mordita</foreign> <{43> <[43>
+
+<,> </[43>
+<ICE-JA:S1B-042#187:1:B> It's the order of the day the little bite<,> <{44> <[44> and
+
+unless</[44> the little bite is passed<{45><[45><,></[45> you don't get
+
+through
+
+<$A> <ICE-JA:S1B-042#188:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1B-042#189:1:A> <[2> Yes</[2></{2>
+
+<$A> <ICE-JA:S1B-042#190:1:A> <[3> Aha</[3></{3>
+
+<$A> <ICE-JA:S1B-042#191:1:A> <[4> Aha</[4></{4>
+
+<$A> <ICE-JA:S1B-042#192:1:A> <[5> Yes</[5></{5>
+
+<$A> <ICE-JA:S1B-042#193:1:A> <[6> Aha</[6></{6>
+
+<$A> <ICE-JA:S1B-042#194:1:A> <[7> Yes</[7></{7>
+
+<$A> <ICE-JA:S1B-042#195:1:A> <[8> Yes</[8></{8>
+
+<$A> <ICE-JA:S1B-042#196:1:A> <[9> Aha</[9></{9>
+
+<$A> <ICE-JA:S1B-042#197:1:A> <[10> Aha</[10></{10>
+
+<$A> <ICE-JA:S1B-042#198:1:A> <[11> Yes</[11></{11>
+
+<$A> <ICE-JA:S1B-042#199:1:A> <[12> Aha</[12></{12>
+
+<$A> <ICE-JA:S1B-042#200:1:A> <[13> Aha</[13></{13>
+
+<$A> <ICE-JA:S1B-042#201:1:A> <[14> Aha</[14></{14>
+
+<$A> <ICE-JA:S1B-042#202:1:A> <[15> Aha</[15></{15>
+
+<$A> <ICE-JA:S1B-042#203:1:A> <[16> Yes</[16></{16>
+
+<$A> <ICE-JA:S1B-042#204:1:A> <[17> Aha</[17></{17>
+
+<$A> <ICE-JA:S1B-042#205:1:A> <[18> Yes</[18></{18>
+
+<$A> <ICE-JA:S1B-042#206:1:A> <[19> Aha</[19></{19>
+
+<$A> <ICE-JA:S1B-042#207:1:A> <[20> Aha</[20></{20>
+
+<$A> <ICE-JA:S1B-042#208:1:A> <[21> Aha</[21></{21>
+
+<$A> <ICE-JA:S1B-042#209:1:A> <[22> Aha</[22></{22>
+
+<$A> <ICE-JA:S1B-042#210:1:A> <[23> Aha</[23></{23>
+
+<$A> <ICE-JA:S1B-042#211:1:A> <[24> Aha</[24></{24>
+
+<$A> <ICE-JA:S1B-042#212:1:A> <[25> Aha</[25></{25>
+
+<$A> <ICE-JA:S1B-042#213:1:A> <[26> Aha</[26></{26>
+
+<$A> <ICE-JA:S1B-042#214:1:A> <[27> Aha</[27></{27>
+
+<$A> <ICE-JA:S1B-042#215:1:A> <[28> Aha</[28></{28>
+
+<$A> <ICE-JA:S1B-042#216:1:A> <[29> Yeah</[29></{29>
+
+<$A> <ICE-JA:S1B-042#217:1:A> <[30> Yeah</[30></{30>
+
+<$A> <ICE-JA:S1B-042#218:1:A> <[31> Aha</[31></{31>
+
+<$A> <ICE-JA:S1B-042#219:1:A> <[32> Aha</[32></{32>
+
+<$A> <ICE-JA:S1B-042#220:1:A> <[33> Aha</[33></{33>
+
+<$A> <ICE-JA:S1B-042#221:1:A> <[34> Aha</[34></{34>
+
+<$A> <ICE-JA:S1B-042#222:1:A> <[35> Aha</[35></{35>
+
+<$A> <ICE-JA:S1B-042#223:1:A> <[36> Aha</[36></{36>
+
+<$A> <ICE-JA:S1B-042#224:1:A> <[37> Mhm</[37></{37>
+
+<$A> <ICE-JA:S1B-042#225:1:A> <[38> Mhm</[38></{38>
+
+<$A> <ICE-JA:S1B-042#226:1:A> <[39> Mhm</[39></{39>
+
+<$A> <ICE-JA:S1B-042#227:1:A> <[40> Mhm</[40></{40>
+
+<$A> <ICE-JA:S1B-042#228:1:A> <[41> Mhm</[41></{41>
+
+<$A> <ICE-JA:S1B-042#229:1:A> <[42> Mhm</[42></{42>
+
+<$A> <ICE-JA:S1B-042#230:1:A> <[43> Mhm</[43></{43>
+
+<$A> <ICE-JA:S1B-042#231:1:A> <[44> Let me ask you</[44></{44>
+
+<$A> <ICE-JA:S1B-042#232:1:A> <[45> Dr Gallimore</[45></{45>
+
+<$A> <ICE-JA:S1B-042#233:1:A> Yes okay
+<ICE-JA:S1B-042#234:1:A> So <}> <-> they</-><,> <=> there</=></}>is corruption in
+
+government
+
+<$B> <ICE-JA:S1B-042#235:1:B> Corruption yes
+
+<$A> <ICE-JA:S1B-042#236:1:A> Uh uh
+<ICE-JA:S1B-042#237:1:A> Let me ask you this question Dr Gallimore<,,>
+<ICE-JA:S1B-042#238:1:A> First of all on the subject of corruption<,> uhm
+<ICE-JA:S1B-042#239:1:A> <}> <-> Do you know do</-><,> <=> have you ever heard of</=></}>
+
+any country using the so-called <}> <-> Westminister</-
+
+><+>Westminster</+></}> model<,,> which <}> <-> have corruption in
+
+government</-> <=> has corruption in government</=></}>
+
+<$B> <ICE-JA:S1B-042#240:1:B> Oh yes
+
+<$A> <ICE-JA:S1B-042#241:1:A> <}> <-> You</-> <=> you</=></}> have heard of that
+
+<$B> <ICE-JA:S1B-042#242:1:B> Oh yes
+
+<$A> <ICE-JA:S1B-042#243:1:A> So uh uhm
+
+<$B> <ICE-JA:S1B-042#244:1:B> I have lived in one
+
+<$A> <ICE-JA:S1B-042#245:1:A> Okay so corruption in government is not inconsistent with the
+
+so-called <}> <- > Westminister</-><+>Westminster</+></}> model
+
+<$B> <ICE-JA:S1B-042#246:1:B> Right
+
+<$A> <ICE-JA:S1B-042#247:1:A> Okay
+
+<$B> <ICE-JA:S1B-042#248:1:B> Nor is it
+
+<$A> <ICE-JA:S1B-042#249:1:A> Next thing
+
+<$B> <ICE-JA:S1B-042#250:1:B> Nor is it<,> inconsistent<,> as I was saying this man naively
+
+thought<{1><[1><,></[1> that if we got <{2> <[2> the other</[2>
+
+system<{3><[3><,></[3> you wouldn't have corruption in government
+
+<$A> <ICE-JA:S1B-042#251:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-042#252:1:A> <[2> That's it</[2></{2>
+
+<$A> <ICE-JA:S1B-042#253:1:A> <[3> Yeah okay</[3></{3>
+
+<$A> <ICE-JA:S1B-042#254:1:A> Next question<,>
+<ICE-JA:S1B-042#255:1:A> <}> <-> <{> <[> Have you heard</[> of any</-> <=> have you ever
+
+heard of a</=></}> country<,,> using the <}> <-> Westminister</-
+
+><+>Westminster</+></}> model which had a military takeover<,> as a result
+
+of<,> <}> <- > the <.> ki</.></-> <=> the military</=></}> saying that these
+
+boys in politics are playing the fool
+<ICE-JA:S1B-042#256:1:A> Let us take over and clean up the system
+
+<$B> <ICE-JA:S1B-042#257:1:B> <[> <?> You</?> I just want to say that</[></{></I>

@@ -1,0 +1,543 @@
+<I>
+
+<$A> <ICE-JA:S1B-020#1:2:A> And so that we can actually<,> determine how many normal modes
+
+<}> <- > are</-><,> <=> are</=></}> present<,>
+<ICE-JA:S1B-020#2:2:A> And also<,> we showed you how<,> you can determine<,> <}> <->
+
+if</-><,> <=> if</=></}> they areir vibration <?> is</?> active<,> or not<,>
+<ICE-JA:S1B-020#3:2:A> Or<,> infrared-active<,>
+<ICE-JA:S1B-020#4:2:A> <}> <-> Whether</-> <=> if</=></}> they are<,> degenerate or not<,>
+
+<}> <-> and</-><,> <=> and</=></}> how many <unclear> word</unclear> prove
+
+their stateyou should expect<,>
+<ICE-JA:S1B-020#5:2:A> We also looked at water<,> <?> in</?> the last <?> one</?>
+
+lecture<,>
+<ICE-JA:S1B-020#6:2:A> We<?>'ve</?> seen that water had<,> three vibrational modes<,>
+
+and<,> similarly<,> to <}> <-> a</-><,> <=> a</=></}> diatomic molecule<,>
+
+which had only one normal mode<,> they're excited<,> by once at each time<,,>
+<ICE-JA:S1B-020#7:2:A> And the first excitation usually is <}> <-> the</-><,,> <=> of
+
+the</=></}> lowest state<,> where B equals zero<,> and the next state <}> <->
+
+where</-><,> <=> where</=></}> B<,> equals one
+<ICE-JA:S1B-020#8:2:A> And we show that<,> for<,> a molecule with say<,> three normal modes
+
+like water<,> then<,> we expect to have<,> three bands in their spectrum<,,>
+
+at room temperature<,>
+<ICE-JA:S1B-020#9:2:A> And in fact you have<,> seen that<,><O>clears- throat</O>
+<ICE-JA:S1B-020#10:2:A> So if you didn't have <}> <-> a</-><,,> <=> a</=></}> sample of<,>
+
+a chemical<,> <unclear> word(s)</unclear>to do a infrared spectrum<,> you
+
+should make sure it's very dry<,> or you block out <}> <-> the</-><,> <=>
+
+the</=></}> high energy end of the<,> spectrum<,> alright<,,>
+<ICE-JA:S1B-020#11:2:A> Uhm<,,> in this class we wi'll gdo a little step further<,> looking
+
+<}> <-> at</-><,> <=> at</=></}> vibration rotation in
+
+spectra<,,><&>writes-on- blackboard-long-pause</&>
+<ICE-JA:S1B-020#12:2:A> Now uhm<,,> we've built up on this first<,,>
+<ICE-JA:S1B-020#13:2:A> <?> A little time</?> rotation first<,> right<,> rotation
+
+spectrum<,> and then see uhm<,,> correlation<,,> between<,> vibration<,,> and
+
+rotation<,> and how we can<,> put them<,> both together<,,> and get<,> a
+
+vibration rotation<,> spectrum right<,,>
+<ICE-JA:S1B-020#14:2:A> So we will<,> first start off <}> <- > with</-><,> <=> with</=></}>
+
+rotations of molecules<,> and as usual<,> we use the<,> simple
+
+molecule<,,><&>writes-on-blackboard</&> right<,>
+<ICE-JA:S1B-020#15:2:A> Guess whatHere's why<,,>
+<ICE-JA:S1B-020#16:2:A> What's the best<,> to do that<,,><{1><[1><,></[1>
+<ICE-JA:S1B-020#17:2:A> A diatomic model right<,,><{2><[2><,></[2> a simple diatomic<,>
+
+model to do that<,,>
+<ICE-JA:S1B-020#18:2:A> And we classify<,> molecules in general<,> as rotors<,,>
+<ICE-JA:S1B-020#19:2:A> <&> writes-on-blackboard</&>Rotors R O<,> T O<,> R S<,>
+<ICE-JA:S1B-020#20:2:A> You can have rotation<,> around<,> three axes<,>
+<ICE-JA:S1B-020#21:2:A> Three axes<,>
+<ICE-JA:S1B-020#22:2:A> You call them<,> X Y Z<,>
+<ICE-JA:S1B-020#23:2:A> They're useful<,>
+<ICE-JA:S1B-020#24:2:A> But in<,> this case here<,> we'll call
+
+them<,><&>writes-on-blackboard</&> A B and C<,> axes<,> A B<,> <}> <->
+
+and</-><,> <=> and</=></}> C<,><O>someone-clears-throat</O>
+<ICE-JA:S1B-020#25:2:A> Now uhm<,,> to classify these three axes<,> we look at <}> <->
+
+the</-><,> <=> the</=></}> moment of inertia<,> <}> <-> around each of these
+
+axes</-><,> <=> about each of the axes</=></}><,> and uhm<,> in our
+
+molecule<,> and see<,,> I put the molecules<,> right here<,> right<,>
+<ICE-JA:S1B-020#26:2:A> We're looking at<,> a <unclear> words</unclear> right<,> <?> as</?>
+
+atoms<,>
+<ICE-JA:S1B-020#27:2:A> So we have atoms in molecules<&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#28:2:A> Right so that was the molecule<,>
+<ICE-JA:S1B-020#29:2:A> And setting up an axis<,> like here<,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#30:2:A> That's one axis<,> alright<,,>
+<ICE-JA:S1B-020#31:2:A> The molecule<,> is able<,> to rotate<,,> around its axis<,>
+
+right<,>
+<ICE-JA:S1B-020#32:2:A> Spin it<,> around the axis<,>
+<ICE-JA:S1B-020#33:2:A> And the moment of inertia<,><O>clears-throat</O> <}> <-> is</-><,,>
+
+<=> it would be</=></}> at<,>
+<ICE-JA:S1B-020#34:2:A> It correlates the mass<,> of each atom<,> the distance of each
+
+atom<,> of the axis<,,>
+<ICE-JA:S1B-020#35:2:A> So if this was the uhm<,> axis C<,> or A<,>
+<ICE-JA:S1B-020#36:2:A> Let's call that A<,><&>writes-on- blackboard</&> axis<,> A<,>
+<ICE-JA:S1B-020#37:2:A> Then<,> moment of inertia<,> symbol I<,,><&>writes-on-
+
+blackboard</&> alright symbol I<,,> and to show that we are speaking of axis
+
+A we use a subscript A<,>
+<ICE-JA:S1B-020#38:2:A> <?> andThat</?> giving</?> ugiven as<,> a summation<,,> m i<,> r
+
+i<,> A<,> squared<,,> <}> <-> where</-> <=> where</=></}><,> m i<,> is the
+
+mass of the i-th atom<,> right<,>
+<ICE-JA:S1B-020#39:2:A> So<,> we have<,> seven atoms here<,> so you have<,> m one up to m
+
+seven<,,>
+<ICE-JA:S1B-020#40:2:A> And r i<,> A<,> is distance of the i-th atom<,> from the axis<,>
+<ICE-JA:S1B-020#41:2:A> So for example here<,> distance right here<,>
+<ICE-JA:S1B-020#42:2:A> Okay<,>
+<ICE-JA:S1B-020#43:2:A> Right so you have the symbols<,> and the<,,> summation sign<,> is
+
+that<,> you add them all<,,> right<,>
+<ICE-JA:S1B-020#44:2:A> So it's a<,> contribution from<,> each atom<,> toward moment of
+
+inertia<,> about<,> that axis<,>
+<ICE-JA:S1B-020#45:2:A> So<,> the three axes<,> A B and C<,> are<,,>
+
+perpendicular<,,><&>writes-on- blackboard</&> right<,,>
+<ICE-JA:S1B-020#46:2:A> And<,> the assembled atoms are<,> molecule<,,>
+<ICE-JA:S1B-020#47:2:A> You can get<,> three values of moment of inertia<,> A B and C<,>
+
+right
+<ICE-JA:S1B-020#48:2:A> And<,> by definition<,,> this<,> characterized
+
+that<,><&>writes-on-blackboard</&> I A<,> less than<,> I B less than I C
+
+right<,,>
+<ICE-JA:S1B-020#49:2:A> So your three axes<,> are labelled such that<,> moment of
+
+inertia<,> about axis A<,> is always the least<,> alright<,> by convention<,>
+<ICE-JA:S1B-020#50:2:A> That's the<,> convention<,,>
+<ICE-JA:S1B-020#51:2:A> Let's look <}> <-> at</-><,> <=> at</=></}> some examples<,> <}>
+
+<- > linear</-> <=> linear</=></}> molecule<&>writes-on-blackboard</&><,> and
+
+this is from the<,> table here which is in<,> the<?>your</?> notes
+<ICE-JA:S1B-020#52:2:A> So <}> <-> I</-> <=> I</=></}> just<,> show you one example<,>
+
+right and you look up the rest of them<,,>
+<ICE-JA:S1B-020#53:2:A> A linear molecule<,> for example<,,>
+
+hydrogen<&>writes-on-blackboard</&><,> or<,> H C l or<,> C O two<,,>
+<ICE-JA:S1B-020#54:2:A> All three linear molecules<,,>
+<ICE-JA:S1B-020#55:2:A> <unclear> word(s)</unclear> linear<,,> means that<,> all atoms lie
+
+on axis<,> right<,> on one axis
+<ICE-JA:S1B-020#56:2:A> So<,><&>writes-on- blackboard</&> H C
+
+l<,,><&>writes-on-blackboard</&> that's H C l<,,>
+<ICE-JA:S1B-020#57:2:A> One axis<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#58:2:A> That is your<,,> axis A<,,> and since atoms<,> lie on the axis<,>
+
+then distance from the axis<,> zero<,> alright<,>
+<ICE-JA:S1B-020#59:2:A> So<,> moment of inertia<,> about axis A<,> zero<,>
+<ICE-JA:S1B-020#60:2:A> So for linear molecules<,,> I A<,,><&>writes-on- blackboard</&>
+
+equals zero<,> right<,>
+<ICE-JA:S1B-020#61:2:A> And<,> the other<,> two axes<,,> there's one here<,> that's
+
+inward<,,>
+<ICE-JA:S1B-020#62:2:A> There's one going<,> inward like this<,> right<,>
+<ICE-JA:S1B-020#63:2:A> This one going<,> like this<,>
+<ICE-JA:S1B-020#64:2:A> So<,> both of these will have the<,> same moment of inertia<,>
+
+about them<,,>
+<ICE-JA:S1B-020#65:2:A> So<,><&>writes-on-blackboard</&> I B<,,> equals<,> I C right<,>
+<ICE-JA:S1B-020#66:2:A> So<,> convention is that for<,> a linear molecule<,> moment of
+
+inertia<,> about axis A<,> zero<,> and moment of inertia<,> for axes<,> B and
+
+C<,> are equal<,> right<,>
+<ICE-JA:S1B-020#67:2:A> Just convention<,>
+<ICE-JA:S1B-020#68:2:A> And the rest you can evaluate<,> table here<,> in your
+
+notes<,,><&>long-pause</&>
+<ICE-JA:S1B-020#69:2:A> Or let's look in<,> more detail at a<,> linear
+
+molecule<,,><&>long-pause</&>
+<ICE-JA:S1B-020#70:2:A> Since linear molecules are the<,> simplest cases then<,> we always
+
+let them first<,> and then we <}> <-> can</-><,> <=> can</=></}> modify<,>
+
+<}> <-> what we learned</-><,> <=> what we learned</=></}> from
+
+them<,,><&>pause</&>
+<ICE-JA:S1B-020#71:2:A> See how we want<,> a molecule like this<,,> where <&> writes-
+
+on-blackboard</&><,> there's atom A<,> atom<,> B here<,> and your<,>
+<ICE-JA:S1B-020#72:2:A> If B is larger than A<,> then<,,> centre of mass<,> is closer<,> to
+
+A than B<,> right<,><&>writes-on- blackboard</&>
+<ICE-JA:S1B-020#73:2:A> Mass of B<,> is greater than mass<,> of A<,> is <}> <-> your</-><,>
+
+<=> your</=></}> centre of gravity<&>writes-on-blackboard</&><,,>
+<ICE-JA:S1B-020#74:2:A> And as usual our<,> one distance here<,,> is called r<,,> one
+
+distance<,>
+<ICE-JA:S1B-020#75:2:A> And<,,> distance of mass<,> A from the<,> centre of gravity<,> <}>
+
+<-> let's</-><,> <=> let's</=></}> call it<,,>
+
+x<,,><&>writes-on-blackboard</&> and<,> the distance<,> is therefore<,> r
+
+minus x<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#76:2:A> Now uhm<,,> most of you have done physics<,,>
+<ICE-JA:S1B-020#77:2:A> You remember physics<,,><O>murmurs-from-students</O>
+<ICE-JA:S1B-020#78:2:A> So you know <}> <- > about</-><,> <=> about</=></}> moments<,>
+
+right<,,>
+<ICE-JA:S1B-020#79:2:A> So <}> <-> for</-><,> <=> for</=></}> a system that is<,>
+
+rotating<,,> the moments uhm<,> will cancel<,>
+<ICE-JA:S1B-020#80:2:A> The moment of inertia<,> will cancel<,,><O>clears-throat</O>
+<ICE-JA:S1B-020#81:2:A> So<,><&>writes-on- blackboard</&> taking
+
+moments<,,><&>writes-on-blackboard</&> about<,,><&>writes-on- blackboard</&>
+
+the centre of gravity<,,><&>writes-on-blackboard</&> we have<,,> m A<,> time
+
+x<,>
+<ICE-JA:S1B-020#82:2:A> That's the mass of A<,>
+<ICE-JA:S1B-020#83:2:A> Then distance from the centre of gravity<,>
+<ICE-JA:S1B-020#84:2:A> That's<,> m A<,> time x<,>
+<ICE-JA:S1B-020#85:2:A> That's<,> equal to<,> m B <,,> <&> writes-on- blackboard</&> times
+
+r minus x<,,><O>clears-throat</O>
+<ICE-JA:S1B-020#86:2:A> Now from this we can<,> solve for x<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#87:2:A> X<,> equals<,> m B<,> upon<,> m A plus m B<,,> times r<,> right<,,>
+<ICE-JA:S1B-020#88:2:A> And<,> taking the moments of inertia now<,,> I<,> solve I<,> equal
+
+to<,> m A x<,> square plus<,> m B<,> r minus x<,> square<&>writes-on-
+
+blackboard</&><,,>
+<ICE-JA:S1B-020#89:2:A> That's now<,> moments of inertia<,>
+<ICE-JA:S1B-020#90:2:A> Mass A<,> distance x<,> and<,> mass B<,> the distance<,> r minus x
+<ICE-JA:S1B-020#91:2:A> So that sum<,> is the<,> total moment of inertia<,,>
+<ICE-JA:S1B-020#92:2:A> And from this<,> you substitute<,> for
+
+x<,,><&>writes-on-blackboard</&> right<,> then here <}> <-> <.> y</.></-><,,>
+
+<=> you</=></}> get that<,> moment of inertia<&>writes-on-blackboard</&>
+
+equal to<,> m A<,> m B over<,> m A plus<,> m
+
+B<O>clears-throat</O><,,><&>writes-on-blackboard</&> time r squared<,,>
+<ICE-JA:S1B-020#93:2:A> What's in bracket equals<,,><{3></[3><,></[3> reduced mass
+
+right<,><{4><[4><,></[4>
+<ICE-JA:S1B-020#94:2:A> The bracket is equal to<,><&>writes-on-blackboard</&> reduced
+
+mass<O>someone-clears- throat</O><,,>
+<ICE-JA:S1B-020#95:2:A> So I'm<,,> showing you that<,,> final moment of inertia<,> <}> <->
+
+of</- ><,> <=> of</=></}> <}> <-> our</-><,> <=> a</=></}> diatomic
+
+molecule<,> all you need to know<,> is <}> <-> the</-><O>clears-throat</O><,>
+
+<=> the</=></}> mass of<,> both atoms<,>
+<ICE-JA:S1B-020#96:2:A> Use those<,> to find the reduced mass<,>
+<ICE-JA:S1B-020#97:2:A> Right do the one distance<,> r<,> find theal reduced mass<,>
+
+right<,>
+<ICE-JA:S1B-020#98:2:A> <?> So sincethis is</?><,,><&>writes-on- blackboard</&> accepted r
+
+square<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#99:2:A> And<,> we show you a little later on that<,,> we're able to<,,> get
+
+the moment of inertia<,,> and from spectral data<,,> and if you get that from
+
+spectral data<,> that reduced mass<,>
+<ICE-JA:S1B-020#100:2:A> You can find the reduced mass<,> if you want to <unclear>
+
+word</unclear><?>know what you're dealing</?> with<,,>
+<ICE-JA:S1B-020#101:2:A> Wwith H C l<,> you have for example<,> you know hydrogen<,> mass
+
+of hydrogen<,> or the mass of chlorine<,,> so you get final reduced mass<,>
+<ICE-JA:S1B-020#102:2:A> Therefore<,> you can find out about distance<,>
+<ICE-JA:S1B-020#103:2:A> So you can get<,,> details about the<,> molecular structure<,,>
+
+from spectrum<,>
+<ICE-JA:S1B-020#104:2:A> I'll<,> show you that later on<,,><O>someone-clears-
+
+throat</O><&>pause</&>
+<ICE-JA:S1B-020#105:2:A> Alright uhm<,,> <}> <-> with</-><,> we're dealing <-> with</-
+
+><,,> <=> with</=></}> rotational motion<,> rotation right<,,>
+<ICE-JA:S1B-020#106:2:A> When the molecule<,,> rotates<,> there's no barrier<,,> no energy
+
+barrier right<,> and <}> <-> hence</-><,> <=> hence</=></}><,> there's no<,>
+
+potential energy<,> involved<,,> so <unclear> word</unclear> energy<,>
+
+right<,>
+<ICE-JA:S1B-020#107:2:A> So<,> the <?> molecule</?><,> is able to<,> rotate faster<,> and
+
+faster<,> and faster<,> <}> <-> is what</-> <=> is what</=></}> <unclear>
+
+word</unclear><,> until of course<,> it rotates<,,> too fast and<,,> one
+
+can<,> stretch<,> and break eventually<,> right<,>
+<ICE-JA:S1B-020#108:2:A> That's unlimited<,,><O>someone-clears- throat</O>
+<ICE-JA:S1B-020#109:2:A> The<,,> energy<,,><&>writes-on-blackboard</&> that's your
+
+energy<,,> in rotation that's kinetic energy<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#110:2:A> <unclear> word(s)</unclear><,> equals to<,> half I<,> omega<,>
+
+square<,,>
+<ICE-JA:S1B-020#111:2:A> Now if you<,> compare <{5> <[5> this <}> <-> with</-></[5><,> <=>
+
+with</=></}> linear motion<,>
+<ICE-JA:S1B-020#112:2:A> Yeah<,>
+
+<$student> <ICE-JA:S1B-020#113:2:s> <[1> <O> student-answers</O></[1></{1>
+
+<$student> <ICE-JA:S1B-020#114:2:s> <[2> Right</[2></{2>
+
+<$student> <ICE-JA:S1B-020#115:2:s> <[3> Reduced mass</[3></{3>
+
+<$student> <ICE-JA:S1B-020#116:2:s> <[4> <O> affirmative-murmur</O></[4></{4>
+
+<$B> <ICE-JA:S1B-020#117:2:B> <[5> Sir</[5></{5>
+
+<$B> <ICE-JA:S1B-020#118:2:B> When you say that the molecules rotated faster and faster
+
+until it breaks is that the classical interpretation
+
+<$A> <ICE-JA:S1B-020#119:2:A> No no<,>
+<ICE-JA:S1B-020#120:2:A> I'm <{> <[> not saying that</[><,,>
+
+<$B> <ICE-JA:S1B-020#121:2:B> <[> <unclear> word(s)</unclear></[></{>
+
+<$A> <ICE-JA:S1B-020#122:2:A> There's no barrier<,> to rotational motion<,,>
+<ICE-JA:S1B-020#123:2:A> The molecule <}> <-> is</-><,> <=> is</=></}> free<,> to rotate<,>
+<ICE-JA:S1B-020#124:2:A> There's <}> <-> no</-><,> <=> no</=></}><,> opposing force<,> to
+
+rotation<,> right<,>
+<ICE-JA:S1B-020#125:2:A> <}> <-> It<,> it's</-><,> <=> it's</=></}> free to<,,> rotate<,>
+<ICE-JA:S1B-020#126:2:A> So<,> <}> <-> if there's no<,,> if</-><,> <=> if there's
+
+no</=></}><,> potential energy<,,> which restricts the motion<,> then<,,> the
+
+energy just<,,> is purely<,,> uhm kinetic energy<,,>
+<ICE-JA:S1B-020#127:2:A> In case of a<,,> pendulum<,> you have a<,> string that is here<,>
+
+a string<,,> there
+<ICE-JA:S1B-020#128:2:A> It holds a ball<,,>
+<ICE-JA:S1B-020#129:2:A> The ball would <?> goes that is</?><,> up down up<,>
+<ICE-JA:S1B-020#130:2:A> It gets slow<,> and fast<,> slow and fast<,>
+<ICE-JA:S1B-020#131:2:A> We have<,> <unclear> word</unclear> energies<,> <?> static/it's
+
+kinetic</?><,> moving<,,> <unclear> word</unclear><,> right<,,>
+<ICE-JA:S1B-020#132:2:A> <}> <-> The</-><,,> <=> the</=></}><,> <?> potential</?> energy is
+
+a<,> restoring energy<,,> force you back up<{1><[1><,></[1>
+<ICE-JA:S1B-020#133:2:A> So<,> in the<,> case of the molecule that is<,> rotating<,>
+
+<unclear> word</unclear> the potential energy<,,> or kinetic
+
+energy<,,><O>clears-throat</O>
+<ICE-JA:S1B-020#134:2:A> Now uhm<,,> if you not<,,> see this right away<,,> let's compare
+
+it with<,,><&>writes-on-blackboard</&> the linear motion<,,>
+
+right<,,><&>writes-on-blackboard</&> since you are<,,><&>writes-on-
+
+blackboard</&> more familiar with<,> linear
+
+motion<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#135:2:A> Linear motion<,,><&>writes-on-blackboard</&> the kinetic energy<,>
+
+is equal to<,> half m v<,> square right<,,> where v <}> <-> is<,> is</-><,,>
+
+<=> is</=></}> v the velocity<,,>
+<ICE-JA:S1B-020#136:2:A> v is<,> linear velocity<,,><&>writes-on-blackboard</&> and m is
+
+mass<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#137:2:A> Now <}> <-> in</-><,,> <=> in</=></}><,,> rotational motion<,,> we
+
+have angular velocity<,,> that's omega<,,> right<,> angular velocity<,,>
+<ICE-JA:S1B-020#138:2:A> And this inertia here<,,> moment of inertia<,,> relates to the
+
+mass<,> alright<,,>
+<ICE-JA:S1B-020#139:2:A> So<,,> compare this<,,> with the mass<,,> and the<,> angular
+
+velocity<,,> compared to linear velocity
+<ICE-JA:S1B-020#140:2:A> So is it the<,> same form<,,> half<,> I omega
+
+square<,,><O>someone-clears-throat</O>
+<ICE-JA:S1B-020#141:2:A> Now <}> <-> for</-><,,><O>someone-clears-
+
+throat</O><&>writes-on-blackboard</&> <=> for</=></}><,> rotational
+
+motion<,,> we can write then<,,> classical
+
+energy<,,><&>writes-on-blackboard</&> E classical<,,> so is equal
+
+to<,,><&>writes-on-blackboard</&> I omega square<,,> <}> <-> upon<,,> two
+
+omega</- ><,,> <unclear> word(s)</unclear><O>murmurs-from-students</O><,,>
+
+<=> upon<,,> two I</=></}> sorry<O>someone-clears-throat</O><,,> I omega<,>
+
+<?> all</?> squared<,>
+<ICE-JA:S1B-020#142:2:A> All I have done<,,> is multiplying<,,> and dividing<,> by I<,,>
+<ICE-JA:S1B-020#143:2:A> <?> Material thing is uh been up here</?> <&>
+
+writes-on-blackboard</&> E classical<,> equals<,> half<,> I omega<,>
+
+square<,,> <unclear> words</unclear> I <,> <O> someone-clears-throat</O> is
+
+equal to<,> I omega square upon<,><&>writes-on-blackboard</&> two I<,,>
+<ICE-JA:S1B-020#144:2:A> And the bracket<,> is called angular<,> momentum<,> I
+
+omega<,><&>writes-on-blackboard</&> <unclear>
+
+word</unclear><,,><&>writes-on-blackboard</&> angular<,>
+
+momentum<,,><O>someone-coughs</O> right<,>
+<ICE-JA:S1B-020#145:2:A> Similarly<,,> the linear motion<,,> linear momentum<,> is mass
+
+time velocity<,> right
+<ICE-JA:S1B-020#146:2:A> Angular momentum<,> inertia<,,> that angular velocity<,,>
+<ICE-JA:S1B-020#147:2:A> Similarly<,,>
+<ICE-JA:S1B-020#148:2:A> So uhm<,,> <}> <-> we</-> <=> we</=></}> can write
+
+this<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#149:2:A> Therefore<,,><&>writes-on- blackboard</&> E classical<,> is equal
+
+to<,,> angular momentum<,,><&>writes-on- blackboard</&> squared<,>
+
+upon<,,><&>writes-on-blackboard</&> two I that's moment of inertia<,,>
+<ICE-JA:S1B-020#150:2:A> Now uhm<,> that's classical<,,>
+<ICE-JA:S1B-020#151:2:A> <}> <-> We can</-><,,> <=> we can</=></}>
+
+now<,><&>writes-on-blackboard</&> apply<,> quantum
+
+mechanics<O>someone-sneezes</O><,,> and solve the<,>
+
+Schr<*>o-&ouml;aut</*>dinger equation<,,> using for<,> angular<,,> momentum
+
+what we get from the<,> Schr<*>&o- umlaut</*>;dinger<,> equation right<,,>
+<ICE-JA:S1B-020#152:2:A> Because it means that you don't have to<,> solve the
+
+Schr<*>&o-umlaut</*>;dinger equation<,> right<,> because<,> we can't solve it
+
+here<,> right<,,>
+<ICE-JA:S1B-020#153:2:A> So<,> the angular momentum<,,><&>writes-on-blackboard</&> <}> <- >
+
+to</-><,> <=> from</=></}> the Schr<*>&o-umlaut;</*>dinger
+
+equation<&>writes-on- blackboard</&><,> we get that<,> angular<,> momentum<,>
+
+for rotation<&>writes-on- blackboard</&><,,> is equal
+
+to<&>writes-on-blackboard</&><,,> root J <unclear> word</unclear> J plus
+
+one<,> times h-bar<O>clears-throat</O><,> right<,,>
+<ICE-JA:S1B-020#154:2:A> Remember that<,,> actually once you mention<,> angular<,>
+
+momentum<,,> and you're solving it from<,> quantum theory<,> then<,> angular
+
+momentum<,> always has<,> this form<,> right<,>
+<ICE-JA:S1B-020#155:2:A> Remember<,> what's it for<,> electron in an orbital<,,>
+<ICE-JA:S1B-020#156:2:A> The root that it held was one h-bar right<{2><[2><,></[2> so
+
+it's<,> the same form<,,>
+<ICE-JA:S1B-020#157:2:A> <?> Wasn't it</?><,> dealing with rotational motion<,> angular
+
+momentum<,> then it's the <}> <- > <.> s</.></-><,> <=> same</=></}>
+
+form<O>someone-clears-throat</O><,,>
+<ICE-JA:S1B-020#158:2:A> And<,> you can substitute<,> this<,,> into our<,,> equation
+
+here<,,><&><?>knocks-on- board</?></&><,> okay<,> and we
+
+get<,,><O>clears-throat</O><&>writes-on- blackboard</&> energy<,,> equals<,,>
+
+h squared upon eight<,,><&>writes-on- blackboard</&> pi squared I<,,> J
+
+times<,> J plus one<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#159:2:A> This one has<,> the rotation for the number<,,><&>writes-on-
+
+blackboard</&><O>someone-clears-throat</O> alright<,,>
+<ICE-JA:S1B-020#160:2:A> And J goes from zero<,> one two three up<,,> so the value of<,,>
+
+J<,> zero<,> one<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-020#161:2:A> Now uhm<,,> so<,> that's the energy<,,> for the rotational energy
+
+level<,,> for the molecule<,> right<,>
+<ICE-JA:S1B-020#162:2:A> So<,,> the molecule for example<,> is<,> this <unclear>
+
+word</unclear> rotational state<,,>
+<ICE-JA:S1B-020#163:2:A> J <}> <-> equal zero</-><,,> <=> equal zero</=></}><,> and that's
+
+all zero here<,>
+<ICE-JA:S1B-020#164:2:A> This is zero<,,> all equal zero<,> alright<,,>
+<ICE-JA:S1B-020#165:2:A> So<,,> we want to<,,> find rotational energy<,> for the
+
+molecule<,,> in different states<,,>
+<ICE-JA:S1B-020#166:2:A> Go substitute<,> the value<,> of rotational number<,> zero one two
+
+three and so <?> forth</?> alright<,,>
+<ICE-JA:S1B-020#167:2:A> Now uhm<,,> as usual<,> we don't like expressing the energy<,,>
+
+<}> <-> in</-><,,> <=> in</=></}> terms of joules<,,> because they are<,>
+
+very<,> small numbers<,,>
+<ICE-JA:S1B-020#168:2:A> So we express it <}> <-> as</-><,> <=> as</=></}> a<,> term
+
+value<,,>
+<ICE-JA:S1B-020#169:2:A> So<,,> term value<,,><&>writes-on-blackboard</&>
+
+expression<,,><&>writes-on-blackboard</&> and the symbol we use <}> <->
+
+is</-><,,> <=> is</=></}> F<,> right
+<ICE-JA:S1B-020#170:2:A> So<,> energy<,,>
+<ICE-JA:S1B-020#171:2:A> And how do we get F<,,> F from B<,,><&>knocks-on-board</&>
+<ICE-JA:S1B-020#172:2:A> What do you do<,,>
+<ICE-JA:S1B-020#173:2:A> I've always said<,,> divide that up<{3></[3><,></[3> by h c<,>
+
+right<,><&>writes-on-blackboard</&> equals<,> B<,> divided by<,,> h c so <}>
+
+<-> <.> th</.></-><,> <=> this</=></}> now<,> converting it<,> from joules
+
+into<,> the wave numbers<,> right<,,>
+<ICE-JA:S1B-020#174:2:A> So <}> <-> you</-><,> <=> you</=></}> divide this now<,,> by h
+
+c<,,> and you get<,,> h upon<,,><&>writes-on- blackboard</&> eight pi
+
+squared<,> I c<,,> J<,,> J plus one<,,><O>someone-clears- throat</O> right
+
+<$student> <ICE-JA:S1B-020#175:2:s> <[1> Yeah</[1></{1>
+
+<$student> <ICE-JA:S1B-020#176:2:s> <[2> Yeah</[2></{2>
+
+<$student> <ICE-JA:S1B-020#177:2:s> <[3> By h c</[3></{3></I>

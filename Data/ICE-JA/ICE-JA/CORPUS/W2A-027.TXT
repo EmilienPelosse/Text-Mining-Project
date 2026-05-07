@@ -1,0 +1,456 @@
+<I>
+
+<p> <ICE-JA:W2A-027#1:1> <h> <bold> RECENT TRENDS OF POISONING IN JAMAICA </bold> </h> </p>
+
+<p> <ICE-JA:W2A-027#2:1> P.A. Dennis & H.L. Bami </p>
+
+<p> <ICE-JA:W2A-027#3:1> Government Chemist's Department, Hope, Kingston. </p>
+
+<p> <ICE-JA:W2A-027#4:1> ABSTRACT
+<ICE-JA:W2A-027#5:1> A review of poisonings in Jamaica from 1980 to 1990 has been made
+
+based on the analytical findings of the Toxicology Division of the Government
+
+Chemist's Department of the Ministry of Health in Jamaica.
+<ICE-JA:W2A-027#6:1> Samples were received from a number of sources as the Department
+
+provided analytical toxicology services to Government agencies, private
+
+institutions and physicians.
+<ICE-JA:W2A-027#7:1> Pesticides were implicated in 16.5% of the positive human poisoning
+
+samples and 65% of the positive animal poisoning samples.
+<ICE-JA:W2A-027#8:1> In addition to modern synthetic drugs and pesticides, traditional
+
+poisons from botanical sources were also encountered.
+<ICE-JA:W2A-027#9:1> The authors feel that priority attention needs to be given to the
+
+enforcement of legal safety provisions for storage, transportation, sale and
+
+use of pesticides as their availability is likely to increase with efforts
+
+for greater food production in Jamaica. </p>
+
+<p> <ICE-JA:W2A-027#10:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-027#11:1> Human and animal poisoning is generally as <l> sociated with both
+
+accidental ingestion or exposure and criminal abuse of chemicals, drugs and
+
+pes <l> ticides, as well as with poisons derived from plant materials.
+<ICE-JA:W2A-027#12:1> The nature of the poisons involved has become more diverse and
+
+complicated as a result of scientific advances over the years.
+<ICE-JA:W2A-027#13:1> The poisons en <l> countered vary according to availability and aware
+
+<l> ness of their action on the body.
+<ICE-JA:W2A-027#14:1> The picture of poisonings therefore has changed gradually with the
+
+increase in the number of new chemical products brought into general use.
+<ICE-JA:W2A-027#15:1> This phenomenon has been observed in Jamaica through studies and
+
+evaluations undertaken by the Government Chemist's Department over several
+
+decades. </p>
+
+<p> <ICE-JA:W2A-027#16:1> In addition to the historical development, recent technical
+
+advances have made it imperative that sources of poisons be given more
+
+attention than has been traditionally done.
+<ICE-JA:W2A-027#17:1> The development program <l> mes in Third World countries, including
+
+Jamaica have led to an increasing use of a wider variety of chemicals
+
+including solvents, detergents, phar <l> maceuticals, pesticides and
+
+industrial chemicals.
+<ICE-JA:W2A-027#18:1> The manufacture and use of these chemical agents have had an adverse
+
+effect on the environment as well as on man. <fnr> <sp> 1 </sp> </fnr>
+
+<footnote>
+<ICE-JA:W2A-027#19:1> 1. Dennis P. Environmental Monitoring  Some Areas of Special
+
+Significance. Paper presented at Fourth Annual Conference on Science and
+
+Technology, Scientific Research Council, Kingston. 30th October to 1st
+
+November 1990. </footnote>
+<ICE-JA:W2A-027#20:1> The persistence of some chemicals in the environment may be regarded
+
+as slow, chronic poisoning and as such, requires active attention with
+
+respect to monitoring and prevention.
+<ICE-JA:W2A-027#21:1> Basically, the availability of a wide variety of chemical substances
+
+has led to a larger incidence of poisoning both ac <l> cidental and
+
+otherwise. <fnr> <sp> 1,2 </sp> </fnr> <footnote>
+<ICE-JA:W2A-027#22:1> 2. Bami H.L. Environmental Monitoring. Proceedings Regional Symposium
+
+on Chemistry and the Environment, Commonwealth Science Council, London.
+
+Brisbane Australia, 1989, 190-204. </footnote> </p>
+
+<p> <ICE-JA:W2A-027#23:1> <h> <bold> METHODOLOGY </bold> </h> </p>
+
+<p> <ICE-JA:W2A-027#24:1> A review of the situation in Jamaica for the past decade has been
+
+attempted, based essentially on the analytical findings of the Toxicology
+
+Division of the Government Chemist's Department.
+<ICE-JA:W2A-027#25:1> The samples were received from a number of sources and the Department
+
+provided analytical toxicology services to physicians and hospitals, the
+
+Environment Con <l> trol Division of the Ministry of Health, Public Health
+
+<}> <-> Officals </-> <+> Officials </+> </}> under the Public Health Act and
+
+the Food & Drugs Act, the police and courts under the Coroner's Act, the Road
+
+Traffic Law, the Dangerous Drugs Act and for the Veterinary Division of the
+
+Ministry of Agriculture.
+<ICE-JA:W2A-027#26:1> The last mentioned is mostly con <l> cerned with animal poisoning.
+
+</p>
+
+<p> <ICE-JA:W2A-027#27:1> <h> <bold> RESULTS AND DISCUSSION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-027#28:1> <h> <bold> Human Poisoning </bold> </h> </p>
+
+<p> <ICE-JA:W2A-027#29:1> The nature and extent of human poisonings aris <l> ing out of
+
+accidents and criminal activity between 1980 and 1990, have been studied and
+
+the data are presented in Table 1.
+<ICE-JA:W2A-027#30:1> A noticeable feature of the human poisoning data was that nearly 50%
+
+of the cases referred gave positive results.
+<ICE-JA:W2A-027#31:1> The exception was an occupational survey for the presence of ben <l>
+
+zene in serum in which case the values were below the tolerance limit of
+
+10ppm of benzene in blood.
+<ICE-JA:W2A-027#32:1> There was a considerable number of cases involving arsenic  an old
+
+poison.
+<ICE-JA:W2A-027#33:1> The abuse of a wide range of modern drugs was identified. </p> <O>
+
+captino </O> <O> table </O>
+
+<p> <ICE-JA:W2A-027#34:1> The next most commonly encountered poison group was the
+
+pesticides including organochloro, organophosphorous and carbamate
+
+pesticides, now in common use in Jamaica.
+<ICE-JA:W2A-027#35:1> Singh and West <fnr> <sp> 3 </sp> </fnr> gave some limited data on
+
+pesticides poisoning in Jamaica up to 1983 while Colman et al <fnr> <sp> 4
+
+</sp> </fnr> have recently studied pesticide poisoning by carbofuran in three
+
+farm workers. <footnote>
+<ICE-JA:W2A-027#36:1> 3. Singh P.D.A.; West M.E. <quote> " Acute Pesticide Poisoning in the
+
+Caribbean" </quote> , <it> W.I. Med. J. </it> 1985 34, 75- 83. </footnote>
+
+<footnote>
+<ICE-JA:W2A-027#37:1> 4. Coleman A.M.E.; Smith A.; Watson L. <quote> " Occupational
+
+Carbamate Pesticide Intoxication in Three Farm Workers" </quote> <it> W.I.
+
+Med. J. </it> , 1990, 39, 109-113. </footnote>
+<ICE-JA:W2A-027#38:1> However, the data in Table 1 gives a more complete picture as
+
+analytical toxicology involving pesticides was undertaken almost exclusively
+
+at the Government Chemist's Department. </p>
+
+<p> <ICE-JA:W2A-027#39:1> It was also interesting to note that in spite of the prevalence
+
+of modern synthetic drugs and pesticides, traditional poisons from botanical
+
+sources such as hypoglycemic agents from ackee, cyanogenic alkaloids from
+
+cassava and hyoscyamine and other alkaloids present in Datura stramonium L (
+
+Jimson weed) have been encountered during the last decade. </p>
+
+<p> <ICE-JA:W2A-027#40:1> The survey indicated a limited number of cases involving alcohol.
+<ICE-JA:W2A-027#41:1> This is probably due to the fact that alcohol abuse as evidenced by
+
+drunken driving and the consumption of alcohol along with other poisons, have
+
+been generally given low priority by the law enforcement agencies.
+<ICE-JA:W2A-027#42:1> This is contrary to the practice in other countries. </p>
+
+<p> <ICE-JA:W2A-027#43:1> <h> <bold> Animal Poisoning </bold> </h> </p>
+
+<p> <ICE-JA:W2A-027#44:1> In addition to the importance given to human exposure to poisons,
+
+the accidental and criminal <O> caption </O> <O> table </O> poisoning of
+
+domestic animals including dogs, cat <l> tle, goats, pigs and birds, received
+
+considerable at <l> tention during the last decade.
+<ICE-JA:W2A-027#45:1> The data is presented in Table 2.
+<ICE-JA:W2A-027#46:1> Out of a total of 270 cases examined at the Government Chemist's
+
+Department during the period under review, nearly 30% gave positive results.
+<ICE-JA:W2A-027#47:1> The ingestion of pesticides was implicated in 65% of positive cases.
+<ICE-JA:W2A-027#48:1> Diazinon, Asuntol and Warfarin were the main toxins identified.
+<ICE-JA:W2A-027#49:1> Apart from this, the presence of Urechitoxin ( Nightshade) in several
+
+cases was interesting.
+<ICE-JA:W2A-027#50:1> It was felt that the presence of pesticides in cases of animal
+
+poisoning could be either accidental or criminal.
+<ICE-JA:W2A-027#51:1> Lead poison <l> ing in animal blood has also been studied but with no
+
+significant findings. </p>
+
+<p> <ICE-JA:W2A-027#52:1> <h> <bold> Lead Poisoning </bold> </h> </p>
+
+<p> <ICE-JA:W2A-027#53:1> More than a decade ago, the communities of Fraser's Content and
+
+the Red Pond areas in the Parish of St. Catherine, Jamaica, were made aware
+
+of <quote> " slow poisoning" </quote> due to exposure to lead.
+<ICE-JA:W2A-027#54:1> This was largely contributed by the battery manufacturing unit of the
+
+Jamaica Metal Refining Company, the Tropical Bat <l> tery Company.
+<ICE-JA:W2A-027#55:1> Several backyard smelting units as well as small lead-battery
+
+manufacture and repair shops were also involved.
+<ICE-JA:W2A-027#56:1> The dispersal of lead by wind and its presence in soil and food, in
+
+addition to the occupational exposure of workers, conspired to produce an
+
+unsatisfactory environment leading to chronic lead poisoning.
+<ICE-JA:W2A-027#57:1> Apart from initial findings in 1982, surveys of blood lead levels
+
+were specially conducted in the Government Chemist's Laboratories during
+
+January 1986 and March 1987.
+<ICE-JA:W2A-027#58:1> These showed conclusively that the elevated blood lead levels in
+
+adults and children were directly as <l> sociated with lead-acid battery
+
+production and repair, as well as recycling of lead.
+<ICE-JA:W2A-027#59:1> In October 1987, a comprehensive survey of occupational and en <l>
+
+vironmental lead exposure linked with the lead-acid battery industry was
+
+undertaken by Matte and co-workers <fnr> <sp> 5 </sp> </fnr> of the National
+
+Institute of Occupational Safety and Health, USA, in association with this
+
+Department, and the Epidemiology Unit of the Min <l> istry of Health in
+
+Jamaica. <footnote>
+<ICE-JA:W2A-027#60:1> 5. Matte T.D.; Figueroa J.P.; Burr G.; Flesch J.P.; Keenlyside R.A.;
+
+Baker E.L. <quote> " Lead Exposure Among Lead-Acid Battery Workers in
+
+Jamaica." </quote> <it> American Journal of Industrial Medicine </it> , 1989,
+
+16, 167-177. </footnote> </p>
+
+<p> <ICE-JA:W2A-027#61:1> They confirmed higher than acceptable levels of lead in air as
+
+well as blood-lead concentrations much above the 40 mctg/dl limit set by the
+
+World Health Organization ( WHO).
+<ICE-JA:W2A-027#62:1> This situation is similar to that of several other developing
+
+countries. <fnr> <sp> 5 </sp> </fnr> </p>
+
+<p> <ICE-JA:W2A-027#63:1> A review of the data on blood lead analysis during the past nine
+
+( 9) years, revealed high values of blood lead concentration for the years
+
+1982, 1986 and 1987 ( Table 3).
+<ICE-JA:W2A-027#64:1> Figures for these three years represent extensive monitoring of
+
+persons known to be exposed to a situation of potential lead poisoning.
+<ICE-JA:W2A-027#65:1> The last two years ( 1989 and 1990) however, have revealed an
+
+increased awareness and general demand for blood lead analysis as well.
+<ICE-JA:W2A-027#66:1> During this period only about 10% of the cases yielded blood lead
+
+levels in excess of the 40 mcg/dl limit.
+<ICE-JA:W2A-027#67:1> This is indicative of endemic situation of lead poisoning at a low
+
+level. </p>
+
+<p> <ICE-JA:W2A-027#68:1> It was also observed that routine occupational health surveys
+
+done recently yielded blood lead levels averaging 10-20 mcg/dl with the
+
+highest value of about 35 mcg/dl.
+<ICE-JA:W2A-027#69:1> All values were found to be below the WHO safety limit of 40 mcg/dl.
+<ICE-JA:W2A-027#70:1> Samples received from the Public Hospital in Spanish Town, St.
+
+Catherine typically had lead levels of 25 to 40 mcg/dl with some having even
+
+higher values.
+<ICE-JA:W2A-027#71:1> In general, blood lead values for samples received form hospitals
+
+were much higher than those of samples from various commercial agencies (
+
+nursing homes, medical laboratories etc.).
+<ICE-JA:W2A-027#72:1> This is probably because the hospital samples represented a weighted
+
+sample where the diagnosis of lead poisoning was based on a history of
+
+exposure. </p>
+
+<p> <ICE-JA:W2A-027#73:1> Samples from other sources may be mainly for eliminating the
+
+possibility of lead poisoning.
+<ICE-JA:W2A-027#74:1> How <l> ever, blood lead analysis using Graphite Furnace Atomic
+
+Absorption Spectrophotometry is being of <l> fered as a regular service by
+
+this Department which also indirectly serves to monitor the extent of lead
+
+poisoning. </p>
+
+<p> <ICE-JA:W2A-027#75:1> <h> <bold> FUTURE TRENDS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-027#76:1> The data on human and animal poisonings presented in Table 1 and
+
+Table 2 clearly indicates that accidental and criminal poisoning involving
+
+pes <l> ticides is a major aspect of this problem in Jamaica.
+<ICE-JA:W2A-027#77:1> This country imported 1387 tonnes of pesticides in 1989 which covered
+
+167 insecticides, fungicides, herbicides, rodenticides and others which were
+
+sold as ready-to-use formulations.
+<ICE-JA:W2A-027#78:1> The approval, storage, transportation, sale and use of these pes <l>
+
+ticides is still to be adequately regulated under the Pesticides Act 1974.
+<ICE-JA:W2A-027#79:1> Consequently, accidental human and animal poisoning remains a high
+
+prob <l> ability due to lack of both awareness and legal en <l> forcement.
+<ICE-JA:W2A-027#80:1> In December 1990 <quote> " Jamaica Chemical Pesticide Study" </quote>
+
+was presented by Professor Werner Ohe <fnr> <sp> 6 </sp> </fnr> of the World
+
+Bank. <footnote>
+<ICE-JA:W2A-027#81:1> 6. Ohe W.V.D., Kaske R.; Vaagt G. Jamaica Chemical Pesticide Study.
+
+Philadelphia/Eschborn, Planning Institute of Jamaica, Kingston, December
+
+1990. </footnote>
+<ICE-JA:W2A-027#82:1> The presence of low levels of chlorinated pesticides such as
+
+Chlordane and Dieldrin, as well as Endosulfan on cucumbers and tomatoes was
+
+reported.
+<ICE-JA:W2A-027#83:1> These results were similar to those reported by Mansingh. <fnr> <sp>
+
+7 </sp> </fnr> <footnote>
+<ICE-JA:W2A-027#84:1> 7. Mansingh A. Management of Pesticides in Costa Rica and Jamaica 
+
+Legislation, Usage, Environmental and Economic Impact. Department of Zoology,
+
+University of the West Indies, Kingston, Jamaica. World Bank Project Report,
+
+1990. </footnote>
+<ICE-JA:W2A-027#85:1> Incidentally, products like Chlordane and Dieldrin are not ap <l>
+
+proved for application on cucumbers and tomatoes and were used contrary to
+
+approved practices.
+<ICE-JA:W2A-027#86:1> Recent work in our Laboratories confirmed the presence of phosphine,
+
+a fumigant from Aluminium phosphide, in cornmeal.
+<ICE-JA:W2A-027#87:1> A common organophos <l> phorous pesticide, Diazinon was also detected
+
+in fresh calaloo.
+<ICE-JA:W2A-027#88:1> The presence of pesticides in food, water and soil represents a
+
+hazard and needs to be monitored in a more vigorous and systematic man <l>
+
+ner.
+<ICE-JA:W2A-027#89:1> Although it is recognised that a low level of endemic abuse of
+
+pharmaceuticals, chemicals and pesticides cannot be eliminated altogether, a
+
+rational use of these potential poisons with enforcement of legal safety
+
+provisions would ensure a greater degree of safety. <fnr> <sp> 1-4 </sp>
+
+</fnr>
+<ICE-JA:W2A-027#90:1> This needs to be given priority in the case of pesticides, as their
+
+use is likely to increase with efforts to increase food production in
+
+Jamaica. </p>
+
+<p> <ICE-JA:W2A-027#91:1> <h> <bold> CONCLUSIONS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-027#92:1> The analytical aspects of poison detection and quantitation have
+
+undergone extensive changes in recent years.
+<ICE-JA:W2A-027#93:1> The conventional spot tests, wet chemi <l> cal analysis, TLC and
+
+spectrophotometry are gradually yielding ground to GC, GC/MS and HPLC
+
+analysis as well as Atomic Absorption Spectrophotometry and allied
+
+instrumental techni <l> ques.
+<ICE-JA:W2A-027#94:1> The need for accurate estimation of micro <?> - </?> quantities of
+
+poisons in biological materials espe <l> cially and their specific
+
+characterization from close <l> ly related compounds make it imperative that
+
+more specific and sensitive ( but also more expensive) analytical techniques
+
+be made available.
+<ICE-JA:W2A-027#95:1> As the need for prompt and accurate toxicological analysis in <l>
+
+creases, assimilation of sophisticated technologies, without abandoning the
+
+conventional analytical techniques, will have to be achieved quickly. </p>
+
+<p> <ICE-JA:W2A-027#96:1> Industrial development and progressively <O> caption </O> <O>
+
+table </O> greater use of diverse chemicals in Jamaica will require that
+
+facilities for analytical toxicology are adequate, of high standard and
+
+centralised so as to be available to different user agencies as outlined
+
+earlier. <X>
+<ICE-JA:W2A-027#X97:1> This Department, established as early as 1869, has all along been
+
+providing analytical toxicol<l>ogy services to those involved in human and
+
+animal poisoning from medical, legal, agricultural and public health
+
+standpoints, including private medical and other agencies.</p>
+
+<p> <ICE-JA:W2A-027#X98:1> The expertise and experience built up by the Department are
+
+being gradually upgraded including the introduction of more instrumental
+
+analytical techniques.
+<ICE-JA:W2A-027#X99:1> A central agency with requisite facilities, experience and manpower
+
+is an essential national requirement which is at present being met by the
+
+Government Chemist's Department.
+<ICE-JA:W2A-027#X100:1> However, fu<l>ture development demands larger input of qualified
+
+manpower and sophisticated analytical methodo<l>logies to meet the growing
+
+challenge which arises out of larger use of man made chemicals in a
+
+developing country like Jamaica.</p></X></I>

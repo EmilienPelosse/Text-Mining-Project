@@ -1,0 +1,429 @@
+<I>
+
+<p> <ICE-JA:W2A-040#1:1> <h> <bold> Incorporation of rainfall into modelling for optimal
+
+water allocation on the Rio Cobre Irrigation Scheme, Jamaica </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2A-040#2:1> <bold> ALWIN L. HALES </bold> </p>
+
+<p> <ICE-JA:W2A-040#3:1> <it> National Irrigation Commission, 14-20 Port Royal Street,
+
+Kingston, Jamaica </it> </p>
+
+<p> <ICE-JA:W2A-040#4:1> <bold> MARTIN A. BURTON </bold> </p>
+
+<p> <ICE-JA:W2A-040#5:1> <it> Institute of Irrigation and Development Studies, University
+
+of Southampton, Southampton SO17 1BJ, UK </it> </p>
+
+<p> <ICE-JA:W2A-040#6:1> <bold> Abstract </bold>
+<ICE-JA:W2A-040#7:1> A computer model has been applied to the planning and operation of the
+
+Rio Cobre irrigation system to determine optimal water allocation strategies,
+
+especially during periods of limited water supply.
+<ICE-JA:W2A-040#8:1> The model allows for the effect of rainfall by using historical
+
+rainfall data at prescribed probability levels to predict rainfall
+
+contribution to irrigation over a given planning horizon.
+<ICE-JA:W2A-040#9:1> The rainfall information together with other operational parameters
+
+such as evapotranspiration, crop growth data, water availability and system
+
+capacity are used to determine ways of allocation of water so that the value
+
+of crop production is optimized.
+<ICE-JA:W2A-040#10:1> The operation of the scheme was simulated over an entire season to
+
+determine optimal water allocation period by period.
+<ICE-JA:W2A-040#11:1> Each period the actual rainfall and irrigation depth for the previous
+
+was used to update the soil moisture content to the beginning of the current
+
+period.
+<ICE-JA:W2A-040#12:1> Historical rainfall data was then used to predict rainfall inputs
+
+over the planning horizon which may be from one to five periods.
+<ICE-JA:W2A-040#13:1> The optimal water allocation for the current period was then
+
+determined.
+<ICE-JA:W2A-040#14:1> For comparison, the runs were repeated with varying levels of
+
+predicted rainfall.
+<ICE-JA:W2A-040#15:1> The results show that considering the effect of rainfall in
+
+irrigation scheduling can improve effective rainfall by reducing runoff
+
+losses. </p> <O> text </O>
+
+<p> <ICE-JA:W2A-040#16:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-040#17:1> Computer models are being increasingly applied to the management
+
+of irrigation schemes at the main systems level.
+<ICE-JA:W2A-040#18:1> The INCA model ( Bird & Makin, 1992) facilitates the processing of
+
+scheme data with its graphical database interface while the CAMSIS model (
+
+Burton, 1992) allows the user to choose from several water allocation
+
+policies.
+<ICE-JA:W2A-040#19:1> The computer model <it> Irrigation Management and Optimisation System
+
+</it> ( IRMOS) was developed ( Hales, 1994) to facilitate optimal water
+
+allocation in irrigation systems.
+<ICE-JA:W2A-040#20:1> In 1992 the IRMOS model was applied to the Rio Cobre irrigation
+
+scheme, Jamaica to assess the scheme's actual performance and to evaluate
+
+simulated performance under various operational conditions.
+<ICE-JA:W2A-040#21:1> The objectives of this paper are to show how rainfall was
+
+incorporated into the IRMOS model and to demonstrate the impact of rainfall
+
+prediction on various performance indicators in the scheduling of water
+
+allocation on the Rio Cobre scheme ( Fig. 1) during the study period. </p>
+
+<p> <ICE-JA:W2A-040#22:1> <h> <bold> BACKGROUND </bold> </h> </p>
+
+<p> <ICE-JA:W2A-040#23:1> <h> <bold> The Rio Cobre scheme </bold> </h> </p>
+
+<p> <ICE-JA:W2A-040#24:1> The Rio Cobre Irrigation scheme is located in southern St
+
+Catherine, Jamaica and has a command area of 12 000 ha.
+<ICE-JA:W2A-040#25:1> The water is diverted from the Rio Cobre River into a canal network
+
+for distribution to over 400 users growing a variety of crops.
+<ICE-JA:W2A-040#26:1> Annual rainfall in the irrigated areas averages less than 600 mm, of
+
+which 40% falls in the months of September and October.
+<ICE-JA:W2A-040#27:1> Figure 2 shows actual rainfall during 1992 and average rainfall for
+
+the Innswood Station within the Rio Cobre scheme.
+<ICE-JA:W2A-040#28:1> The average class A Pan evaporation is 1865 mm year <sp> - 1 </sp>
+
+with a peak of 7 mm day <sp> - 1 </sp> in July.
+<ICE-JA:W2A-040#29:1> The discharge in the river is such that the water that can be
+
+diverted into the system is generally inadequate to meet the requirements of
+
+the crops during some months of the growing season, even during a wet year.
+
+</p>
+
+<p> <ICE-JA:W2A-040#30:1> The scheme grows a variety of crops including sugarcane, pasture,
+
+vegetables and freshwater fish.
+<ICE-JA:W2A-040#31:1> Sugarcane is by far the predominant crop accounting for 67% of the
+
+cultivated area.
+<ICE-JA:W2A-040#32:1> The study period covers the calendar year 1 January  31 December
+
+1992.
+<ICE-JA:W2A-040#33:1> The diversion structure on the river was breached in May 1991,
+
+resulting in its capacity being reduced from 6 to 3 m <sp> 3 </sp> s <sp> - 1
+
+</sp> .
+<ICE-JA:W2A-040#34:1> Consequently, during the study period, the average crop area
+
+irrigated by the scheme was only 4200 ha. </p> <O> picture </O> <O> caption
+
+</O> <O> diagram </O> <O> caption </O>
+
+<p> <ICE-JA:W2A-040#35:1> <h> <bold> The IRMOS model </bold> </h> </p>
+
+<p> <ICE-JA:W2A-040#36:1> The IRMOS model is a tool for computer-aided management and
+
+optimal water allocation in an irrigation system.
+<ICE-JA:W2A-040#37:1> The model has two main modules, one mainly for data management and
+
+the other for water management and scheduling.
+<ICE-JA:W2A-040#38:1> The model is designed to allow optimal water allocation at the main
+
+systems level on schemes with one or more sources of water, several tertiary
+
+and quaternary units and complex cropping patterns. </p>
+
+<p> <ICE-JA:W2A-040#39:1> The data management component of the model involves the
+
+processing of infor <l> mation that describes the physical characteristics of
+
+the scheme, climate history, seasonal information and periodic data.
+<ICE-JA:W2A-040#40:1> Crop coefficient and root depth for different development stages,
+
+yield response information, production costs and unit price are stored in the
+
+database for each crop.
+<ICE-JA:W2A-040#41:1> Seasonal data describe the season, period length, planned cropping
+
+pattern, expected water supply and other information required for preseason
+
+planning.
+<ICE-JA:W2A-040#42:1> Periodic data include planting, harvesting, water application,
+
+rainfall and evaporation. </p>
+
+<p> <ICE-JA:W2A-040#43:1> A schematic layout of the Rio Cobre scheme ( Fig. 1) is typical
+
+of a scheme that can be modelled by IRMOS.
+<ICE-JA:W2A-040#44:1> The scheme typically comprise a main and secondary canal network that
+
+supplies water at off-takes to Water Management Units ( WMU).
+<ICE-JA:W2A-040#45:1> Each WMU may contain tertiary canals, farms and fields.
+<ICE-JA:W2A-040#46:1> For the purpose of the model each WMU contains a number of basic
+
+analytical units called a plot.
+<ICE-JA:W2A-040#47:1> A plot has a unique soil type and cropping pattern, so that at any
+
+point in time the plot's crop coefficient, yield sensitivity factor, root
+
+depth and status can be determined. </p>
+
+<p> <ICE-JA:W2A-040#48:1> The water management module uses the information in the database
+
+to perform the analyses necessary for planning, operating and performance
+
+assessment of an irrigation system.
+<ICE-JA:W2A-040#49:1> During a normal run for planning or operation, IRMOS generally
+
+estimates available water supply, determines for each plot the crop water
+
+requirement and the expected input from rainfall.
+<ICE-JA:W2A-040#50:1> It then proceeds to allocate available water according to user
+
+selected water allocation policy.
+<ICE-JA:W2A-040#51:1> Two of the water allocation policies available in IRMOS are
+
+performance orientated.
+<ICE-JA:W2A-040#52:1> One allocates water to minimize crop losses during a period and the
+
+other to maximize net benefits over a planning horizon.
+<ICE-JA:W2A-040#53:1> Performance assessment involves the evaluation of various performance
+
+indicators derived from data on the actual history of the scheme over a
+
+specified number of consecutive operational periods.
+<ICE-JA:W2A-040#54:1> It also allows hindsight analyses by enabling the user to assess how
+
+the scheme would have performed if it were operated differently, e.g. if
+
+rainfall probability or water allocation policy were different. </p>
+
+<p> <ICE-JA:W2A-040#55:1> <h> <bold> Performance indicators </bold> </h> </p>
+
+<p> <ICE-JA:W2A-040#56:1> The following are the definitions of some of the performance
+
+indicators that allows IRMOS to track the performance of an irrigation
+
+scheme: </p>
+
+<p> <ICE-JA:W2A-040#57:1> <bold> Unsatisfied Demand Ratio ( UDR) </bold>
+<ICE-JA:W2A-040#58:1> The UDR is defined for any instance when the water allocated is less
+
+than demand as the ratio of the shortfall to the demand.
+<ICE-JA:W2A-040#59:1> If there is more than one instance of water deficit then the UDR is
+
+computed as the ratio of the sum of all deficits to the sum of all demands.
+
+</p>
+
+<p> <ICE-JA:W2A-040#60:1> <bold> Over-Supply Ratio ( OSR) </bold>
+<ICE-JA:W2A-040#61:1> The OSR is defined for any instance when the volume of water
+
+allocated is higher than demand as the ratio of the volume allocated in
+
+excess of the demand to the total volume supplied.
+<ICE-JA:W2A-040#62:1> If there is more than one instance of water deficit then OSR is
+
+computed as the ratio of the sum of all excess allocations to the sum of all
+
+allocations. </p>
+
+<p> <ICE-JA:W2A-040#63:1> <bold> Relative evapotranspiration </bold>
+<ICE-JA:W2A-040#64:1> The relative evapotranspiration of a crop is the ratio of actual
+
+evapotranspiration to potential evapotranspiration for a prescribed period.
+<ICE-JA:W2A-040#65:1> A relative evapotranspiration of unity indicates that the crop
+
+evaporated at its potential rate throughout the period. </p>
+
+<p> <ICE-JA:W2A-040#66:1> <bold> Relative yield </bold>
+<ICE-JA:W2A-040#67:1> The relative yield of a crop is the ratio of actual yield to the
+
+maximum yield expected under the growing conditions.
+<ICE-JA:W2A-040#68:1> Doorenbos & Kassam ( 1979) proposed the following linear relationship
+
+between relative yield and relative evapo <l> transpiration for a given
+
+growth period: </p>
+
+<p> <ICE-JA:W2A-040#69:1> <it> Yr </it> = 1 - <it> Ky </it> ( 1 - <it> Er </it> ) </p>
+
+<p> <ICE-JA:W2A-040#70:1> where <it> Yr </it> is the relative yield, <it> Ky </it> is yield
+
+sensitivity index for the growth period, and <it> Er </it> is the relative
+
+evapotranspiration. </p>
+
+<p> <ICE-JA:W2A-040#71:1> <bold> Specific yield </bold>
+<ICE-JA:W2A-040#72:1> The specific yield is here defined as the crop production per unit
+
+volume of water.
+<ICE-JA:W2A-040#73:1> In the IRMOS model the specific yield for a water management unit is
+
+computed as the sum of the values of all crops harvested within the unit per
+
+million cubic metres of water allocated to the unit. </p>
+
+<p> <ICE-JA:W2A-040#74:1> <bold> Relative profitability </bold>
+<ICE-JA:W2A-040#75:1> The relative profitability is the ratio of net value of crop
+
+harvested within a season to the potential net value obtainable at maximum
+
+yield. </p>
+
+<p> <ICE-JA:W2A-040#76:1> <bold> Effective rainfall ratio </bold>
+<ICE-JA:W2A-040#77:1> The effective rainfall ratio is the fraction of total rainfall that
+
+contributes to crop evapotranspiration. </p>
+
+<p> <ICE-JA:W2A-040#78:1> <h> <bold> INCORPORATING RAINFALL INTO IRMOS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-040#79:1> Rainfall data are used in the modelling process in estimating
+
+crop irrigation demand and to compute actual crop evapotranspiration.
+<ICE-JA:W2A-040#80:1> In either case the rainfall and evaporation data must be stored in
+
+the database prior to running the water management module.
+<ICE-JA:W2A-040#81:1> The historical rainfall data are analysed to determine the periodic
+
+rainfall depths at various probability levels ( Sooriyarachi & Lea, 1990) and
+
+stored in that form.
+<ICE-JA:W2A-040#82:1> The model estimates the irrigation demand using historical data when
+
+planning the water allocation for a given period.
+<ICE-JA:W2A-040#83:1> This occurs in both the pre-season planning and the in-season
+
+operational modes.
+<ICE-JA:W2A-040#84:1> The model computes the actual evapotranspiration in the process of
+
+updating the soil moisture content using actual data over the previous
+
+period. </p>
+
+<p> <ICE-JA:W2A-040#85:1> <h> <bold> Estimating irrigation demand </bold> </h> </p>
+
+<p> <ICE-JA:W2A-040#86:1> The water requirement of an individual crop is estimated by
+
+applying the procedures outlined by Doorenbos & Pruitt ( 1977).
+<ICE-JA:W2A-040#87:1> The irrigation demand at an off-take for a given period is the
+
+minimum amount of water that the scheme must allocate to ensure that all
+
+crops within the unit commanded by the offtake evapotranspire at their
+
+potential rate.
+<ICE-JA:W2A-040#88:1> In computing the irrigation demand for a period the expected rainfall
+
+depth is determined from historical rainfall data based on the dependable
+
+rainfall probability.
+<ICE-JA:W2A-040#89:1> The rainfall probability is chosen by the user depending on whether
+
+wet, dry or average conditions are expected during the period.
+<ICE-JA:W2A-040#90:1> The effective rainfall is then computed and applied to the crop's
+
+root zone.
+<ICE-JA:W2A-040#91:1> Any part of the crop water requirement not met by the expected
+
+effective rainfall is the irrigation demand. </p>
+
+<p> <ICE-JA:W2A-040#92:1> <h> <bold> Computing actual evapotranspiration </bold> </h> </p>
+
+<p> <ICE-JA:W2A-040#93:1> The actual evapotranspiration rate ( <it> Eta </it> ) measured in
+
+mm day <sp> - 1 </sp> is estimated by modelling the water balance within the
+
+root zone of the crop.
+<ICE-JA:W2A-040#94:1> The root zone is considered as a reservoir to which water is added
+
+through irrigation or rainfall and removed by evaporation or percolation (
+
+Rao, 1987).
+<ICE-JA:W2A-040#95:1> The actual evapotranspiration rate is equal to the potential
+
+evapotranspiration rate ( <it> ETm </it> ) when the soil water content is
+
+above the readily available water ( <it> RAW </it> ) level, otherwise stress
+
+occurs and the relative evapotranspiration rate is proportional to the
+
+moisture content of the root zone. </p>
+
+<p> <ICE-JA:W2A-040#96:1> The soil moisture balance model in IRMOS determines the soil
+
+moisture content in the root zone of a crop at the end of a period, given the
+
+soil moisture content at the start of the period, the effective rainfall and
+
+irrigation depth.
+<ICE-JA:W2A-040#97:1> The depth of water ( mm) in the root zone of a crop at the end of a
+
+given period is determined generally from: </p>
+
+<p> <ICE-JA:W2A-040#98:1> <it> W <sb> e </sb> </it> = <it> W </it> <sb> 0 </sb> <it> Dr
+
+</it> + <it> I </it> + <it> G </it> + <it> Re </it> - <it> AET </it> - <it> L
+
+</it> </p>
+
+<p> <ICE-JA:W2A-040#99:1> where <it> W </it> <sb> 0 </sb> is the moisture content of the
+
+root zone ( mm m <sp> - 1 </sp> ) at the start of the period, and <it> Dr
+
+</it> is the rooting depth ( m).
+<ICE-JA:W2A-040#100:1> The symbols <it> I </it> , <it> G </it> , <it> Re </it> and <it> AET
+
+</it> are applied irrigation depth, ground water contribution, effective
+
+rainfall and actual evapotranspiration ( mm), respectively, and <it> L </it>
+
+is the depth of water ( mm) lost to runoff or percolation. </p>
+
+<p> <ICE-JA:W2A-040#101:1> The application of the above equation in the IRMOS model is
+
+illustrated in a flow chart as presented in Fig. 3.
+<ICE-JA:W2A-040#102:1> The model allows for a daily or periodic update of the soil water
+
+content, depending on available data and level of precision required.
+<ICE-JA:W2A-040#103:1> At each update the irrigation depth and actual effective rainfall,
+
+are applied to the crop's root zone.
+<ICE-JA:W2A-040#104:1> If the total depth of water exceeds the water holding capacity of
+
+the soil then runoff or percolation losses occur and the effective rainfall
+
+is further reduced.
+<ICE-JA:W2A-040#105:1> If none of the rainfall is effective, then some of the irrigation
+
+water is lost and the irrigation efficiency is further reduced. </p>
+
+<p> <ICE-JA:W2A-040#106:1> <h> <bold> Application to the Rio Cobre scheme </bold> </h> </p>
+
+<p> <ICE-JA:W2A-040#107:1> The model was applied to the Rio Cobre scheme to assess its
+
+performance during the 1992 calendar year under different levels of predicted
+
+rainfall. <O> diagram </O> <O> caption </O>
+<ICE-JA:W2A-040#108:1> At the start of the first period, the soil moisture content, the
+
+crop development stage and the crop condition of each plot in the scheme were
+
+initialized in the model. </p> </I>

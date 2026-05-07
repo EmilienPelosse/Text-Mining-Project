@@ -1,0 +1,435 @@
+<I>
+
+<p> <ICE-JA:W2B-035#1:1> <h> <bold> OBJECT </bold> </h> </p>
+
+<p> <ICE-JA:W2B-035#2:1> <h> <ul> <bold> code </bold> </ul> </h> </p>
+
+<p> <ICE-JA:W2B-035#3:1> <bold> This second issue of Superscan is quite an exciting one.
+<ICE-JA:W2B-035#4:1> There has been a lot taking place since the first issue came out and
+
+the progress on the campus computerization projects has been excellent.
+
+</bold> </p>
+
+<p> <ICE-JA:W2B-035#5:1> The most exciting develop <l> ment is the fiber-optic network.
+<ICE-JA:W2B-035#6:1> It is now functional and connects major areas of computing activity on
+
+the campus together.
+<ICE-JA:W2B-035#7:1> One of the most significant things about the installation and
+
+commissioning of this very high speed network is that it was done exclusively
+
+by UWI personnel.
+<ICE-JA:W2B-035#8:1> We are very familiar with the common feeling that only overseas
+
+<quote> " experts" </quote> can set up <quote> " high-tech" </quote> systems
+
+in Jamaica.
+<ICE-JA:W2B-035#9:1> Well, UWI has proved that not only are we an institution of higher
+
+theoretical learning, we are also capable of putting that learning into
+
+practice very suc <l> cessfully.
+<ICE-JA:W2B-035#10:1> The expertise and technical skills we used are totally <quote> "
+
+home-grown" </quote> and are on par with anything the <quote> " first world"
+
+</quote> can offer. </p>
+
+<p> <ICE-JA:W2B-035#11:1> The next step is to develop the practical skills required to use
+
+the technology we are installing.
+<ICE-JA:W2B-035#12:1> For this reason training courses are being put on this summer for UWI
+
+staff in the use of computer software.
+<ICE-JA:W2B-035#13:1> In particular training in word processing and spreadsheet programs is
+
+being provided, and further courses on the use of data bases, electronic
+
+mail, presenta <l> tion software and other packages are being prepared.
+<ICE-JA:W2B-035#14:1> In fact, a staff training centre is being planned that will provide
+
+on-going train <l> ing year round. </p>
+
+<p> <ICE-JA:W2B-035#15:1> Another service being set up on campus is the <quote> " Help
+
+Line" </quote> .
+<ICE-JA:W2B-035#16:1> This is an internal phone number that can be called for help on the
+
+use of the supported DOS and Unix pack <l> ages on the campus.
+<ICE-JA:W2B-035#17:1> Designed to assist people trying to get out of a problem or wanting
+
+to use a spe <l> cial feature of the software it will be available during
+
+normal work <l> ing hours for all of the UWI community.
+<ICE-JA:W2B-035#18:1> So if you can't remember how to load a graphic into your word
+
+processor docu <l> ment or need help formatting your budget spreadsheet just
+
+dial 2357 ( 2ELP)! </p>
+
+<p> <ICE-JA:W2B-035#19:1> One person who does not need any help is Igor Shamovsky, a Rus
+
+<l> sian Chemist working in the Chemistry department.
+<ICE-JA:W2B-035#20:1> This issue's Kernal looks at some of the work he is doing with the
+
+CON <l> VEX supercomputer.
+<ICE-JA:W2B-035#21:1> Igor is our first researcher to use the CON <l> VEX for his work and
+
+has already written and submitted 3 papers from the results.
+<ICE-JA:W2B-035#22:1> Three more are expected before the year is finished.
+<ICE-JA:W2B-035#23:1> We look forward to wel <l> coming more researchers from around the
+
+world to make use of our computing facilities. </p>
+
+<p> <ICE-JA:W2B-035#24:1> Finally, we hope to have a cor <l> respondence section.
+<ICE-JA:W2B-035#25:1> Please feel free to write with comments, ques <l> tions or
+
+suggestions to Keith Manison, SuperScan, Principals Office. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-035#26:2> <h> <bold> LOGIN </bold> </h> </p>
+
+<p> <ICE-JA:W2B-035#27:2> <bold> In this issue of SuperScan we introduce Jeremy Whyte, a
+
+graduate of UWI, now working with the Supercomputer and Network project on
+
+campus as Systems Engineer. </bold> </p>
+
+<p> <ICE-JA:W2B-035#28:2> Born in Basseterre, St Kitts on May 7, 1963 Jeremy moved with his
+
+family to Jamaica in August of 1970.
+<ICE-JA:W2B-035#29:2> His schooling was ac <l> complished at Glenmuir Prep in May Pen and
+
+then Clarendon Col <l> lege up to 4th Form.
+<ICE-JA:W2B-035#30:2> He completed high school in Kingston at Excel <l> sior and then came
+
+to UWI as an undergraduate student in 1981. </p>
+
+<p> <ICE-JA:W2B-035#31:2> Jeremy got his BSc. in Physics, Electronics and Computer Science
+
+in 1985 and has been pursuing a Masters degree in Microcomputer based
+
+Adaptive Control Systems.
+<ICE-JA:W2B-035#32:2> Most of the work is complete and he is finalizing his thesis.
+<ICE-JA:W2B-035#33:2> Jeremy feels that one of the good aspects <}> <-> of the </-> <=> of
+
+the </=> </}> MPhil program is that it forces you to learn very fast.
+<ICE-JA:W2B-035#34:2> He said, <quote> " You may know nothing about a subject that you need
+
+to know at the beginning of a week.
+<ICE-JA:W2B-035#35:2> By the time the week is over you have had to become, if not an ex <l>
+
+pert, at least comfortable with it.
+<ICE-JA:W2B-035#36:2> How to learn fast from scratch is one of the most valuable things the
+
+MPhil program can teach you." </quote> </p>
+
+<p> <ICE-JA:W2B-035#37:2> Enticed to the supercomputer project in October 1992 Jeremy has
+
+had to put this skill into practice as he has worked to commission the Convex
+
+and install of the fiber optic campus backbone.
+<ICE-JA:W2B-035#38:2> Often he has been working with the manuals in one hand and
+
+screwdriver in the other.
+<ICE-JA:W2B-035#39:2> <quote> " <}> <-> Lets <-> <+> Let's </+> </}> face it," </quote> he
+
+says <quote> " there just aren't any other supercomputer installa <l> tions
+
+in Jamaica, so you have to learn as you go." </quote> </p>
+
+<p> <ICE-JA:W2B-035#40:2> And <}> <-> learn </-> <+> learnt </+> </}> Jeremy has!
+<ICE-JA:W2B-035#41:2> Sent to the Convex training center in Oc <l> tober 1992 for a five
+
+week course he has been able to keep set up the Convex and network to provide
+
+the services needed across the campus and keep it working for the users. </p>
+
+<p> <ICE-JA:W2B-035#42:2> In his spare time ( when we let him have any) Jeremy changes pace
+
+by growing orchids and crewing on sailing boats.
+<ICE-JA:W2B-035#43:2> Chair <l> man of the Jamaica Orchid Society's Show Committee, Jeremy
+
+is responsible for the organization of the annual spring orchid show, which
+
+is attended by many inter <l> national participants.
+<ICE-JA:W2B-035#44:2> He has <}> <-> one </-> <+> won </+> </}> several ribbons for his own
+
+plants, but hasn't produced his own cross yet. </p>
+
+<p> <ICE-JA:W2B-035#45:2> During the summer months Jeremy crews as mastman or foredeck crew
+
+on a 39ft racing yacht and has competed in the Port Royal to Cayman races,
+
+coming in 2nd and 3rd.
+<ICE-JA:W2B-035#46:2> Rumor has it that he is using the supercomputer to genetically
+
+engineer a rare and beautiful orchid ( Catalaya Convex Jerermais?) and design
+
+a super-fast racing hull.
+<ICE-JA:W2B-035#47:2> Who knows, perhaps Jamaica will compete in the America's Cup sometime
+
+in the future. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-035#48:3> <h> <bold> <ul> KERNEL </ul> </bold> </h> </p>
+
+<p> <ICE-JA:W2B-035#49:3> <h> <bold> U.W.I. AT CUTTING EDGE OF CHEMISTRY RESEARCH </bold>
+
+</h> </p>
+
+<p> <ICE-JA:W2B-035#50:3> <bold> The Convex SuperComputer was pur <l> chased for UWI in
+
+order to enhance operations in three areas.
+<ICE-JA:W2B-035#51:3> These are Academic Research, Administration and to generate revenue
+
+for the campus.
+<ICE-JA:W2B-035#52:3> In this Ker <l  <nal  we 
+are going to look at the Academ ic Research
+
+that is now taking place on the Con <l> vex. </bold> </p>
+
+<p> <ICE-JA:W2B-035#53:3> In January of this year Igor Shamovsky joined Dr. von Szentpaly's
+
+group at the UWI Chemistry depart <l> ment as a postdoctoral research fellow.
+<ICE-JA:W2B-035#54:3> From the Laboratory of Quantum Chemistry at the institute of Chemical
+
+Physics, Russian Academy of Sciences in Moscow, Igor came to Jamaica to
+
+continue research in computer molecular simulations of large molecules.
+<ICE-JA:W2B-035#55:3> One of the reason he came was the availability of Supercomputer time,
+
+an essential requirement for his work. </p>
+
+<p> <ICE-JA:W2B-035#56:3> Igor worked on a small Convex C210 at the Russian Academy of
+
+Sciences, but quickly fell in love with UWI's much bigger and faster C3440.
+<ICE-JA:W2B-035#57:3> Being the first researcher to use the machine has some advantages,
+
+the main one being is that Igor has almost exclusive use of the processing
+
+resources of the Convex, which is nice as his are the most complex jobs
+
+running on the machine. </p>
+
+<p> <ICE-JA:W2B-035#58:3> But what exactly is the research going on, what are the practical
+
+benefits, and why does it need a super <l> computer to do it? </p>
+
+<p> <ICE-JA:W2B-035#59:3> Igor explains: </p>
+
+<p> <ICE-JA:W2B-035#60:3> <quote> " A theoretical study on molecular systems is a very
+
+powerful tool of scientific research, which gives unequivocal information
+
+about structural and ener <l> getic aspects of particular chemical phenomena.
+<ICE-JA:W2B-035#61:3> Nowadays, the preciseness of theoretical estimations is mainly
+
+limited by available computational resour <l> ces, and the problems of key
+
+interest in the field of applied chemistry and industry can only be solved by
+
+the use of the most powerful modern supercom <l> puters." </quote> </p>
+
+<p> <ICE-JA:W2B-035#62:3> Igor is using Dr. Szentpaly's Valence State's In <l> teraction (
+
+VSI) model to develop large and potentially extremely important molecules.
+<ICE-JA:W2B-035#63:3> In particular he is working on Crown Ethers, Clathrates and DNA
+
+molecules. </p>
+
+<p> <ICE-JA:W2B-035#64:3> <h> <bold> Crown Ethers, </p>
+
+<p> <ICE-JA:W2B-035#65:3> Super Sieves. </bold> </h> </p>
+
+<p> <ICE-JA:W2B-035#66:3> Crown Ethers are an extremely important class of organic
+
+substance which are able to selectively catch polar molecules based on their
+
+size rather than their chemical composition.
+<ICE-JA:W2B-035#67:3> Once caught they form a stable <quote> " host-guest" </quote>
+
+complex, due in part to the ring structure of the crown ether molecule. </p>
+
+<p> <ICE-JA:W2B-035#68:3> What is the practical application of the crown ethers?
+<ICE-JA:W2B-035#69:3> Well, imagine a filter that can be tuned to extract specific
+
+contaminants or poisons from water.
+<ICE-JA:W2B-035#70:3> Imagine a filter that can selectively transmit specific metal ions
+
+through a biological membrane.
+<ICE-JA:W2B-035#71:3> The in <l> dustrial potential for such processes is enormous.
+<ICE-JA:W2B-035#72:3> Mineral recovery, super pure water, contaminant free pharmaceuticals,
+
+the list is endless.
+<ICE-JA:W2B-035#73:3> So much impor <l> tance has been placed on crown ethers that a Nobel
+
+prize was awarded for the first synthesis of one. </p>
+
+<p> <ICE-JA:W2B-035#74:3> However, as Dr. Szentpaly cautions, the syntheses known so far
+
+are extremely costly, a fact prohibiting large scale use of crown ethers at
+
+the moment.
+<ICE-JA:W2B-035#75:3> The transition from a laboratory scale to an industrial process is a
+
+long and difficult process in itself. </p>
+
+<p> <ICE-JA:W2B-035#76:3> <quote> " Simulations do not replace synthesis", </quote> Dr
+
+Szentpaly adds, <quote> " but quantum theoretical methods have been very
+
+successful in indicating to researchers ways to improve synthesis methods."
+
+</quote> </p>
+
+<p> <ICE-JA:W2B-035#77:3> Igor describes the problems encountered in developing and
+
+modeling these molecules: </p>
+
+<p> <ICE-JA:W2B-035#78:3> <quote> " A theoretical study on <quote> " host-guest" </quote>
+
+interactions in crown ethers is very difficult because they have flexible
+
+structures.
+<ICE-JA:W2B-035#79:3> Calculation of the geometry of es <l> sentially flexible molecules is
+
+a challenging problem in theoretical chemistry.
+<ICE-JA:W2B-035#80:3> These molecules have an enor <l> mous number of low-energy
+
+conformers, which make it difficult to search for the most stable structure."
+
+</quote> </p>
+
+<p> <ICE-JA:W2B-035#81:3> So how does Igor find the stable structure?
+<ICE-JA:W2B-035#82:3> He explains: </p>
+
+<p> <ICE-JA:W2B-035#83:3> <quote> " It is well <}> <-> know </-> <+> known </+> </}> that
+
+the most stable phase of solids can be reached by very slow cooling from a
+
+liquid state temperature.
+<ICE-JA:W2B-035#84:3> We simulate this on the Convex Super <l> computer to obtain the most
+
+stable conformer of a flexible molecule.
+<ICE-JA:W2B-035#85:3> We search for the most stable con <l> formers of the empty and
+
+complexed Crown Ether by a <quote> " slow-cooling" </quote> Monte Carlo
+
+procedure and molecular mechanics approach, followed by a high-level quantum
+
+mechanics checking of conformational energies. </p>
+
+<p> <ICE-JA:W2B-035#86:3> Both these steps require enormous computational resources and can
+
+be carried out only on supercom <l> puters.
+<ICE-JA:W2B-035#87:3> All our calculations are carried out on the 4-processor Convex C3440
+
+at UWI." </quote> </p>
+
+<p> <ICE-JA:W2B-035#88:3> <h> <bold> Clathrates and the DNA </bold> </h> </p>
+
+<p> <ICE-JA:W2B-035#89:3> The other molecules Drs. Shamovsky and Szentpa <l> ly are
+
+investigating are just as fascinating.
+<ICE-JA:W2B-035#90:3> Clathrates form solid state structures that have spaces within the
+
+crystal enabling it to contain gases such as Oxygen, Methanol, Propane and
+
+Carbon Tetrachloride.
+<ICE-JA:W2B-035#91:3> Clathrates may be used to develop storage and transportation systems
+
+for dangerous gases or fuels.
+<ICE-JA:W2B-035#92:3> In fact, a crystal can be used to store mass and energy than the pure
+
+gas state.
+<ICE-JA:W2B-035#93:3> Research in this field is a strategic scientific direction in the
+
+Petroleum in <l> dustries in the USA, Russia, Canada and Europe. </p>
+
+<p> <ICE-JA:W2B-035#94:3> The UWI research on carcinogenic activity uses Dr. Szentpaly's
+
+MCS model of the chemical initiation of cancer in an international
+
+collaboration with Dr. Schwerdtfeger, a former student of his, presently in
+
+New Zealand. </p>
+
+<p> <ICE-JA:W2B-035#95:3> DNA research is, of course, closely linked with cancer studies,
+
+and the UWI team hopes that some answers can be found as to what makes genes
+
+mutate and become cancerous. </p> <O> illustration </O>
+
+<p> <ICE-JA:W2B-035#96:3> <h> <bold> UWI's Computer, One of the Best </bold> </h> </p>
+
+<p> <ICE-JA:W2B-035#97:3> Igor, and the other researchers, feel that UWI Mona has one of
+
+the best facilities for Computational Chemistry in the hemisphere.
+<ICE-JA:W2B-035#98:3> There are certainly none like it in Russia he says, and very few in
+
+the USA.
+<ICE-JA:W2B-035#99:3> Igor feels: </p>
+
+<p> <ICE-JA:W2B-035#100:3> <quote> " The University made a very wise step in investing in
+
+this superb facility.
+<ICE-JA:W2B-035#101:3> I would like to thank the Mona Campus Principal, Prof G. Lalor for
+
+working to estab <l> lish this facility in Jamaica.
+<ICE-JA:W2B-035#102:3> I am grateful to Keith Manison and Jeremy Whyte for their kind help
+
+in installing the programs on the Convex C3440.
+<ICE-JA:W2B-035#103:3> What UWI has to do now is attract and invite more re <l> searchers
+
+here to make use of these facilities." </quote> </p>
+
+<p> <ICE-JA:W2B-035#104:3> Igor will be making use of them for while yet.
+<ICE-JA:W2B-035#105:3> Due to remain in Jamaica until the end of 1994 he is enjoying living
+
+and working here with his wife Tanya and son Oleg.
+<ICE-JA:W2B-035#106:3> Oleg, by the way, seems to be a chip of the old block.
+<ICE-JA:W2B-035#107:3> He just graduated, at ten years old, from Mona Prep with A's in
+
+Mathematics and Algebra.
+<ICE-JA:W2B-035#108:3> He may be working on the Convex with Dad next year! </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-035#109:4> <h> <bold> ON <ul> line </ul> </bold> </h> </p>
+
+<p> <ICE-JA:W2B-035#110:4> <bold> As promised this is the first progress report on the cam
+
+<l> pus network.
+<ICE-JA:W2B-035#111:4> A great deal has happened since the first issue of the this column
+
+ap <l> peared in February, and several users are now <quote> " on <l> line".
+
+</quote> </bold> </p>
+
+<p> <ICE-JA:W2B-035#112:4> <h> <bold> CONNECTED! </bold> </h> </p>
+
+<p> <ICE-JA:W2B-035#113:4> As can <}> <-> been </-> <+> be </+> </}> seen from the cover of
+
+this issue of Superscan the UWI Super Pelican has got into fiber optic
+
+transmission.
+<ICE-JA:W2B-035#114:4> In fact this symbol will be used to identify facilities and
+
+computers across the campus that are <quote> " connected" </quote> to the
+
+campus network.
+<ICE-JA:W2B-035#115:4> As each machine is connected a sticker with the <quote> " connected"
+
+</quote> symbol will be affixed to the machine.
+<ICE-JA:W2B-035#116:4> Each computer sticker will have a box that will be filled out with
+
+the net <l> work address of the machine, and it should be prominently dis <l>
+
+played so that the address is clearly visible. </p> </I>

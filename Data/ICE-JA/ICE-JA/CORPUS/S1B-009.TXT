@@ -1,0 +1,463 @@
+<I>
+
+<$A> <ICE-JA:S1B-009#1:1:A> Morning
+<ICE-JA:S1B-009#2:1:A> Alright so uhm yesterday I mentioned that we would be doing
+
+something interesting today in that we would look at what happens when you
+
+try to<,,> in general uh test <}> <-> for</-> <=> a</=> <-> sen</-> <=>
+
+set</=></}> of sentences for consistency
+<ICE-JA:S1B-009#3:1:A> Before when we were using the <?> Tree Method</?> we actually did
+
+that<,> as if we would always be able to come up with an answer
+<ICE-JA:S1B-009#4:1:A> Right
+<ICE-JA:S1B-009#5:1:A> Remember
+<ICE-JA:S1B-009#6:1:A> I'm giving you an argument asking is it valid or not
+<ICE-JA:S1B-009#7:1:A> You automatically <?> lead</?> a conclusion<,> <unclear>
+
+several-words</unclear> set of premises<,> and then look to see if you can
+
+<?> obtain a contrary to my quote in the Tree Method</?><{><[><,></[>
+<ICE-JA:S1B-009#8:1:A> <?> And you're doing kind of discipline towards</?><,> expecting
+
+that after<,> shifting around the symbols and doing some stuff you would
+
+actually end up with an answer at the end of the day and generally speaking
+
+you kind of do but not by following a particular algorithm right
+<ICE-JA:S1B-009#9:1:A> What happens is<,> when you use <?> the Tree Method that</?> itself
+
+is an algorithm<,> but what you do after a while is the way this <?> tree
+
+is</?> reflecting on your <unclear> word</unclear>
+<ICE-JA:S1B-009#10:1:A> So let me stop and here <?> you</?> said they were trying to
+
+construct the counter-example<,> right
+<ICE-JA:S1B-009#11:1:A> Okay
+<ICE-JA:S1B-009#12:1:A> So as far as we're concerned what we're looking at <}> <-> is
+
+term</-> <=> is in terms</=></}> of what set of instructions do you need to
+
+give to a Turing machine to make it eventually decide <?> your algorithm</?>
+
+right
+<ICE-JA:S1B-009#13:1:A> That's what we mean by <mention> decidable</mention>
+<ICE-JA:S1B-009#14:1:A> So the tree roots themselves of perfect Turing machine uh
+
+instructions but in order for you to actually use that as an algorithm you
+
+have to have a way of saying alright you've gone far enough now try
+
+constructing a counter-example and that's the part where <}> <-> it's</-> uh
+
+<=> it's</=></}> no longer what we would call an algorithm right
+<ICE-JA:S1B-009#15:1:A> So it turns out that actually there is no such algorithm because
+
+it's gonna be undecidable and now we're gonna <?> even take</?>
+<ICE-JA:S1B-009#16:1:A> Now we have <?> all the</?> machinery to actually try to prove <?>
+
+that</?>
+<ICE-JA:S1B-009#17:1:A> Right
+<ICE-JA:S1B-009#18:1:A> The uhm as weird as it sounds it's actually not that strange but
+
+it's the <?> quantity the</?> construction
+<ICE-JA:S1B-009#19:1:A> You'll see that oh it's not really a big deal
+<ICE-JA:S1B-009#20:1:A> Basically <unclear> word(s)</unclear>
+<ICE-JA:S1B-009#21:1:A> You generally <?> want to know where you use some a t m I just</?>
+
+wrote there
+<ICE-JA:S1B-009#22:1:A> So you generally want to know given M and W you want to know if M
+
+accepts W
+<ICE-JA:S1B-009#23:1:A> That's what you'd like to <?> get</?> to when you're <?> reducing a
+
+T M</?>
+<ICE-JA:S1B-009#24:1:A> What we would presume is suppose you had a method for testing the
+
+consistency right
+<ICE-JA:S1B-009#25:1:A> So suppose you had a decider that could tell you yes or no if this
+
+set of sentences <}> <-> were</-> <=> if it were</=></}> consistent<,>
+<ICE-JA:S1B-009#26:1:A> What we want to show is that you can take an M and a W and convert
+
+it to a set of logic sentences such that if they were consistent then M will
+
+accept W
+<ICE-JA:S1B-009#27:1:A> You understand what I'm saying
+
+<$B> <ICE-JA:S1B-009#28:1:B> <[> Yeah</[></{>
+
+<$C> <ICE-JA:S1B-009#29:1:C> Yeah
+
+<$A> <ICE-JA:S1B-009#30:1:A> <O> laughter</O>No
+<ICE-JA:S1B-009#31:1:A> Yes
+
+<$C> <ICE-JA:S1B-009#32:1:C> Yes<O>several-students-talking</O>
+
+<$D> <ICE-JA:S1B-009#33:1:D> So far
+
+<$A> <ICE-JA:S1B-009#34:1:A> Alright
+<ICE-JA:S1B-009#35:1:A> But here basically I mean in words <?> write up</?> <}> <->
+
+what</-> <=> what</=></}> we're gonna try and try to<,>
+
+right<&>writes-on-blackboard</&>
+<ICE-JA:S1B-009#36:1:A> So you want to say given<,> a pair M and W you want to be able to
+
+uhm produce<,> a set of<,,> sentences in logic<,,> that are consistent<,,> if
+
+and only if M accept W<,>
+<ICE-JA:S1B-009#37:1:A> Right
+<ICE-JA:S1B-009#38:1:A> But when I tell you how you do it <}> <-> it's actually going</->
+
+<=> you're going to think</=></}> oh actually that's not a big deal
+<ICE-JA:S1B-009#39:1:A> I hope so anyway
+<ICE-JA:S1B-009#40:1:A> Alright
+<ICE-JA:S1B-009#41:1:A> What we need for M to accept W
+<ICE-JA:S1B-009#42:1:A> What you actually have is that you'd say well the machine starts
+
+with the initial configuration right<,> and then it actually proceeds from
+
+the initial configuration through a sequence of configurations until it
+
+actually gets to some accepting configuration
+<ICE-JA:S1B-009#43:1:A> That's what we <?> mean by</?> M to accept W <?> don't
+
+we</?><{1><[1><,></[1>
+<ICE-JA:S1B-009#44:1:A> Okay
+<ICE-JA:S1B-009#45:1:A> Suppose I were to give you a description of a machine namely the
+
+state diagram with all the transitions everything marked out on it
+<ICE-JA:S1B-009#46:1:A> Wouldn't you be able to test for a specific <}> <-> for a <.>
+
+speci</.> <.> sp</.></-></}> so you're given only W and the M is given as you
+
+know the machine
+<ICE-JA:S1B-009#47:1:A> Would you be able to test if that <?> acceptable</?> <unclear>
+
+words</unclear>
+<ICE-JA:S1B-009#48:1:A> What <{2> <[2> would you do</[2>
+
+<$E> <ICE-JA:S1B-009#49:1:E> <[1> Mhm</[1></{1>
+
+<$F> <ICE-JA:S1B-009#50:1:F> <[2> <?> Yeah</?></[2></{2>
+
+<$A> <ICE-JA:S1B-009#51:1:A> Huh<,,><O>murmurs</O>
+<ICE-JA:S1B-009#52:1:A> You just wrote it right
+<ICE-JA:S1B-009#53:1:A> And then if you got to accept it you'd say okay good <}> <-> it</->
+
+<=> it</=></}> accepts it
+<ICE-JA:S1B-009#54:1:A> Obviously <}> <- > it's not an <.> algo</.></-> <=> it's not an
+
+algorithm</=></}> in the sense that we have been using because it may not
+
+halt
+<ICE-JA:S1B-009#55:1:A> But the point is the machine itself encodes a bunch of roots and
+
+those roots tell you how you can get from one configuration legally to the
+
+next one
+<ICE-JA:S1B-009#56:1:A> So then if you can encode that in logic then you could actually end
+
+up with a bunch of sentences in logic that describe what the machine does and
+
+then you need one sentence to say that you actually have an initial
+
+configuration which is gonna be composed of the initial start state of W
+<ICE-JA:S1B-009#57:1:A> Right
+<ICE-JA:S1B-009#58:1:A> And then what other sentence do I need
+
+finally<O>student-answers</O>
+<ICE-JA:S1B-009#59:1:A> A sentence that says I end up in an accepting state<,>
+<ICE-JA:S1B-009#60:1:A> Note it<{><[><,></[>
+<ICE-JA:S1B-009#61:1:A> Okay
+<ICE-JA:S1B-009#62:1:A> So if I can put all those sentences together then if you could test
+
+for consistency then you tell me that the machine <?> halted</?>
+<ICE-JA:S1B-009#63:1:A> <?> Got</?> it
+<ICE-JA:S1B-009#64:1:A> If you could decide consistency <unclear> several-words</unclear>
+
+sentences and <}> <-> you would <.> ha</.></- > <=> a yes answer from you
+
+would</=></}> tell me that M would accept W and a no answer from you would
+
+tell me that M doesn't accept W
+<ICE-JA:S1B-009#65:1:A> So that's the strategy
+<ICE-JA:S1B-009#66:1:A> Okay
+<ICE-JA:S1B-009#67:1:A> Three you need to basically construct three classes of sentences
+
+right now
+<ICE-JA:S1B-009#68:1:A> Well so I'll write that down because that's actually the whole idea
+
+and it will be that's it
+<ICE-JA:S1B-009#69:1:A> Now the thing that's <?> going</?> for the rest of the lecture is
+
+basically going to be the formal description of that
+<ICE-JA:S1B-009#70:1:A> Okay
+<ICE-JA:S1B-009#71:1:A> So once you understand the idea you'll have gotten the gist of the
+
+lecture
+<ICE-JA:S1B-009#72:1:A> The rest of it is details
+<ICE-JA:S1B-009#73:1:A> Alright <O> clears-throat</O><&>writes-on- blackboard</&><ICE-JA:S1B-009#>So
+
+let's say basically you want from<,,> the pair and produce<,> three types of
+
+sentences not only three sentences because one type is going to be a large
+
+function but three uhm let's call them sets of<,> sentences<,,>
+<ICE-JA:S1B-009#74:1:A> Right
+<ICE-JA:S1B-009#75:1:A> You gonna have<,> uhm one that you actually have the initial
+
+configuration right
+<ICE-JA:S1B-009#76:1:A> So something to instantiate<,,> the initial configuration<,,>
+<ICE-JA:S1B-009#77:1:A> And the second one is to say that you actually<,> the initial
+
+configuration means that M and W <?> are</?> <unclear> word</unclear>
+<ICE-JA:S1B-009#78:1:A> Right
+<ICE-JA:S1B-009#79:1:A> The second thing you need to put in there is to say that you
+
+actually accept so an accepting<,,> configuration<,,> is reached<,,>
+<ICE-JA:S1B-009#80:1:A> And the third thing<,,> is gonna be that<,,> now this one has to
+
+be<,> for each transition in the machine you gonna have a sentence
+<ICE-JA:S1B-009#81:1:A> Okay
+<ICE-JA:S1B-009#82:1:A> So the third set is a description<,,>
+<ICE-JA:S1B-009#83:1:A> <}> <-> The you treat it as one <.> sen</.> this is one
+
+sentence</-> <=> this is one sentence</=></}> but this one <?> is gonna
+
+be</?> main sentences so <unclear>
+
+word(s)-due-to-noise-in-background</unclear> the description of the<,> finite
+
+state controller<,,> <}> <-> of the of</-> <=> of</=></}> M
+<ICE-JA:S1B-009#84:1:A> Okay and this is the main sentence<,>
+<ICE-JA:S1B-009#85:1:A> Right
+<ICE-JA:S1B-009#86:1:A> Any questions to this<,>
+<ICE-JA:S1B-009#87:1:A> So everybody is alright with that
+
+<$F> <ICE-JA:S1B-009#88:1:F> <[> Alright</[></{>
+
+<$D> <ICE-JA:S1B-009#89:1:D> No
+
+<$A> <ICE-JA:S1B-009#90:1:A> No<,,>
+<ICE-JA:S1B-009#91:1:A> Alright <?> friends</?>
+
+<$D> <ICE-JA:S1B-009#92:1:D> Sir
+
+<$A> <ICE-JA:S1B-009#93:1:A> <O> clears-throat</O>Yeah
+
+<$D> <ICE-JA:S1B-009#94:1:D> <unclear> words</unclear> two sentence I accept the
+
+configuration in three right
+
+<$A> <ICE-JA:S1B-009#95:1:A> Right
+
+<$D> <ICE-JA:S1B-009#96:1:D> Uh so when <unclear> several-words</unclear> decide for M W
+
+<$A> <ICE-JA:S1B-009#97:1:A> No no no no alright
+<ICE-JA:S1B-009#98:1:A> Here we go
+<ICE-JA:S1B-009#99:1:A> <}> <-> What we</-> <=> here's what we're saying</=></}>
+<ICE-JA:S1B-009#100:1:A> I'm gonna build you a bunch of sentences that basically say one
+
+you'd have the initial configuration instantiated so that you'll have two we
+
+will reach some accepting state and then a collection of sentences that
+
+describe what configuration can legally follow from another
+<ICE-JA:S1B-009#101:1:A> Okay
+<ICE-JA:S1B-009#102:1:A> So this one is gonna actually be a family of conditionals
+<ICE-JA:S1B-009#103:1:A> <}> <-> This type</-> <=> this configuration</=></}> implies this
+
+other one
+<ICE-JA:S1B-009#104:1:A> Okay
+<ICE-JA:S1B-009#105:1:A> And each of these are going to actually be <?> just</?> <}> <->
+
+<.> s</.></-> <=> symbol</=></}> <?> of all</?> sentences
+<ICE-JA:S1B-009#106:1:A> So what we're doing is you have a collection of these sentences
+
+but the only way they're actually consistent is if in fact they would have
+
+modelled the machine operating on W and reaching an accepting state
+<ICE-JA:S1B-009#107:1:A> Okay<,>
+<ICE-JA:S1B-009#108:1:A> So that if you had a decider for this collection then you'd say
+
+you have a decider <}> <-> for</-> <=> for</=></}> a T M
+<ICE-JA:S1B-009#109:1:A> Right
+<ICE-JA:S1B-009#110:1:A> <}> <-> That's</-> <=> that's</=></}> the idea
+<ICE-JA:S1B-009#111:1:A> Alright we're now to do this we actually need to create<,> a small
+
+vocabulary<O>clears-throat</O><,>
+<ICE-JA:S1B-009#112:1:A> But the idea is very simple
+<ICE-JA:S1B-009#113:1:A> Right
+<ICE-JA:S1B-009#114:1:A> And uh I don't want you to let the vocabulary frighten you<,> too
+
+much
+<ICE-JA:S1B-009#115:1:A> Right what we gonna need to find about four
+
+functions<O>clears-throat</O> which we'll use in our logic sentences
+<ICE-JA:S1B-009#116:1:A> Uhm generally speaking what are the components of a
+
+configuration<O>students-giving- answers-students-talking-unintelligibly</O>
+
+<$A> <ICE-JA:S1B-009#117:1:A> Alright in the location of the head <?> the constants and
+
+t</?>
+<ICE-JA:S1B-009#118:1:A> What else<,> current states
+<ICE-JA:S1B-009#119:1:A> <?> Alright that will do that will do you know</?> so in terms of
+
+where we were close we actually also included the symbol and the head of
+
+reading remember<,,><{><[><,></[>
+<ICE-JA:S1B-009#120:1:A> Right<O>laughter</O>
+<ICE-JA:S1B-009#121:1:A> Alright
+<ICE-JA:S1B-009#122:1:A> And u is from sigma star q is from the set of states
+<ICE-JA:S1B-009#123:1:A> Pardon<O>student-talking</O>
+<ICE-JA:S1B-009#124:1:A> Yeah v is from sigma star too and a was our symbol underneath the
+
+head right
+<ICE-JA:S1B-009#125:1:A> Okay
+<ICE-JA:S1B-009#126:1:A> So we're gonna use the same idea<O>clears-throat</O> except that
+
+we're going to<O>clears-throat</O> sorry treat them as a tuple so we're gonna
+
+treat <?> them</?> as a four tuple that describes a particular configuration
+
+right
+<ICE-JA:S1B-009#127:1:A> And what we're gonna say is we're gonna create the predicate
+
+predicate we have four places and let's call it R <&> writes-on-the-
+
+blackboard</&><ICE-JA:S1B-009#>So we write down the sentence R u q a v to mean
+
+configuration u q a v is reached<,>
+<ICE-JA:S1B-009#128:1:A> Okay
+<ICE-JA:S1B-009#129:1:A> Everybody alright
+<ICE-JA:S1B-009#130:1:A> So R is your big predicate but it's just a way of saying how we
+
+get to that configuration
+<ICE-JA:S1B-009#131:1:A> Alright now <}> <-> the</-> <=> the</=></}> vocabulary is talking
+
+but what I need to create is the ability to modify new strings
+<ICE-JA:S1B-009#132:1:A> Right
+<ICE-JA:S1B-009#133:1:A> So you see why we need to modify the strings right because if I
+
+move the head left what's supposed to
+
+happen<,><O>unintelligible-answer-from-student</O>
+
+<$F> <ICE-JA:S1B-009#134:1:F> <[> Yeah</[></{>
+
+<$A> <ICE-JA:S1B-009#135:1:A> If you move the head left and then
+
+you<O>unintelligible-answers-from- students</O><O>clears-throat</O>
+<ICE-JA:S1B-009#136:1:A> Well alright the state might change <}> <-> the the</- > <=>
+
+the</=></}> position I'm reading is going to be the last symbol of u when I
+
+move left
+<ICE-JA:S1B-009#137:1:A> So whatever that symbol is needs to now appear up here when I
+
+write up <}> <-> the</-> <=> the</=></}> configuration
+<ICE-JA:S1B-009#138:1:A> And I need to say well what have I modified a to
+<ICE-JA:S1B-009#139:1:A> I need to prepend that <}> <-> to b</-> <=> to v</=></}>
+<ICE-JA:S1B-009#140:1:A> So I need some functions I can extract out the last symbol the
+
+first symbol to prepend something to a string and to append something to a
+
+string
+<ICE-JA:S1B-009#141:1:A> Alright<,,>
+<ICE-JA:S1B-009#142:1:A> Alright so<O>laughter</O>
+<ICE-JA:S1B-009#143:1:A> Alright so <}> <- > let's</-> <=> let's</=></}> try to find the
+
+simplest one
+<ICE-JA:S1B-009#144:1:A> Uhm let's start with<,> let's call it
+
+attach<,,><&>writes-on-the-blackboard</&>
+<ICE-JA:S1B-009#145:1:A> Uh<,> so I have a function of two parts
+<ICE-JA:S1B-009#146:1:A> Implicitly you know that uhm a is your symbol from your alphabet
+
+and w <}> <-> is</-> <=> is</=></}> something else which generally speaking
+
+you <?> want to</?> think of it as some string
+<ICE-JA:S1B-009#147:1:A> Uhm but what we're gonna do is just say okay well attach is this
+
+up here a w okay<,,>
+<ICE-JA:S1B-009#148:1:A> Alright uhm what else do I need
+<ICE-JA:S1B-009#149:1:A> I need to be able to<,> uh<,,> add something at the<,> end
+<ICE-JA:S1B-009#150:1:A> Let's call that uh<,> append <&> writes-on-the-
+
+blackboard</&><ICE-JA:S1B-009#>And now
+<ICE-JA:S1B-009#151:1:A> <}> <-> <.> A</.> <.> a</.></-> <=> anybody</=></}> can tell me
+
+how to define this
+<ICE-JA:S1B-009#152:1:A> <}> <-> I guess I need to</-> <-> before I can do that legal uh
+
+alright I guess I get I</-><,,> <=> before I can do that</=></}> I have to
+
+tell you how we're gonna select our pieces right
+<ICE-JA:S1B-009#153:1:A> So I need a notation for that
+<ICE-JA:S1B-009#154:1:A> <}> <-> Let's</-> <=> let's</=></}> define it here
+<ICE-JA:S1B-009#155:1:A> Because it not really a <.> f</.>
+<ICE-JA:S1B-009#156:1:A> Technically speaking as far as logic is concerned you'd have to
+
+define it as another function but <}> <-> <.> le</.></- > <=> let</=></}> us
+
+work with it as if it's something built in because all we want is some way of
+
+selecting the pieces out of a tuple okay
+<ICE-JA:S1B-009#157:1:A> So I'm gonna want to be able to given a pair now we get the first
+
+element I want to just be able to <}> <-> <.> sele</.></-> <=> select</=></}>
+
+out element zero to this pair and you know to get the rest of it down to
+
+select out the second part
+<ICE-JA:S1B-009#158:1:A> Okay
+<ICE-JA:S1B-009#159:1:A> So let's invent the <?> very</?> notation uhm
+<ICE-JA:S1B-009#160:1:A> If I have a pair of objects and I <?> write a</?> down arrow and
+
+then I put in a zero and I'm talking about the first part of the pair
+
+okay<,,><&>writes-on-blackboard</&>
+<ICE-JA:S1B-009#161:1:A> And this is
+<ICE-JA:S1B-009#162:1:A> Right
+<ICE-JA:S1B-009#163:1:A> Everybody alright with that<O>answer-from-student</O>
+
+<$A> <ICE-JA:S1B-009#164:1:A> Alright
+<ICE-JA:S1B-009#165:1:A> I'm gonna write <}> <-> it's</-> <=> it's</=></}> a matter of
+
+notation
+<ICE-JA:S1B-009#166:1:A> I'm gonna write that down arrow zero <}> <-> to <.> im</.> to</->
+
+<=> to mean</=></}> that I want to extract out the first part of the pair and
+
+down arrow one to mean that the second piece of the pair
+<ICE-JA:S1B-009#167:1:A> Okay
+<ICE-JA:S1B-009#168:1:A> So now what <?> I write depend</?>
+
+<$G> <ICE-JA:S1B-009#169:1:G> Got a question there
+
+<$A> <ICE-JA:S1B-009#170:1:A> Yes
+
+<$G> <ICE-JA:S1B-009#171:1:G> A is the alphabet and W is <}> <-> a</-> <=> a</=></}> string
+
+<$A> <ICE-JA:S1B-009#172:1:A> A is a symbol from the alphabet so it's one character
+
+<$G> <ICE-JA:S1B-009#173:1:G> Okay<,,>
+<ICE-JA:S1B-009#174:1:G> One character
+<ICE-JA:S1B-009#175:1:G> Thank you
+
+<$A> <ICE-JA:S1B-009#176:1:A> I mean that's what you want to think about it
+<ICE-JA:S1B-009#177:1:A> <}> <-> And</-> <=> and</=></}> W is <}> <-> a a</-> <=> a</=></}>
+
+string but if you think about building up a string from scratch you see that
+
+it's actually <}> <-> a <.> se</.> a a</-> <=> a bunch of</=></}> nested
+
+pairs<,> okay
+<ICE-JA:S1B-009#178:1:A> So think of W as being this bunch of nested pairs and then I want
+
+to actually paste on an W at the end of it
+<ICE-JA:S1B-009#179:1:A> How do I do that</I>

@@ -1,0 +1,609 @@
+<I>
+
+<$A> <ICE-JA:S1B-063#1:1:A> What is your name sir
+
+<$B> <ICE-JA:S1B-063#2:1:B> My name is Dr. <@> Ian Bantouih</@> first name I A N last name
+
+B A N T O U I H
+
+<$A> <ICE-JA:S1B-063#3:1:A> And you are a registered medical practitioner in the island of
+
+Jamaica
+
+<$B> <ICE-JA:S1B-063#4:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-063#5:1:A> Consultant Forensic Pathologist attached to the Ministry of
+
+National Security and Justice
+
+<$B> <ICE-JA:S1B-063#6:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-063#7:1:A> And on the ninth of October nineteen ninety-seven did you
+
+perform a post mortem examination on the body of <@> Cliff Newton</@>
+
+<$B> <ICE-JA:S1B-063#8:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-063#9:1:A> That was at the Spanish Town Hospital Morgue
+
+<$B> <ICE-JA:S1B-063#10:1:B> Yes sir
+
+<$C> <ICE-JA:S1B-063#11:1:C> What's the name of the person
+
+<$A> <ICE-JA:S1B-063#12:1:A> <@> Cliff Newton</@> m'Lord
+
+<$C> <ICE-JA:S1B-063#13:1:C> <@> Cliff Newton</@>
+
+<$A> <ICE-JA:S1B-063#14:1:A> Yes m'Lord
+
+<$C> <ICE-JA:S1B-063#15:1:C> Thank you
+
+<$A> <ICE-JA:S1B-063#16:1:A> You made notes at the time
+
+<$B> <ICE-JA:S1B-063#17:1:B> Yes sir
+
+<$A> <ICE-JA:S1B-063#18:1:A> You wish to refresh your memory
+
+<$B> <ICE-JA:S1B-063#19:1:B> Yes sir
+<ICE-JA:S1B-063#20:1:B> My Lord would you permit me to
+
+<$C> <ICE-JA:S1B-063#21:1:C> Yes you may
+
+<$A> <ICE-JA:S1B-063#22:1:A> Much obliged m'Lord
+<ICE-JA:S1B-063#23:1:A> Doctor just answer the questions as you are asked
+<ICE-JA:S1B-063#24:1:A> The body was identified by whom
+
+<$B> <ICE-JA:S1B-063#25:1:B> The body was identified by <@> Lara Modra</@>
+
+<$A> <ICE-JA:S1B-063#26:1:A> And the body was about how tall
+<ICE-JA:S1B-063#27:1:A> What was the height of the body the length or height of the body
+
+<$B> <ICE-JA:S1B-063#28:1:B> Five feet ten inches
+
+<$A> <ICE-JA:S1B-063#29:1:A> And the body was about the age of what type of person age
+
+range of the person
+
+<$B> <ICE-JA:S1B-063#30:1:B> Twenty-four years
+
+<$A> <ICE-JA:S1B-063#31:1:A> I have no further questions m'Lord
+
+<$C> <ICE-JA:S1B-063#32:1:C> Mr <@> Heath Johnson</@>
+
+<$D> <ICE-JA:S1B-063#33:1:D> Thank you m'Lord no questions
+
+<$E> <ICE-JA:S1B-063#34:1:E> No questions
+
+<$C> <ICE-JA:S1B-063#35:1:C> The doctor can be released
+
+<$B> <ICE-JA:S1B-063#36:1:B> I would wish sir
+
+<$C> <ICE-JA:S1B-063#37:1:C> Thank you doctor you may go</I>
+
+
+<I>
+
+<$A> <ICE-JA:S1B-063#38:2:A> What is your name doctor
+
+<$F> <ICE-JA:S1B-063#39:2:F> <@> Laksmanan Haresh</@>
+
+<$A> <ICE-JA:S1B-063#40:2:A> Are you a registered medical practitioner in the island of
+
+Jamaica
+
+<$F> <ICE-JA:S1B-063#41:2:F> Yes I am a registered medical practitioner consultant
+
+pathologist
+
+<$A> <ICE-JA:S1B-063#42:2:A> Attached to
+
+<$F> <ICE-JA:S1B-063#43:2:F> Attached to the Ministry of National Security and Justice
+
+<$A> <ICE-JA:S1B-063#44:2:A> Do you recall performing a post mortem examination on the body
+
+of <@> Rebecca Porter</@>
+
+<$F> <ICE-JA:S1B-063#45:2:F> Yes sir
+
+<$A> <ICE-JA:S1B-063#46:2:A> On the second of October nineteen ninety-seven
+
+<$F> <ICE-JA:S1B-063#47:2:F> Yes sir
+
+<$A> <ICE-JA:S1B-063#48:2:A> This was at the Spanish Town Hospital Morgue
+
+<$F> <ICE-JA:S1B-063#49:2:F> Yes sir
+
+<$A> <ICE-JA:S1B-063#50:2:A> You made notes at the time
+
+<$F> <ICE-JA:S1B-063#51:2:F> Yes sir
+
+<$A> <ICE-JA:S1B-063#52:2:A> You have those notes here
+
+<$F> <ICE-JA:S1B-063#53:2:F> Yes sir
+
+<$A> <ICE-JA:S1B-063#54:2:A> Do you wish to refresh your memory
+
+<$F> <ICE-JA:S1B-063#55:2:F> Yes sir
+
+<$A> <ICE-JA:S1B-063#56:2:A> M'Lord may the witness be allowed to refresh his memory from
+
+his notes
+
+<$C> <ICE-JA:S1B-063#57:2:C> Yes
+
+<$A> <ICE-JA:S1B-063#58:2:A> Much obliged
+
+<$F> <ICE-JA:S1B-063#59:2:F> The body was identified by <@> John Porter</@>
+<ICE-JA:S1B-063#60:2:F> There are two gunshot wounds on the body an entrance gunshot wound
+
+zero point four centimeters
+
+<$C> <ICE-JA:S1B-063#61:2:C> Wait a second please
+<ICE-JA:S1B-063#62:2:C> You said there were two gunshot wounds to the body
+
+<$F> <ICE-JA:S1B-063#63:2:F> Yes sir
+<ICE-JA:S1B-063#64:2:F> On the body
+<ICE-JA:S1B-063#65:2:F> Entrance gunshot wound zero point four centimeters in diameter
+
+without any gunpowder on left side of back of head nineteen centimeters below
+
+the top of head and nine centimeters left to midline
+
+<$A> <ICE-JA:S1B-063#66:2:A> Doctor I saw you were pointing
+<ICE-JA:S1B-063#67:2:A> Could you indicate to you where exactly
+
+<$F> <ICE-JA:S1B-063#68:2:F> On the back
+<ICE-JA:S1B-063#69:2:F> Direction upward and forward
+
+<$C> <ICE-JA:S1B-063#70:2:C> Repeat that
+
+<$F> <ICE-JA:S1B-063#71:2:F> Directed upward and forward travelled through the skull brain
+
+left maxillary antrum, and exited on the left side of face twenty-two
+
+centimeters below the top of head and six centimeters left to midline
+
+<$A> <ICE-JA:S1B-063#72:2:A> So doctor could you just indicate again for us the entrance
+
+wound and the exit wound
+
+<$F> <ICE-JA:S1B-063#73:2:F> Entrance wound is here on the back at the back of the head
+
+here entry wound is here
+
+<$A> <ICE-JA:S1B-063#74:2:A> Thank you very much doctor
+
+<$F> <ICE-JA:S1B-063#75:2:F> The exit wound measured two by one centimeters
+<ICE-JA:S1B-063#76:2:F> Two times one centimeters
+
+<$A> <ICE-JA:S1B-063#77:2:A> Doctor before you continue you mentioned that the entry wound
+
+measured point four centimeters without any gunpowder
+<ICE-JA:S1B-063#78:2:A> What is the significance of without any gunpowder
+
+<$F> <ICE-JA:S1B-063#79:2:F> It is the distance shot beyond twenty-four inches
+
+<$A> <ICE-JA:S1B-063#80:2:A> Okay
+
+<$C> <ICE-JA:S1B-063#81:2:C> Mr <@> Riddle</@>
+
+<$D> <ICE-JA:S1B-063#82:2:D> We beg to ask that the witnesses be allowed to wait outside
+
+while the doctor gives the evidence
+
+<$C> <ICE-JA:S1B-063#83:2:C> Witnesses we will call you back as soon as we are ready for
+
+you
+
+<$F> <ICE-JA:S1B-063#84:2:F> Injury number two
+
+<$A> <ICE-JA:S1B-063#85:2:A> Continue please doctor
+
+<$F> <ICE-JA:S1B-063#86:2:F> An entrance gunshot wound one point two centimetres in
+
+diameter without gunpowder on the outer aspect of left arm fifty-five
+
+centimetres below top of head thirty-six centimetres left to midline directed
+
+downward and forward travelled through the arm exited on the inner aspect of
+
+the arm measuring one point two centimetres in diameter which is fifty- two
+
+centimetres below the top of head and twenty-eight centimetres left to
+
+midline then entered the chest in the axilla
+
+<$C> <ICE-JA:S1B-063#87:2:C> Repeat that for me
+
+<$F> <ICE-JA:S1B-063#88:2:F> Entered the chest in the axilla which measured one point two
+
+centimetres in diameter which is fifty-two centimetres below top of head and
+
+thirty-one centimetres left to midline travelling through the chest wall left
+
+lung heart diaphragm liver and lodged on the front of chest on right side
+
+sixty-seven centimetres below the top of head and twenty-two centimetres
+
+right to midline
+
+<$A> <ICE-JA:S1B-063#89:2:A> Doctor before you proceed any further in respect of the second
+
+gunshot wound could you point out to us the entry exit
+
+<$F> <ICE-JA:S1B-063#90:2:F> Entry is here and the exit under aspect of the arm
+
+<$A> <ICE-JA:S1B-063#91:2:A> Could you turn to the jury
+
+<$F> <ICE-JA:S1B-063#92:2:F> The under aspect of the arm and entered the chest cavity pass
+
+through the left lung heart diaphragm liver and lodged on the lower right
+
+chest here
+
+<$A> <ICE-JA:S1B-063#93:2:A> Thank you doctor
+
+<$F> <ICE-JA:S1B-063#94:2:F> The deformed copper jacketed bullet handed over to police
+<ICE-JA:S1B-063#95:2:F> Haemathorax and haemaperitonium present.
+
+<$A> <ICE-JA:S1B-063#96:2:A> What are those
+
+<$F> <ICE-JA:S1B-063#97:2:F> Haemathorax is blood in the thoracic cavity in the chest
+
+cavity haemaperitonium blood in the abdominal cavity
+<ICE-JA:S1B-063#98:2:F> The cause of death is due to multiple gunshot wounds
+
+<$A> <ICE-JA:S1B-063#99:2:A> Thank you doctor
+<ICE-JA:S1B-063#100:2:A> Defence counsel may have questions for you</I>
+
+
+<I>
+
+<$A> <ICE-JA:S1B-063#101:3:A> Would you state your name rank and where you are stationed
+
+please
+
+<$G> <ICE-JA:S1B-063#102:3:G> <@> Greg West</@> constable stationed at the Olympic Gardens
+
+Police Station in the parish of Saint Andrew
+
+<$A> <ICE-JA:S1B-063#103:3:A> Do you recall Thursday second of October nineteen
+
+ninety-seven
+
+<$G> <ICE-JA:S1B-063#104:3:G> Yes sir
+
+<$A> <ICE-JA:S1B-063#105:3:A> Did you go anywhere with regard to this case on that day
+
+<$G> <ICE-JA:S1B-063#106:3:G> Yes sir
+
+<$A> <ICE-JA:S1B-063#107:3:A> Where did you go
+
+<$G> <ICE-JA:S1B-063#108:3:G> I attended Spanish Town Hospital Morgue in the parish of St
+
+Catherine
+
+<$A> <ICE-JA:S1B-063#109:3:A> Yes
+
+<$G> <ICE-JA:S1B-063#110:3:G> The post mortem examination that was carried out on the body
+
+of <@> Rebecca Porter</@>
+
+<$A> <ICE-JA:S1B-063#111:3:A> Yes
+<ICE-JA:S1B-063#112:3:A> And the post mortem examination was carried out by who
+
+<$G> <ICE-JA:S1B-063#113:3:G> It was carried out by Dr <@> Haresh Laksmanan</@>
+
+<$A> <ICE-JA:S1B-063#114:3:A> And at the end of the post mortem examination did anything
+
+happen
+
+<$G> <ICE-JA:S1B-063#115:3:G> Yes sir
+
+<$A> <ICE-JA:S1B-063#116:3:A> What happened
+
+<$G> <ICE-JA:S1B-063#117:3:G> I was handed a bullet which was taken from the body of Miss
+
+<@> Porter</@> and I was informed
+
+<$A> <ICE-JA:S1B-063#118:3:A> Hold on
+<ICE-JA:S1B-063#119:3:A> You were handed a bullet
+
+<$G> <ICE-JA:S1B-063#120:3:G> Yes sir
+
+<$A> <ICE-JA:S1B-063#121:3:A> By
+
+<$G> <ICE-JA:S1B-063#122:3:G> Dr <@> Lakshmanan</@>
+
+<$A> <ICE-JA:S1B-063#123:3:A> And he spoke to you
+
+<$G> <ICE-JA:S1B-063#124:3:G> Yes sir
+
+<$A> <ICE-JA:S1B-063#125:3:A> And what did you do with this bullet
+
+<$G> <ICE-JA:S1B-063#126:3:G> I placed it in a brown envelope
+
+<$A> <ICE-JA:S1B-063#127:3:A> Yes
+
+<$G> <ICE-JA:S1B-063#128:3:G> I took it to Olympic Gardens Police Station
+
+<$A> <ICE-JA:S1B-063#129:3:A> Continue
+
+<$G> <ICE-JA:S1B-063#130:3:G> Where it was sealed by me
+
+<$A> <ICE-JA:S1B-063#131:3:A> Yes
+
+<$G> <ICE-JA:S1B-063#132:3:G> I wrote the contents on this envelope and handed same to
+
+Detective Inspector <@> Lodge</@>
+
+<$C> <ICE-JA:S1B-063#133:3:C> You are dropping your voice
+
+<$G> <ICE-JA:S1B-063#134:3:G> I handed it to Detective Inspector <@> Lodge</@> later that
+
+day sir
+
+<$A> <ICE-JA:S1B-063#135:3:A> You said that you wrote on the envelope
+
+<$G> <ICE-JA:S1B-063#136:3:G> Yes sir
+
+<$A> <ICE-JA:S1B-063#137:3:A> Okay
+<ICE-JA:S1B-063#138:3:A> If you see this envelope that you said you sealed would you be
+
+able to identify it
+
+<$G> <ICE-JA:S1B-063#139:3:G> Yes sir
+
+<$A> <ICE-JA:S1B-063#140:3:A> By what means
+
+<$G> <ICE-JA:S1B-063#141:3:G> It was written in my own handwriting and I wrote at the
+
+bottom
+
+<$A> <ICE-JA:S1B-063#142:3:A> Thank you
+<ICE-JA:S1B-063#143:3:A> Could you look at that please
+
+<$G> <ICE-JA:S1B-063#144:3:G> Yes
+
+<$A> <ICE-JA:S1B-063#145:3:A> Yes what
+
+<$G> <ICE-JA:S1B-063#146:3:G> This is the envelope which contained the bullet which I had
+
+received from the doctor at the post mortem and had sealed it
+
+<$C> <ICE-JA:S1B-063#147:3:C> Keep your voice up so that everything you say will be heard
+
+<$G> <ICE-JA:S1B-063#148:3:G> And I wrote the contents on it and sealed it and labelled it
+
+and handed same to Detective Sergeant <@> Lodge</@>
+
+<$A> <ICE-JA:S1B-063#149:3:A> M'Lord may the envelope and its contents be admitted into
+
+evidence as exhibit
+
+<$C> <ICE-JA:S1B-063#150:3:C> How do we know what the content is
+
+<$A> <ICE-JA:S1B-063#151:3:A> With permission please may the seal be broken m'Lord
+
+<$C> <ICE-JA:S1B-063#152:3:C> By him
+
+<$A> <ICE-JA:S1B-063#153:3:A> Yes m'Lord
+
+<$C> <ICE-JA:S1B-063#154:3:C> I suggest that you mark it first
+
+<$A> <ICE-JA:S1B-063#155:3:A> Very well m'Lord
+<ICE-JA:S1B-063#156:3:A> May it be marked one for identification m'Lord
+
+<$C> <ICE-JA:S1B-063#157:3:C> Counsel since you have an Exhibit one already
+
+<$A> <ICE-JA:S1B-063#158:3:A> Very well m'Lord
+<ICE-JA:S1B-063#159:3:A> I have no further questions
+
+<$D> <ICE-JA:S1B-063#160:3:D> I can think of nothing
+
+<$C> <ICE-JA:S1B-063#161:3:C> Thank you
+
+<$E> <ICE-JA:S1B-063#162:3:E> No questions
+
+<$C> <ICE-JA:S1B-063#163:3:C> Thank you officer you may step down</I>
+
+
+<I>
+
+<$A> <ICE-JA:S1B-063#164:4:A> Miss <@> Poland</@>
+
+<$H> <ICE-JA:S1B-063#165:4:H> Yes sir
+
+<$A> <ICE-JA:S1B-063#166:4:A> When you were being questioned by learned counsel Mr <@>
+
+Riddle</@> he had put the following question to you <quote> You looked at <@>
+
+Zoom</@> and say <quote> <indig> a my mother dem kill</indig></quote></quote>
+<ICE-JA:S1B-063#167:4:A> And your answer was yes
+<ICE-JA:S1B-063#168:4:A> At what stage did you look at <@> Zoom</@> and said <quote>
+
+<indig> a my mother dem kill</indig></quote>
+
+<$D> <ICE-JA:S1B-063#169:4:D> I am objecting because in the context that it was asked she
+
+made it quite clear that it was said before she went out the street
+
+<$C> <ICE-JA:S1B-063#170:4:C> Yes
+
+<$D> <ICE-JA:S1B-063#171:4:D> She made it quite clear
+
+<$C> <ICE-JA:S1B-063#172:4:C> That question was prefaced by a point in time
+
+<$A> <ICE-JA:S1B-063#173:4:A> Excuse me
+
+<$C> <ICE-JA:S1B-063#174:4:C> The question was prefaced by a point in time
+
+<$A> <ICE-JA:S1B-063#175:4:A> That is where the ambiguity arises because she denied the
+
+first suggestion the suggestion about voices and she denied it
+
+<$C> <ICE-JA:S1B-063#176:4:C> Yes she denied the question about voices
+
+<$A> <ICE-JA:S1B-063#177:4:A> Yes m'Lord
+
+<$C> <ICE-JA:S1B-063#178:4:C> The particular question you asked was prefaced by a point in
+
+time
+
+<$A> <ICE-JA:S1B-063#179:4:A> A point in time
+
+<$C> <ICE-JA:S1B-063#180:4:C> Yes
+
+<$A> <ICE-JA:S1B-063#181:4:A> Could your Lordship assist me with the exact wording m'Lord
+
+<$C> <ICE-JA:S1B-063#182:4:C> Let me see if I can find it
+
+<$D> <ICE-JA:S1B-063#183:4:D> M'Lord sir if I may assist you
+<ICE-JA:S1B-063#184:4:D> May I remind my friend through you
+
+<$C> <ICE-JA:S1B-063#185:4:C> It is not necessary
+
+<$D> <ICE-JA:S1B-063#186:4:D> Very well
+
+<$C> <ICE-JA:S1B-063#187:4:C> Could you repeat the question against counsel the question
+
+you were about to ask
+<ICE-JA:S1B-063#188:4:C> I am yet to find the section
+
+<$A> <ICE-JA:S1B-063#189:4:A> If she agreed with counsel's suggestion <quote> You looked at
+
+<@> Zoom</@> and say <quote> a my mother dem kill</quote></quote>
+<ICE-JA:S1B-063#190:4:A> I am asking her at what point in time she did that
+<ICE-JA:S1B-063#191:4:A> Almost at the beginning of the cross-examination by Mr <@>
+
+Riddle</@>
+<ICE-JA:S1B-063#192:4:A> Immediately after Exhibit one
+<ICE-JA:S1B-063#193:4:A> There were two suggestions that were put to the witness and she
+
+<$C> <ICE-JA:S1B-063#194:4:C> You say after Exhibit one
+
+<$A> <ICE-JA:S1B-063#195:4:A> Yes m'Lord
+
+<$C> <ICE-JA:S1B-063#196:4:C> Yes I will allow the question
+
+<$A> <ICE-JA:S1B-063#197:4:A> Much obliged
+<ICE-JA:S1B-063#198:4:A> Miss <@> Poland</@> I will repeat the question
+<ICE-JA:S1B-063#199:4:A> You said that you looked at <@> Zoom</@> and said <quote> <indig>
+
+a my mother dem kill</indig></quote>
+<ICE-JA:S1B-063#200:4:A> At what point did you do this
+
+<$H> <ICE-JA:S1B-063#201:4:H> After everything had happened sir
+
+<$A> <ICE-JA:S1B-063#202:4:A> You had also said in answer to a suggestion put to you by
+
+learn counsel that you ran out of the room leaving <@> Zoom</@> and the baby
+
+inside
+<ICE-JA:S1B-063#203:4:A> At what point did you run out of the room leaving <@> Zoom</@> and
+
+the baby inside
+
+<$D> <ICE-JA:S1B-063#204:4:D> I am objecting sir
+<ICE-JA:S1B-063#205:4:D> You are really going too far
+
+<$C> <ICE-JA:S1B-063#206:4:C> Yes
+
+<$D> <ICE-JA:S1B-063#207:4:D> M'Lord sir the sequence that I put to the witness was quite
+
+clear
+<ICE-JA:S1B-063#208:4:D> I put to the witness that voices outside called out to her and
+
+told her what had happened to her mother
+<ICE-JA:S1B-063#209:4:D> And it was in this context m'Lord that these questions and
+
+suggestions were put to the witness
+<ICE-JA:S1B-063#210:4:D> The context did not allow of any time
+
+<$C> <ICE-JA:S1B-063#211:4:C> I will allow the question
+
+<$A> <ICE-JA:S1B-063#212:4:A> Much obliged m'Lord
+<ICE-JA:S1B-063#213:4:A> Miss <@> Poland</@> at what stage did you as you said ran out of
+
+the room leaving <@> Zoom</@> and the baby inside
+
+<$H> <ICE-JA:S1B-063#214:4:H> I leave <@> Zoom</@> and the baby inside two times
+
+<$A> <ICE-JA:S1B-063#215:4:A> When was the first time
+
+<$D> <ICE-JA:S1B-063#216:4:D> I am objecting to that
+<ICE-JA:S1B-063#217:4:D> I am objecting because she said
+
+<$C> <ICE-JA:S1B-063#218:4:C> Counsel I have heard exactly what you said
+
+<$D> <ICE-JA:S1B-063#219:4:D> This is a new question you know
+
+<$C> <ICE-JA:S1B-063#220:4:C> Yes but in light of her answer that is a question counsel can
+
+ask
+<ICE-JA:S1B-063#221:4:C> She said she ran leaving <@> Zoom</@> the baby inside the room two
+
+times
+
+<$D> <ICE-JA:S1B-063#222:4:D> This is a different thing I am bringing to your attention
+<ICE-JA:S1B-063#223:4:D> What I am bringing to your attention is that she said she never
+
+went back out there her own evidence
+
+<$C> <ICE-JA:S1B-063#224:4:C> Counsel she has just given an answer a while ago to crown
+
+counsel that she ran leaving <@> Zoom</@> and the baby inside two times and
+
+crown counsel asked the question <quote> when was the first time</quote>
+<ICE-JA:S1B-063#225:4:C> There is nothing wrong with that question
+
+<$D> <ICE-JA:S1B-063#226:4:D> In spite of the fact that she said she never went back out
+
+there
+
+<$C> <ICE-JA:S1B-063#227:4:C> Overruled
+
+<$A> <ICE-JA:S1B-063#228:4:A> Miss <@> Poland</@> when was the first time
+
+<$H> <ICE-JA:S1B-063#229:4:H> When she called me sir
+
+<$A> <ICE-JA:S1B-063#230:4:A> She who
+
+<$H> <ICE-JA:S1B-063#231:4:H> My mother
+
+<$A> <ICE-JA:S1B-063#232:4:A> And the second time was when
+
+<$H> <ICE-JA:S1B-063#233:4:H> After the police had come sir
+
+<$A> <ICE-JA:S1B-063#234:4:A> Okay
+<ICE-JA:S1B-063#235:4:A> Now the suggestion was put to you by Mr <@> Riddle</@> the
+
+suggestion was you never saw the murder of your mother and the answer was
+
+<quote> yes sir</quote>
+<ICE-JA:S1B-063#236:4:A> What did you mean when you answered yes
+
+<$D> <ICE-JA:S1B-063#237:4:D> I will have to object sir
+
+<$C> <ICE-JA:S1B-063#238:4:C> Mr <@> Riddle</@> Mr <@> Riddle</@>
+
+<$D> <ICE-JA:S1B-063#239:4:D> Yes m'Lord
+
+<$C> <ICE-JA:S1B-063#240:4:C> There are times you can object and times when you shouldn't
+
+<$D> <ICE-JA:S1B-063#241:4:D> Well m'Lord sir I can't for the life of me see where that is
+
+ambiguous
+<ICE-JA:S1B-063#242:4:D> She said she saw the murder
+
+<$C> <ICE-JA:S1B-063#243:4:C> I am aware of whatever she said
+
+<$D> <ICE-JA:S1B-063#244:4:D> And I put to her she didn't
+<ICE-JA:S1B-063#245:4:D> Isn't that quite clear-cut sir
+
+<$C> <ICE-JA:S1B-063#246:4:C> Counsel it may be quite clear to you
+<ICE-JA:S1B-063#247:4:C> I will allow the question to be asked
+<ICE-JA:S1B-063#248:4:C> Yes
+
+<$A> <ICE-JA:S1B-063#249:4:A> Much obliged sir
+<ICE-JA:S1B-063#250:4:A> Yes Miss <@> Poland</@></I>

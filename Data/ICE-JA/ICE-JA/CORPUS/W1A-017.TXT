@@ -1,0 +1,456 @@
+<I>
+
+<p> <ICE-JA:W1A-017#1:1> Theta Theory is the means by which lexical components of
+
+Generative Grammar are represented by syntactic components.
+<ICE-JA:W1A-017#2:1> The theory states that the argument structure or meaning is
+
+represented by the syntax.</p>
+
+<p> <ICE-JA:W1A-017#3:1> Questions ( i) <mention> Jean drinks a lot of water</mention> and
+
+( ib) <mention> Jean drinks.</mention>
+<ICE-JA:W1A-017#4:1> The argument structure of <mention> drink</mention> is <mention>
+
+drink</mention> = <sp> 1</sp>agent <sp> 2</sp>theme.
+<ICE-JA:W1A-017#5:1> In the first sentence in sentence one both the ( agent) which is
+
+<mention> Jean</mention> and the ( theme) which is <mention> a lot of
+
+water</mention> are realized
+<ICE-JA:W1A-017#6:1> In sentence ( b) of number one the argument structure of <mention>
+
+drink</mention> is <sp> 1</sp>agent <sp> 2</sp>theme however the theme role
+
+is optional as only the ( agent) role <mention> Jean</mention> is realized.
+<ICE-JA:W1A-017#7:1> Although there is no theme role present in this sentence because of
+
+the projection principal which states that the meaning is represented in the
+
+syntax we know that <mention> drink</mention> has the same meaning in both (
+
+ia) and ( ib) and so question ( ib) must also have an argument structure
+
+which has two arguments an agent and a theme.
+<ICE-JA:W1A-017#8:1> The theme role in ( ib) is understood even though it is not
+
+present</p>
+
+<p> <ICE-JA:W1A-017#9:1> Similarly in question ( iia) and ( iib) the sentence, <mention>
+
+Jean is eating lunch</mention> and <mention> Jean is eating</mention> the
+
+verb <mention> eat</mention> has two arguments <sp> 1</sp>agent <sp>
+
+2</sp>theme.
+<ICE-JA:W1A-017#10:1> In ( iia) both arguments are realized as <mention> Jean</mention> is
+
+the agent and <mention> lunch</mention> is the theme.
+<ICE-JA:W1A-017#11:1> In sentence ( iib) the agent role is realized <}> <-> where as</-
+
+><+>whereas</+></}> the theme role is optional as it is not present.
+<ICE-JA:W1A-017#12:1> However it is understood that Jean must eat something.</p>
+
+<p> <ICE-JA:W1A-017#13:1> The sentences in ( iii)</p>
+
+<p> <ICE-JA:W1A-017#14:1> ( iiia) <mention> She boiled three eggs</mention> the verb
+
+<mention> boil</mention> has two arguments <sp> 1</sp>agent <sp> 2</sp>theme.
+<ICE-JA:W1A-017#15:1> The agent of this sentence is <mention> she</mention> and the theme
+
+is <mention> three eggs</mention>.
+<ICE-JA:W1A-017#16:1> Sentence ( iiib) <mention> The eggs were boiled.</mention>
+<ICE-JA:W1A-017#17:1> This sentence is a passive sentence.
+<ICE-JA:W1A-017#18:1> The argument structure of the verb <mention> boil</mention> is <sp>
+
+1</sp>agent <sp> 2</sp>theme.
+<ICE-JA:W1A-017#19:1> As a result of this sentence being a passive sentence the agent role
+
+is suppressed.
+<ICE-JA:W1A-017#20:1> As a result the theme role which is ( The eggs) is present and there
+
+is no agent however in order to show that the verb carries an agent a <quote>
+
+by phrase</quote> is introduced <}> <-> there fore</-><+>therefore</+></}>
+
+getting <mention> The eggs were boiled ( by Jean).</mention>
+<ICE-JA:W1A-017#21:1> In sentence ( iiic) <mention> The eggs were boiling</mention> the
+
+verb <mention> boil</mention> has two argument structure <sp> 1</sp>agent
+
+<sp> 2</sp>theme.
+<ICE-JA:W1A-017#22:1> The agent role in this sentence is optional, as only the theme is
+
+present in this sentence the agent is understood.
+<ICE-JA:W1A-017#23:1> Even though these are three different sentence the argument structure
+
+of the verb remains the same as words with similar meaning have similar
+
+argument structure</p>
+
+<p> <ICE-JA:W1A-017#24:1> Sentences ( iva) and ( ivb) ( a) <mention> Mary dreams</mention>
+
+and ( b) <mention> Mary is dreaming of apples.</mention>
+<ICE-JA:W1A-017#25:1> In ( iva) the argument structure of <mention> dream</mention> is <sp>
+
+1</sp>experiencer <sp> 2</sp>theme.
+<ICE-JA:W1A-017#26:1> In sentence ( iva) only the experiencer is realized the theme is
+
+optional in question ( ivb) both the agent <mention> Mary</mention> and the
+
+theme <mention> of apples</mention> is realized.
+<ICE-JA:W1A-017#27:1> Once both sentences have similar meaning then the argument structure
+
+is the same however just as in ( iva) the agent or the theme or even both <}>
+
+<-> maybe</-><+>may be</+></}> optional</p>
+
+<p> <ICE-JA:W1A-017#28:1> If the meanings <}> <-> differe</-><+>differ</+></}> then the
+
+argument structure may differ
+<ICE-JA:W1A-017#29:1> lets take sentences ( va and vb).
+<ICE-JA:W1A-017#30:1> ( a) <mention> Paul bought fruits in the market.</mention>
+<ICE-JA:W1A-017#31:1> The argument structure <sp> 1</sp><}><->recepiant</-
+
+><+>recipient</+></}> <sp> 2</sp>theme <sp> 3</sp>source, the <}> <->
+
+recepiant</- ><+>recipient</+></}> is <mention> Paul</mention> the theme is
+
+<mention> fruits</mention> and the source is <mention> the market</mention>.
+<ICE-JA:W1A-017#32:1> This shows three argument structure.
+<ICE-JA:W1A-017#33:1> Sentence ( vb) which is a different meaning <mention> Mary collected
+
+the books.</mention>
+<ICE-JA:W1A-017#34:1> <mention> Collect</mention> has three argument structure <sp>
+
+1</sp>agent <sp> 2</sp>theme <sp> 3</sp>goal/endpoint
+<ICE-JA:W1A-017#35:1> The agent is <mention> Mary</mention> theme is <mention>
+
+book</mention> and the goal or endpoint is optional as it is not present
+<ICE-JA:W1A-017#36:1> We however know that the book must have been collected from <}> <->
+
+some one</-><+>someone</+></}> or somewhere so it is understood.
+<ICE-JA:W1A-017#37:1> We have two different meaning and so two different argument
+
+structure.</p>
+
+<p> <ICE-JA:W1A-017#38:1> In passive movement we need to first look at some of the
+
+characteristics of passives.
+<ICE-JA:W1A-017#39:1> In passives the morphology <}> <-> of</-> <=> of</=></}> the verb is
+
+affected.
+<ICE-JA:W1A-017#40:1> The agent role is suppressed or the external theta role is absorbed.
+<ICE-JA:W1A-017#41:1> The passive verb <}> <- > looses</-><+>loses</+></}> the ability to
+
+assign structural accusative case to its sister or complement.</p>
+
+<p> <ICE-JA:W1A-017#42:1> Let us now look at the sentence <mention> [ A new bus
+
+stop]<sb>I</sb> was provided [ NP t<sb>I</sb>] for the commuters</mention>.
+<ICE-JA:W1A-017#43:1> In this sentence there is no subject or there is no agent role
+<ICE-JA:W1A-017#44:1> this is because in passive sentences the agent role is suppressed and
+
+so the specifier or subject position is empty.
+<ICE-JA:W1A-017#45:1> The Noun Phrase ( a new bus stop<+>)</+> moved from its original
+
+position ( the direct object).
+<ICE-JA:W1A-017#46:1> The position from which the noun phrase is moved now has a trace.
+<ICE-JA:W1A-017#47:1> The noun phrase moved to the specifier or subject position in order
+
+to get case as the passive verb <mention> 'provided'</mention> has lost its
+
+ability to assign structural accusative case.
+<ICE-JA:W1A-017#48:1> The Noun Phrase moves to the subject position where it gets Nom from
+
+the tense.</p>
+
+<p> <ICE-JA:W1A-017#49:1> Let us now look at a diagram of the passive sentence. <O>
+
+diagram</O>
+
+<p> <ICE-JA:W1A-017#50:1> A chain is formed from the moved entity and trace.
+<ICE-JA:W1A-017#51:1> In the passive sentence the move entity which in this sentence is
+
+<mention> a new bus stop</mention> is the <}> <- >
+
+recipiant</-><+>recipient</+></}> <}> <-> of</-> <=> of </=> </}> case and
+
+trace the <}> <- > recipiant</-><+>recipient</+></}> of &THETA;-role<}>
+<ICE-JA:W1A-017#52:1> this is so as the Noun Phrase was move so that it could receive
+
+case</p>
+
+<p> <ICE-JA:W1A-017#53:1> Let us look at another passive sentence, <mention> The eggs were
+
+boiled.</mention> <O> diagram</O>
+
+<p> <ICE-JA:W1A-017#54:1> What we have here is the Noun Phrase moving from the original
+
+position to the subject position where it will receive Nom Case from the
+
+tense.
+<ICE-JA:W1A-017#55:1> A chain is formed between the trace and the moved entity.
+<ICE-JA:W1A-017#56:1> The moved entity in this sentence which is <mention> the
+
+eggs</mention> is the <}> <-> recipiant</-><+>recipient</+></}> of Case and
+
+trace of &THETA;-role.</p>
+
+<p> <ICE-JA:W1A-017#57:1> In wh-movement, movement occurs to fulfil the correct order for
+
+question formation.
+<ICE-JA:W1A-017#58:1> In wh-movement the morphology of the verb is not affected.
+<ICE-JA:W1A-017#59:1> Movement occur when we need to fulfil the correct word order for
+
+question formation.
+<ICE-JA:W1A-017#60:1> In wh-movement the auxiliary moves to a pre-subject position.
+<ICE-JA:W1A-017#61:1> Now let us look at the wh-movement sentence  <mention> [ <sb>
+
+NP</sb> who]<sp>i</sp> [ <sb> C</sb>have<sb>i</sb>] they [ t<sb>i</sb>]
+
+provided the new bus stop for [ <sb> NP</sb> t<sb>i</sb>]?</mention> <O>
+
+diagram</O>
+
+<p> <ICE-JA:W1A-017#62:1> <mention> Who</mention> which is the moved entity did not move to
+
+receive case it only move to satisfy the correct word order for question
+
+formation and so the chain which developed between the moved entity and
+
+trace, the trace receives both case and &THETA; role from <mention>
+
+provided</mention>.</p>
+
+<p> <ICE-JA:W1A-017#63:1> Let us now look at another <}> <-> wh-move
+
+ment</-><+>wh-movement</+></}>.
+<ICE-JA:W1A-017#64:1> <mention> Where is he going?</mention></p> <O> diagram</O>
+
+<p> <ICE-JA:W1A-017#65:1> The wh-word is moved to first position or specifier position in
+
+order to satisfy the requirement for question formation.
+<ICE-JA:W1A-017#66:1> In the chain trace is <}> <-> recepiant</- ><+>recipient</+></}> of
+
+case from <mention> go</mention> and &THETA; role from <mention>
+
+go</mention>.</p>
+
+<p> <ICE-JA:W1A-017#67:1> Whereas passive movement is needed so that the Noun Phrase or
+
+move entity will receive case in <}> <-> wh-move
+
+ment</-><+>wh-movement</+></}> the moved entity did not move to get case and
+
+so the original position or trace receives case as well as &THETA; role.
+<ICE-JA:W1A-017#68:1> Whereas the morphology of the verb is affected in passive movement
+
+the morphology of the verb is not affected in wh-movement.
+<ICE-JA:W1A-017#69:1> The auxiliary in wh-movement is affected as it is moved to a
+
+pre-subject position
+<ICE-JA:W1A-017#70:1> Movement is needed in both wh- movement and passive movement to
+
+fulfil the requirements needed for ( i) case assignment in passive and
+
+correct word order in wh.</p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1A-017#71:2> Passive movement entails a number of properties.
+<ICE-JA:W1A-017#72:2> In looking at a passive sentence in English the first thing to note
+
+is that unlike active sentences the verb is affected in that it exist in the
+
+form of a participial with the use of the verb <mention> to be</mention> in
+
+the form of an auxiliaries.
+<ICE-JA:W1A-017#73:2> One would therefore see as in the example given <mention> was
+
+provided</mention>.
+<ICE-JA:W1A-017#74:2> <mention> Was</mention> being the auxiliary and <mention>
+
+provided</mention> being the past participle.
+<ICE-JA:W1A-017#75:2> When attempting any kind of movement as regards to passives a number
+
+of features or properties becomes evident.
+<ICE-JA:W1A-017#76:2> These feature are peculiar to passive move<l>ment. <del>
+
+exclusively</del>.
+<ICE-JA:W1A-017#77:2> These properties include the following:</p>
+
+<p> <ICE-JA:W1A-017#78:2> The morphology of the verb is affected.
+<ICE-JA:W1A-017#79:2> The verb in passives are not marked for tense as in the example cited
+
+above verb exists in a participial form along with an auxiliary.
+<ICE-JA:W1A-017#80:2> Again in the example provided the verb exist in the past participle 
+
+<mention> who + provided</mention>.</p>
+
+<p> <ICE-JA:W1A-017#81:2> Another property of passive movement is that the verb is unable
+
+to assign the external <del> theta role</del> argument which is normally the
+
+agent and usually occurs in subject position.
+<ICE-JA:W1A-017#82:2> It is said in the literature that its theta assigning ability has
+
+been absorbed.
+<ICE-JA:W1A-017#83:2> Looking at the given example the <del> the</del> argument structure
+
+of the verb provided would be <del> <.> reli</.></del> realized in one, the
+
+<quote> agent</quote>, that being <mention> the commuters</mention> and
+
+the <quote> theme</quote> the thing being provided.
+<ICE-JA:W1A-017#84:2> In an active sentence the agent would normally be present in subject
+
+position or as an external argument.
+<ICE-JA:W1A-017#85:2> In the passive sentence the agent shows up <del> prepositional</del>
+
+at the end in a phrase introduced by <mention> for</mention>.
+<ICE-JA:W1A-017#86:2> The property of passives of the verb not being able to assign
+
+external theta role must be taken care of in that <mention> the
+
+commuters</mention> being the agent and hence the external argument must be
+
+moved into its correct position.
+<ICE-JA:W1A-017#87:2> This is accommodated by the fact that the agent position was empty
+
+and can therefore accept the move.
+<ICE-JA:W1A-017#88:2> After this movement a trace is shown and this is shown with the use
+
+of co-indexing as can be seen in the given example.</p>
+
+<p> <ICE-JA:W1A-017#89:2> Moving on to another proper<l>ty.
+<ICE-JA:W1A-017#90:2> It is also seen <}> <-> were</- ><+>where</+></}> the verb is also
+
+because of its lack of finite <.> infl</.> is unable to assign case.
+<ICE-JA:W1A-017#91:2> Once again the literature says that its case assigning ability has
+
+been absorbed because of the participial form of the verb.
+<ICE-JA:W1A-017#92:2> The fact that the agent that being <mention> the
+
+com<l>muters</mention> was moved into the ex<l>ternal argument position.
+<ICE-JA:W1A-017#93:2> The noun phrase would then get case from <quote> finite <.>
+
+infl</.></quote>.
+<ICE-JA:W1A-017#94:2> The case would be nominative as it would get its case finite <.>
+
+infl</.> or inflection <del> of</del> on the verb <mention>
+
+provide</mention>.
+<ICE-JA:W1A-017#95:2> The active sentence would read as follows</p>
+
+<p> <ICE-JA:W1A-017#96:2> <quote> The commuters were provided with a new
+
+bus-stop<+></+></quote>.</p>
+
+<p> <ICE-JA:W1A-017#97:2> The argument structure of the verb <mention> provide</mention>
+
+here constitutes an agent and theme.
+<ICE-JA:W1A-017#98:2> The agent being <mention> the commuters</mention> and the theme being
+
+the <mention> bus-stop</mention>.
+<ICE-JA:W1A-017#99:2> The first noun-phrase would then get case because of this
+
+movement.</p>
+
+<p> <ICE-JA:W1A-017#100:2> Other properties of passive movement is that movement is
+
+obligatory.
+<ICE-JA:W1A-017#101:2> Movement must occur so that noun phrases get structural case.
+<ICE-JA:W1A-017#102:2> <}> <-> Were</-><+>Where</+></}> movement occurs trace which is
+
+visible exist and is represented by co-indexing.</p>
+
+<p> <ICE-JA:W1A-017#103:2> <h> <ul> Wh-movement</ul></h></p>
+
+<p> <ICE-JA:W1A-017#104:2> Unlike passive movement argument structure is fully realized in
+
+the interrogative sentence.
+<ICE-JA:W1A-017#105:2> In wh-move<l>ment the subject and <}> <->
+
+auxillary</-><+>auxiliary</+></}> is moved into <}> <-> pre
+
+subject</-><+>pre-subject</+></}> and <}> <-> auxillary</-
+
+><+>auxiliary</+></}> positions respectively.
+<ICE-JA:W1A-017#106:2> What is produced are interrogative sentences with the
+
+wh-constituent.
+<ICE-JA:W1A-017#107:2> These include the <mention> what</mention>, <mention> who</mention>,
+
+<mention> why</mention> and so on words.</p>
+
+<p> <ICE-JA:W1A-017#108:2> It is noticeable that at the D-structure level the
+
+wh-constituent is present so the given example would read as follows at the
+
+deep structure level
+<ICE-JA:W1A-017#109:2> <quote> They have provided <del> who with</del> new
+
+bus-stops<->?</-> for who?<+></+></quote></p>
+
+<p> <ICE-JA:W1A-017#110:2> The first property of wh-move<l>ment is that the <mention>
+
+who</mention> would be moved into word initial position in the sentence.
+<ICE-JA:W1A-017#111:2> Since <mention> who</mention> occupied the noun phrase at the end
+
+of the sentence a trace would be left.
+<ICE-JA:W1A-017#112:2> <mention> Who</mention> is then placed into the specifier position
+
+of the sentence.
+<ICE-JA:W1A-017#113:2> So the tree diagram would look like the following: <O> diagram</O>
+
+<p> <ICE-JA:W1A-017#114:2> The <}> <-> auxillary</-><+>auxiliary</+></}> <mention>
+
+have</mention> would then be moved into <quote> C</quote> position.
+<ICE-JA:W1A-017#115:2> This is so because wh-movement dictates that head-to-head movement
+
+must occur so hence the <}> <-> auxillary</- ><+>auxiliary</+></}> <mention>
+
+have</mention> must be placed under <quote> C</quote>.
+<ICE-JA:W1A-017#116:2> <del> I</del> With this movement a chain is also established and
+
+hence <quote> t</quote> for trace is written with the use of
+
+co-indexing.</p>
+
+<p> <ICE-JA:W1A-017#117:2> In the literature it has been said that chains and traces must
+
+be shown or made visible because it is through traces that the noun phrase
+
+will get its structural case.
+<ICE-JA:W1A-017#118:2> This is very imp<l>ortant as syntactic theory states that every noun
+
+phrase must be assigned a theta-role and case.</p>
+
+<p> <ICE-JA:W1A-017#119:2> In concluding movement is very necessary in syntax.
+<ICE-JA:W1A-017#120:2> It was seen that in passive movement for the noun phrase to be
+
+assigned case, movement was necessary since the ability of the verb to do so
+
+was absorbed.
+<ICE-JA:W1A-017#121:2> Because of the movement the verb was able to assign the agent or
+
+external argument.
+<ICE-JA:W1A-017#122:2> In wh-movement, movement was nece<l>ssary so to form the
+
+interrogative sentence and hence <del> aid the ability of</del> allow for the
+
+assigning of case through trace.</p>
+
+<p> <ICE-JA:W1A-017#123:2> Theta theory for a fact claims that the meaning of a word is
+
+reflected in its argument structure.
+<ICE-JA:W1A-017#124:2> This theory states that every noun phrase must be assigned a theta
+
+role.
+<ICE-JA:W1A-017#125:2> This is realized by looking at the pre<l>dicates in sentences
+
+identifying the activity of the predicate; based on this noun phrases are
+
+assigned specific theta roles.</p></I>

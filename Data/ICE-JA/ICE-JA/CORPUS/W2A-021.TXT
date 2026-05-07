@@ -1,0 +1,423 @@
+<I>
+
+<p> <ICE-JA:W2A-021#1:1> <h> <bold> MEASUREMENTS OF RADIOACTIVITY IN JAMAICAN BUILDING
+
+MATERIALS AND &gamma; DOSE EQUIVALENTS IN A PROTOTYPE RED MUD HOUSE </bold>
+
+</h> </p>
+
+<p> <ICE-JA:W2A-021#2:1> Willard R. Pinnock </p>
+
+<p> <ICE-JA:W2A-021#3:1> Department of Chemistry, University of the West Indies, Mona
+
+Campus, Kingston 7, Jamaica </p>
+
+<p> <ICE-JA:W2A-021#4:1> <bold> <it> Abstract </it> -
+<ICE-JA:W2A-021#5:1> Concentrations of <sp> 226 </sp> Ra, <sp> 232 </sp> Th, and <sp> 40
+
+</sp> K measured in bauxite waste, local building materials, and soils are
+
+presented and used in model equations to estimate the effective &gamma;
+
+dose-equivalent increments over background in the center of a standard-sized
+
+room in a prototype house.
+<ICE-JA:W2A-021#6:1> Calculated and measured values compare reason <l> ably well. </bold>
+
+</p>
+
+<p> <ICE-JA:W2A-021#7:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-021#8:1> JAMAICAN bauxite and its process waste, red mud, are known to
+
+contain levels of <sp> 238 </sp> U and <sp> 232 </sp> Th that are sig <l>
+
+nificantly greater than those found in most other local soils.
+<ICE-JA:W2A-021#9:1> This was confirmed ( Pinnock and Graham 1988) in measurements that
+
+were carried out as part of an effort to characterize the waste. One of the
+
+potential uses of red mud noted in the characterization studies is its use in
+
+constructing buildings.
+<ICE-JA:W2A-021#10:1> The material binds together strongly in its natural dry state, even
+
+without the addition of binders, and can be used to produce a building block
+
+that looks very similar to a traditional red clay brick.
+<ICE-JA:W2A-021#11:1> Questions about radiation hazards to building occupants have prompted
+
+this study of the radiation characteristics of red mud when used as a
+
+building material. </p>
+
+<p> <ICE-JA:W2A-021#12:1> Since it is the increment of dose above background that is the
+
+appropriate basis for judging the hazard in <l> volved in using the material
+
+( ICRP 1984), measurements are required of the activity present, not only in
+
+red mud, but also in other materials that are normally used for con <l>
+
+struction purposes.
+<ICE-JA:W2A-021#13:1> Activities of <sp> 226 </sp> Ra, <sp> 232 </sp> Th, and <sp> 40 </sp>
+
+K form the primary basis for such a hazard assessment; thus, they were
+
+determined in some relevant materials.
+<ICE-JA:W2A-021#14:1> This note describes the methodology and the results obtained. </p>
+
+<p> <ICE-JA:W2A-021#15:1> As a further step in evaluating the radiation hazard, effective
+
+&gamma; dose equivalents were deduced from measure <l> ments made in a
+
+prototype house constructed with red mud blocks.
+<ICE-JA:W2A-021#16:1> Dose-equivalent calculations were also made using the measured
+
+radionuclide activities by employing model equations and appropriate values
+
+for constants de <l> rived from the literature.
+<ICE-JA:W2A-021#17:1> This was done as a test for the usefulness of these model equations
+
+when predicting doses, with a view to use such equations more generally in
+
+deducing appropriate limits for radioactivity in building material.
+<ICE-JA:W2A-021#18:1> The results of measurement and calculation are presented and
+
+discussed below. </p>
+
+<p> <ICE-JA:W2A-021#19:1> <h> <bold> MATERIALS AND METHODS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-021#20:1> A &gamma;-ray spectrometer with a 7.5- x 7.5-cm sodium iodide
+
+detector was used for the measurements.
+<ICE-JA:W2A-021#21:1> Pulses were shaped and amplified using a standard nuclear spec <l>
+
+troscopy amplifier, and pulse-height analysis and accu <l> mulation of
+
+spectra were performed using a 1024-channel personal computer analyzer board,
+
+PCA-1000, <fnr> * </fnr> in an IBM personal computer. <fnr> <sp> + </sp>
+
+</fnr> <footnote>
+<ICE-JA:W2A-021#22:1> * The Nucleus Inc., Oak Ridge, TN. </footnote> <footnote>
+<ICE-JA:W2A-021#23:1> <sp> + </sp> IBM Inc., Sales and Services, Boca Raton, FL.
+
+</footnote> </p>
+
+<p> <ICE-JA:W2A-021#24:1> Radium-226 and <sp> 232 </sp> Th activities were determined from
+
+counts obtained in two regions of the spectra of samples, shown as regions I
+
+and II in Fig. 1, where the radionuclides and their progenies gave relatively
+
+high count rates.
+<ICE-JA:W2A-021#25:1> In region I ( 280 to 370 keV) the main con <l> tributing nuclide is
+
+<sp> 214 </sp> Pb with peaks at 295 and 352 keV, but there is some
+
+interference from <sp> 228 </sp> Ac at 328 and 338 keV and <sp> 212 </sp> Pb
+
+at 300 keV.
+<ICE-JA:W2A-021#26:1> In region II ( 225 to 270 keV), but there is a small contribution
+
+from <sp> 214 </sp> Pb is the main contributor through its peak at 239 keV,
+
+but there is a small contribution from <sp> 214 </sp> Pb through its peak at
+
+242 keV.
+<ICE-JA:W2A-021#27:1> The situation is given in more detail in Table 1, where the origin of
+
+the various &gamma; rays that occur and their decay intensities are given.
+<ICE-JA:W2A-021#28:1> The interference in the region of interest from other radionuclides
+
+was esti <l> mated using data from standard radionuclide sources, and counts
+
+in each region of interest were corrected accord <l> ingly. </p> <O> graph
+
+</O> <O> caption </O>
+
+<p> <ICE-JA:W2A-021#29:1> Background was subtracted by extrapolating the trend from higher
+
+energies, as shown by the dotted line in Fig. 1.
+<ICE-JA:W2A-021#30:1> The accuracy of this procedure was verified and refined by plotting
+
+corrected counts against known activ <l> ities of standards for each region.
+<ICE-JA:W2A-021#31:1> The plots passed through the origin when the background correction
+
+was accurately estimated.
+<ICE-JA:W2A-021#32:1> Standards employed in the procedure include International Atomic
+
+Energy Agency ( IAEA) standards S-12 and s-16 ( IAEA 1987) and an accurately
+
+determined sand sample obtained from the National Radiological Protection
+
+Board in Britain. </p>
+
+<p> <ICE-JA:W2A-021#33:1> Potassuim-40 was determined by its counts under the peak centered
+
+at 1461 keV, with calibration performed using samples of highly pure
+
+potassium sulfate.
+<ICE-JA:W2A-021#34:1> Potassium-40 was assumed to be 0.0117% of the potassium in these
+
+samples ( Weast 1988).
+<ICE-JA:W2A-021#35:1> Verifications performed with mixed standards, i.e., standards
+
+containing <sp> 40 </sp> K, <sp> 226 </sp> Ra, and <sp> 232 </sp> Th,
+
+revealed a significant contribution to the <sp> 40 </sp> K peak by the <sp>
+
+238 </sp> U/ <sp> 226 </sp> Ra series.
+<ICE-JA:W2A-021#36:1> This was not surprising because the peak had a
+
+full-width-tenth-maximum of nearly 200 keV; thus, a contribution due to the
+
+low-intensity <sp> 214 </sp> Bi peaks between 1,360 and 1,560 keV could be
+
+expected ( see Table 1).
+<ICE-JA:W2A-021#37:1> The contribution was estimated from the known intensities, the <sp>
+
+226 </sp> Ra content of the sample, and the efficiency of the detector in
+
+this region and was sub <l> tracted from the counts obtained for each sample
+
+under this peak. </p>
+
+<p> <ICE-JA:W2A-021#38:1> The samples examined included sand and gravel, ce <l> ment, soil,
+
+red mud, concrete aggregates, wood, and gyp <l> sum ceiling tiles.
+<ICE-JA:W2A-021#39:1> Only two samples of cement and local gypsum were examined because
+
+there is only one man <l> ufacturer of each on the island.
+<ICE-JA:W2A-021#40:1> Sand and gravel and soil samples were taken from representative
+
+locations in the eastern half of the island, while wood and imported gyp <l>
+
+sum were taken at random from stocks imported for local use.
+<ICE-JA:W2A-021#41:1> Samples were crushed, where necessary, to less than 2-mm particle
+
+sizes, dried overnight at 110 &degree; C, and packed into flat tins ( 7 cm
+
+diameter x 3cm) where they were <O> caption </O> <O> table </O> sealed and
+
+left for about 5 wk before they were assayed.
+<ICE-JA:W2A-021#42:1> An average of about 60 g of material was present in each container.
+
+</p>
+
+<p> <ICE-JA:W2A-021#43:1> The procedures described here gave results with un <l>
+
+certainties on the order of &plus-minus; 7%, &plus-minus; 15%, and
+
+&plus-minus; 25% for the activity concentrations, and limits of detection of
+
+4, 2, and 40 By kg <sp> - 1 </sp> for <sp> 226 </sp> Ra, <sp> 232 </sp> Th,
+
+and <sp> 40 </sp> K, respectively.
+<ICE-JA:W2A-021#44:1> The large uncertainty and limit of detection for <sp> 40 </sp> K
+
+arose because of fairly high background counts for this nuclide on the
+
+detector system, presumably because of the potas <l> sium contained in the
+
+crystal/photomultiplier unit.
+<ICE-JA:W2A-021#45:1> The uncertainty could be reduced somewhat by increasing the counting
+
+time from 6,000s to 12,000s, but this was con <l> sidered unnecessary in all
+
+but the wood and gypsum sam <l> ples, where the low density of the material
+
+meant that less than 15g were contained in the sample tins; thus, the net
+
+counts were rather low. </p>
+
+<p> <ICE-JA:W2A-021#46:1> Comparing values obtained on samples of the same origin analysed
+
+by this method and those obtained in <l> dependently by Neutron Activation
+
+Analysis gives an idea of the accuracy of <sp> 232 </sp> Th measurements.
+<ICE-JA:W2A-021#47:1> Company B mud ( 350,384 Bq kg <sp> - 1 </sp> ) Company A mud (
+
+328,366 Bq kg <sp> - 1 </sp> ) , and cement ( 10,8.6 Bq kg <sp> - 1 </sp> )
+
+all gave values by the two methods, which fall within &plus-minus; 15% of
+
+each other. </p>
+
+<p> <ICE-JA:W2A-021#48:1> <h> <bold> RESULTS AND DISCUSSION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-021#49:1> The results are given in Table 2, where typical en <l>
+
+vironmental levels of the radionuclides can be seen in all materials except
+
+those derived from red mud or contam <l> inated by bauxitic soils.
+<ICE-JA:W2A-021#50:1> Imported gypsum has significantly enhanced levels of <sp> 40 </sp> K
+
+over that of other materials, but this is not considered a significant hazard
+
+in most circum <l> stances because the mass of board used is typically quite
+
+small. </p>
+
+<p> <ICE-JA:W2A-021#51:1> To put the activities obtained into the context of hazards to
+
+building occupants, the effective &gamma; dose equiv <l> alents have been
+
+estimated for a standard-sized room, as <l> suming a relationship between
+
+activity and dose equiva <l> lent of the following form ( Ackers et al.
+
+1984): </p> <O> formula </O>
+
+<p> <ICE-JA:W2A-021#52:1> Here, <it> D </it> is the effective dose equivalent resulting
+
+from &gamma; emitters in the building material; <it> Q <sb> K </sb> </it> ,
+
+<it> Q <sb> Ra </sb> </it> , and <it> Q <sb> Th </sb> </it> are factors
+
+representing the absorbed dose rate in air at the center of the room ( Gyh
+
+<sp> - 1 </sp> per Bq kg <sp> - 1 </sp> ) ; <it> C <sb> K,i </sb> </it> ,
+
+<it> C <sb> Ra,i </sb> </it> , and <it> C <sb> Th,i </sb> </it> represent the
+
+activity concentrations of each of the radionuclides in material <it> i </it>
+
+, and <it> m <sb> i </sb> </it> is the mass fraction of each type of material
+
+used in the construction. <it> Y </it> is essentially a factor that converts
+
+absorbed dose in air to effective dose equivalent in humans ( SvGy <sp> - 1
+
+</sp> ) , and <it> T </it> is the number of hours per year the occupant is
+
+inside the room. </p>
+
+<p> Coefficients calculated by several different methods have been reported
+
+by Koblinger ( 1994) for a <quote> " standard" </quote> room of similar size,
+
+wall thickness, and wall density as the room examined in our prototype house.
+<ICE-JA:W2A-021#53:1> Typical values for these coefficients are given as 0.61, 6.94, and
+
+8.42 &gamma; Gy y <sp> - 1 </sp> per Gy kg <sp> - 1 </sp> for <it> Q <sb> K
+
+</sb> </it> , <it> Q <sb> Ra </sb> </it> , and <it> Q <sb> Th </sb> </it> ,
+
+respectively, for a room with dimensions 5 x 4 x 2.8 m <sp> 3 </sp> and walls
+
+20 cm thick, constructed of material with a density of 2.32 x 10 <sp> 3 </sp>
+
+kg m <sp> - 3 </sp> .
+<ICE-JA:W2A-021#54:1> Here, the room is assumed to be occupied 8,760 h y <sp> - 1 </sp> .
+<ICE-JA:W2A-021#55:1> The room in the prototype house has dimensions of 4.8 x 3.7 x 2.8 m
+
+<sp> 3 </sp> and has walls just over 20 cm thick with density of about 2.0 x
+
+10 <sp> 3 </sp> kg m <sp> - 3 </sp> . Koblinger's anal <l> ysis ( 1978)
+
+suggests that these differences in size and wall density are not likely to
+
+make a significant difference in <O> caption </O> <O> table </O> the exposure
+
+or, by implication, in the effective dose equivalent at the center of the two
+
+rooms. However, unlike Koblinger's standard room, the room in the prototype
+
+house has significant wall area left void for windows and doors.
+<ICE-JA:W2A-021#56:1> It is not an isolated structure but part of a house that has overall
+
+dimensions of 6.7 x 6.7 x 2.8 m <sp> 3 </sp> .
+<ICE-JA:W2A-021#57:1> Thus, there are smaller adjoining rooms on one side and in the back.
+<ICE-JA:W2A-021#58:1> Additionally, the roof and floor are constructed of conventional
+
+concrete, and the walls are constructed of red mud blocks. </p>
+
+<p> <ICE-JA:W2A-021#59:1> To consider these differences when making an esti <l> mate of the
+
+effective dose equivalent, the contribution of the walls was separated from
+
+the contribution of the roof and floor.
+<ICE-JA:W2A-021#60:1> The contribution of the walls to the exposure and, by implication, to
+
+the effective dose equivalent at the center of a room is nearly 25% in all
+
+cases in the literature where the contributions are separated ( Koblin <l>
+
+ger 1978; Standen 1979; Mustonen 1984).
+<ICE-JA:W2A-021#61:1> Thus, the contribution of the walls in the room of the prototype
+
+house can be found from the following equation: </p> <O> formula </O>
+
+<p> <ICE-JA:W2A-021#62:1> Here the coefficients <it> Q <sb> K </sb> </it> , <it> Q <sb> Ra
+
+</sb> </it> , and <it> Q <sb> Th </sb> </it> are taken as 25% of those given
+
+in eqn ( 1); <it> m </it> is taken as 76%, since win <l> dows, doors, and
+
+conventional concrete occupy the re <l> maining 24% of the wall space. </p>
+
+<p> <ICE-JA:W2A-021#63:1> Nuclide concentrations in the walls are taken as those for red
+
+mud building blocks given in Table 2.
+<ICE-JA:W2A-021#64:1> <it> Y </it> , the con <l> version factor for absorbed dose in air to
+
+effective dose equivalent in the human body, is taken as 0.7 Sv Gy <sp> - 1
+
+</sp> ( UNSCEAR 1982).
+<ICE-JA:W2A-021#65:1> The contribution of the roof and floor is then calculated using a
+
+similar equation with coefficients that are the remaining 75% of the quoted
+
+values.
+<ICE-JA:W2A-021#66:1> The radionuclide concentrations used for the floor and roof are those
+
+for recent concrete aggregates reported in Ta <l> ble 2. </p>
+
+<p> <ICE-JA:W2A-021#67:1> An effective dose equivalent of 0.54 &plus-minus; 0.05 mSv y <sp>
+
+- 1 </sp> at the center of the room was obtained, but this is an
+
+underestimate because the effect of the walls in the ad <l> jacent rooms was
+
+not considered.
+<ICE-JA:W2A-021#68:1> Koblinger ( 1984) sug <l> gests as much as a 40% increase in the
+
+effective dose-equivalent rate at the center of a room because of an <quote> "
+
+in <l> finite plane network" </quote> of adjacent rooms, when the wall
+
+thicknesses are of the order of 5 cm, but finds the contri <l> bution to be
+
+almost negligible when the walls are of the order of 30 cm or more.
+<ICE-JA:W2A-021#69:1> In this case, with just two adjacent rooms and wall thicknesses over
+
+20 cm, an increase of less than 5% would be expected.
+<ICE-JA:W2A-021#70:1> An effective &gamma; dose equivalent of approximately 0.57
+
+&plus-minus; 0.05 mSv y <sp> - 1 </sp> is, therefore, predicted from the
+
+building material used to construct this room, when this increase is
+
+included. </p>
+
+<p> <ICE-JA:W2A-021#71:1> Measurements made with thermoluminescent de <l> tectors exposed
+
+in film-badge- type card-holders give a value of 1.12 &plus-minus; 0.16 mGy y
+
+<sp> - 1 </sp> for the absorbed dose to deep tissues at the center of the
+
+room.
+<ICE-JA:W2A-021#72:1> This converts to an effective dose equivalent of 0.78 &plus-minus;
+
+0.11 mSv y <sp> - 1 </sp> when the conversion factor of 0.7 Sv Gy <sp> - 1
+
+</sp> is applied.
+<ICE-JA:W2A-021#73:1> The mea <l> sured value differs from the calculated value by 0.21
+
+&plus-minus; 0.12 mSv y <sp> - 1 </sp> a difference that can be attributed
+
+quite reasonably to cosmic-ray radiation and radiation from the subjacent
+
+soil. </I>

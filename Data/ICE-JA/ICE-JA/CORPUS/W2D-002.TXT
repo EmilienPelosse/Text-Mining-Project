@@ -1,0 +1,601 @@
+<I>
+
+<p> <h> <bold> Jamaican Standard for cosmetics </h> </p>
+
+<p> <ICE-JA:W2D-002#1:1> <h> Part 7: Method of test for the efficacy of antimicrobial </p>
+
+<p> preservatives in water-based cosmetics </h> </p>
+
+<p> <ICE-JA:W2D-002#2:1> <h> 1. Scope </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#3:1> This standard specifies the test method used for determining the
+
+suitability of preservatives for use in water-based cosmetics.
+<ICE-JA:W2D-002#4:1> It sets out minimum requirements for the performance of preservatives
+
+in the cosmetics. </p>
+
+<p> <ICE-JA:W2D-002#5:1> <h> <bold> 2. Definition </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#6:1> For the purpose of this standard the following definitions apply:
+
+</p>
+
+<p> <ICE-JA:W2D-002#7:1> <bold> 2.1 antimicrobial activity. </bold>
+<ICE-JA:W2D-002#8:1> The degree or extent to which the growth of microorganisms is reduced
+
+or inhibited. </p>
+
+<p> <ICE-JA:W2D-002#9:1> <bold> 2.2 challenge organisms. </bold>
+<ICE-JA:W2D-002#10:1> The organisms used to test the ability of the preservative system to
+
+inhibit the growth of microorganisms. </p>
+
+<p> <ICE-JA:W2D-002#11:1> <bold> 2.3 preservative. </bold>
+<ICE-JA:W2D-002#12:1> Any chemical or group of chemicals which is designed primarily to sup
+
+<l> press the growth of microorganisms. </p>
+
+<p> <ICE-JA:W2D-002#13:1> <bold> 2.4 water-based cosmetics. </bold>
+<ICE-JA:W2D-002#14:1> Cosmetic products which have water as the main ingredient and the
+
+emulsion is of the oil/water ( o/w) type. </p>
+
+<p> <ICE-JA:W2D-002#15:1> <h> <bold> 3. Summary of Method </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#16:1> The preservative system is challenged by inoculating the cosmetic
+
+under test with known concentrations of different organisms.
+<ICE-JA:W2D-002#17:1> The microbiological test method outlined ( see clause <bold> 6
+
+</bold> ) is used to determine the antimicrobiological activity ( see <bold>
+
+2.1 </bold> ) of the preservative(s) used in the inoculation. </p>
+
+<p> <ICE-JA:W2D-002#18:1> <h> <bold> 4. Significance </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#19:1> This method should be used to determine if a chemical or group of
+
+chemicals is applic <l> able as a cosmetic preservative. </p>
+
+<p> <ICE-JA:W2D-002#20:1> <h> <bold> 5. Materials </p>
+
+<p> <ICE-JA:W2D-002#21:1> 5.1 Challenge microorganisms </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#22:1> <bold> 5.1.1 </bold> The following organisms should be used as
+
+challenge microorganisms: </p>
+
+<p> <ICE-JA:W2D-002#23:1> <it> Pseudomonas aeruginosa </it> ATCC No. 9027 </p>
+
+<p> <ICE-JA:W2D-002#24:1> <it> Enterobacter aerogenes </it> ATCC No. 13048 </p>
+
+<p> <ICE-JA:W2D-002#25:1> <it> Staphylococcus aureus </it> ATCC No. 6538 </p>
+
+<p> <ICE-JA:W2D-002#26:1> <it> Candida albicans </it> ATCC No. 10231 </p>
+
+<p> <ICE-JA:W2D-002#27:1> <it> Aspergillus niger </it> ATCC No. 16404 </p>
+
+<p> <ICE-JA:W2D-002#28:1> <it> Escherichia coli </it> ATCC No. 8739 </p>
+
+<p> <ICE-JA:W2D-002#29:1> <bold> 5.1.2 </bold> Spoilage microorganisms, isolated from
+
+cosmetics, when available can be used in addition to the microorganisms
+
+identified in <bold> 5.1.1. </bold> </p>
+
+<p> <ICE-JA:W2D-002#30:1> <h> <bold> 5.2 Culture media </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#31:1> <bold> 5.2.1 </bold> For cultivation of challenge organisms the
+
+following media should be used: </p>
+
+<p> <ICE-JA:W2D-002#32:1> ( a)Nutrient agar; </p>
+
+<p> <ICE-JA:W2D-002#33:1> ( b)Tryptic soy agar; </p>
+
+<p> <ICE-JA:W2D-002#34:1> ( c)Sabouraud dextrose agar. </p>
+
+<p> <ICE-JA:W2D-002#35:1> <bold> 5.2.2 </bold> For plating inoculated samples the following
+
+media should be used: </p>
+
+<p> <ICE-JA:W2D-002#36:1> ( a)Letheen agar; </p>
+
+<p> <ICE-JA:W2D-002#37:1> ( b)Tryptic soy agar; </p>
+
+<p> <ICE-JA:W2D-002#38:1> ( c)Sabouraud dextrose agar; </p>
+
+<p> <ICE-JA:W2D-002#39:1> ( d)Microbial content test agar. </p>
+
+<p> <ICE-JA:W2D-002#40:1> <h> <bold> 5.3 Solutions </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#41:1> ( a)0.1% ( w/v) peptone water; </p>
+
+<p> <ICE-JA:W2D-002#42:1> ( b)Letheen broth; </p>
+
+<p> <ICE-JA:W2D-002#43:1> ( c)Letheen broth with triton X-100 (
+
+Isooctylphenoxypolyethoxyethanol).
+<ICE-JA:W2D-002#44:1> Use if sample contains waxes; </p>
+
+<p> <ICE-JA:W2D-002#45:1> ( d)Thioglycollate broth ( use if heavy metals are present in the
+
+preservative formu <l> lation); </p>
+
+<p> <ICE-JA:W2D-002#46:1> ( e)0.1% peptone water with 0.05% ( w/v) polysorbate 80 ( for
+
+harvesting fungal growth). </p>
+
+<p> <ICE-JA:W2D-002#47:1> <h> <bold> 5.4 Glassware </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#48:1> <bold> 5.4.1 </bold> For test samples the following should be
+
+used: </p>
+
+<p> <ICE-JA:W2D-002#49:1> ( a)Wide mouth 1.37 mL screw-capped glass jars ( for cream); </p>
+
+<p> <ICE-JA:W2D-002#50:1> ( b)Screw-capped glass bottle/milk dilution bottle ( for
+
+liquids). </p>
+
+<p> <ICE-JA:W2D-002#51:1> <bold> 5.4.2 </bold> For challenge cultures the following should
+
+be used: </p>
+
+<p> <ICE-JA:W2D-002#52:1> ( a)Glass beads ( 2 mm to 3 mm diameter); </p>
+
+<p> <ICE-JA:W2D-002#53:1> ( b)Milk dilution bottles. </p>
+
+<p> <ICE-JA:W2D-002#54:1> <bold> 5.4.3 </bold> <it> Miscellaneous glassware </it> </p>
+
+<p> <ICE-JA:W2D-002#55:1> ( a)Petri dishes ( 100 mm x 15 mm) </p>
+
+<p> <ICE-JA:W2D-002#56:1> ( b)Scraper rod ( 6 mm diameter); </p>
+
+<p> <ICE-JA:W2D-002#57:1> ( c)Glass rod with a right angle 12.7 mm from one end to give
+
+19.05 mm arm; </p>
+
+<p> <ICE-JA:W2D-002#58:1> ( d)Disposable cotton-plugged Pasteur pipettes; </p>
+
+<p> <ICE-JA:W2D-002#59:1> ( e)Serological pipettes; 1.0 mL, 5.0 mL and 10.0 mL. </p>
+
+<p> <ICE-JA:W2D-002#60:1> <h> <bold> 6. Procedure <bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#61:1> <h> <bold> 6.1 Sample preparation </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#62:1> <bold> 6.1.1 </bold> Transfer 100 mL/100 g portions of sample and
+
+control sample to be tested, to sterile screw-capped bottles containing glass
+
+beads ( for liquids) or sterile screw-capped wide-mouth jars ( for creams).
+<ICE-JA:W2D-002#63:1> One sample container is required for each organism to be used in the
+
+test. </p>
+
+<p> <ICE-JA:W2D-002#64:1> <typeface> NOTE.
+<ICE-JA:W2D-002#65:1> If possible, products should be inoculated in their original
+
+containers. </typeface> </p>
+
+<p> <ICE-JA:W2D-002#66:1> <h> <bold> 6.2 Preparation of challenge cultures </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2D-002#67:1> <bold> 6.2.1 </bold> <it> Bacteria. </it>
+<ICE-JA:W2D-002#68:1> Inoculate at least two agar slants ( nutrient agar or tryptic soy
+
+agar) for each bacterial species to be used and incubate at 37 &degree; C for
+
+18 h to 24 h.
+<ICE-JA:W2D-002#69:1> ( The transfers should be made from slants which are no more than 2
+
+days old). </p>
+
+<p> <ICE-JA:W2D-002#70:1> <bold> 6.2.2 </bold> <it> Yeasts. </it>
+<ICE-JA:W2D-002#71:1> Inoculate two agar slants ( Sabouraud dextrose agar) fro each yeast
+
+species to be used.
+<ICE-JA:W2D-002#72:1> Incubate slants at 25 &degree; C for 48 h. </p>
+
+<p> <ICE-JA:W2D-002#73:1> <bold> 6.2.3 </bold> <it> Fungi. </it>
+<ICE-JA:W2D-002#74:1> Inoculate three wide-mouth milk dilution bottle slants with 3
+
+loopfuls of spores for each fungal species to be used.
+<ICE-JA:W2D-002#75:1> Incubate at 25 &degree; C for 7 days. </p>
+
+<p> <ICE-JA:W2D-002#76:1> <h> <bold> 6.3 Harvesting cultures </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#77:1> <bold> 6.3.1 </bold> <it> Bacterial cultures. </it>
+<ICE-JA:W2D-002#78:1> Use a sterile inoculating loop to transfer the growth from each
+
+culture into tubes of sterile distilled water or 0.1% peptone water.
+<ICE-JA:W2D-002#79:1> Alternatively, wash the growth from the slant with about 5 mL sterile
+
+distilled water or 0.1% peptone water.
+<ICE-JA:W2D-002#80:1> Trans <l> fer the cell suspension to a sterile milk dilution bottle
+
+containing 3 to 5 glass beads.
+<ICE-JA:W2D-002#81:1> Wash the same slant with a second portion of rinse liquid and
+
+transfer to the bottles. </p>
+
+<p> <ICE-JA:W2D-002#82:1> Adjust the cell suspension to an optical density of 0.45 o.d.u.
+
+in 12.7 mm diameter optical quality test tubes, using a spectrophotometer set
+
+at 425 nm.
+<ICE-JA:W2D-002#83:1> This should give approximately 1.0 x 10 <sp> 8 </sp> bacteria/mL (
+
+the cell suspension can be adjusted using serial dilution and pour plate
+
+technique to get the desired concentrations of inocula). </p>
+
+<p> <ICE-JA:W2D-002#84:1> <bold> 6.3.2 </bold> <it> Yeast cultures. </it>
+<ICE-JA:W2D-002#85:1> Harvest and adjust yeast cultures as described in <bold> 6.3.1.
+
+</bold>
+<ICE-JA:W2D-002#86:1> This should give approximately 1.0 x 10 <sp> 7 </sp> yeast/mL. </p>
+
+<p> <ICE-JA:W2D-002#87:1> <h> <bold> 6.3.3 <it> Fungal cultures </it> </h> </p>
+
+<p> <ICE-JA:W2D-002#88:1> <bold> 6.3.3.1 </bold> Pipette 5.0 mL of 0.1% peptone water into
+
+a well sporulated slant of fungi.
+<ICE-JA:W2D-002#89:1> Shake gently to distribute the liquid over the entire surface to wet
+
+the growth. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2D-002#90:2> <h> <bold> Jamaican Standard Specification for </p>
+
+<p> Cosmetics: Part 8: Skin lotions and creams </h> </p>
+
+<p> <ICE-JA:W2D-002#91:2> <h> 1. Scope </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#92:2> This standard specifies the requirements for skin lotions and
+
+creams.
+<ICE-JA:W2D-002#93:2> It does not include products such as skin cleansing lotions and
+
+creams which are intended to affect the structure and function of the skin.
+
+</p>
+
+<p> <ICE-JA:W2D-002#94:2> <h> <bold> 2. Definitions </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#95:2> For the purpose of this standard the following definitions apply:
+
+</p>
+
+<p> <ICE-JA:W2D-002#96:2> <bold> 2.1. barrier agent. </bold>
+<ICE-JA:W2D-002#97:2> Any emollient agent which, in addition to promoting rehydration of
+
+the skin, acts as protector of the skin surface. </p>
+
+<p> <ICE-JA:W2D-002#98:2> <bold> 2.2 emollient. </bold>
+<ICE-JA:W2D-002#99:2> Any agent which, when applied to dry or inflexible skin surface, will
+
+effect a softening of that tissue by inducing rehydration as well as
+
+protection. </p>
+
+<p> <ICE-JA:W2D-002#100:2> <bold> 2.3 film former. </bold>
+<ICE-JA:W2D-002#101:2> An agent used to impart a flexible film which provides a silky feel
+
+as well as act as a protective barrier. </p>
+
+<p> <ICE-JA:W2D-002#102:2> <bold> 2.4 humectant. </bold>
+<ICE-JA:W2D-002#103:2> An agent that controls moisture exchange between the product and the
+
+air, both in the jar and on the skin. </p>
+
+<p> <ICE-JA:W2D-002#104:2> <bold> 2.5 moisturizer. </bold>
+<ICE-JA:W2D-002#105:2> Any agent which when applied to dry or inflexible skin will regulate
+
+the ability of the skin to retain moisture. </p>
+
+<p> <ICE-JA:W2D-002#106:2> <bold> 2.6 skin cream/lotion. </bold>
+<ICE-JA:W2D-002#107:2> Any oil-in-water ( o/w) emulsion preparation formulated for use in
+
+the prevention and treatment of roughness and dryness of the skin. </p>
+
+<p> <ICE-JA:W2D-002#108:2> <bold> 2.7 thickener. </bold>
+<ICE-JA:W2D-002#109:2> An agent used for thickening or increasing the viscosity of the
+
+product. </p>
+
+<p> <ICE-JA:W2D-002#110:2> <h> <bold> 3. Classification </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#111:2> Lotions and creams as covered by this standard shall be of the
+
+following types: </p>
+
+<p> <ICE-JA:W2D-002#112:2> ( a)hand and body cream/lotion; </p>
+
+<p> <ICE-JA:W2D-002#113:2> ( b)facial cream/lotion. </p>
+
+<p> <ICE-JA:W2D-002#114:2> <h> <bold> 4. General requirements </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#115:2> <bold> 4.1 Description. </bold>
+<ICE-JA:W2D-002#116:2> The product shall be composed of emollients, emulsifiers,
+
+humectants, pre <l> servatives and water.
+<ICE-JA:W2D-002#117:2> They may also contain barrier agents, healing agents, thickeners,
+
+film formers, perfume, oils, waxes and colouring agents. </p>
+
+<p> <ICE-JA:W2D-002#118:2> Whereas the types of oils and waxes are identical for creams and
+
+lotions, the concentration of each may be lower in lotions. </p>
+
+<p> <ICE-JA:W2D-002#119:2> The product shall be uniform in colour and have a pleasant
+
+odour. </p>
+
+<p> <ICE-JA:W2D-002#120:2> Lotions shall be fluid at ambient temperatures and shall have
+
+sufficient flow characteristics to be effectively dispensed from their
+
+containers. </p>
+
+<p> <ICE-JA:W2D-002#121:2> Creams shall be in the form of a thick emulsion or semi-solid
+
+preparation. </p>
+
+<p> <ICE-JA:W2D-002#122:2> <bold> 4.1.1 </bold> In addition to any other related function,
+
+the product shall:
+
+<p> <ICE-JA:W2D-002#123:2> ( a)apply easily and quickly; </p>
+
+<p> <ICE-JA:W2D-002#124:2> ( b)soften the skin; </p>
+
+<p> <ICE-JA:W2D-002#125:2> ( c)result in an improvement of the skin moisture content and
+
+skin smoothness; </p>
+
+<p> <ICE-JA:W2D-002#126:2> ( d)leave no objectionable residue or film on the skin after 10
+
+min; </p>
+
+<p> <ICE-JA:W2D-002#127:2> ( e)reduce the degree of scaliness; </p>
+
+<p> <ICE-JA:W2D-002#128:2> ( f)not interfere with normal skin perspiration; </p>
+
+<p> <ICE-JA:W2D-002#129:2> ( g)be stable and non-irritating. </p>
+
+<p> <ICE-JA:W2D-002#130:2> <h> <bold> 4.2 Ingredients </bold> </h>
+
+<p> <ICE-JA:W2D-002#131:2> <bold> 4.2.1 </bold> The raw materials shall be
+
+microbiologically and chemically safe under normal condi <l> tions of use.
+<ICE-JA:W2D-002#132:2> They shall conform to the requirements of JS 170: Part 3. </p>
+
+<p> <ICE-JA:W2D-002#133:2> <bold> 4.2.2 </bold> Water used in the preparation of creams and
+
+lotions shall conform to the chemical and microbiological requirements of JS
+
+170: Part 2. </p>
+
+<p> <ICE-JA:W2D-002#134:2> <bold> 4.3 Manufacture. </bold>
+<ICE-JA:W2D-002#135:2> Creams and lotions shall be manufactured under conditions specified
+
+in JS 170: Part 1. </p>
+
+<p> <ICE-JA:W2D-002#136:2> <h> <bold> 5. Product requirements </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#137:2> <bold> 5.1 </bold> Creams and lotions shall comply, where
+
+applicable, with the requirements set out in table 1 when tested in
+
+accordance with the appropriate Method of Test.
+<ICE-JA:W2D-002#138:2> ( See AOAC Method of Analysis). </p> <O> caption </O> <O> table </O>
+
+<p> <ICE-JA:W2D-002#139:2> When tested in accordance with the requirements of JS 170: Part
+
+3, the finished product shall comply with the following microbiological
+
+requirements:
+
+<p> <ICE-JA:W2D-002#140:2> ( a)total aerobic plate count shall not be greater than 10; </p>
+
+<p> <ICE-JA:W2D-002#141:2> ( b)sterility test shall be negative or free of gram  ve
+
+bacilli; </p>
+
+<p> <ICE-JA:W2D-002#142:2> ( c) <it> staphylococcus aureau </it> shall be absent; </p>
+
+<p> <ICE-JA:W2D-002#143:2> ( d)yeast and mould count shall be nil. </p>
+
+<p> <ICE-JA:W2D-002#144:2> <h> <bold> 5.2 Preservatives </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#145:2> <bold> 5.2.1 </bold> When necessary, the product shall contain a
+
+suitable preservative system.
+<ICE-JA:W2D-002#146:2> The preserv <l> ative system shall give protection during consumer
+
+use.
+<ICE-JA:W2D-002#147:2> In addition it shall be compatible with the components of the
+
+formulation, the manufacturing procedures, the type of packag <l> ing and
+
+stability of the product during product life. </p>
+
+<p> <ICE-JA:W2D-002#148:2> <bold> 5.2.2 </bold> The preservative system shall give
+
+protection during consumer use.
+<ICE-JA:W2D-002#149:2> In addition it shall be compatible with the components of the
+
+formulation, the manufacturing procedures, the type of packaging and
+
+stability of the product during product life. </p>
+
+<p> <ICE-JA:W2D-002#150:2> <bold> 5.2.3 </bold> The efficacy of the preservative shall be
+
+proven.
+<ICE-JA:W2D-002#151:2> The preservative shall be non-toxic. </p>
+
+<p> <ICE-JA:W2D-002#152:2> <h> <bold> 6. Packaging </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#153:2> <bold> 6.1 </bold> Creams and lotions shall be packaged in glass
+
+or plastic containers or any other suitable container which has good barrier
+
+properties against water vapour, oils and air. </p>
+
+<p> <ICE-JA:W2D-002#154:2> <bold> 6.2 </bold> The container shall be such that it can be
+
+securely closed. </p>
+
+<p> <ICE-JA:W2D-002#155:2> <bold> 6.3 </bold> The packaging shall be compatible with the
+
+product. </p>
+
+<p> <ICE-JA:W2D-002#156:2> <h> <bold> 7. Labelling </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#157:2> The product shall be labelled in accordance with the
+
+requirements of JS 1: Part 1; JS 1: Part 20 and JS 1: Part 19. </p>
+
+<p> <ICE-JA:W2D-002#158:2> <h> <bold> 8. Sampling and testing <bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#159:2> <bold> 8.1 </bold> Sampling shall be carried out in accordance
+
+with the sampling guidelines detailed in appendix A. </p>
+
+<p> <ICE-JA:W2D-002#160:2> <bold> 8.2 </bold> Tests for all requirements shall be carried
+
+out on a composite sample. </p>
+
+<p> <ICE-JA:W2D-002#161:2> <h> <bold> Appendix A </p>
+
+<p> <ICE-JA:W2D-002#162:2> Sampling guidelines </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#163:2> <h> <bold> A.1 General requirements of sampling </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2D-002#164:2> <bold> A.1.1 </bold> Sampling shall be done by a qualified
+
+person, trained in aseptic technique.
+<ICE-JA:W2D-002#165:2> The sampler may be a person with statutory authority. </p>
+
+<p> <ICE-JA:W2D-002#166:2> <bold> A.1.2 </bold> Sampling shall be carried out according to
+
+a written quality control procedure and may be done in the presence of the
+
+purchaser ( or his representative). </p>
+
+<p> <ICE-JA:W2D-002#167:2> <bold> A.1.3 </bold> The sampling equipment and sample
+
+containers used for taking samples for micro <?> - </?> biological analysis
+
+shall be sterile. </p>
+
+<p> <ICE-JA:W2D-002#168:2> <bold> A.1.4 </bold> Samples shall be stored in such a manner
+
+that the temperature of the material does not vary unduly from the normal
+
+temperature and that deterioration of the product is not accelerated. </p>
+
+<p> <ICE-JA:W2D-002#169:2> <bold> A.1.5 </bold> All containers of materials that have been
+
+sampled shall be held in quarantine and so identified until tests are
+
+complete, at which time the <quote> 'quarantine' </quote> sticker will be
+
+replaced by a <quote> 'release' </quote> sticker. </p>
+
+<p> <ICE-JA:W2D-002#170:2> <h> <bold> A.2 Scale of sampling </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#171:2> <bold> A.2.1 </bold> All the cases with containers of the same
+
+size containing material of the same type, grade, class and composition,
+
+manufactured under the same conditions and at the same time shall constitute
+
+a lot. </p>
+
+<p> <ICE-JA:W2D-002#172:2> <bold> A.2.2 </bold> All the containers drawn from a particular
+
+lot shall be considered a sample for test <l> ing purposes. </p>
+
+<p> <ICE-JA:W2D-002#173:2> <bold> A.2.3 </bold> Samples shall be tested from each lot for
+
+ascertaining conformity of the material according to the requirements of the
+
+standard. </p>
+
+<p> <ICE-JA:W2D-002#174:2> <bold> A.2.4 </bold> The number of containers to be selected
+
+from each lot shall be in accordance with that specified for the requirement.
+
+</p>
+
+<p> <ICE-JA:W2D-002#175:2> <bold> A.2.5 </bold> The containers shall be selected at random.
+<ICE-JA:W2D-002#176:2> In order to ensure random selection, random number tables shall be
+
+used.
+<ICE-JA:W2D-002#177:2> If random tables are not available, the following pro <l> cedure
+
+shall be used: </p>
+
+<p> <ICE-JA:W2D-002#178:2> Starting from any case count 1, 2, 3, 4 &dotted-line; <quote> 'r'
+
+</quote> in a systematic manner.
+<ICE-JA:W2D-002#179:2> Every <quote> 'rth' </quote> case thus counted shall be withdrawn
+
+until the desired number is obtained; <quote> 'r' </quote> being the integral
+
+part of N/n, where <quote> 'N' </quote> is the total number of cases in the
+
+lot, and <quote> 'n' </quote> is the number of cases to be selected.
+<ICE-JA:W2D-002#180:2> One container shall be drawn from each case. </p>
+
+<p> <ICE-JA:W2D-002#181:2> <h> <bold> A.3 Sampling plan </bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#182:2> <bold> A.3.1 </bold> Each of the containers selected in
+
+accordance with the specified sampling plan shall be tested for the relevant
+
+finished product requirements. </p>
+
+<p> <ICE-JA:W2D-002#183:2> <bold> A.3.2 </bold> The sampling plan for microbiological
+
+requirements shall be as follows: </p>
+
+<p> <ICE-JA:W2D-002#184:2> Acceptable Quality Limit ( AQL)= 2.5 </p>
+
+<p> <ICE-JA:W2D-002#185:2> Sample Size= 5 </p>
+
+<p> <ICE-JA:W2D-002#186:2> Acceptance No.= 0 </p>
+
+<p> <ICE-JA:W2D-002#187:2> Rejection No.= 1 </p>
+
+<p> <ICE-JA:W2D-002#188:2> <bold> A.3.2.1 </bold> <it> Acceptance. </it>
+<ICE-JA:W2D-002#189:2> Where on first sampling and testing a unit fails to meet the require
+
+<l> ments, a second sample of the same size shall be taken.
+<ICE-JA:W2D-002#190:2> If on resampling and testing another unit does not comply, the lot
+
+shall be deemed to have failed to meet the requirements. </p>
+
+<p> <ICE-JA:W2D-002#191:2> When more than one unit of the initial sample or one unit of the
+
+resample fail(s) to meet the requirements, investigations to determine cause
+
+of failure and subsequent remedial action shall be necessary. </p>
+
+<p> <ICE-JA:W2D-002#192:2> <h> <bold> A.4 Sampling procedure for chemical requirements
+
+</bold> </h> </p>
+
+<p> <ICE-JA:W2D-002#193:2> A sample of not less than 250 mL shall be taken at random from
+
+not less than 1% of the manufacturer's containers, provided each container
+
+contains not less than 37.9 L. </p> </I>

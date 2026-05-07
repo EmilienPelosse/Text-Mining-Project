@@ -1,0 +1,471 @@
+<I>
+
+<p> <ICE-JA:W2A-030#1:1> <h> <bold> INHIBITION OF THE ETHYLENE FORMING ENZYME OF THE COFFEE
+
+BERRY ( <it> COFFEA ARABICA </it> ) </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#2:1> Kerith D. Golden </p>
+
+<p> <ICE-JA:W2A-030#3:1> Department of Biochemistry, University of the West Indies,
+
+Jamaica, W.I. </p>
+
+<p> <ICE-JA:W2A-030#4:1> ABSTRACT
+<ICE-JA:W2A-030#5:1> The production of ethylene by the coffee berry ( <it> Coffea arabica
+
+</it> ) was examined.
+<ICE-JA:W2A-030#6:1> From this work, it was established that both the pulp and the seeds of
+
+the coffee berry were capable of ethylene synthesis.
+<ICE-JA:W2A-030#7:1> The results also revealed that the <ul> in vitro </ul> conversion of
+
+1-aminocyclopro <l> pane-1-carboxylic acid ( ACC) to ethylene by the ethylene
+
+forming enzyme ( EFE) was inhibited by galactose ( 10-25 mM), glucose at 25
+
+mM concentration also inhibited the EFE activity. </p>
+
+<p> <ICE-JA:W2A-030#8:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#9:1> The unsaturated hydrocarbon ethylene ( C <sb> 2 </sb> H <sb> 4
+
+</sb> ) exists as a gas under physiological con <l> ditions of temperature
+
+and pressure.
+<ICE-JA:W2A-030#10:1> It is also well established that ethylene acts as a hormone in plants
+
+and has profound effects on the ripen <l> ing process <fnr> <sp> 1-3 </sp>
+
+</fnr> . <footnote>
+<ICE-JA:W2A-030#11:1> 1. Pratt, H. K.; Goeschl, J.D. In Biochemistry and Physiology of
+
+Plant Growth Substances. Ed. F. Wightman, 1968, 1295. </footnote> <footnote>
+<ICE-JA:W2A-030#12:1> 2. Pratt, H. K.; Goeschl, J. D.; Martin, F. W. <it> J. Am. Soc.
+
+Hortic. Sci. </it> , 1977, 102, 203. </footnote> <footnote>
+<ICE-JA:W2A-030#13:1> 3. Beyer, E. M., Jr. In Recent Advances In the Biochemistry of Fruits
+
+and Vegetables. Eds. J. Friend and M. J. C. Rhodes. New York: Academic Press,
+
+1981, 107. </footnote> </p>
+
+<p> <ICE-JA:W2A-030#14:1> Most of the work done on the biosynthesis of ethylene has been
+
+done using <ul> in vivo </ul> stud <l> ies <fnr> <sp> 4-5 </sp> </fnr> , only
+
+recently has cell-free isolation of the EFE been reported <fnr> <sp> 6 </sp>
+
+</fnr> . <footnote>
+<ICE-JA:W2A-030#15:1> 4. Adams, D. O.; Yang, S. F. <it> Plant Physiol., </it> 1977, 60,
+
+892. </footnote> <footnote>
+<ICE-JA:W2A-030#16:1> 5. Adams, D. O.; Yang, S. F. <it> Proc. Natl. Acad. Sci. </it> ,
+
+1979, 76, 170. </footnote> <footnote>
+<ICE-JA:W2A-030#17:1> 6. Venvenidis, P.; John, P. <it> Phytochem. </it> , 1991, 30, 725.
+
+</footnote>
+<ICE-JA:W2A-030#18:1> In this study most of the experiments were performed by <ul> in vivo
+
+</ul> ethylene forming systems. </p>
+
+<p> <ICE-JA:W2A-030#19:1> <ul> In vivo </ul> and <ul> in vitro </ul> studies on ethylene
+
+synthesis strongly suggests that ethylene is syn <l> thesized from methionine
+
+via ACC <fnr> <sp> 4-5, 7 </sp> </fnr> . <footnote>
+<ICE-JA:W2A-030#20:1> 7. Yang, S. F.; Hoffman, N.E. <it> Ann. Rev. Plant Physiol., </it>
+
+1984, 35, 155. </footnote>
+<ICE-JA:W2A-030#21:1> The conversion of ACC to ethylene is extremely complex and is
+
+catalysed by the EFE, which is an oxidative enzyme system that catalyses the
+
+following reaction: </p> <O> formula </O>
+
+<p> <ICE-JA:W2A-030#22:1> Ethylene biosynthesis has been known to be irreversibly inhibited
+
+by compounds which af <l> fect pridoxalphosphate-linked enzymes <fnr> <sp> 8
+
+</sp> </fnr> . <footnote>
+<ICE-JA:W2A-030#23:1> 8. Rando, R. R. <it> Science, </it> 1974, 185, 320. </footnote>
+<ICE-JA:W2A-030#24:1> These compounds include rhizobitoxine and aminoethoxyvinylglycine (
+
+AVG).
+<ICE-JA:W2A-030#25:1> Both com <l> pounds inhibit ACC synthase, a pyridoxal phosphate
+
+enzyme <fnr> <sp> 7 </sp> </fnr> , and hence the conversion of methionine to
+
+ACC <fnr> <sp> 9-10 </sp> </fnr> . <footnote>
+<ICE-JA:W2A-030#26:1> 9. Owens, L. D.; Liberman, M.; Kunishi, A. <it> Plant Physiol., </it>
+
+1971, 48, 1.
+<ICE-JA:W2A-030#27:1> 10. Boller, T.; Henner, R. C.; Kende, H. <it> Planta. </it> , 1979,
+
+145, 293. </footnote> </p>
+
+<p> <ICE-JA:W2A-030#28:1> The EFE is inhibited by metal ions, Co <sp> +2 </sp> and Ni <sp>
+
++2 </sp> , which are known to inhibit ethylene synthesis <fnr> <sp> 11 </sp>
+
+</fnr> . <footnote>
+<ICE-JA:W2A-030#29:1> 11. Lau, O. L.; Yang, S. F. <it> Plant Physiol., </it> 1976, 58, 114.
+
+</footnote>
+<ICE-JA:W2A-030#30:1> Uncouplers of oxidative phospho <l> rylation such as 2,4
+
+dinitrophenol, and carbonyl cyanide m-chlorophenylhydrazine are also in <l>
+
+hibitors of ethylene synthesis <fnr> <sp> 11 </sp> </fnr> .
+<ICE-JA:W2A-030#31:1> The free radi <l> cal inhibitors n-propylgallate and sodium ben <l>
+
+zoate were shown to inhibit ethylene produc <l> tion in fruit slices, flowers
+
+and vegetable tis <l> sues <fnr> <sp> 12 </sp> </fnr> . <footnote>
+<ICE-JA:W2A-030#32:1> 12. Baker, J. E.; Wang, C. Y.; Liberman, M.; Handenburg, R. <it>
+
+Hort. Science, </it> 1977, 12, 38. </footnote>
+<ICE-JA:W2A-030#33:1> Other factors or agents which are known to inhibit ethylene
+
+production by interfering with the conversion of <O> formula </O> , are high
+
+temperature <fnr> <sp> 13 </sp> </fnr> and osmotic shock <fnr> <sp> 14 </sp>
+
+</fnr> . <footnote>
+<ICE-JA:W2A-030#34:1> 13. Yu, Y. B.; Adams, D. O.; Yang, S. F. <it> Plant Physiol., </it>
+
+1980, 66, 286. </footnote> <footnote>
+<ICE-JA:W2A-030#35:1> 14. Imaseki, H.; Watanabe, A. <it> Plant Cell Physiol. </it> , 1978,
+
+19, 345. </footnote> </p>
+
+<p> <ICE-JA:W2A-030#36:1> This study can be beneficial to the agricul <l> tural sector of
+
+our economy, due to the fact that the over production of ethylene can lead to
+
+the spoilage of fruits due to over- ripening.
+<ICE-JA:W2A-030#37:1> There <l> fore, if the production of ethylene in fruits can be
+
+controlled ( by inhibition of the EFE or by genetic engineering) the spoilage
+
+of export fruit crops ( for example, banana and papaya) can be minimized.
+<ICE-JA:W2A-030#38:1> This would increase the foreign exchange earned from these crops.
+
+</p>
+
+<p> <ICE-JA:W2A-030#39:1> <h> <bold> EXPERIMENTAL </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#40:1> <h> <bold> Materials </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#41:1> Coffee berries ( <it> Coffea arabica </it> L. var. typica) were
+
+reaped from Hall's Farm in Mount Dakin, St. Andrew, Jamaica. </p>
+
+<p> <ICE-JA:W2A-030#42:1> ACC and SAM were obtained from Sigma Chemical Company.
+<ICE-JA:W2A-030#43:1> Chlorodo bleach ( con <l> taining Na-hypochlorite) was purchased from
+
+a local supermarket.
+<ICE-JA:W2A-030#44:1> All other reagents were analar in grade. </p>
+
+<p> <ICE-JA:W2A-030#45:1> <h> <bold> Instrumentation </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#46:1> Ethylene was detected by gas chromatog <l> raphic methods, using
+
+a Pye Unicam gas chro <l> matograph ( 204 series).
+<ICE-JA:W2A-030#47:1> In all instances, the gas chromatograph parameters were as follows:
+
+</p>
+
+<p> <ICE-JA:W2A-030#48:1> a injection port temperature, 110 &degree; C </p>
+
+<p> <ICE-JA:W2A-030#49:1> b detection temperature, 200 &degree; C </p>
+
+<p> <ICE-JA:W2A-030#50:1> c column temperature, 65 &degree; C ( isothermal) </p>
+
+<p> <ICE-JA:W2A-030#51:1> d carrier gas flow rate ( N2), 30 ml/min </p>
+
+<p> <ICE-JA:W2A-030#52:1> e column packing: alumina </p>
+
+<p> <ICE-JA:W2A-030#53:1> f detector: flame ionization detector </p>
+
+<p> <ICE-JA:W2A-030#54:1> g attenuation: 2 x 102 </p>
+
+<p> <ICE-JA:W2A-030#55:1> <h> <bold> Ethylene Synthesis in the Coffee Berry </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2A-030#56:1> Experiments were performed to determine the level of activity of
+
+the EFE in the pulp and seed of the coffee berry.
+<ICE-JA:W2A-030#57:1> Coffee berries at dif <l> ferent stages of maturity were used and in
+
+<l> cluded the ripe pulp, the matured unripe pulp, the ripe seed, and the
+
+mature unripe seed. </p>
+
+<p> <ICE-JA:W2A-030#58:1> The pulp and seeds of the coffee berries were thoroughly washed
+
+with distilled water.
+<ICE-JA:W2A-030#59:1> Two grams of the ripe and mature unripe pulp were each placed in
+
+separate vials.
+<ICE-JA:W2A-030#60:1> The same was done with the ripe and matured unripe sees.
+<ICE-JA:W2A-030#61:1> To each vial, 2.0 ml of citrate/phosphate buffer ( 0.048 M and 0.141
+
+M respectively), pH 5.0, 0.5 ml ACC ( 4.55 mM final concentration), and 3.0
+
+ml of distilled H <sb> 2 </sb> O were added to give a final volume of 5.5 ml.
+<ICE-JA:W2A-030#62:1> Thirty ( 30) &mu; l of toluene was added to each vial to prevent the
+
+growth of bacteria.
+<ICE-JA:W2A-030#63:1> The procedure was re <l> peated without ACC being added to each
+
+vial-control ( Table 1).
+<ICE-JA:W2A-030#64:1> The vials were sealed with a rubber septum, and incubated at 30
+
+&degree; C for 4 h.
+<ICE-JA:W2A-030#65:1> At the end of the incubation period, 1.0 ml of air was removed form
+
+the head space of each vial and injected onto the gas chromatograph for
+
+detection of ethylene.
+<ICE-JA:W2A-030#66:1> The experiment was done in triplicate. </p>
+
+<p> <ICE-JA:W2A-030#67:1> For quantitative analysis of the ethylene produced, a standard
+
+curve was obtained by measuring the amount of ethylene produced form varying
+
+concentrations ( 0.1 mM  1.0 mM) of a 1mM stock solution of ACC.
+<ICE-JA:W2A-030#68:1> This <O> caption </O> <O> table </O> was achieved by a slight
+
+modification of the method of Lizada and Yang <fnr> <sp> 15 </sp> </fnr> ,
+
+where ACC is converted to ethylene in the presence of HgCl <sb> 2 </sb> ( 1
+
+&mu; mol) and 5% Na-hypochlorite in saturated NaOH ( 2:1 V/V). <footnote>
+<ICE-JA:W2A-030#69:1> 15. Lizada, M. C. C.; Yang, S. F. <it> Anal Biochem., </it> 1979,
+
+100, 140. </footnote> </p>
+
+<p> <ICE-JA:W2A-030#70:1> <h> <bold> Effect of Galactose on the Synthesis of Phylene in the
+
+Presence of Added ACC </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#71:1> The experiment performed here was basi <l> cally the same as
+
+described in the previous section, the difference being that ACC at a final
+
+concentration of 4.5 mM was added to all the vials, while galactose at a
+
+final concentration of 4.5 mM was added to one vial of each group ( Table 2);
+
+after 4 h, ethylene was detected as previously described. </p> <O> caption
+
+</O> <O> table </O>
+
+<p> <ICE-JA:W2A-030#72:1> <h> <bold> Effect of Galactose on the Synthesis of Ethylene in
+
+the Absence of Added ACC </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#73:1> Since the seeds of the coffee berry produced more ethylene than
+
+the pulp ( Table 1), only the matured unripe seeds were used in this experi
+
+<l> ment.
+<ICE-JA:W2A-030#74:1> Triplicate samples were used in this experi <l> ment.
+<ICE-JA:W2A-030#75:1> Triplicate samples were set up where each vial contained 2g of coffee
+
+seeds with varying concentrations of galactose ( Table 3).
+<ICE-JA:W2A-030#76:1> The final concentration of galactose ranged form 0mM  25 mM.
+<ICE-JA:W2A-030#77:1> For comparison glucose was included at 25 mM in one experiment.
+<ICE-JA:W2A-030#78:1> Buffer concentration was 0.048 M citrate/0.141 M phosphate, pH 5.0.
+
+</p> <O> caption </O> <O> table </O>
+
+<p> <ICE-JA:W2A-030#79:1> <h> <bold> Kinetic Studies on the EFE: Testing Galactose as a
+
+Possible Inhibitor </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#80:1> The studies used ACC as substrate at con <l> centrations which
+
+varied form 0.1M  1.0 M.
+<ICE-JA:W2A-030#81:1> Three grams ( 3g) of the coffee seeds were used, and galactose was
+
+present at a fixed concentra <l> tion of 20 mM.
+<ICE-JA:W2A-030#82:1> Buffer concentration was 0.048 M citrate/0.141 M phosphate, pH 5.0.
+
+</p>
+
+<p> <ICE-JA:W2A-030#83:1> <h> <bold> RESULTS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#84:1> The presence of the EFE in <it> Coffea arabica </it> was
+
+confirmed by assaying for the production of ethylene by the pulp ( pericarp
+
+tissue) and seeds of the coffee berry.
+<ICE-JA:W2A-030#85:1> Data from Table 1 show the amount of ethylene produced form the ripe
+
+pulp, unripe pulp, ripe seeds and unripe seeds in the presence of added ACC.
+<ICE-JA:W2A-030#86:1> Ethylene was formed by the seeds of the berry whether ACC was added
+
+or not.
+<ICE-JA:W2A-030#87:1> In contrast ripe pulp produced ethylene only in the presence of added
+
+ACC.
+<ICE-JA:W2A-030#88:1> The results indicate that there is more EFE in the seeds of the
+
+coffee berry than in the pulp, as the amount of ethylene produced by the
+
+seeds ( 2.51 &mu; g/g fresh weight) is 1.67 times more than in the pulp (
+
+1.50 &mu; g/g fresh weight). </p>
+
+<p> <ICE-JA:W2A-030#89:1> The effect of galactose on the EFE ( from pulp and seeds) in the
+
+presence of added ACC is shown in Table 2.
+<ICE-JA:W2A-030#90:1> These results show that when galactose and ACC are present at a con
+
+<l> centration of 4.5 mM, there is no apparent effect on the EFE, as the
+
+production of ethylene re <l> mains constant in both the pulp and seeds of
+
+the coffee berry.
+<ICE-JA:W2A-030#91:1> A decision was made to examine the effects of galactose when
+
+substrate levels for the EFE were restricted to endogenous ACC only.
+<ICE-JA:W2A-030#92:1> A different result was seen when galac <l> tose was present and ACC
+
+was not added ( Table 3).
+<ICE-JA:W2A-030#93:1> Data form Table 3 clearly indicate that as the concentration of
+
+galactose is increased from 0 mM- 25 mM, there is a decrease in the
+
+production of ethylene form the endogenous levels of ACC that must have been
+
+present.
+<ICE-JA:W2A-030#94:1> It is only at these low levels of ACC ( i.e. endoge <l> nous ACC
+
+concentration) that galactose inhib <l> its the EFE. </p>
+
+<p> <ICE-JA:W2A-030#95:1> Kinetic studies were performed ( <ul> in vitro </ul> ) where the
+
+concentration of ACC varied from 0.1 &mu; M up to 1.0 &mu; M, with a fixed
+
+concentra <l> tion ( 20 mM) of galactose.
+<ICE-JA:W2A-030#96:1> Figure 1 reveals that galactose in fact inhibit the EFE, with the
+
+effect being more pronounded at lower ACC concen <l> trations.
+<ICE-JA:W2A-030#97:1> The type of inhibition shown here is indicative of a mixed
+
+inhibition. </p>
+
+<p> <ICE-JA:W2A-030#98:1> It should be noted that values shown for ACC concentration (
+
+Figure 1) do not take into <O> figure </O> <O> caption </O> account the
+
+endogenous ACC concentration.
+<ICE-JA:W2A-030#99:1> Hence the results have mainly qualitative rather than quantitative
+
+significance.
+<ICE-JA:W2A-030#100:1> This particular result is of interest, as it demonstrates galactose,
+
+a product of &beta;-galactosidase activity <fnr> <sp> 16 </sp> </fnr> , as
+
+hav <l> ing an inhibitory effect on the production of ethylene.
+<ICE-JA:W2A-030#101:1> Glucose at 25 mM concentration also had an inhibitory effect on the
+
+production of ethylene ( Table 4). <footnote>
+<ICE-JA:W2A-030#102:1> 16. Golden, K. D.; John, M.; Kean, E. A. <it> Phytochem., </it>
+
+1993, 32, 355. </footnote> </p> <O> table </O>
+
+<p> <ICE-JA:W2A-030#103:1> <h> <bold> DISCUSSION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-030#104:1> Ethylene synthesis can be regulated at two points in the
+
+pathway, i.e., the conversion of methionine to ACC and the conversion of ACC
+
+to ethylene.
+<ICE-JA:W2A-030#105:1> Galactose was found to inhibit the production of ethylene by
+
+affecting the conversion of ACC to ethylene.
+<ICE-JA:W2A-030#106:1> This is evident from data presented in Table 3 and Figure 1.
+<ICE-JA:W2A-030#107:1> During ripening the level of ACC increases <fnr> <sp> 17 </sp>
+
+</fnr> , making it possible for an increase in the production of ethylene.
+
+<footnote>
+<ICE-JA:W2A-030#108:1> 17. Hoffman, N. E.; Yang, S. F. <it> J. Am. Soc. Hortic. </it> ,
+
+1980, 105, 492. </footnote>
+<ICE-JA:W2A-030#109:1> However, the production of ethylene falls considerably in fruits
+
+that are overripe <fnr> <sp> 17 </sp> </fnr> .
+<ICE-JA:W2A-030#110:1> This fall in ethylene production is not accom <l> panied by a fall
+
+in the level of ACC <fnr> <sp> 7 </sp> </fnr> .
+<ICE-JA:W2A-030#111:1> There <l> fore, the conversion of ACC to ethylene is likely to be
+
+impaired in overripe fruits.
+<ICE-JA:W2A-030#112:1> It is being suggested that the production of galac <l> tose by the
+
+activity of &beta;-galactosidase ( an en <l> zyme that is also involved in
+
+the ripening proc <l> ess <fnr> <sp> 16 </sp> </fnr> ) could be a regulating
+
+factor that influ <l> ences the production of ethylene by inhibiting the EFE.
+<ICE-JA:W2A-030#113:1> Consideration has to be given to the fact that the concentration of
+
+free sugars ( i.e. monosaccharides) is increased as fruits ripen.
+<ICE-JA:W2A-030#114:1> It could be that galactose alone does not con <l> tribute to the
+
+regulation of ethylene synthesis.
+<ICE-JA:W2A-030#115:1> Glucose at a concentration of 25 mM also af <l> fected the EFE (
+
+Table 4).
+<ICE-JA:W2A-030#116:1> Therefore, it is quite possible that other glycosidases such as
+
+&alpha;- and &beta;-glucosidase, &alpha;- and &beta;-mannosidase are also
+
+involved in the regulation of ethylene synthesis by producing the
+
+monosaccharides glucose and mannose respectively. </p>
+
+<p> <ICE-JA:W2A-030#117:1> The actual mechanism by which galactose affects the EFE was not
+
+investigated.
+<ICE-JA:W2A-030#118:1> However, osmotic shock <fnr> <sp> 18 </sp> </fnr> is known to
+
+inhibit eth <l> ylene synthesis. <footnote>
+<ICE-JA:W2A-030#119:1> 18. Bouzayen, M.; Latche, A.; Pech, J. C. <it> Planta., </it> 1979,
+
+145, 293. </footnote>
+<ICE-JA:W2A-030#120:1> Bouzayen et al. <fnr> <sp> 18 </sp> </fnr> have re <l> ported that
+
+there are two possible sites for the production of ethylene in cells that are
+
+cultured <ul> in vitro </ul> ; </p>
+
+<p> ( i) an external site located at the plasma membrane that is very
+
+sensitive to high osmotica and </p>
+
+<p> ( ii) an intracellular site that is unaffected by high osmotica. </p>
+
+<p> <ICE-JA:W2A-030#121:1> ACC can be converted to ethylene at both sites.
+<ICE-JA:W2A-030#122:1> The concentration of mannitol ( 0.8 M) used in those experiments
+
+<fnr> <sp> 18 </sp> </fnr> to produce osmotic shock is high when compared
+
+with that used in this study ( 10mM - 25 mM galactose). <X>
+<ICE-JA:W2A-030#X123:1> That such low concentrations of galactose can cause plasmolysis is
+
+quite unlikely.
+<ICE-JA:W2A-030#X124:1> The manner in which galactose affects the EFE is therefore unlikely
+
+to be the same as that described by Bouzayen et al. <fnr> <sp> 18</sp></fnr>
+<ICE-JA:W2A-030#X125:1> A more intensive scientific investigation would by needed in order
+
+to ex<l>plain the mode of action of galactose with re<l>spect to the
+
+inhibition of the EFE.</p></X></I>

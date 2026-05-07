@@ -1,0 +1,433 @@
+<I>
+
+<p> <ICE-JA:W2B-033#1:1> <h> Cable TV: will Jamaica be ready for the competition? </h> </p>
+
+<p> <ICE-JA:W2B-033#2:1> <bold> by COURTNEY JACKSON </bold> </p>
+
+<p> <ICE-JA:W2B-033#3:1> THE CURRENT public discussions concerning the granting of a cable
+
+television licence to one or other of the existing, or a new television
+
+station, in the context of the Government's economic liberalisation policies,
+
+appears so far to have a limited perspective on this important question. </p>
+
+<p> <ICE-JA:W2B-033#4:1> There are relevant telecommunication technologies and policy
+
+issues emerging internationally , which should inform such a debate.
+<ICE-JA:W2B-033#5:1> A missing element which should be central to these considerations is
+
+the role of the Jamaica Telephone Company ( JTC) and TOJ in the future of the
+
+national telecommunication system. </p>
+
+<p> <ICE-JA:W2B-033#6:1> Telecommunication systems in North America and Europe have evolved
+
+from telephony in the 1870s, to radio, to broadcast TV, then to cable-TV or
+
+CATV and finally to data communications to facilitate the computer
+
+revolution.
+<ICE-JA:W2B-033#7:1> The small copper wires which run from the local exchange to the
+
+customer's house or business to provide telephone services were not suitable
+
+for TV and high volume computer data because the transmission channel was too
+
+small. </p>
+
+<p> <ICE-JA:W2B-033#8:1> To make the benefits of the newly developed communication and
+
+computer technologies widely available, it was necessary to establish new
+
+facilities, such as packet-switching data networks by telephone companies,
+
+and an entirely new network of coaxial cable for TV distribution by CATV
+
+companies which were, for the most part, different from those doing
+
+broadcast-TV, such as JBC TV. </p>
+
+<p> <ICE-JA:W2B-033#9:1> Since the late 1970s, a branch of the United Nations  the
+
+International Telecommunications Union, working through the International
+
+Consultative Committee for Telephone and Telegraph, one of its arms  in
+
+cooperation with the International Standards Organisation and all the major
+
+telecommunications and computer companies worldwide, has been working on
+
+standards for the development and implementation of a more rational and
+
+efficient system for the delivery of all the services above, both at their
+
+basic and enhanced quality levels, such as plain telephone service,
+
+electronic yellow pages, colour tax, picturephone, high definition
+
+television, etc. </p>
+
+<p> <ICE-JA:W2B-033#10:1> The technological bases for this effort are the established world
+
+capacities for the high volume production of very large-scale integrated
+
+electronic circuits, wide transmission channels through optical fibre cables,
+
+and dramatic price reductions for computing and telephone exchange equipment.
+
+</p>
+
+<p> <ICE-JA:W2B-033#11:1> <h> <bold> Rates, methods </bold> </h> </p>
+
+<p> <ICE-JA:W2B-033#12:1> One of the first results of this continuing collaboration is the
+
+promulgation of standards for two new categories of telephone service called
+
+narrowband and broadband Integrated Services Digital Networks.
+<ICE-JA:W2B-033#13:1> The rates and methods of implementation by companies and governments
+
+will depend on such considerations as maximizing the use of the existing
+
+costly copper cable system; ensuring that the interests of subscribers are
+
+protected both in monopoly and competitive conditions; optimising the use of
+
+scarce foreign exchange; balancing of private versus national interests, and
+
+others. </p>
+
+<p> <ICE-JA:W2B-033#14:1> Narrowband ISDN can be transmitted on the existing copper outside
+
+plant but CATV cannot, so there is need for a new wide-channel transmission
+
+infrastructure for CATV specifically, and broadband ISDN generally. </p>
+
+<p> <ICE-JA:W2B-033#15:1> Will it be coaxial cable or optical fibres in the subscriber
+
+access network?
+<ICE-JA:W2B-033#16:1> CATV companies abroad are finding it cost-effective to use fibre up
+
+to the headend distribution point to which many customers are connected, and,
+
+similarly telephone companies use <}> <-> fiber </-> <+> fibre </+> </}> for
+
+trunk links between exchanges. </p>
+
+<p> <ICE-JA:W2B-033#17:1> From the viewpoint of telephone companies, fibre of the local
+
+loop, through existing ducts or as an overlay, has to justify itself  in
+
+terms of capital, operational and maintenance costs  against the expansion
+
+of the in-place copper-using concentrators, multiplexors and pair-gain
+
+devices, on a plain telephone service revenue basis  the overwhelmingly
+
+dominant revenue source. </p>
+
+<p> <ICE-JA:W2B-033#18:1> Because the local loop does not generally extend beyond five
+
+miles ( perhaps considerably less in Jamaica) and the economies of fibre are
+
+obtained over much longer distances, fibre-to-the-home has proved to be three
+
+times as costly as copper; and fibre-to-the-terminal distributor supplying
+
+many subscribers, one and one-fifth as costly. </p>
+
+<p> <ICE-JA:W2B-033#19:1> These are data reported from field trials conducted since 1986 in
+
+Europe and North America for <quote> 'active' </quote> local loop fibre
+
+systems involving components which convert between the light and electrical
+
+elements not only at the exchange and customer premises, but also in between.
+<ICE-JA:W2B-033#20:1> Laboratory scale results are now being reported on new <quote> 'passive'
+
+</quote> loop-fibre technologies which require conversions only at the loop
+
+extremities and operate with considerably reduced costs compared to active
+
+systems. </p>
+
+<p> <ICE-JA:W2B-033#21:1> Some important questions are: </p>
+
+<p> <ICE-JA:W2B-033#22:1> - Whether a new coax network is more economical in the long run
+
+on a CATV revenue base, with the additional advantage of providing
+
+competition in the telecommunication marketplace, versus fibre on a CATV,
+
+voice and data revenue base; should the telephone company be allowed to
+
+provide CATV service in addition to what it presently does; or should it be a
+
+common carrier for whomever wants to lease its transmission facilities 
+
+fibre or coax?
+<ICE-JA:W2B-033#23:1> Should JTC be encouraged to invest in local access fibre, despite the
+
+relatively high cost, but extend the service only to business customers whose
+
+service demand will allow for break-even operation, at a minimum? </p>
+
+<p> <ICE-JA:W2B-033#24:1> The explosion in the range of telecommunication service over the
+
+last two decades, and the promise of even more in the immediate future, has
+
+awoken many businesses and countries to the competitive advantages which can
+
+accrue from the creative exploitation of this resource.
+<ICE-JA:W2B-033#25:1> Surely, Jamaica ought to strive to be ready for the international
+
+competition as we approach the 21st century. </p>
+
+<p> <ICE-JA:W2B-033#26:1> <it> - Courtney Jackson is a former executive engineering analyst
+
+with the Jamaica Telephone Company.
+<ICE-JA:W2B-033#27:1> He is currently a PhD. student in industrial and systems engineering
+
+at the University of Florida, U.S.A. </it> </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-033#28:2> <h> <bold> Is there a local cable TV standard? </bold> </h> </p>
+
+<p> <ICE-JA:W2B-033#29:2> ONE of our local cable tele <l> vision subscribers complained
+
+about the quality of the picture she has been receiving from her local cable
+
+system ( or company).
+<ICE-JA:W2B-033#30:2> This is one of the shortcomings of the local cable systems, and the
+
+operators cannot be blamed for this, I am not aware of a stated cable
+
+standard for Jamai <l> ca. </p>
+
+<p> <ICE-JA:W2B-033#31:2> In the case of the woman's complaint, I spoke to a knowl <l>
+
+edgeable cable operator, who was aware of the problem.
+<ICE-JA:W2B-033#32:2> He said the operators, who have formed themselves into an asso <l>
+
+ciation, are dealing with such transmission problems, using North American
+
+techniques and standard.
+<ICE-JA:W2B-033#33:2> One gets the impres <l> sion that because there's no clear-cut policy
+
+or standard for cable television in Jamaica, the local pioneers will have to
+
+rely heavily on the technology devel <l> oped primarily by the North American
+
+cable industry.
+<ICE-JA:W2B-033#34:2> In comparison to the present state of the North American cable
+
+industry, we are still in Noah's Ark. </p>
+
+<p> <ICE-JA:W2B-033#35:2> Jamaica's current state of communications technology is no doubt
+
+in infancy.
+<ICE-JA:W2B-033#36:2> We still are at the stage where we cannot at all times make a <quote>
+
+" clean" </quote> radio link from say Montego Bay, for broadcast from a
+
+Kingston sta <l> tion.
+<ICE-JA:W2B-033#37:2> And on such broadcasts, we frequently hear the <quote> " talk-back"
+
+</quote> between the studio and the out <l> side broadcast crews.
+<ICE-JA:W2B-033#38:2> I suppose the lack of money and vision could be blamed for where we
+
+are in communications technolo <l> gy. </p>
+
+<p> <ICE-JA:W2B-033#39:2> I read the following in The Canadian Encyclopedia: <quote> " It
+
+has long been recognized that ad <l> vanced communication tech <l> niques can
+
+provide enormous military, political and economic advantages.
+<ICE-JA:W2B-033#40:2> Information is pow <l> er, and communication tech <l> niques have had
+
+an important influence on the distribution of power within societies, as well
+
+as the rise and fall of empires, as the studies of Canadian Scholar Harold
+
+Innis have shown" </quote> . </p>
+
+<p> <ICE-JA:W2B-033#41:2> At this stage of our devel <l> opment, we could easily relate to
+
+the following: <quote> " Pioneering in communications technology has been a
+
+mixed blessing for Cana <l> da.
+<ICE-JA:W2B-033#42:2> The introduction of cable television and direct broadcast satellite
+
+facilities has dramati <l> cally expanded the choice of US television
+
+programmes available to Canadians, but it also has had detrimental financial
+
+effects on Canadian television and film production and has reduced op <l>
+
+portunities for Canadian artistic and cultural expression through its own
+
+mass media.
+<ICE-JA:W2B-033#43:2> Several Gov <l> vernmental commissions have been created in an
+
+attempt to suggest government policies that will overcome these problems".
+
+</quote> </p>
+
+<p> <ICE-JA:W2B-033#44:2> It is good to see that the JBC, which operates radio and the
+
+nation's first TV station, made a profit for the first time in its 30-year
+
+history... 2 million dollars.
+<ICE-JA:W2B-033#45:2> In the face of new competition from CVM-TV ( sorry I couldn't attend
+
+their recent survey lun <l> cheon as the invitation did not reach me on time)
+
+and the cable operators, it will be interesting to see how they fare in the
+
+future. </p>
+
+<p> <ICE-JA:W2B-033#46:2> CVM is also going to have a big impact of the revenue of the
+
+JBC-TV station, as it is claiming to be pulling in more viewers in the areas
+
+they cover.
+<ICE-JA:W2B-033#47:2> Cable view <l> ers said to be 3.5 per cent of the market and I know
+
+that, that figure is growing. </p>
+
+<p> <ICE-JA:W2B-033#48:2> Whether we like it, it would appear that cable television is here
+
+to stay.
+<ICE-JA:W2B-033#49:2> In the Seventies the far left had sleepless nights about <quote> "
+
+Cultural Penetration" </quote> by the American movie and tele <l> vision
+
+industry ( it was o.k. at the time to soak in as much as you could, Cuban and
+
+Soviet propa <l> ganda), without seriously taking note of the fact that as
+
+far as communication was concerned, the world was fast becoming a Global
+
+Village.
+<ICE-JA:W2B-033#50:2> Satellite commu <l> nication is responsible for that.
+<ICE-JA:W2B-033#51:2> Cable television and over-the-air TV in Jamaica are making sure that
+
+penetration reaches a peak level.
+<ICE-JA:W2B-033#52:2> It is something to really think about. </p>
+
+<p> <ICE-JA:W2B-033#53:2> From my experience, one thing I am sure about is that many of the
+
+cable operators have a vision and are genuinely interested in modern technolo
+
+<l> gy.
+<ICE-JA:W2B-033#54:2> That cannot be said for some of our traditional broadcasters. </p>
+
+<p> <ICE-JA:W2B-033#55:2> <h> <bold> Turner Broadcasting </bold> </h> </p>
+
+<p> <ICE-JA:W2B-033#56:2> The word is that talks to restruc <l> ture Turner Broadcasting
+
+Sys <l> tem have been discontinued and will resume later in the year.
+<ICE-JA:W2B-033#57:2> Turner Broadcasting System In <l> corporated, and its two major
+
+shareholders, Time Warner In <l> corporated and Tele-Commu <l> nications
+
+Incorporated, have been trying to divide up the US company and give Chairman
+
+Ted Turner, more freedom in the media business. </p>
+
+<p> <ICE-JA:W2B-033#58:2> According to an industry publications, if the <w> US' </w>
+
+Federal Communications Commission ( FCC) blocks cable companies from owning
+
+more program <l> ming, it could cancel any plans for selling off such Turner
+
+Broadcasting assets as Cable News Network ( CNN), TNT and the TBS
+
+entertainment net <l> works. </p>
+
+<p> <ICE-JA:W2B-033#59:2> <h> <bold> New SAT Services </bold> </h> </p>
+
+<p> <ICE-JA:W2B-033#60:2> The publication also named some new satellite channels.
+<ICE-JA:W2B-033#61:2> They are: The History Network, World African Network, The Military
+
+Channel, Food Net <l> work, Golf Channel, The Game Show Channel, The Game
+
+Channel, History TV Network and the Crime Channel. </p>
+
+<p> <ICE-JA:W2B-033#62:2> The July issue of Satellite Orbit reports that dish owners cannot
+
+receive Digital Cable Ra <l> dio on F3, 9 and 12 and Digital Music Express on
+
+F3, 24 because decoders for the services are not available for home satellite
+
+TV systems.
+<ICE-JA:W2B-033#63:2> It said the services have plans to make the packages of digital audio
+
+channels available in the future.
+<ICE-JA:W2B-033#64:2> Radio at another dimension. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-033#65:3> <h> <bold> The rehabilitation of Kingston Harbour </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2B-033#66:3> <bold> THE Kingston Harbour is the major physio-geographical
+
+factor that contributed to Kingston being the largest inhabited city in
+
+Jamaica.
+<ICE-JA:W2B-033#67:3> It provided the principal port for commerce and trade and related
+
+industrial and residential development.
+<ICE-JA:W2B-033#68:3> However, the seemingly inevitable by-product of civilization, wastes,
+
+has gradually had a negative effect. </bold> </p>
+
+<p> <ICE-JA:W2B-033#69:3> Industrial and commercial development have produced a variety of
+
+waste that have contaminated the soil, water and air.
+<ICE-JA:W2B-033#70:3> Solid waste from these developments have cluttered the gullies that
+
+subsequently wash into the harbour.
+<ICE-JA:W2B-033#71:3> Poor agricultural practices have also caused contamination of the
+
+Harbour due to the gradual erosion of valuable top soil.
+<ICE-JA:W2B-033#72:3> The use of fertilizers and pesticides in an effort to improve
+
+productivity has also had the undesirable effect of contamination of surface
+
+and groundwater flows to the Harbour. </p>
+
+<p> <ICE-JA:W2B-033#73:3> Several recent studies have not yet resulted in the
+
+implementation of programmes geared toward halting the pollution loads to the
+
+Harbour.
+<ICE-JA:W2B-033#74:3> While a number of proposals has been aired on various approaches of
+
+physically cleaning the Harbour, the strategy will have to be one that
+
+tackles the problem at the source. </p>
+
+<p> <ICE-JA:W2B-033#75:3> Two basic approaches to the problem of the eutrophication of the
+
+Harbour have been considered.
+<ICE-JA:W2B-033#76:3> By seawater exchange through pumping from outside the Harbour or by
+
+altering the Harbour configuration or alternatively, by dramatically reducing
+
+pollution to the Harbour. </p>
+
+<p> <ICE-JA:W2B-033#77:3> The strategy of waste reduction is a proven means of curtailing
+
+the deterioration of environmental conditions and while it is not without
+
+cost and will have to be a long-term approach, it reduces the risk associated
+
+with major civil works and inherently has economic benefits not directly
+
+linked to Harbour rehabilitation. </p> </I>

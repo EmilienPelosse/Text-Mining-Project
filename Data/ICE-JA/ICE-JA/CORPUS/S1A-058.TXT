@@ -1,0 +1,406 @@
+<I>
+
+<$A> <ICE-JA:S1A-058#1:1:A> My name is Daidrah Smith<,> and I'd like basically an interview
+
+with you<,>
+<ICE-JA:S1A-058#2:1:A> Do you mind telling me a job description
+
+<$B> <ICE-JA:S1A-058#3:1:B> Okay
+<ICE-JA:S1A-058#4:1:B> Well I'm a administrative assistant <{> <[> in the</[> office of
+
+student financing
+<ICE-JA:S1A-058#5:1:B> Uh basically I push a lot of paper<O>chuckles</O>
+<ICE-JA:S1A-058#6:1:B> I help to organise the scholarships and bursaries that we offer to
+
+the students
+<ICE-JA:S1A-058#7:1:B> Uh I also assist students that come in on a daily basis<,> and other
+
+things
+
+<$A> <ICE-JA:S1A-058#8:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-058#9:1:A> How long have you been working
+
+<$B> <ICE-JA:S1A-058#10:1:B> I'd say about a year and three months now
+
+<$A> <ICE-JA:S1A-058#11:1:A> Was it a planned job or <?> like</?> the field you wanted to
+
+go in
+
+<$B> <ICE-JA:S1A-058#12:1:B> Well actually no because my first degree was in economics but
+
+then after finishing I decided I didn't want to go to that area and now I'm
+
+doing my masters in management information systems so I think I want to go
+
+into the computer-related field
+
+<$A> <ICE-JA:S1A-058#13:1:A> Okay
+<ICE-JA:S1A-058#14:1:A> So uhm how is the master coming <{> <[> along</[>
+
+<$B> <ICE-JA:S1A-058#15:1:B> <[> Well</[></{> it's going well
+<ICE-JA:S1A-058#16:1:B> I'm getting better grades than I got in the undergrad <{> <[>
+
+so</[> I'm thinking this is what I like
+<ICE-JA:S1A-058#17:1:B> So it's not bad<O>chuckles</O>
+
+<$A> <ICE-JA:S1A-058#18:1:A> <[> Wow</[></{>
+
+<$A> <ICE-JA:S1A-058#19:1:A> Well people always tell me you know when you reach post-grad
+
+don't worry so much about the grades that <?> you don't<O>chuckling</O> <{1>
+
+<[1> want</?>
+<ICE-JA:S1A-058#20:1:A> I thought</[1> when they said that you know <}> <-> they</-> <=>
+
+they</=></}> meant the grades might be lower<{2><[2><O>laughs</O></[2>
+
+<$B> <ICE-JA:S1A-058#21:1:B> <[1> Mhm
+<ICE-JA:S1A-058#22:1:B> That's true</[1></{1>
+
+<$B> <ICE-JA:S1A-058#23:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-058#24:1:B> Well that's what I thought too because before I got into the
+
+programme I was told that it was a very difficult programme<{><[><,></[> but
+
+I am coping and as I said the grades are better so <}> <-> I think</-> <=> I
+
+think</=></}> one of the reasons why it's better is because I'm enjoying what
+
+I'm doing
+<ICE-JA:S1A-058#25:1:B> I don't think I<&>noise</&> liked econ as much as I do computer <&>
+
+noise</&>so <}> <-> that's</-> <=> that's</=></}> one of the reasons why<,>
+
+<&> noise</&>it's working out well for me
+
+<$A> <ICE-JA:S1A-058#26:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-058#27:1:A> Oh you don't think you liked econ so <{1> <[1> was</[1> it
+
+what you applied for <{2> <[2> to come</[2>
+
+<$B> <ICE-JA:S1A-058#28:1:B> <[1> No</[1></{1>
+
+<$B> <ICE-JA:S1A-058#29:1:B> <[2> No</[2></{2> actually I'm one of those students that came
+
+here to do medicine
+<ICE-JA:S1A-058#30:1:B> You know you <{1> <[1> have the population split in two some for
+
+medicine</[1> some for law
+<ICE-JA:S1A-058#31:1:B> Well I came here to do med started out and try and apply
+<ICE-JA:S1A-058#32:1:B> Didn't work out cos I wasn't getting the straight As to go in med
+
+so I decided to switch to computer studies<{2><[2><,></[2> which included
+
+computer science and econ<{3><[3><,></[3>
+<ICE-JA:S1A-058#33:1:B> So that is how I got in the econ side of it and then I think in my
+
+second semester of the second year I decided to just concentrate on econ
+
+alone
+<ICE-JA:S1A-058#34:1:B> So that's how I switched to econ
+
+<$A> <ICE-JA:S1A-058#35:1:A> <[1> Okay<O>laughs</O></[1></{1>
+
+<$A> <ICE-JA:S1A-058#36:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-058#37:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-058#38:1:A> Okay
+<ICE-JA:S1A-058#39:1:A> Sounds <?> well I'm</?> likely to do any switching <?> you know</?>
+<ICE-JA:S1A-058#40:1:A> What I'm doing right now is not <?> really what <{> <[> I want</?>
+
+<unclear> words</unclear></[>
+
+<$B> <ICE-JA:S1A-058#41:1:B> <[> It's not really what you</[></{> want
+<ICE-JA:S1A-058#42:1:B> <{1> <[1> Oh</[1>
+<ICE-JA:S1A-058#43:1:B> Probably later on you can look <?> out</?> for it in the Masters
+
+programme you can switch back over to what <{2> <[2> <?> you're
+
+doing</?></[2>
+
+<$A> <ICE-JA:S1A-058#44:1:A> <[1> Right</[1></{1>
+
+<$A> <ICE-JA:S1A-058#45:1:A> <[2> Well guess what</[2></{2> <{> <[> <,> </[>
+<ICE-JA:S1A-058#46:1:A> <}> <-> I've</-> <=> I've</=></}> come to love it<O>laughs</O>
+
+<$B> <ICE-JA:S1A-058#47:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-058#48:1:B> Oh you see<O>laughs</O>
+
+<$A> <ICE-JA:S1A-058#49:1:A> And it's so I don't think I'm going to <{> <[> switch to
+
+anything<O>chuckles</O></[>
+
+<$B> <ICE-JA:S1A-058#50:1:B> <[> Your decision
+<ICE-JA:S1A-058#51:1:B> Okay</[></{>
+<ICE-JA:S1A-058#52:1:B> Then you come here to do that
+<ICE-JA:S1A-058#53:1:B> Well it happens for some of us
+<ICE-JA:S1A-058#54:1:B> Some of us<,> do a major because they want a degree
+<ICE-JA:S1A-058#55:1:B> Some of us do it because we love it
+<ICE-JA:S1A-058#56:1:B> Some of us do it because <?> just the university</?> to get out of
+
+this place but probably in the middle of it you might get to like that field
+
+and you end up sticking to it for later on
+
+<$A> <ICE-JA:S1A-058#57:1:A> So what was <?> the/your</?> job-hunting like after your first
+
+degree
+
+<$B> <ICE-JA:S1A-058#58:1:B> Well it wasn't hard for me because when in my last semester I
+
+got a part-time job in the Bursary and then from there I was looking for a
+
+full-time job
+<ICE-JA:S1A-058#59:1:B> So the manager I was working with was looking for me too and then
+
+he heard about this one that I'm now in and I applied and I was there
+
+part-time on a three-months probationary basis and then afterwards I was
+
+hired
+<ICE-JA:S1A-058#60:1:B> So I didn't have one of the typical stories where after school I
+
+couldn't get a job where it was hard and I had to be job-hunting and sending
+
+resumes here and there
+<ICE-JA:S1A-058#61:1:B> I didn't have to go through that<,>
+<ICE-JA:S1A-058#62:1:B> <{> <[> <,> Lucky<,>
+<ICE-JA:S1A-058#63:1:B> Yes<O>laughs</O></[>
+
+<$A> <ICE-JA:S1A-058#64:1:A> <[> You're one of the lucky ones<O>laughs</O></[></{>
+
+<$B> <ICE-JA:S1A-058#65:1:B> Luckily<O>chuckles</O>
+
+<$A> <ICE-JA:S1A-058#66:1:A> So how has your job been so far
+
+<$B> <ICE-JA:S1A-058#67:1:B> Well I like it
+<ICE-JA:S1A-058#68:1:B> It is not as tedious <}> <-> as</-> <=> as</=></}> probably some of
+
+the other jobs on the outside so I don't mind it
+<ICE-JA:S1A-058#69:1:B> <{1> <[1> I don't mind</[1> working at U W I because I'm learning a
+
+lot <{2> <[2> as I go along</[2>
+<ICE-JA:S1A-058#70:1:B> <}> <-> I find</-> U W I working here <=> I find</=></}> it to be a
+
+learning ground so at the end of the day you should be more improved and
+
+should have learned something if it is you want to move on from here
+<ICE-JA:S1A-058#71:1:B> And the job itself as I say is not hard
+<ICE-JA:S1A-058#72:1:B> It's manageable especially with doing my programme I can manage it
+<ICE-JA:S1A-058#73:1:B> Uhm I enjoy working with people so the fact that I have to deal
+
+with students is good for me
+<ICE-JA:S1A-058#74:1:B> Uhm and overall <}> <-> it's</-> <=> it's</=></}> a <}> <->
+
+good</-> <=> good</=></}> experience<,>
+
+<$A> <ICE-JA:S1A-058#75:1:A> <[1> Uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-058#76:1:A> <[2> Mhm mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-058#77:1:A> You need to tell us what you do cos uhm people always worry
+
+about working and doing their masters at the same time
+
+<$B> <ICE-JA:S1A-058#78:1:B> <}> <-> The</-> <=> the</=></}> funny thing is well when I
+
+finished coming to college I didn't want to come straight to U W I so I
+
+decided to work for a year and because I was doing the N one <}> <-> at a</->
+
+<=> at a</=></}> community college we're let out May just like how here we're
+
+let out<{1><[1><,></[1> and I had four months
+<ICE-JA:S1A-058#79:1:B> <}> <-> Well I <.> u</.></-> <=> well I took</=></}> four months to
+
+find a job
+<ICE-JA:S1A-058#80:1:B> I couldn't get a job until September<{2><[2><,></[2>
+<ICE-JA:S1A-058#81:1:B> So I think then was my searching period because I sent resumes here
+
+and there and here and no responses and sometimes <{3> <[3> when I
+
+get<,></[3>
+<ICE-JA:S1A-058#82:1:B> Yes
+<ICE-JA:S1A-058#83:1:B> So I think I did get that just after community college and I
+
+finally got a job and did that for a year then came to U W I
+<ICE-JA:S1A-058#84:1:B> And then when I came here the thing<,> that I noticed <}> <-> you
+
+have to</-> <=> you have to</=></}> network
+<ICE-JA:S1A-058#85:1:B> You have to try and get to know a lot of persons especially those
+
+in the management field because they're the ones that's going to help you
+<ICE-JA:S1A-058#86:1:B> They're the ones that know other persons on the outside
+<ICE-JA:S1A-058#87:1:B> Because you just leaving school you might not <{4> <[4> know</[4>
+
+anybody apart from those who you went to school with
+<ICE-JA:S1A-058#88:1:B> So you have to get to know a lot of persons as I said network
+<ICE-JA:S1A-058#89:1:B> That's the key
+<ICE-JA:S1A-058#90:1:B> You can't survive without networking
+<ICE-JA:S1A-058#91:1:B> You can't survive without other people
+<ICE-JA:S1A-058#92:1:B> So you can't do a lot of things on your own
+<ICE-JA:S1A-058#93:1:B> You need other persons to help to push you along and to help to get
+
+here and there
+<ICE-JA:S1A-058#94:1:B> They always say in Jamaica <}> <-> that</-> <=> that</=></}>
+
+Jamaica it's a land of name-calling
+<ICE-JA:S1A-058#95:1:B> It is who you know that will get you somewhere
+<ICE-JA:S1A-058#96:1:B> So if you go to this organisation and you let them know that listen
+
+I know X and X you'll get the job or you're getting further than if you just
+
+go there and sit and not knowing anybody
+<ICE-JA:S1A-058#97:1:B> So you have to do a lot of name-calling and networking to get where
+
+you want to get
+
+<$A> <ICE-JA:S1A-058#98:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-058#99:1:A> <[2> Aha</[2></{2>
+
+<$A> <ICE-JA:S1A-058#100:1:A> <[3> Ha I've been there<O>laughs</O> </[3> </{3>
+
+<$A> <ICE-JA:S1A-058#101:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-058#102:1:A> Okay I guess that's why every time I've looked for a summer
+
+job<O>laughs</O> <{1> <[1> because</[1> I've been to places and they said
+
+they take only certain students that <{2> <[2> <,> each year <unclear>
+
+word</unclear> <?> that were</?> there</[2>
+
+<$B> <ICE-JA:S1A-058#103:1:B> <[1> Hmm</[1></{1>
+
+<$B> <ICE-JA:S1A-058#104:1:B> <[2> Right
+<ICE-JA:S1A-058#105:1:B> <}> <-> Especially</-> yeah</[2></{2> <=> especially</=></}> at U
+
+W I it is who you know that will get you somewhere
+<ICE-JA:S1A-058#106:1:B> Because at U W I <}> <-> what</-> I noticed <=> what</=></}> they
+
+do is they fill internally
+<ICE-JA:S1A-058#107:1:B> I mean there's a job available it is somebody from another
+
+department that's going to get the job or it is somebody who somebody in the
+
+office knows that's going to come in and get the job
+<ICE-JA:S1A-058#108:1:B> Because they hardly ever depend on people coming from the outside
+
+unless somebody says listen I know this person work with them
+<ICE-JA:S1A-058#109:1:B> So especially at U W I I can't say much as to how the <}> <- >
+
+outside work</-> <=> outside world works</=></}> but I know you have to know
+
+somebody in order to get where you want to get especially in Jamaica
+
+<$A> <ICE-JA:S1A-058#110:1:A> So students need to start fishing for persons<O>laughs</O>
+
+<$B> <ICE-JA:S1A-058#111:1:B> Cos <}> <-> even summer jobs</-> <=> even the summer
+
+jobs</=></}> itself you have ten thousand students and most all of them want
+
+a summer job
+<ICE-JA:S1A-058#112:1:B> So the only way <}> <-> there</-> <=> there</=></}> is employers
+
+are going to know who to choose is because somebody will say to them listen
+
+<}> <-> I know</-> <=> I know</=></}> Mary-Jane so work with her
+<ICE-JA:S1A-058#113:1:B> Cos if John just walks in it is highly unlikely that they're going
+
+to take him to come on and do the job
+<ICE-JA:S1A-058#114:1:B> So it's really who you know
+
+<$A> <ICE-JA:S1A-058#115:1:A> So <?> does it take</?> more persons inside than
+
+outside<O>laughs</O>
+
+<$B> <ICE-JA:S1A-058#116:1:B> Well no
+<ICE-JA:S1A-058#117:1:B> Uhm well since I have been at UWI I have been very active cos I
+
+was on the Guild and that alone helped me to know a lot of persons in the
+
+management levels here
+<ICE-JA:S1A-058#118:1:B> We've had to sit with them in meetings et cetera
+<ICE-JA:S1A-058#119:1:B> So you can't just come here and go to your classes and not do
+
+anything
+<ICE-JA:S1A-058#120:1:B> You have to be involved especially in co-curricular activities
+<ICE-JA:S1A-058#121:1:B> If you don't have little time nor a love of co-curricular for as
+
+much as somebody who is
+<ICE-JA:S1A-058#122:1:B> Know your lecturers at least<{1><[1><,></[1>
+<ICE-JA:S1A-058#123:1:B> Every year you should try to know at least two lecturers because
+
+at the end of the day you might need them for references
+<ICE-JA:S1A-058#124:1:B> So you have to chat to get to know them
+<ICE-JA:S1A-058#125:1:B> As the students come here for three years and when they come back
+
+and they need something from their lecturer they say they don't know any of
+
+the <{2> <[2> lecturers</[2> and lecturers don't know any of them which is
+
+bad
+<ICE-JA:S1A-058#126:1:B> You have to know at least two of your lecturers every year so at
+
+the end you have six lecturers who you can draw on who you can go to and say
+
+listen I need a reference to get this job cos otherwise you won't be able to
+
+survive
+
+<$A> <ICE-JA:S1A-058#127:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-058#128:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-058#129:1:A> But <}> <-> sometimes</-> I guess <=> sometimes</=></}> what
+
+the problem is is that<,> each semester <}> <-> you <.> ha</.></-> <=> you
+
+might have</=></}> different lecturers you know so the time period in which
+
+you <{> <[> get to know them</[>
+
+<$B> <ICE-JA:S1A-058#130:1:B> <[> That's true but</[></{> when the course starts out <}>
+
+<-> you might not have</- > <=> you might be</=></}> understanding the course
+
+so you feel you don't need to go to the lecturer but just for your sake only
+
+you need to go to him and say listen my name is X and I'm in your class and
+
+thereafter you just find small items just to go to him and go to
+<ICE-JA:S1A-058#131:1:B> You don't have to go every week<{><[><,></[>
+<ICE-JA:S1A-058#132:1:B> He has uhm the <}> <-> <.> lec</.></-> <=> lecturers</=></}>
+
+usually have office hours
+<ICE-JA:S1A-058#133:1:B> Just pick even once per month just to get <}> <-> the</-> <=>
+
+that</=></}> person to know you and when they're marking your things they'd
+
+look out for you so at the end they're gonna test cos it can't you definitely
+
+will need the lecturers to prove some amount of recommendation
+<ICE-JA:S1A-058#134:1:B> If you're applying for the masters programme some of these
+
+lecturers sit on the board that decides who gets into the programme
+<ICE-JA:S1A-058#135:1:B> So when they see the name they might not remember a lot of stuff
+
+about you but when they see the name they recognise the name and say oh this
+
+person was in my class and they usually visit and they you understand so they
+
+use those things <}> <-> to</-> <=> to</=></}> decide <}> <-> on</-> <=>
+
+on</=></}> your future
+<ICE-JA:S1A-058#136:1:B> So you can't just come and say alright I don't have the time or
+
+the lecturer not important or he will not remember me so I won't be bothered
+<ICE-JA:S1A-058#137:1:B> You have to get to know at least two of your lecturers
+
+<$A> <ICE-JA:S1A-058#138:1:A> <[> Mhm</[></{></I>

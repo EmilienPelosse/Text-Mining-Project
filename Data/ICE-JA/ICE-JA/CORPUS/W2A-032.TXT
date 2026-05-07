@@ -1,0 +1,462 @@
+<I>
+
+<p> <ICE-JA:W2A-032#1:1> <h> MULTI-DISCIPLINARY FACILITIES AT THE CENTRE FOR NUCLEAR
+
+SCIENCES, UWI </h> </p>
+
+<p> <ICE-JA:W2A-032#2:1> G.C.LALOR, H. ROBOTHAM </p>
+
+<p> <ICE-JA:W2A-032#3:1> <it> Centre for Nuclear Sciences, University of the West Indies,
+
+Kingston 7 ( Jamaica) </it> </p>
+
+<p> <ICE-JA:W2A-032#4:1> ( Received January 4, 1994) </p>
+
+<p> <ICE-JA:W2A-032#5:1> The Centre for Nuclear Sciences was established in 1984 with the
+
+mandate to introduce Caribbean scientists to the application of nuclear
+
+technology in multi-disciplinary studies, and to carry out research in areas
+
+of national and regional importance.
+<ICE-JA:W2A-032#6:1> This paper describes the present facilities and the major programmes
+
+being carried out at the Centre. </p>
+
+<p> <ICE-JA:W2A-032#7:1> The University of the West Indies, ( U.W.I.), is the only regional
+
+University in the English-speaking Caribbean.
+<ICE-JA:W2A-032#8:1> It serves fourteen territories.
+<ICE-JA:W2A-032#9:1> The three U.W.I. campuses are in Jamaica, Trinidad & Tobago and
+
+Barbados. </p>
+
+<p> <ICE-JA:W2A-032#10:1> The University, in its drive to develop science and technology in
+
+the Caribbean and to provide a more effective service in the Region, has
+
+pursued the concept of creating Centres of Excellence, each operating with a
+
+specific theme; well equipped and funded, and operated by small but highly
+
+trained specialised core staff.
+<ICE-JA:W2A-032#11:1> They are a resource not only for departments within the University,
+
+but for private sector and government organisations. </p>
+
+<p> <ICE-JA:W2A-032#12:1> One such unit is the Centre for Nuclear Sciences ( CNS), which
+
+was established in 1984 with the mandate to introduce Caribbean scientists to
+
+the application of nuclear technology in multi-disciplinary studies, and to
+
+carry out research in areas of national and regional importance.
+<ICE-JA:W2A-032#13:1> The Centre's present activities are divided into three main areas:
+
+</p>
+
+<p> <ICE-JA:W2A-032#14:1> &black-square; the development of multi-element analytical
+
+capabilities with the emphasis being on nuclear analytical techniques; </p>
+
+<p> <ICE-JA:W2A-032#15:1> &black-square; radiation protection programmes; and </p>
+
+<p> <ICE-JA:W2A-032#16:1> &black-square; national and university-based research, service
+
+and training programmes. </p>
+
+<p> <ICE-JA:W2A-032#17:1> <h> <bold> The Centre for Nuclear Sciences </bold> </h> </p>
+
+<p> <ICE-JA:W2A-032#18:1> <h> <bold> Analytical Facilities <bold> </h> </p>
+
+<p> <ICE-JA:W2A-032#19:1> The main analytical thrust is on multi-element analytical
+
+techniques with the capability to routinely quantify a wide range of elements
+
+at low detection limits in a variety of sample matrices. </p>
+
+<p> <ICE-JA:W2A-032#20:1> <h> <it> Neutron activation analysis ( NAA) </it> </h> </p>
+
+<p> <ICE-JA:W2A-032#21:1> The Centre operates an Atomic Energy of Canada, Ltd. ( AECL)
+
+SLOWPOKE-2 research reactor with a maximum rated flux of 10 <sp> 12 </sp> n
+
+cm <sp> - 2 </sp> s <sp> - 1 </sp> for NAA.
+<ICE-JA:W2A-032#22:1> There are four Canberra and Ortec coaxial high purity Ge detector
+
+systems and one Ortec HPGe low energy photon spectrometer ( LEPS) system
+
+interfaced to either IBM compatibles or a DEC 380 computer.
+<ICE-JA:W2A-032#23:1> Spectra are analysed with EG&G Ortec software for DEC ( GELIGAM) and
+
+IBM ( OMNIGAM), EPAA ( Kennedy, Ecole Polytechnique).
+<ICE-JA:W2A-032#24:1> The IAEA gamma spectrometry software package GANAAS is now being
+
+included in the laboratory as an option for spectrum analysis.
+<ICE-JA:W2A-032#25:1> The laboratory computers are networked, and in-house menu-driven user
+
+interfaces are available to provide a choice of MCA emulation, spectrum
+
+analysis and quantification software at each workstation. </p>
+
+<p> <ICE-JA:W2A-032#26:1> <h> <it> X-ray fluorescence analysis ( XRF) </it> </h> </p>
+
+<p> <ICE-JA:W2A-032#27:1> A Siemens FK60-04 X-ray tube with a molybdenum anode and a
+
+Kristalloflex high voltage generator as the primary source of X-rays is used.
+<ICE-JA:W2A-032#28:1> The system is configured for secondary target excitation usually with
+
+zirconium as the secondary target. An EG&G Ortec SLP 10180 Si(Li) detector
+
+with a FWHM of 180 eV at 5.9 keV and 0.025 mm Be window, and associated
+
+spectroscopy electronics interfaced to a Canberra Series 35+ multi-channel
+
+analyzer is used for spectrum collection.
+<ICE-JA:W2A-032#29:1> The IAEA QXAS software is used for spectrum analysis. </p>
+
+<p> <ICE-JA:W2A-032#30:1> <h> <it> Ion chromatography ( IC) </it> </h> </p>
+
+<p> <ICE-JA:W2A-032#31:1> A Dionex 4500i ion chromatography unit with an automatic sample
+
+changer is used.
+<ICE-JA:W2A-032#32:1> There are two detector systems: </p>
+
+<p> <ICE-JA:W2A-032#33:1> &black-square; a pulsed electrochemical detector PED for the
+
+determination of anions such as nitrate, chloride, sulphate, etc. and cations
+
+such as ammonium, potassium, sodium, calcium, etc. by conductivity
+
+measurements. </p>
+
+<p> <ICE-JA:W2A-032#34:1> &black-square; a variable wavelength detector VDM-II with a
+
+microlitre volume quartz cell and fibre optics for light transfer.
+<ICE-JA:W2A-032#35:1> This is presently used for the determination of transition elements
+
+by spectrophotometry after complexation with 4-(2- pyridylazo)resorcinol.
+
+</p>
+
+<p> <ICE-JA:W2A-032#36:1> <h> <bold> Electronics Workshop </bold> </h> </p>
+
+<p> <ICE-JA:W2A-032#37:1> The electronics laboratory provides the Centre with the
+
+capability to maintain and repair much of the instrumentation within the
+
+facility.
+<ICE-JA:W2A-032#38:1> The laboratory is also involved in the development of peripheral
+
+systems associated with nuclear spectrometry measurements.
+<ICE-JA:W2A-032#39:1> For example, a computer controlled random access storage system has
+
+been designed and built for storage and retrieval of 180 samples from
+
+individually coded sites.
+<ICE-JA:W2A-032#40:1> The pneumatic system of the storage site is connected to the
+
+SLOWPOKE-II irradiation pneumatic unit so that samples can be transferred
+
+directly from the reactor to the storage areas.
+<ICE-JA:W2A-032#41:1> An onboard computer keeps a database of site status.
+<ICE-JA:W2A-032#42:1> The prototype was developed under a research contract from the IAEA.
+
+</p>
+
+<p> <ICE-JA:W2A-032#43:1> <h> <bold> Radiation Protection Programmes </bold> </h> </p>
+
+<p> <ICE-JA:W2A-032#44:1> The Centre has operated a pilot facility for the monitoring of
+
+occupational exposure to radiation using thermoluminescence dosimetry since
+
+1984.
+<ICE-JA:W2A-032#45:1> The funds for the equipment - a Vinten Universal Toledo 654D TLD
+
+Reader, 623 <sp> 90 </sp> Sr irradiator and 6221E annealing unit - were
+
+provided by the International Atomic Energy Agency ( IAEA).
+<ICE-JA:W2A-032#46:1> During this phase, about 150 radiation workers from hospitals,
+
+laboratories and industries were monitored.
+<ICE-JA:W2A-032#47:1> The success of this programme lead to the expansion of the project in
+
+1992 to create a national facility for monitoring on an island-wide basis.
+<ICE-JA:W2A-032#48:1> This is being funded by the IAEA, U.W.I. and the Government of
+
+Jamaica. The IAEA funded the purchase of a Harshaw 6600 automated TLD reader
+
+with a built in <sp> 90 </sp> Sr irradiation station.
+<ICE-JA:W2A-032#49:1> Dose evaluation is done with a TLD Glow Curve deconvolution programme
+
+and Harshaw REMS ( radiation evaluation and management system) software.
+<ICE-JA:W2A-032#50:1> The possibility of extending the service within the Caribbean Region
+
+is also being explored. </p>
+
+<p> <ICE-JA:W2A-032#51:1> <h> <bold> Applications and National Projects </bold> </h> </p>
+
+<p> <ICE-JA:W2A-032#52:1> <h> <it> Development of GRASS GIS </it> </h> </p>
+
+<p> <ICE-JA:W2A-032#53:1> The Centre is involved in several national programmes in which
+
+very large SQL compliant relational databases are generated, stored and
+
+manipulated on a MicroVax minicomputer.
+<ICE-JA:W2A-032#54:1> Much of the data being compiled have been obtained through the
+
+Centre's research projects and are geographically referenced, and represent
+
+information on the geochemistry of the environment and on human and livestock
+
+health parameters in Jamaica.
+<ICE-JA:W2A-032#55:1> In order to effectively manage this data and to allow easy public
+
+sector access to the information, a Geographical Information System ( GIS) is
+
+being developed.
+<ICE-JA:W2A-032#56:1> The system uses GRASS ( i.e. Geographical Resources Analysis Support
+
+System) software running on a Sunsparc station 1+ as the graphical interface
+
+with the Vax SQL database. </p>
+
+<p> <ICE-JA:W2A-032#57:1> <h> <it> Projects </it> </h> </p>
+
+<p> <ICE-JA:W2A-032#58:1> The Centre's major programmes have involved collaboration with
+
+both international and local organisations including the British Geological
+
+Survey ( BGS), the Geological Survey of Jamaica ( GSJ), the Natural Resource
+
+& Conservation Agency of Jamaica ( NRCA), the Scientific Research Council of
+
+Jamaica ( SRC), and the Underground Water Authority ( UWA) of Jamaica. </p>
+
+<p> <ICE-JA:W2A-032#59:1> The major projects to date include: </p>
+
+<p> <ICE-JA:W2A-032#60:1> i) <it> Orientation studies for regional geochemical surveys in
+
+the Caribbean </it> <sp> 1,2,3 </sp> - CNS, SRC and BGS. </p>
+
+<p> <ICE-JA:W2A-032#61:1> The first phase was carried out in Jamaica and was based on six
+
+sites representative of a wide range of geological and environmental
+
+conditions occurring in the island.
+<ICE-JA:W2A-032#62:1> It identified an integrated sampling and analytical procedure to be
+
+used systematically to produce geochemical maps of the island.
+<ICE-JA:W2A-032#63:1> The programme is to be extended to the Caribbean islands in 1993.
+
+</p>
+
+<p> <ICE-JA:W2A-032#64:1> ii) <it> Gold exploration studies </it> - GSJ. </p>
+
+<p> <ICE-JA:W2A-032#65:1> The <quote> " in-pool irradiation site" </quote> <sp> 4 </sp> was
+
+installed just outside the aluminium container of the reactor so that 36
+
+samples can be irradiated at a time, at a maximum flux of approx. 2 x 10 <sp>
+
+11 </sp> n cm <sp> - 2 </sp> s <sp> - 1 </sp> .
+<ICE-JA:W2A-032#66:1> This site is being used for the irradiation of sediments, soils and
+
+heavy metal concentrates primarily for the determination of gold.
+<ICE-JA:W2A-032#67:1> This is part of a CIDA funded programme, <quote> " A Metallic Mineral
+
+Survey of Jamaica." </quote>
+<ICE-JA:W2A-032#68:1> Some 80 samples are analysed per week. </p>
+
+<p> <ICE-JA:W2A-032#69:1> iii) <it> The geochemistry of Jamaican soils </it> - CNS staff.
+
+</p>
+
+<p> <ICE-JA:W2A-032#70:1> Soil samples ( A, B, and C horizons) were collected from nearly
+
+three hundred sites across the island.
+<ICE-JA:W2A-032#71:1> They were analysed by NAA for twenty-three elements to determine the
+
+typical concentration ranges of elements and to identify areas of high or low
+
+concentrations which would require more detailed sampling.
+<ICE-JA:W2A-032#72:1> Colour-coded maps showing the regional variation in the background
+
+elemental concentrations across the island, are being prepared. </p>
+
+<p> <ICE-JA:W2A-032#73:1> iv) <it> A study of the quality and hydrogeochemistry of ground
+
+and surface waters in Jamaica and island-wide ambient air quality
+
+measurements </it> - CNS staff and collaborators <+> . </+> </p>
+
+<p> <ICE-JA:W2A-032#74:1> These studies are part of an Inter-American Development Bank (
+
+IDB) funded programme to set up an environmental monitoring strategy for
+
+Jamaica with the Centre as the principal executing agency. </p>
+
+<p> <ICE-JA:W2A-032#75:1> The project is being carried out in collaboration with various
+
+Government agencies including the UWA, the NRCA.
+<ICE-JA:W2A-032#76:1> Background concentrations of trace elements and various pollutants
+
+are being established in water, sediments and air particulates, and areas
+
+with high levels are being targeted for follow-up studies. </p>
+
+<p> <ICE-JA:W2A-032#77:1> vi) <it> Radiometric surveys of Jamaica </it> <sp> 5 </sp> - CNS
+
+staff. </p>
+
+<p> <ICE-JA:W2A-032#78:1> Total gamma radiation levels were measured with a vehicle mounted
+
+detector traversing some 3000 km of roads throughout Jamaica.
+<ICE-JA:W2A-032#79:1> These data and data on the radiation levels in Jamaican homes are
+
+being mapped and used to determine average exposure rates to the Jamaican
+
+population.
+<ICE-JA:W2A-032#80:1> Further measurements are elucidating the contribution of the uranium
+
+and thorium daughters and potassium-40 to the gamma radiation levels. </p>
+
+<p> <ICE-JA:W2A-032#81:1> <h> <it> Training </it> </h> </p>
+
+<p> <ICE-JA:W2A-032#82:1> The Centre has also provided training and facilities for
+
+research, graduate and undergraduate teaching programmes within the
+
+university community.
+<ICE-JA:W2A-032#83:1> Research and graduate projects have usually been done in
+
+collaboration with the CNS's staff and have included: </p>
+
+<p> <ICE-JA:W2A-032#84:1> i) <it> Studies of trace metals in stream sediments of the
+
+Wagwater Basin </it> <sp> 6 </sp> - MPhil degree ( 1988) in Geology. </p>
+
+<p> <ICE-JA:W2A-032#85:1> Some 60 stream sediments from the Wagwater Basin which shows
+
+evidence of mineralisation, were analysed for 19 elements by NAA and 5
+
+elements by atomic absorption spectrometry. </p>
+
+<p> <ICE-JA:W2A-032#86:1> ii) <it> Trace metals in marine sediments and plants </it> -
+
+MPhil degree ( 1987) in Chemistry </p>
+
+<p> <ICE-JA:W2A-032#87:1> This work was part of a multi-disciplinary study of the coastal
+
+ecosystems of the Hellshire Bay, Jamaica and involved research on the coral
+
+reefs, beaches, coastal wetlands and the chemical composition of the sea
+
+sediments.
+<ICE-JA:W2A-032#88:1> Some 70 samples of aquatic plants and sediments were analysed by NAA.
+
+</p>
+
+<p> <ICE-JA:W2A-032#89:1> iii) <it> Atmospheric dust in Kingston </it> - MPhil degree (
+
+1992) in Chemistry. </p>
+
+<p> <ICE-JA:W2A-032#90:1> The levels and types of dust around Kingston were studied to
+
+determine the level of dust pollution in the city and to assess the extent to
+
+which the power station at Hunt's Bay contributes to it.
+<ICE-JA:W2A-032#91:1> Dustfall jars and air sampling pumps were used for sample collection.
+<ICE-JA:W2A-032#92:1> Trace element content was determined using NAA. </p>
+
+<p> <ICE-JA:W2A-032#93:1> iv) <it> Elemental concentrations in the Negril Morass, Jamaica
+
+</it> <sp> 7 </sp> - MPhil degree ( 1990) in Chemistry. </p>
+
+<p> <ICE-JA:W2A-032#94:1> Six sites were sampled in duplicate at three depths and analysed
+
+for twenty-five elements as a baseline study on the elemental concentrations
+
+in the Negril Peat Morass. </p>
+
+<p> <ICE-JA:W2A-032#95:1> v) <it> Lichen as environmental monitors </it> <sp> 8 </sp> - PhD
+
+degree ( 1987) in Botany. </p>
+
+<p> <ICE-JA:W2A-032#96:1> Lichens were used as environmental indicators for certain major,
+
+minor and trace elements.
+<ICE-JA:W2A-032#97:1> Two species of lichen were transplanted into locations around
+
+industrial plants and analysed after various periods of exposure for 17
+
+elements by NAA. </p>
+
+<p> <ICE-JA:W2A-032#98:1> vi) <it> Geophagia studies </it> <sp> 9 </sp> - joint study with
+
+Tropical Metabolism Research Unit ( TMRU). </p>
+
+<p> <ICE-JA:W2A-032#99:1> The use of chemical markers as indicators of geophagia was
+
+investigated.
+<ICE-JA:W2A-032#100:1> Five volunteers each ingested capsules of three common soils in
+
+Jamaica and a pre-ingestion and all post-ingestion faecal samples were
+
+collected.
+<ICE-JA:W2A-032#101:1> These were analysed by NAA for 14 elements and 5 of the latter
+
+selected for possible candidates as markers. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2A-032#102:2> <h> <bold> Assessment of strength development in Bayer-process
+
+residues </bold> </h> </p>
+
+<p> <ICE-JA:W2A-032#103:2> W. R. PINNOCK </p>
+
+<p> <ICE-JA:W2A-032#104:2> <it> Department of Chemistry <+> , </+> University of the West
+
+Indies Mona Campus, Kingston, Jamaica </it> </p>
+
+<p> <ICE-JA:W2A-032#105:2> J. N. GORDON </p>
+
+<p> <ICE-JA:W2A-032#106:2> <it> Building Research Institute, Old Hope Road, Kingston,
+
+Jamaica </it> </p> <O> text </O>
+
+<p> <ICE-JA:W2A-032#107:2> <h> <bold> 1. Introduction </bold> </h> </p>
+
+<p> <ICE-JA:W2A-032#108:2> The processing of bauxite into alumina by the Bayer process is
+
+one of the major industrial operations on the island of Jamaica.
+<ICE-JA:W2A-032#109:2> When all four of the existing plants are in operation, a total of
+
+almost three million tonnes of alumina is extracted for export annually,
+
+leaving behind about fifteen million tonnes of slurry-like residue.
+<ICE-JA:W2A-032#110:2> This waste, which is known locally as red mud because of its
+
+characteristic reddish-brown col <l> our and slimy consistency, is usually
+
+discharged into natural or artificially created valleys.
+<ICE-JA:W2A-032#111:2> This method of disposal, practised by the industry for the past
+
+three decades, has left behind several large red mud lakes which are, at
+
+best, unsightly features of the landscape in certain parts of the island.
+<ICE-JA:W2A-032#112:2> More significantly how <l> ever, these lakes are potentially major
+
+sources of pollution for the surrounding environment.
+<ICE-JA:W2A-032#113:2> The situ <l> ation is described graphically by Bell [ 1]. </p>
+
+<p> <ICE-JA:W2A-032#114:2> These factors have been influential in directing re <l> search
+
+efforts towards finding some application which would result in large scale
+
+use of the mud, and so at least slow down the creation of new lakes.
+<ICE-JA:W2A-032#115:2> The invest <l> igation of its potential use as a building material
+
+is one such effort. </I>

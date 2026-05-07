@@ -1,0 +1,414 @@
+<I>
+
+<p> <ICE-JA:W2A-023#1:1> <h> <bold> 1. DESCRIPTION OF THE AREA </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#2:1> <h> <bold> 1.1 Overview </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#3:1> Jamaica in 1988 had a population of approximately 2.43 million and
+
+Gross Domestic Product of US$2,858 million.
+<ICE-JA:W2A-023#4:1> The agricultural GDP in 1987 was US$174 million with fisheries
+
+accounting for approximately 1% of this amount.
+<ICE-JA:W2A-023#5:1> In 1987 the unemployment rate in Jamaica stood at 21% of the labour
+
+force ( PIOJ, 1988). </p>
+
+<p> <ICE-JA:W2A-023#6:1> Jamaica is located in the Greater Antilles, in the Caribbean Sea,
+
+approximately 145 km south of Cuba and 161 km west of Haiti ( Fig.1).
+<ICE-JA:W2A-023#7:1> The island is 236 km long, between 35 and 82 km wide, with a total
+
+land area of 10,940 km <sp> 2 </sp> and a coastline of approximately 885 km.
+
+</p>
+
+<p> The topography consists of an interior backbone of mountain ranges
+
+running almost the length of the island from roughly east to west, surrounded
+
+by flat coastal plains.
+<ICE-JA:W2A-023#8:1> The Blue Mountains in the east have the highest peak at 2,256 m.
+<ICE-JA:W2A-023#9:1> The interior of the central and western two-thirds of the island is
+
+dominated by a limestone plateaux, the majority of which lies between 350-610
+
+m ( NRCD, 1987). </p>
+
+<p> <ICE-JA:W2A-023#10:1> The irregular coastline is punctuated by numerous coastal
+
+features such as harbours, bays, beaches, estuaries, mangrove swamps, rocky
+
+shores, cays, coral reefs and lagoons.
+<ICE-JA:W2A-023#11:1> These natural features provide a resource base that contributes
+
+significantly to the economic well-being of the country, chiefly through
+
+tourism. </p>
+
+<p> <ICE-JA:W2A-023#12:1> Jamaica has a tropical maritime climate which is modified by
+
+northeast trade winds and land-sea breezes.
+<ICE-JA:W2A-023#13:1> Temperature is fairly uniform in the coastal areas.
+<ICE-JA:W2A-023#14:1> The average temperature is 27 &degree; C, ranging from a low of 23
+
+&degree; C, in the winter ( January and February) to 28 &degree; C in the
+
+summer ( June-August).
+<ICE-JA:W2A-023#15:1> Humidity is usually above 60% and is generally highest in the morning
+
+( 85%), falling slightly by mid afternoon.
+<ICE-JA:W2A-023#16:1> Rainfall in Jamaica is marked by monthly, annual, and spatial
+
+variability.
+<ICE-JA:W2A-023#17:1> The average annual rainfall for the entire island is 195.8 cm and
+
+greatest rainfall occurs form October to November with a secondary peak in
+
+May. </p>
+
+<p> <ICE-JA:W2A-023#18:1> <h> <bold> 1.2 Oceanographic features </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#19:1> The Island lies within the path of north-easterly trade winds and
+
+wind speeds exceeding 15m/sec with associated choppy seas are common.
+<ICE-JA:W2A-023#20:1> A season of relative calm usually occurs between October and February
+
+each year ( Munro, 1983).
+<ICE-JA:W2A-023#21:1> There is <O> map </O> <O> caption </O> a hurricane season in the
+
+Caribbean from July to October each year during which unstable weather
+
+systems, including violent storms, occur. </p>
+
+<p> <ICE-JA:W2A-023#22:1> The branch of the North Equatorial current which flows westwards
+
+and enters the south-eastern Caribbean Basin is the dominant surface current
+
+system affecting Jamaica.
+<ICE-JA:W2A-023#23:1> It exits the Caribbean Sea via the Yucatan Channel and then passes
+
+between Florida and the Bahamas as the Florida current before rejoining the
+
+eastern branch of the North Equatorial current to become the Gulf Stream, and
+
+eventually the upper portion of the North Atlantic Gyre ( Lyons, 1980; Apel,
+
+1987).
+<ICE-JA:W2A-023#24:1> The presence of east flowing surface and sub-surface counter currents
+
+and gyres on both sides of the main current has been reported by Emilson ( in
+
+Munro, 1983). </p>
+
+<p> <ICE-JA:W2A-023#25:1> Munro ( 1983) reported that tidal effect on the Jamaican Coast is
+
+slight, the range varying between 20 cm and 36 cm.
+<ICE-JA:W2A-023#26:1> Tidal currents on Pedro Bank are reported to be sometimes sufficient
+
+to stop or reverse the flow of the prevailing westerly Caribbean current.
+
+</p>
+
+<p> <ICE-JA:W2A-023#27:1> The annual temperature range of the surface waters south of
+
+Jamaica down to a depth of about 75 m is reported to be between 26.5 &degree;
+
+C and 29.5 &degree; C ( Munro, 1983).
+<ICE-JA:W2A-023#28:1> Goodbody and Munro ( 1971) reported fairly constant salinity of 35.2
+
+to 35.8% in the waters south of Jamaica. </p>
+
+<p> <ICE-JA:W2A-023#29:1> <h> <bold> 2. MARINE HABITAT </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#30:1> Jamaica has a 12 mile territorial zone around the main Island as
+
+well as around the offshore Morant and Pedro Cays.
+<ICE-JA:W2A-023#31:1> In keeping with the provisions of the International Convention on the
+
+Law of the Sea, Jamaica is presently in the process of drafting a bill for
+
+the establishment of a 200 mile Exclusive Economic Zone ( EEZ), which would
+
+include the existing 12 miles territorial limit.
+<ICE-JA:W2A-023#32:1> The matter, however, is a complex one and may take some time to be
+
+successfully implemented. </p>
+
+<p> <ICE-JA:W2A-023#33:1> <h> <bold> 2.1 Island Shelf </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#34:1> The Island shelf and nine proximal banks ( Fig. 1) have a total
+
+area of 4,170 km <sp> 2 </sp> .
+<ICE-JA:W2A-023#35:1> The South Shelf is relatively wide whilst the North Shelf is very
+
+narrow and its width does not exceed 1.5 km at any point.
+<ICE-JA:W2A-023#36:1> The North Shelf is characterized by fringing coral reefs with few
+
+gaps, from Morant Point in the east to Negril in the west.
+<ICE-JA:W2A-023#37:1> The fringing reef and the sill reef are almost contiguous along the
+
+north coast.
+<ICE-JA:W2A-023#38:1> The South Shelf attains a maximum width of 24 km south of the
+
+parishes of St. Catherine and Clarendon ( Fig.2).
+<ICE-JA:W2A-023#39:1> Large reefs are restricted to the eastern portion of the South Shelf,
+
+small patches of corals, gorgonians and seaweeds, interspersed with sandy
+
+patches are found in most other areas of the South Shelf.
+<ICE-JA:W2A-023#40:1> Well developed sill reefs occur along most of the edge of the South
+
+Shelf.
+<ICE-JA:W2A-023#41:1> The sill reef and drop-off are generally characterized by massive
+
+corals. </p> <O> map </O> <O> caption </O>
+
+<p> <ICE-JA:W2A-023#42:1> <h> <bold> 2.2 Offshore Banks </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#43:1> The Morant and Pedro Banks rise abruptly from depths exceeding
+
+500 m to form submerged plateaux with average depths from 20 to 30 m.
+<ICE-JA:W2A-023#44:1> Pedro Bank is relatively large with a total area of 8,040 km <sp> 2
+
+</sp> whilst the Morant Bank is relatively small being approximately 100 km
+
+<sp> 2 </sp> in area ( Munro and Thompson, 1983). </p>
+
+<p> <ICE-JA:W2A-023#45:1> The Pedro Bank may be divided into various depth zones as
+
+follows: </p>
+
+<p> <ICE-JA:W2A-023#46:1> 0 - 10 m <space> 171 km <sp> 2 </sp> ( 2.1%) </p>
+
+<p> <ICE-JA:W2A-023#47:1> 10 - 30 m <space> 5917 km <sp> 2 </sp> ( 73.7%) </p>
+
+<p> <ICE-JA:W2A-023#48:1> 30 - 50 m <space> 1948 km <sp> 2 </sp> ( 23.3%) </p>
+
+<p> <ICE-JA:W2A-023#49:1> The top of the Pedro Bank is relatively flat whereas the edges
+
+are characterized by sill reefs of various sizes.
+<ICE-JA:W2A-023#50:1> The shallowest, south-eastern, southern and south-western portions of
+
+the Bank, which face into the Caribbean Current, have the best developed
+
+reefs.
+<ICE-JA:W2A-023#51:1> The middle of Pedro Bank is dominated by silt and sand with sparsely
+
+dispersed patches of sea grass, algae, and isolated coral heads.
+<ICE-JA:W2A-023#52:1> In contrast to the edge, the middle of the Bank is reported to be
+
+relatively unproductive ( Munro and Thompson, 1983).
+<ICE-JA:W2A-023#53:1> Beyond the sill reefs at the edge of the Bank the depth increases
+
+abruptly sometimes by near vertical drops to more than 500 m.
+<ICE-JA:W2A-023#54:1> At the eastern section of Pedro Bank there are three small cays two
+
+of which are inhabited by fishermen.
+<ICE-JA:W2A-023#55:1> Small cays also occur on the Morant Bank, and are occupied by
+
+fishermen. </p>
+
+<p> <ICE-JA:W2A-023#56:1> <h> <bold> 3. MARINE FISHERY RESOURCES </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#57:1> <h> <bold> 3.1 Organization of the Fisheries </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#58:1> In order to fully understand the different types of resources,
+
+their locations and rates of exploitation in the Jamaican fishery, it is
+
+first necessary to examine briefly the organization of the fishery itself.
+
+</p>
+
+<p> <ICE-JA:W2A-023#59:1> The fishery of Jamaica is made up largely of artisanal fishermen
+
+operating from open canoe type boats powered by either outboard motors or
+
+oars.
+<ICE-JA:W2A-023#60:1> There are approximately 12,000 registered persons who fish using
+
+approximately 4,000 boats from 168 fishing beaches scattered around the
+
+Jamaican coastline.
+<ICE-JA:W2A-023#61:1> The artisanal fishery may be sub-divided into two main sectors, the
+
+inshore fishery and the offshore fishery. </p>
+
+<p> <ICE-JA:W2A-023#62:1> <h> <bold> 3.2 The Inshore Fishery </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#63:1> The inshore fishery takes place in the coastal waters of the
+
+Island shelf and its nine proximal banks ( Fig.1).
+<ICE-JA:W2A-023#64:1> Historically, the shelf and proximal banks have supported the bulk of
+
+fishery activities in terms of manpower and vessels.
+<ICE-JA:W2A-023#65:1> The major fishing gear used in the artisanal fishery is the Z-shaped
+
+antillean fish trap.
+<ICE-JA:W2A-023#66:1> Other common gear include gill nets, seine nets, hook-and-line, and
+
+spearguns.
+<ICE-JA:W2A-023#67:1> There is some collection of crustaceans, molluscs and algae by
+
+divers. </p>
+
+<p> <ICE-JA:W2A-023#68:1> <h> <bold> 3.3 The Offshore Fishery </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#69:1> This includes fishing operations that are based on the offshore
+
+cays, as well as deep- sea fishing conducted by vessels operating
+
+independently of any land base for extended periods.
+<ICE-JA:W2A-023#70:1> There is at present a fleet of approximately 250 mechanized canoe
+
+type boats and approximately 700 fishermen based on the Morant and Pedro Cays
+
+( Fig.1).
+<ICE-JA:W2A-023#71:1> They are serviced by carrier boats in the 10-26 m size range which
+
+ply between the Cays and Kingson, transporting supplies to the fishermen and
+
+returning with fish in ice.
+<ICE-JA:W2A-023#72:1> During the 1980s there was a significant change in the fleet of
+
+carrier vessels with smaller, faster, open hull vessels replacing the larger
+
+decked boats.
+<ICE-JA:W2A-023#73:1> In addition to the Cay based operation, there are about five vessels
+
+ranging in size from 15-30 m operating on either the Pedro Bank or in
+
+extra-territorial waters.
+<ICE-JA:W2A-023#74:1> The Morant Bank supports about 120 fishermen using between 40 to 50
+
+canoe type vessels ( Anon., 1989). </p>
+
+<p> <ICE-JA:W2A-023#75:1> The fisheries of Jamaica are based primarily on multispecies
+
+coral reef fish resources.
+<ICE-JA:W2A-023#76:1> Families of major economic importance are Lutjanidae, Serranidae,
+
+Carangidae, Mullidae, Scaridae, Haemulidae, Balistidae, Acanthuridae,
+
+Holocentridae, Chaetodontidae, Palinuridae ( lobsters).
+<ICE-JA:W2A-023#77:1> Among the coastal pelagic fishes the most important families are
+
+Clupeidae, Engraulidae, Mugilidae, Scombridae, and Hemiramphidae. </p>
+
+<p> <ICE-JA:W2A-023#78:1> <h> <bold> 3.4 Production Statistics </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#79:1> There is not as yet a permanent system for the collection of
+
+catch and effort statistics on an island-wide basis.
+<ICE-JA:W2A-023#80:1> The available estimates have come from Government surveys conducted
+
+on irregular basis, as well as from research projects.
+<ICE-JA:W2A-023#81:1> Limited data are also obtained from the Fisheries Division through
+
+various monitoring programmes.
+<ICE-JA:W2A-023#82:1> Available figures for landings from the inshore fishery are presented
+
+in Table 1.
+<ICE-JA:W2A-023#83:1> Catch estimated by Government sample surveys are presented in Table
+
+2.
+<ICE-JA:W2A-023#84:1> The six surveys showed an average of 7,600 t with a standard
+
+deviation of 1,400 t.
+<ICE-JA:W2A-023#85:1> Landings from the offshore fishery are estimated to be about 2,000 t
+
+annually.
+<ICE-JA:W2A-023#86:1> Total catch from all areas of the Jamaican fisheries is estimated to
+
+be about 9,000 t. </p>
+
+<p> <ICE-JA:W2A-023#87:1> It is important to note that prior to 1955 there was no offshore
+
+fishery and the total catch came from the inshore fishing grounds.
+<ICE-JA:W2A-023#88:1> In 1955 a boat mechanization scheme was launched by the Fisheries
+
+Division and by 1981 approximately 54% of the fishing boats in the Island
+
+were mechanized. Soon after the mechanization programme started some boats
+
+from beaches along the South Jamaican Shelf travelled to Pedro Bank to fish
+
+and returned to their home base with the catch.
+<ICE-JA:W2A-023#89:1> The sample surveys conducted before 1981 assumed that the fish landed
+
+on the South Shelf beaches were captured solely from the South Shelf.
+<ICE-JA:W2A-023#90:1> The mixing of the catch from Pedro Bank with that from the South <O>
+
+caption </O> <O> table </O> <O> caption </O> <O> table </O> Shelf means that
+
+the productivity of the South Shelf may have been overestimated. </p>
+
+<p> <ICE-JA:W2A-023#91:1> <h> <bold> 3.5 Status of the Fisheries </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#92:1> Aiken and Haughton ( 1987) analyzed the available statistical
+
+data on the inshore fishery and found that although the total catch and the
+
+total number of boats in operation changed very little between 1968 and 1981,
+
+very significant changes in fishing effort and fishing pattern were taking
+
+place as a consequence of the process of mechanization.
+<ICE-JA:W2A-023#93:1> Between 1968 and 1981 fishing effort was estimated to have doubled
+
+whereas the catch remained at about the same level. </p>
+
+<p> <ICE-JA:W2A-023#94:1> An examination of the process of mechanization of the fishing
+
+fleet reveals that very significant changes in both fishing effort and
+
+fishing patterns were taking place.
+<ICE-JA:W2A-023#95:1> The mechanized canoes which are replacing the unmechanized canoes are
+
+capable of carrying more fishermen, going farther offshore, spending longer
+
+periods in the fishing grounds and hauling more fish traps than the
+
+unmechanized canoes.
+<ICE-JA:W2A-023#96:1> As a consequence, they harvest more fish per unit of time. </p>
+
+<p> <ICE-JA:W2A-023#97:1> Haughton ( 1988) developed a standardized measure of fishing
+
+effort which was termed <quote> " effective canoe effort" </quote> .
+<ICE-JA:W2A-023#98:1> Since 1968 the catch per effective canoe has been steadily declining
+
+and by 1981 it was 59% of the catch rate in 1968 ( Fig.3).
+<ICE-JA:W2A-023#99:1> A logarithmic surplus production model of the inshore fishery in
+
+Jamaica suggests that maximum yields of around 2.2 t/km <sp> 2 </sp> / year
+
+are possible with a fishing intensity of between 1.0 to 1.2 mechanized canoes
+
+per km <sp> 2 </sp> of shelf ( Fig.4). </p>
+
+<p> <ICE-JA:W2A-023#100:1> <h> <bold> 3.6 Comparative Yield Levels </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#101:1> The available figures published by FAO ( 1987) indicate that for
+
+the entire Caribbean region, the average yield from shelf areas around the
+
+Caribbean islands is around 0.5-1.5 t/km <sp> 2 </sp> year.
+<ICE-JA:W2A-023#102:1> This is less than some earlier estimates, which tended not to take
+
+into account the proportion of relatively unproductive sandy bottom.
+<ICE-JA:W2A-023#103:1> In Jamaica on the other hand the average yield from the island shelf
+
+and proximal bank, computed from the Government sample surveys, was 1.7 t/km
+
+<sp> 2 </sp> / year between 1968-1981. </p>
+
+<p> <ICE-JA:W2A-023#104:1> <h> <bold> 3.7 Resource Assessment and Yields </bold> </h> </p>
+
+<p> <ICE-JA:W2A-023#105:1> Stock assessment studies of Jamaica's fishing grounds have been
+
+conducted by Munro ( 1969-1973), Cuba-Jamaica Fisheries Research Project (
+
+1977-1978), USSR-Jamaica Fisheries Research Project ( 1979-1980), and
+
+Hartsuijker and Nicholson ( 1979-1981). </p> </I>

@@ -1,0 +1,412 @@
+<I> <O> photograph </O> <O> caption </O>
+
+<p> <ICE-JA:W2B-008#1:1> <h> <bold> EDNA MANLEY </bold> </h> </p>
+
+<p> <ICE-JA:W2B-008#2:1> <h> <bold> Sculptor In Retrospect </bold> <it> by Patricia Bryan
+
+</it> </h> </p>
+
+<p> <ICE-JA:W2B-008#3:1> <it> The Edna Manley Retrospective Exhibition recently mounted at
+
+the National Gallery was a remarkable curatorial achievement being, as it
+
+was, a sensitively orchestrated production.
+<ICE-JA:W2B-008#4:1> Curator David Boxer manipulated what could elsewhere be regarded as on
+
+overly didactic format ( a chronological approach with a supplementary
+
+documentary exhibition) and created an informative yet aesthetically
+
+stimulating presentation.
+<ICE-JA:W2B-008#5:1> The show was further given substance firstly by the simultaneous
+
+launching of <bold> Edna Manley: Sculptor </bold> written by Dr Boxer and
+
+secondly by the recent publication of the author's diaries.
+<ICE-JA:W2B-008#6:1> Both publications offer insights into the artist's inner self and the
+
+context in which many of the works were created.
+<ICE-JA:W2B-008#7:1> David Boxer's book requires separate discussion but it is a full
+
+appreciation of the exhibition. </it> </p> <O> photograph </O> <O> caption
+
+</O>
+
+<p> <ICE-JA:W2B-008#8:1> All that, however, is augmentary not compensatory, for the work
+
+undeniably speaks for itself.
+<ICE-JA:W2B-008#9:1> This exhibition was best viewed alone - there in the solitude of the
+
+confidential spaces the viewer could have a deeper level of communication
+
+with work which in many cases compelled the viewer to intimacy. </p>
+
+<p> <ICE-JA:W2B-008#10:1> The exhibition offered the opportunity to survey the development
+
+over seven decades of the artist's <it> oeuvre </it> . </p>
+
+<p> <ICE-JA:W2B-008#11:1> As an art student, Manley had, it appears, been influenced by the
+
+Romantics but by the time she arrived in Jamaica she had completely modified
+
+her orientation and turned instead to modernism to answer her quest for a
+
+humanistic art.
+<ICE-JA:W2B-008#12:1> Now symbolism and cubism were her allies, idioms which she approached
+
+with mastery and sophistication ( <it> Beadseller </it> 1922). </p>
+
+<p> <ICE-JA:W2B-008#13:1> The early Jamaican works showed cubism's influence on <}> <-> the
+
+</-> <=> the </=> </}> artist's own analysis of African sculpture.
+<ICE-JA:W2B-008#14:1> In works such as <it> Wisdom </it> ( 1924) and <it> Ape </it> ( 1924)
+
+the block format and rigid frontality recalled not only early Egyptian
+
+sculpture but also such sub-Saharan prototypes as the Kuba N'Dop figures.
+<ICE-JA:W2B-008#15:1> The artist's constant searching led her to unify the planarity of
+
+cubism with the neo-classical rotundity of form to create such works as <it>
+
+Seventeen </it> ( 1932) and <it> Sixteen </it> ( 1932).
+<ICE-JA:W2B-008#16:1> This modification of style coincided with the introduction of stone
+
+as a medium.
+<ICE-JA:W2B-008#17:1> Henceforth texture begins to play an important role in Manley's work,
+
+inspired perhaps by the natural quality of the Portland stone ( <it> Beulah
+
+</it> 1933).
+<ICE-JA:W2B-008#18:1> This textual concern transferred itself to all media; at times in
+
+heavily grained wood the natural woodgrain was effectively utilized for
+
+aesthetic grain ( <it> Youth </it> 1938; <it> Negro Aroused </it> 1935).
+<ICE-JA:W2B-008#19:1> At other times chisel marks became an important illusionistic device,
+
+creating areas of light and shadow on works in stone, <O> photograph </O> <O>
+
+caption </O> wood and metal.
+<ICE-JA:W2B-008#20:1> In <it> Sawyers </it> ( 1938) this technique was used to express the
+
+vibratory motion of the sawing activity. </p>
+
+<p> <ICE-JA:W2B-008#21:1> The artist returned time and again to texture for expressive
+
+intent; from the <it> Father, Forgive Them </it> and <it> Fiery Furnace </it>
+
+of the politically turbulent 1940s to the mourning works dealing with the
+
+death of her husband as in <it> Phoenix </it> and <it> Woman </it> ( 1971).
+<ICE-JA:W2B-008#22:1> All these revealed the artist's personal emotional involvement. </p>
+
+<p> <ICE-JA:W2B-008#23:1> Manley's work is particularly interesting to assess
+
+chronologically for in spite of stylistic changes there are the seemingly
+
+compulsive themes to which she repeatedly returned; the themes of Woman, male
+
+/ female relationships, social / political concepts, allegorical explorations
+
+of the life cycle.
+<ICE-JA:W2B-008#24:1> What is even more remarkable is how intricately all these relate to
+
+each other, to the artist, and to history. </p>
+
+<p> <ICE-JA:W2B-008#25:1> The resilience of woman intrigued her at first, per <l> haps
+
+because of the strength of her mother, but certainly later because of the
+
+monumentality of the Jamaican woman.
+<ICE-JA:W2B-008#26:1> The 1927 <it> Adolescence </it> shows this monumental perception of
+
+woman.
+<ICE-JA:W2B-008#27:1> Unfortunately the similarly monumental <it> Eve </it> could not be
+
+included in the exhibition.
+<ICE-JA:W2B-008#28:1> In <it> Rachel </it> ( 1934), <it> Mountain Girl </it> ( 1935) and
+
+<it> Market Women </it> ( 1936) woman is seen as the burden bearer.
+<ICE-JA:W2B-008#29:1> Woman is of course the only fitting metaphor for the <it> Hills of
+
+Papine </it> ( 1949), serving both an embracing and protecting function. </p>
+
+<p> <ICE-JA:W2B-008#30:1> The frailties of women <it> Gossipers </it> ( 1963) is
+
+differentia <l> ted by its scale from the intensity of communication between
+
+women with a purpose <it> The Message </it> ( 1977).
+<ICE-JA:W2B-008#31:1> Painful images of woman's role in the Jamaican matriarchy emerge in
+
+<it> Mountain Women </it> ( 1971) <it> Ancestor </it> ( 1978) and <it> Ghetto
+
+</it> ( 1981).
+<ICE-JA:W2B-008#32:1> The woman of the 1970s feels <O> photograph </O> <O> caption </O>
+
+pain, presaged by the <it> Grief of Mary </it> in 1968.
+<ICE-JA:W2B-008#33:1> <it> Grief </it> ( 1974) is her own grief.
+<ICE-JA:W2B-008#34:1> it> Woman </it> ( 1971) writhes with emotional agony.
+<ICE-JA:W2B-008#35:1> None of the women represented in the 70s are happy.
+<ICE-JA:W2B-008#36:1> <it> Mother </it> ( 1979) is withdrawn, almost catatonic.
+<ICE-JA:W2B-008#37:1> It is only with <it> Dawn </it> ( 1981) that we see an awakening from
+
+the depression and later, in 1983, <it> Praise </it> , with arms and eyes
+
+focused upward gives hope for a more joyful future.
+<ICE-JA:W2B-008#38:1> Finally, <it> Birth </it> ( 1986) speaks really of rebirth, water
+
+cleansing and rejuvenating the soul, and woman re-emerges - invincible. </p>
+
+<p> <ICE-JA:W2B-008#39:1> It may be somewhat of a contradiction that an artist who would
+
+create such a feministic view of woman could also render a profoundly
+
+sensitive development of the Man / Woman relationship.
+<ICE-JA:W2B-008#40:1> However, closer examination shows that this latter theme, based
+
+largely as it was on her own relationship with her husband, explored a wide
+
+range of emotions and experiences. </p>
+
+<p> <ICE-JA:W2B-008#41:1> The stress in the interaction between <it> Adam and Eve </it> (
+
+1930) echoes the strain being experienced at that time of her own marriage.
+<ICE-JA:W2B-008#42:1> In <it> Sun and Earth </it> a reversal of the allegory makes Woman
+
+earth dominant and Man sun submissive.
+<ICE-JA:W2B-008#43:1> These early problems resolve themselves and the images change.
+<ICE-JA:W2B-008#44:1> <it> The Mountains </it> ( 1952) <it> Man and Woman <It> ( 1952) <it>
+
+Only the Brave </it> ( 1960) and <it> Adios </it> ( 1971) project an image of
+
+a couple united, looking forward together, sharing tenderness.
+<ICE-JA:W2B-008#45:1> It is instructive that in the grief of losing her husband she turns
+
+again to woman, the protector <it> Angel </it> ( 1970), to whom she entrusts
+
+the transition of the soul of her beloved Norman.
+<ICE-JA:W2B-008#46:1> <it> Adios </it> , represented in the show by maquette and
+
+photograph, is a moving testament to their closeness. </p>
+
+<p> <ICE-JA:W2B-008#47:1> The social-political theme gained expression in at least two
+
+different stylistic modes.
+<ICE-JA:W2B-008#48:1> There are the works which speak of conditions among the masses then
+
+there <O> photograph </O> <O> caption </O> are the works reflecting the
+
+leadership of the nation <l> alistic struggle.
+<ICE-JA:W2B-008#49:1> In the first instance, the artist functions as an outsider observer
+
+of conditions which, while drawing her emphatic reaction, do not necessarily
+
+impact on her life very immediately.
+<ICE-JA:W2B-008#50:1> Thus she was able to create poetic expressions using fluid curves and
+
+repetition of form as in <it> Negro Aroused, Diggers </it> ( 1936), <it>
+
+Market Women </it> , and <it> Sawyers </it> .
+<ICE-JA:W2B-008#51:1> On the other hand, works which address political issues at leadership
+
+level and which must necessarily have affected her personally, connected as
+
+she was to the two main protagonists, are highly expressionistic almost
+
+violent.
+<ICE-JA:W2B-008#52:1> <it> Fiery Furnace, Father Forgive Them, Cain and Abel </it> , all
+
+from 1940, show plainly the artist's distress pertaining to the conflicts
+
+between her husband and his cousin Bustamante.
+<ICE-JA:W2B-008#53:1> The riotous textures of these surfaces echo the artist's disquiet.
+<ICE-JA:W2B-008#54:1> In <it> Dispossessed </it> , also from 1940, and <it> Ghetto Mother
+
+</it> ( 1981) she conjured up emotive images of shame but these are images
+
+lacking the intensity of the works from 1940. </p>
+
+<p> <ICE-JA:W2B-008#55:1> Those who knew Edna Manley will tell you that she was a warm,
+
+gentle, caring person.
+<ICE-JA:W2B-008#56:1> More than that of any other artist, her work chronicles the struggle
+
+for nationhood in Jamaica.
+<ICE-JA:W2B-008#57:1> <it> Negro Aroused </it> is the accepted symbol of that struggle.
+<ICE-JA:W2B-008#58:1> These factors may be inclined to influence a romanticizing tendency
+
+on the part of the viewer.
+<ICE-JA:W2B-008#59:1> This should not however blind one to the reality that her version of
+
+that struggle is carefully edited.
+<ICE-JA:W2B-008#60:1> Edna Manley must have very early been aware that she and her art were
+
+part of history in the making.
+<ICE-JA:W2B-008#61:1> Entries in her diary have a self-conscious quality which seems to
+
+anticipate publication.
+<ICE-JA:W2B-008#62:1> She was, after all, the wife of one National Leader and mother of
+
+another.
+<ICE-JA:W2B-008#63:1> It seems that she was careful never to embarrass her family with <O>
+
+photograph </O> <O> caption </O> her art.
+<ICE-JA:W2B-008#64:1> Even when she was driven in the 1940 works to exorcise demons
+
+haunting her about antagonism between her husband and his cousin Bustamante,
+
+she carefully disguised this under biblical metaphor.
+<ICE-JA:W2B-008#65:1> The choice of metaphor however explicitly described the crisis ( <it>
+
+Cain and Abel </it> ) .
+<ICE-JA:W2B-008#66:1> When her husband's political reputation was challenged, she again
+
+turned to the Bible to answer his critics with <it> The Fiery Furnace </it>
+
+and <it> Father Forgive Them </it> .
+<ICE-JA:W2B-008#67:1> Only her technique betrays her rage.
+<ICE-JA:W2B-008#68:1> The artist manages to subtly manipulate those who view her works in
+
+their perception of Norman, the great horse riding the winds the morning,
+
+coming to save the <it> Dispossessed </it> from <it> Hunger </it> ( 1940).
+<ICE-JA:W2B-008#69:1> It is no coincidence that the rising sun symbol featured in so many
+
+of her works became the symbol of her husband's political party. </p>
+
+<p> <ICE-JA:W2B-008#70:1> During the difficult decade of the 1970s, her support lay solidly
+
+behind her much berated prime minister son.
+<ICE-JA:W2B-008#71:1> <it> Ancestor </it> ( 1978) shows the male child within the
+
+protective arms of her female ancestor.
+<ICE-JA:W2B-008#72:1> Her only lapse from her apparent policy of protection is the heroic
+
+<it> Ghetto Mother </it> whose massive arms seek to protect her children from
+
+the terror of violence.
+<ICE-JA:W2B-008#73:1> It seems that Edna Manley's response to the frightening social
+
+conditions of the time could have been inspired by Bob Marley's music.
+<ICE-JA:W2B-008#74:1> As David Boxer tells us, <it> The Voice </it> ( 1980) was influenced
+
+by Marley's <quote> 'Redemption Song' </quote> .
+<ICE-JA:W2B-008#75:1> This explains, perhaps, the change in treatment from the very formal
+
+and rather sterile <it> Brother Man </it> to this much more expressive image
+
+of Rastafari.
+<ICE-JA:W2B-008#76:1> It explains also how she was able to allow herself to produce <it>
+
+Ghetto Mother </it> ; social conscience and awareness had never been so high.
+<ICE-JA:W2B-008#77:1> Could the artist have had second thoughts about these works? </p> <O>
+
+photograph </O> <O> caption </O> <O> photograph </O> </O> caption </O>
+
+<p> <ICE-JA:W2B-008#78:1> After these works the show turned dramatically away from
+
+political expression to seek balm in dancers, musicians and myths.
+<ICE-JA:W2B-008#79:1> In fact, <it> Jacob Wrestling with the Angel </it> ( 1982) could be
+
+interpreted as an act of self-mortification. </p>
+
+<p> <ICE-JA:W2B-008#80:1> In the final gallery, which showed works from the artist's last
+
+years, her preoccupation with the life cycle was clearly seen.
+<ICE-JA:W2B-008#81:1> This is a theme which was visited with various renditions of the
+
+day/night, sun/moon motif throughout the show.
+<ICE-JA:W2B-008#82:1> <it> Tomorrow </it> revisited signalled a new beginning and all
+
+subsequent works were ritualistically preparatory for that new beginning.
+<ICE-JA:W2B-008#83:1> The artist drew upon historical prototypes to define this new birth.
+<ICE-JA:W2B-008#84:1> The <it> Wave </it> is clearly an Ascension image. </p>
+
+<p> <ICE-JA:W2B-008#85:1> <it> The Raising of Lazarus </it> is a most appropriate image on
+
+which to end the discussion of an artist whose life and art were haunted by
+
+symbolism from her birth on the 29 February 1900 to the closing of her cycle
+
+which found her labouring on a work which spoke of <}> <-> res <l> surection
+
+</-> <+> resurrection </+> </}> and the hope of eternal life. </p>
+
+<p> <ICE-JA:W2B-008#86:1> REFERENCES </p>
+
+<p> <ICE-JA:W2B-008#87:1> BOXER, David. <it> Edna Manley: Sculptor. </it> Kingston:
+
+National Gallery of Jamaica and the Edna Manley Foundation, 1990. </p>
+
+<p> <ICE-JA:W2B-008#88:1> Manley, Rachel. ed. <it> Edna Manley: The Diaries. </it>
+
+Kingston: Heinemann Publishers ( Carribean) Ltd, 1989 </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-008#89:2> The frame of a picture is usually regarded as its boundary in
+
+space setting it off from its surroundings, <O> photograph </O> <O> caption
+
+</O> but Brown has painted his with an intricate pattern of leaves so that it
+
+is an integral part of the painting.
+<ICE-JA:W2B-008#90:2> In <it> Duppy City </it> Brown's fertile mind has unveiled amphibious
+
+Reality. </p>
+
+<p> <ICE-JA:W2B-008#91:2> Two examples of Abstraction, both visually stimulating, convey
+
+different moods and can also be enjoyed as compositions.
+<ICE-JA:W2B-008#92:2> They show the value of this art form, an understanding of which
+
+allows greater appreciation of artistic diversity as well as of more
+
+realistic work which cannot be successful unless supported by an abstract
+
+structure. </p>
+
+<p> <ICE-JA:W2B-008#93:2> Marguerite Stanigar's matt-finish terracotta <it> Black and White
+
+Spiral </it> consists of a shallow bowl with a wide rim inverted and set on
+
+another, rim to rim.
+<ICE-JA:W2B-008#94:2> On the lower cone, horizontal stripes of wide black and narrow white
+
+are static but on the upper cone black and white spirals gradated towards the
+
+apex are dynamic. </p>
+
+<p> <ICE-JA:W2B-008#95:2> Literally, the form resembles a spinning top.
+<ICE-JA:W2B-008#96:2> Symbolically, it may be interpreted in several ways: for example, day
+
+and night alternating perpetually; positive and negative forces balanced
+
+eternally. </p>
+
+<p> <ICE-JA:W2B-008#97:2> However, Stanigar has used the spiral in her paintings.
+<ICE-JA:W2B-008#98:2> For her it expresses the creative process of growth, not only
+
+physical growth in nature but also unfoldment from within the artist through
+
+her work. <fnr> ( 8) </fnr> <footnote> ( 8) From conversation with the
+
+artist. </footnote> </p>
+
+<p> <ICE-JA:W2B-008#99:2> <it> Black and White Spiral </it> exemplifies the power of
+
+abstract symbols to evoke associated ideas.
+<ICE-JA:W2B-008#100:2> In both form and ornament this elegant <quote> 'top' </quote> was
+
+skilfully made. </p>
+
+<p> <ICE-JA:W2B-008#101:2> Amy Laskin's two-dimensional mixed media picture <it> There's
+
+Fifty Ways&dotted- line; Make a New Plan Stan </it> is a busy composition, a
+
+riot of small shapes similar in size but varying in tone, colour and pattern.
+<ICE-JA:W2B-008#102:2> Some are teasingly familiar: hats, umbrellas, a nuclear bomb beside
+
+a mushroom, and overturned chequerboards.
+<ICE-JA:W2B-008#103:2> The game's up, we infer. </p> </I>

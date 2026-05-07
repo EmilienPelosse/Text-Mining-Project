@@ -1,0 +1,494 @@
+<I>
+
+<$A> <ICE-JA:S1A-017#1:1:A> What is your name
+
+<$B> <ICE-JA:S1A-017#2:1:B> Andre Blair
+
+<$A> <ICE-JA:S1A-017#3:1:A> Okay and what is it that you do here at UWI
+
+<$B> <ICE-JA:S1A-017#4:1:B> Uh I'm a <}> <-> <.> s</.></-> <=> social</=></}> sciences
+
+student double majoring in economics and politics
+
+<$A> <ICE-JA:S1A-017#5:1:A> Okay uhm<,> and why did you decide to do econ
+
+<$B> <ICE-JA:S1A-017#6:1:B> Well basically <{> <[> I decided to</[> do econ because<,> my
+
+current goal in life is to become a economic policy-maker
+<ICE-JA:S1A-017#7:1:B> Basically that's the reason why I did economics
+
+<$A> <ICE-JA:S1A-017#8:1:A> <[> <unclear> words</unclear></[></{>
+
+<$A> <ICE-JA:S1A-017#9:1:A> And the politics
+
+<$B> <ICE-JA:S1A-017#10:1:B> Well <{1> <[> the politics</[1> also have a lot do with
+
+policy-making so it will be like a good cover for economics and basically oh
+
+I guess I have a good mix because economics is more quantitative whereas
+
+politics is more figurative so it <{2> <[2> gives a good mix</[2> yeah
+
+<$A> <ICE-JA:S1A-017#11:1:A> <[1> <unclear> word</unclear></[1></{1>
+
+<$A> <ICE-JA:S1A-017#12:1:A> <[2> Okay I understand</[2></{2>
+
+<$A> <ICE-JA:S1A-017#13:1:A> Okay uhm
+<ICE-JA:S1A-017#14:1:A> What school did you attend before
+
+<$B> <ICE-JA:S1A-017#15:1:B> Uh Saint Elizabeth Technical High School
+
+<$A> <ICE-JA:S1A-017#16:1:A> Okay
+<ICE-JA:S1A-017#17:1:A> Why
+
+<$B> <ICE-JA:S1A-017#18:1:B> Yeah I'm from Saint Elizabeth
+
+<$A> <ICE-JA:S1A-017#19:1:A> Okay and what is it like living
+<ICE-JA:S1A-017#20:1:A> You live on campus
+
+<$B> <ICE-JA:S1A-017#21:1:B> Yeah I live on campus <{> <[> <,> on Prescot Hall</[>
+
+<$A> <ICE-JA:S1A-017#22:1:A> <[> What is it like living</[></{> on campus
+
+<$B> <ICE-JA:S1A-017#23:1:B> Uh living on campus I find it to be a very good experience
+
+because you get to meet a lot of different people from different islands with
+
+different cultures so you get introduced to different people different
+
+cultures a lot of things uh
+<ICE-JA:S1A-017#24:1:B> It's pretty exciting at times<{><[><,></[>
+<ICE-JA:S1A-017#25:1:B> You get to meet a lot of new friends participate in various
+
+activities so living on campus is pretty good
+
+<$A> <ICE-JA:S1A-017#26:1:A> <[> Okay</[></{>
+
+<$A> <ICE-JA:S1A-017#27:1:A> So how different do you find the university experience from
+
+high school
+
+<$B> <ICE-JA:S1A-017#28:1:B> Uh<,> uh basically <}> <-> I <.> do</.></-> uh <=> I
+
+don't</=></}> find the university <}> <-> it's not like</-> <=> it's not at
+
+all that like</=></}> what I expected it to be <{1> <[1> <,> </[1>
+<ICE-JA:S1A-017#29:1:B> Uh what I pictured the university to be before I came was like
+
+people sitting there and studying basically all
+
+day<O>laughs</O><{2><[2><,></[2>
+<ICE-JA:S1A-017#30:1:B> Well when I came I found out that uh it was not much different from
+
+high school being that you don't always see a lot of people just sitting down
+
+and studying all day
+<ICE-JA:S1A-017#31:1:B> You see people walking around apart from going to their classes
+
+they don't do anything else for the entire day until it comes down to the
+
+exam times
+<ICE-JA:S1A-017#32:1:B> So basically <}> <-> you</-> <=> you</=></}> see a lot of people
+
+who just stay in high school mentality at the university level <{3> <[3>
+
+quite</[3> frankly
+
+<$A> <ICE-JA:S1A-017#33:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-017#34:1:A> <[2> Okay</[2></{2>
+
+<$A> <ICE-JA:S1A-017#35:1:A> <[3> Uh</[3></{3>
+
+<$A> <ICE-JA:S1A-017#36:1:A> Okay uhm<,>
+<ICE-JA:S1A-017#37:1:A> Are you involved in any extra-curricular activities here
+
+<$B> <ICE-JA:S1A-017#38:1:B> Well yeah
+<ICE-JA:S1A-017#39:1:B> On my hall I play basketball and football
+<ICE-JA:S1A-017#40:1:B> I'm a member of the Young Economics Association <?> and I'm
+
+also</?> a member of the Guild External Affairs <{> <[> Committee</[>
+
+<$A> <ICE-JA:S1A-017#41:1:A> <[> You're very</[></{> involved
+
+<$B> <ICE-JA:S1A-017#42:1:B> I try to be
+
+<$A> <ICE-JA:S1A-017#43:1:A> Have you always been this involved
+
+<$B> <ICE-JA:S1A-017#44:1:B> Uh well in high school I didn't really play a lot of sports in
+
+high school
+<ICE-JA:S1A-017#45:1:B> I was in <}> <-> a</-> uh <=> a</=></}> debate that <unclear>
+
+words</unclear> <?> school challenge</?> <unclear> word</unclear> and then I
+
+was the student council president uh in high school so basically<,> yeah I
+
+<?> did do</?>
+
+<$A> <ICE-JA:S1A-017#46:1:A> Okay uhm<,>
+<ICE-JA:S1A-017#47:1:A> <}> <-> What is</-> <=> what is</=></}> it that you feel that you
+
+can give back to your country
+
+<$B> <ICE-JA:S1A-017#48:1:B> Well
+
+<$A> <ICE-JA:S1A-017#49:1:A> Tell me you're getting this good education from UWI
+
+<$B> <ICE-JA:S1A-017#50:1:B> Back to my country
+<ICE-JA:S1A-017#51:1:B> Well basically<,> in the not so distant future I'd really like to
+
+be involved in uhm the political process and the policy-making of Jamaica
+
+basically the economic aspect because a lot of Jamaicans have had uh
+
+difficulties with regards to their economics and politics
+<ICE-JA:S1A-017#52:1:B> You see that people's behavior towards the political system is
+
+changing
+<ICE-JA:S1A-017#53:1:B> People are saying they need changes and everything so<{><[><,></[>
+<ICE-JA:S1A-017#54:1:B> Basically I'd like to get involved in the process to see how best
+
+uh I can help to assist in the Caribbean and bring back Jamaica to the glory
+
+that it once had
+
+<$A> <ICE-JA:S1A-017#55:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-017#56:1:A> Okay so you're <?> not going to be the next</?> Omar Davies
+
+<$B> <ICE-JA:S1A-017#57:1:B> Uh anything's possible I'm not too sure <?> but uh</?> we'll
+
+see what happen
+
+<$A> <ICE-JA:S1A-017#58:1:A> Okay uhm
+<ICE-JA:S1A-017#59:1:A> <}> <-> What</-> <=> what</=></}> is it that you're doing here
+
+today <{> <[> <unclear> words</unclear</[>
+
+<$B> <ICE-JA:S1A-017#60:1:B> <[> Today now I have</[></{> summer school
+
+<$A> <ICE-JA:S1A-017#61:1:A> Okay
+<ICE-JA:S1A-017#62:1:A> <{> <[> Summer</[> school starts
+
+<$B> <ICE-JA:S1A-017#63:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-017#64:1:B> Yeah summer school starts today but I just found out that my
+
+classes will run from five to nine in the evenings <{1> <[1> so</[1>
+
+basically I'm here a bit too early
+<ICE-JA:S1A-017#65:1:B> <{2> <[2> <}> <-> I just</-> <=> I just</=></}> do my <unclear>
+
+two- words</unclear></[2>
+
+<$A> <ICE-JA:S1A-017#66:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-017#67:1:A> <[2> So what you travelled from Saint Elizabeth</[2></{2>
+
+<$B> <ICE-JA:S1A-017#68:1:B> No I'm staying with my aunt in Half Way Tree for summer school
+<ICE-JA:S1A-017#69:1:B> I'm not staying on campus for <{1> <[1> summer</[1> school
+<ICE-JA:S1A-017#70:1:B> I have to do like three extra politics courses because my ten
+
+courses for first year only covered <}> <-> my economic my <.> e</.></-> <=>
+
+the economic</=></}> aspect of my studies so to start my politics major <}>
+
+<-> I have</-> <=> I have</=></}> like two extra courses too <{2> <[2>
+
+that</[2> are prerequisites for second year courses so I have to do summer
+
+school to start my major second year which I regret but<,> I have to do it
+
+<$A> <ICE-JA:S1A-017#71:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-017#72:1:A> <[2> Right</[2></{2>
+
+<$A> <ICE-JA:S1A-017#73:1:A> Apart from coming to summer school in summer what else you're
+
+doing <unclear> words</unclear>
+
+<$B> <ICE-JA:S1A-017#74:1:B> Uh I'm go work when I go back home
+
+<$A> <ICE-JA:S1A-017#75:1:A> You're <?> going to what</?>
+
+<$B> <ICE-JA:S1A-017#76:1:B> Work when I go back home<&>noise-in-background</&>
+
+<$A> <ICE-JA:S1A-017#77:1:A> When you go back to Saint Elizabeth
+
+<$B> <ICE-JA:S1A-017#78:1:B> I go back to Saint Elizabeth yeah
+<ICE-JA:S1A-017#79:1:B> I have a job to do there
+
+<$A> <ICE-JA:S1A-017#80:1:A> Okay <unclear> words</unclear> so you're not doing anything in
+
+the next what
+<ICE-JA:S1A-017#81:1:A> How long does summer school last
+
+<$B> <ICE-JA:S1A-017#82:1:B> It's only six weeks
+
+<$A> <ICE-JA:S1A-017#83:1:A> So you're not doing anything in the six weeks
+
+<$B> <ICE-JA:S1A-017#84:1:B> No I go study
+
+<$A> <ICE-JA:S1A-017#85:1:A> Hm
+
+<$B> <ICE-JA:S1A-017#86:1:B> Go study
+
+<$A> <ICE-JA:S1A-017#87:1:A> Just study
+
+<$B> <ICE-JA:S1A-017#88:1:B> Yeah
+
+<$A> <ICE-JA:S1A-017#89:1:A> <{> <[> Okay</[>
+
+<$B> <ICE-JA:S1A-017#90:1:B> <[> Cos</[></{> the courses I'm gonna do <}> <-> I have</->
+
+<=> I've</=></}> heard that <}> <-> they have the <.> e</.></-> <=> they're
+
+encompassing</=></}> a lot of research and stuff<{1><[1><,></[1> so I go have
+
+to study real hard <{2> <[2> <unclear> words</unclear></[2>
+
+<$A> <ICE-JA:S1A-017#91:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-017#92:1:A> <[2> What</[2></{2> courses
+
+<$B> <ICE-JA:S1A-017#93:1:B> Uh G T eleven B that's political philosophy and S Y thirteen B
+
+social research<{><[><,></[>
+<ICE-JA:S1A-017#94:1:B> So it's a lot of research and research papers so that gonna take up
+
+a lot of my time outside of class time so and studying so I guess that I
+
+don't really have any time to do anything else basically
+
+<$A> <ICE-JA:S1A-017#95:1:A> <[> Okay</[></{>
+
+<$A> <ICE-JA:S1A-017#96:1:A> Okay uhm okay
+<ICE-JA:S1A-017#97:1:A> What are your views on the situation in Haiti
+
+<$B> <ICE-JA:S1A-017#98:1:B> Well basically my views on the situation is Haiti is something
+
+like this
+<ICE-JA:S1A-017#99:1:B> Might sound a bit paranoid or something but
+<ICE-JA:S1A-017#100:1:B> My view is this
+<ICE-JA:S1A-017#101:1:B> I think that America wants to take Haiti to use it as a military
+
+base to launch an attack on Cuba basically that's my view
+<ICE-JA:S1A-017#102:1:B> I think uhm because the fact America basically want to wipe
+
+communism out <{1> <[1> totally</[1>
+<ICE-JA:S1A-017#103:1:B> They can't attack China because China I think<{2><[2><,></[2> is
+
+the world superpower<{3><[3><,></[3> regardless of what America might
+
+think<{4><[4><,></[4>
+<ICE-JA:S1A-017#104:1:B> China is more powerful than America so they can't attack China so
+
+I think they're using Cuba as a catalyst to see how much they gon clamp down
+
+on uhm <,> communism and <{5> <[5> all</[5> that
+<ICE-JA:S1A-017#105:1:B> So basically I think that United States of America wants to use
+
+Haiti as a military base to attack Cuba sometime in the near future because
+
+if you check the history you'll find that uh Jean-Bertrand Aristide was
+
+ousted from power sometime in the eighties and <}> <-> <.> th</.></-> <=>
+
+then</=></}> he was reinstated by the American government because the
+
+American government wanted somebody to use as a catalyst so they can have
+
+control over Haiti but now they find that Jean-Bertrand Aristide is not that
+
+kind of person because he's not go allow them to push him around so basically
+
+they're trying in their most power to have him removed from office to get
+
+somebody in who they can use as a catalyst and all that kind of thing
+<ICE-JA:S1A-017#106:1:B> So that's basically what I think America wants to do in
+
+Haiti<{6><[6><,></[6>
+<ICE-JA:S1A-017#107:1:B> <{7> <[7> I don't</[7> think it's fair but that's just the way it
+
+is
+
+<$A> <ICE-JA:S1A-017#108:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-017#109:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-017#110:1:A> <[3> Yeah</[3></{3>
+
+<$A> <ICE-JA:S1A-017#111:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-017#112:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-017#113:1:A> <[6> Okay</[6></{6>
+
+<$A> <ICE-JA:S1A-017#114:1:A> <[7> Uhm</[7></{7>
+
+<$A> <ICE-JA:S1A-017#115:1:A> Okay what are your views on <unclear> words</unclear>
+<ICE-JA:S1A-017#116:1:A> How are your views on <}> <-> the</-> uhm <=> the</=></}> whole
+
+foreign policy of America
+
+<$B> <ICE-JA:S1A-017#117:1:B> I think American foreign policy is a bit lousy because even
+
+the situation now with Mister <?> Issan</?> the hotel chains and everything
+
+in Cuba I don't think America has the right to uh it's their country and
+
+everything <{1> <[1> and</[1> it's a sovereign nation but I don't think they
+
+should just because he has hotels in Cuba and they're not like have good
+
+relations with Cuba they <?> gonna</?> say they go uh take away all people's
+
+families wives his children uh expire all their visa and thing don't allow
+
+them entry into their country just because of the mere fact that they have
+
+businesses in Cuba and they and Cuba is not on a very good <?> ground</?>
+<ICE-JA:S1A-017#118:1:B> I think that's a bit unfair and a bit harsh on the part of America
+<ICE-JA:S1A-017#119:1:B> <}> <-> I think</-> basically <=> I think</=></}> George Bush is a
+
+really lousy president uh to be quite frank with you<{2><[2><,></[2>
+<ICE-JA:S1A-017#120:1:B> I think the America that uhm Bill Clinton left for George Bush was
+
+like a America that people could look up to<{3><[3><,></[3>
+<ICE-JA:S1A-017#121:1:B> They didn't have any force or any fights with anybody no worries
+
+or nothing good America economy functioning well lot of money reserves
+<ICE-JA:S1A-017#122:1:B> And now George Bush comes into power uses all that money that Bill
+
+Clinton piled up in reserve for America use it to fight wars and thing
+<ICE-JA:S1A-017#123:1:B> The economy is in recession
+<ICE-JA:S1A-017#124:1:B> No one likes America any more basically so it's now a matter of
+
+America against the rest of the world
+<ICE-JA:S1A-017#125:1:B> So basically I think George Bush as a president has done <}> <->
+
+a</-> <=> a</=></}> lousy job <{4> <[4> basically</[4>
+
+<$A> <ICE-JA:S1A-017#126:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-017#127:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-017#128:1:A> <[3> Yeah</[3></{3>
+
+<$A> <ICE-JA:S1A-017#129:1:A> <[4> Well I think</[4></{4> his time is almost over
+<ICE-JA:S1A-017#130:1:A> <{> <[> Thank God</[>
+
+<$B> <ICE-JA:S1A-017#131:1:B> <[> Well</[></{> he can be re-elected <{1> <[1> <,> </[1>
+<ICE-JA:S1A-017#132:1:B> If the people are stupid enough to re-elect him
+<ICE-JA:S1A-017#133:1:B> Or <}> <-> he might</-> <=> he might</=></}> uh use his powers to
+
+curb the election in his way <{2> <[2> because</[2> based on rumours that's
+
+what he did to win in the first <{3> <[3> place</[3> so anything is possible
+
+<{4> <[4> but</[4> I would really like if he lose
+<ICE-JA:S1A-017#134:1:B> <{5> <[5> Seriously</[5>
+
+<$A> <ICE-JA:S1A-017#135:1:A> <[1> I don't think so</[1></{1>
+
+<$A> <ICE-JA:S1A-017#136:1:A> <[2> Alright</[2></{2>
+
+<$A> <ICE-JA:S1A-017#137:1:A> <[3> Yeah</[3></{3>
+
+<$A> <ICE-JA:S1A-017#138:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-017#139:1:A> <[5> Okay</[5></{5>
+<ICE-JA:S1A-017#140:1:A> And what are your views on uhm <}> <-> the whole</-> basically <=>
+
+the whole</=></}> takeover of Haitians of Jamaica this whole whatever you
+
+want <unclear> words</unclear>
+
+<$B> <ICE-JA:S1A-017#141:1:B> Uh well I think uhm I'm not too high on the Haitians coming
+
+but my view on this <}> <-> I</-> <=> I</=></}> think as a fellow Caribbean
+
+country I think it's not such a bad thing for us to lend a helping hand to a
+
+fellow Caribbean island in a time of need <{1> <[1> but</[1> I just don't
+
+think that <}> <-> we're going to</-> <=> we should</=></}> accommodate them
+
+for too long a period of time <}> <-> when they when the when</-> <=> when
+
+the</=></}> situation settles we can accommodate them until this their
+
+situation in their country settles and everything is back to normal then I
+
+think it will be time for them to leave but for now with all the uprising and
+
+thing and now they have flooding and everything so
+<ICE-JA:S1A-017#142:1:B> I don't think the people would have very much to go back to so I
+
+think for now we can lend our assistance as best as possible
+
+<$A> <ICE-JA:S1A-017#143:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-017#144:1:A> What are your views on the political situation in Jamaica
+
+just in general
+
+<$B> <ICE-JA:S1A-017#145:1:B> Uh in Jamaica my view basically is that uhm I think uh a lot
+
+of the persons in power now uh I think it would be best if they were to step
+
+down and give say new people a chance basically because in the
+
+English-speaking Caribbean Jamaica is the only country that both leaders of
+
+both major parties is past the retirement age<O>speaker-A-laughs</O>
+<ICE-JA:S1A-017#146:1:B> What
+<ICE-JA:S1A-017#147:1:B> You didn't know that<{1><[1><,>
+<ICE-JA:S1A-017#148:1:B> That's</[1> serious
+<ICE-JA:S1A-017#149:1:B> <{2> <[2> <,> The only Caribbean country with both leaders</[2>
+
+over the age of sixty-five
+<ICE-JA:S1A-017#150:1:B> I think both persons uhm <}> <-> I</-> <=> I</=></}> know Mr
+
+Patterson in particular has made it quite clear that uhm he's gonna step down
+
+some time <{3> <[3> soon</[3>
+<ICE-JA:S1A-017#151:1:B> I don't know what Mr Seaga is up to because based on his budget
+
+debate speech he doesn't sound like a man who has any intent of stepping down
+
+soon
+<ICE-JA:S1A-017#152:1:B> And I think uhm Mr Seaga stepping down and <?> clean up</?> the
+
+Jamaica Labour Party would do the party a lot more good <{4> <[4> than
+
+bad</[4> basically because I think uhm a lot of people would say they're not
+
+gonna support the Jamaica Labour Party for uhm Mr Seaga's sake and for Mr
+
+Seaga to come and say publicly that uhm he doesn't think that there is anyone
+
+in his organisation who is capable of taking over the leadership of the party
+
+I think that doesn't say very much about the party that he is leading because
+
+if you are going to be leading an organisation for over some what a lot of
+
+years over twenty years and you have people with you there for over that
+
+twenty years too and you go say persons that been with you for twenty years
+
+and they are still not yet able to take over leadership I think something is
+
+wrong with your organisation so I think uhm Mr Seaga needs to step down give
+
+somebody a chance and let's see what can happen from there
+
+<$A> <ICE-JA:S1A-017#153:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1A-017#154:1:A> <[2> I know <unclear> words</unclear></[2></{2>
+
+<$A> <ICE-JA:S1A-017#155:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-017#156:1:A> <[4> Mhm</[4></{4></I>
