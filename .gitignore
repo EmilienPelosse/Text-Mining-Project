@@ -5,3 +5,4 @@ Models/**/*.bin
 Models/**/*.model
 Models/**/*.model
 Models/**/*.bin
+.vscode/
