@@ -43,12 +43,6 @@ def preprocess_file(file_path):
     sentences = [remove_stopwords(sent) for sent in sentences]
     return sentences
 
-folder = "../Data/ice-nig/txt - without speaker tags/spoken"
-print("Exists:", os.path.exists(folder))
-print("Files found:")
-for root, _, files in os.walk(folder):
-    for f in files:
-        print(os.path.join(root, f))
 
 # Run on a whole folder, save result as flat .txt
 def preprocess_folder(folder_path, output_path):
@@ -56,7 +50,7 @@ def preprocess_folder(folder_path, output_path):
 
     for root, _, files in os.walk(folder_path):
         for filename in sorted(files):
-            if filename.endswith(".txt"):
+            if filename.lower().endswith(".txt"):
                 file_path = os.path.join(root, filename)
                 sentences = preprocess_file(file_path)
                 all_sentences.extend(sentences)
@@ -70,13 +64,24 @@ def preprocess_folder(folder_path, output_path):
     print(f"Done: {len(all_sentences)} sentences → {output_path}")
 
 if __name__ == "__main__":
-    base = os.path.join(BASE_DIR, "Data", "ice-nig", "txt - without speaker tags")
+    datasets = [
+        ("ICE-Canada/ICE-CAN/Corpus", "canada"),
+        ("ICE-Philippines/ICE Philippines/Corpus", "philippines"),
+        ("ICE-EastAfrica/ICE East Africa/ICE-EA/corpus", "east_africa"),
+        ("ICE-INDIA/ICE India/Corpus", "india"),
+        ("ICE-IRELAND/ICE-IRL/ICE-Ireland version 1.2#6DAE.2$", "ireland"),
+        ("ICE-JA/ICE-JA/CORPUS", "jamaica"),
+        ("ICE-Singapore/ICE SINGAPORE/Corpus", "singapore"),
+        ("ICE-USA$", "usa"),
+        ("ice-nig/txt - without speaker tags", "nigeria")
+    ]
 
-    preprocess_folder(
-        folder_path=os.path.join(base, "spoken"),
-        output_path=os.path.join(BASE_DIR, "Preprocessing", "preprocessed_BERT", "nigeria_spoken.txt")
-    )
-    preprocess_folder(
-        folder_path=os.path.join(base, "written"),
-        output_path=os.path.join(BASE_DIR, "Preprocessing", "preprocessed_BERT", "nigeria_written.txt")
-    )
+    for folder_name, output_name in datasets:
+        folder_path = os.path.join(BASE_DIR, "Data", folder_name)
+        if os.path.exists(folder_path):
+            preprocess_folder(
+                folder_path=folder_path,
+                output_path=os.path.join(BASE_DIR, "Preprocessing", "preprocessed_BERT", f"{output_name}.txt")
+            )
+        else:
+            print(f"Skipping {folder_path} (not found)")
