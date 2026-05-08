@@ -20,17 +20,32 @@
 
 ### Model Training
 
-#### FastText
+#### Word2Vec versus fastText models
+
+As we were planning on replacing/adding in addition to our word2Vec model with a fastText model, we read documentation to gain a better insight over their different affordances. Although both are very similar, Word2Vec is trained on word level embeddings while fastText is trained on characters n-grams (e.g. 'capable' => 'cap', 'apa', 'pab', 'abl', 'ble', for n=3) in addition to the word embeddings. This technique enables recognizing words from their roots e.g. capable and capability, it handles unknown words (OOV = Out Of Vocabulary) better than Word2Vec. We trained both a word2vec and a fastText model. We reused the preprocessing code we already had for word2vec. Note that a manual GridSearch was performed to tune both models' hyperparameters.
+
+To allow a comparison between the four corpora, we decided to use fastText pretrained embeddings. We also wondered if we should train our fastText model. On the one hand if we were to train our model, the coordinate of vectors for a given word would be different for each corpus. Given the size of our dataset, it is safer to use fastText in order to enlarge the coverage between our dataset and the pre-trained vectors. But we eventually decided to train fastText embeddings for every corpora to preserve their idiosyncrasies. It would preserve the words and expressions specific to a region. Although this decision will make the comparison between vector spaces more difficult (as a given word could have 4 different coordinates), it aligns better with our initial goals for this project. 
+For the training, we tuned the hyperparameters of the fasttext function train_unsupervised.
+
+The word2vec model with 100 dimensions and the CBOW architecture produced semantic clusters that were coherent. We used the cosine similarity as a metric to compute the nearest neighbours in the vector space. For instance, the cluster around the  word "nation"  revolves around political and economic discourse, and features nearest neighbours like — "struggle", "democracy", "anpp" (a Nigerian political party). These embeddings suggest that the concept of nationhood is strongly tied to political identity in the Nigerian corpus.
+We repeated the process for "nationhood", which seems to appear in a legal and civic discourse context. In particular, some of its closest embeddings are "federalism", "legislate", "statutes", "patriotism" suggesting that the word is used in formal and institutional discussions about the structure and identity of the Nigerian state. By contrast, the embedding for “freedom” among its closest neighbours by seemingly opposite associations which evoke political tensions such as “opposition”, “undermine”, and “corrupt”. It may suggest freedom is framed as something threatened or fought for rather than an established right. More generally, "freedom" is embedded in a discourse of resistance and governance. We also did a first analysis of the embedding for  “border”, which we had considered in our research questions for the update 0. The nearest neighbours of “border” contain local Nigerian place names, notably  "ona", "lagelu", and "idere", and  "retail", "sourced" suggest local trade contexts. This likely reflects that the word "border" in the Nigerian corpus refers more to local geographic and economic boundaries than to national borders in a political sense. More general associations were found, e.g. “demarcation”.
+
+The fastText model was also selected with a manual gridSearch over multiple hyperparameters combination. The most performant model was using 100 dimensions and the CBOW architecture. We also used cosine similarity as the metric to determine the nearest neighbours of an embedding. Among the nearest neighbours of “nationhood”, we found “nation” (0.91), “nationalist” (0.88 ), “nationwide” (0.86), “nationalistic” (0.84), “nationals” (0.83), “imagination” (0.82), “donation” (0.81), “nations” (0.79), “globalisation” (0.78), and “aspiration” (0.78). While some of the previous embeddings do have similar meanings to nationhood, others seem to be part of the noise. As we have seen, the fastText model is trained on characters n-grams. Therefore any word having the similar subwords as nation will be encoded as semantically close, even though it does not imply a direct etymological connection.  For instance, the embeddings "donation", "imagination", "aspiration" are noise caused by the shared `-ation` suffix, a known limitation of subword models on small corpora. By contrast, "globalisation" is analytically interesting as it suggests Nigerian English links nationhood to global context.
+
+To summarize, Word2Vec produces more purely semantic neighbors while FastText captures morphological variants due to its subword model (and introduces noise in the results, due to the common suffixes issue). Both models are complementary for our cross-cultural analysis.
+
+##### FastText
 - Trained on `nigeria_combined.txt` (~1M words, 10,395 unique words)
 - Manual grid search over: architecture (cbow/skipgram), dimensions (100/200), loss (ns/hs)
 - **Best model:** cbow, dim=100, negative sampling
 - Models saved locally (excluded from git due to file size — ~771MB each)
 
-#### Word2Vec
+##### Word2Vec
 - Trained on same combined Nigeria corpus using gensim
 - Manual grid search over: architecture (cbow/skipgram), dimensions (100/200)
 - **Best model:** cbow, dim=100
 - Models saved locally
+
 
 #### Bert
 
