@@ -15,25 +15,13 @@ model_id = "answerdotai/ModernBERT-base"
 
 # These folders do not exist yet, but should be added once we get the corpora and finish preprocessing
 train_files = [
-    Path("Preprocessing/preprocessed_BERT/train/nigeria_spoken.txt"),
-    Path("Preprocessing/preprocessed_BERT/train/nigeria_written.txt"),
-    Path("Preprocessing/preprocessed_BERT/train/britain_spoken.txt"),
-    Path("Preprocessing/preprocessed_BERT/train/britain_written.txt"),
-    Path("Preprocessing/preprocessed_BERT/train/india_spoken.txt"),
-    Path("Preprocessing/preprocessed_BERT/train/india_written.txt"),
-    Path("Preprocessing/preprocessed_BERT/train/usa_spoken.txt"),
-    Path("Preprocessing/preprocessed_BERT/train/usa_written.txt")
+    Path("Preprocessing/preprocessed_BERT/train/nigeria.txt"),
+    Path("Preprocessing/preprocessed_BERT/train/india.txt"),
 ]
 
 valid_files = [
-    Path("Preprocessing/preprocessed_BERT/val/nigeria_spoken.txt"),
-    Path("Preprocessing/preprocessed_BERT/val/nigeria_written.txt"),
-    Path("Preprocessing/preprocessed_BERT/val/britain_spoken.txt"),
-    Path("Preprocessing/preprocessed_BERT/val/britain_written.txt"),
-    Path("Preprocessing/preprocessed_BERT/val/india_spoken.txt"),
-    Path("Preprocessing/preprocessed_BERT/val/india_written.txt"),
-    Path("Preprocessing/preprocessed_BERT/val/usa_spoken.txt"),
-    Path("Preprocessing/preprocessed_BERT/val/usa_written.txt")
+    Path("Preprocessing/preprocessed_BERT/val/nigeria.txt"),
+    Path("Preprocessing/preprocessed_BERT/val/india.txt"),
 ]
 
 output_dir = "ModernBERT-base-finetuned"
