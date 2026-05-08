@@ -76,6 +76,27 @@ To summarize, Word2Vec produces more purely semantic neighbors while FastText ca
 
 ---
 
+## Discussion of methods and sources
+
+As we had advanced on the training of our models, we discussed what method we should use to perform our cross-cultural analysis. One challenge we anticipated is the difficulty to compare different vector spaces for our different models and corpora. We will try to further investigate the possibility to align our different vector spaces to allow cross-model/corpus comparisons. We also began our first analysis using the cosine similarity to determine the closest neighbours of some embeddings. We think we will keep this metric, and maybe use it as a baseline
+
+As our project focuses on analyzing different embeddings of “nationhood”, we also need to pin down the different dimensions it encompasses. We found the following excerpt which offers a perspective particularly relevant for such analysis. It distinguishes between different aspects constitutive of nationhood, which may be represented differently in the different vector spaces. It can be analyzed through its cultural, economic, political/legal, historical, territorial dimensions and the excerpt also describes it as a form of collective consciousness.
+We could determine directions in the vector spaces that encode these different dimensions, by creating (using Wordnet?) semantic clusters of words, and assume that  the “average” direction should encode most of the dimension we are examining. This method would allow us to compare the relative distances of nationhood to  its dimensions across vector spaces.
+
+> Nation is a more diffuse term, if only because, unlike state, it is not a clearly demarcated, officially recognized, and objective unit. Anthony Smith defines nation as "a named human population **sharing a historic territory**, **common myths and historical memories**, a mass, **public culture**, a **common economy and common legal rights and duties** for all members."[19] [...] They clearly are not, or do not have, a state. Are they a nation? The difficulty of this question should be obvious. In the U.S. they do not occupy a distinct territory, and it is debatable whether they share a **common economy and political culture** (especially one discrete from "white" or general U.S. society); they do share, in the widest sense, an "historic" territory in the form of Africa but originate from a plethora of societies (and nations?) within that geographic field.  
+>
+> The best answer to our question is that they are a nation if they can acquire the characteristics—and even more, the consciousness—of nationhood. [...] In other words, **nationhood is an achieved status**, at least to a degree.”  
+>
+> — Eller, Jack David. 1997. “Ethnicity, Culture, and ‘The Past’.”  
+> — Smith, Anthony D. 1991. National Identity.
+
+Also, the passage below (from our reading assignment) could be used to support the methodology for our analysis, where we assume that studying the different vector embeddings of some fixed words and their relative distance  can help us understand their particular use in different contexts:
+
+> “Word embeddings, trained only on word co-occurrence in text corpora, serve as a dictionary of sorts for computer programs that would like to use word meaning. First, **words with similar semantic meanings tend to have vectors that are close together**. Second, the **vector differences between words in embeddings have been shown to represent relationships between words** [32, 26]”
+> — Bulakbasi et al. Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings
+
+
+
 ## Remaining Work
 
 ### Still To Do
