@@ -12,11 +12,11 @@
 - All national components are available locally in the repository
 
 ### Data Preprocessing
-- Completed preprocessing pipeline for all corpora
+- Completed preprocessing pipeline for all corpora (adapted the preprocessing file such that it works for all corpora) and both Word2Vec and BERT
 - Steps implemented: ICE annotation removal, lowercasing, punctuation removal, sentence tokenization
 - Output: flat `.txt` files with one sentence per line, ready for model training
 - Combined spoken and written into a single file for richer training data
-- Preprocessing scripts were reusable for all other corpora
+- Preprocessing scripts reusable for all other corpora
 
 ### Model Training
 
@@ -49,7 +49,18 @@ To summarize, Word2Vec produces more purely semantic neighbors while FastText ca
 
 #### Bert
 
----
+For BERT, we are hesitating between two approaches : 
+
+A first approach would be to create contextual embeding for sentences containing the word "nationhood" or other related words (contained in ./Preprocessing/keywords.txt) :
+- Using ModernBERT-base without fine tuning (because if we do fine tune, we would have to seperately fine tune to each individual englishes, which would be very costly in time complexity)
+- For each variety, we would exttract the contextual embeddings for sentences containing "nationhood" and related keywords
+- Average the embeddings of "nationhood" and related keywords accross all their occurences per variety
+- Then find the semantic neighbours using cosine similarity between the averaged "nationhood" and related words embedding and all other words in context
+- Compare those results with Word2Vec and FastText
+
+This first approach is relevant because it would provide results which we could compare with the ones obtained through Word2Vec and FastText.
+
+A second approach would be to use masked prediction to see the words which are interchangeable with "nationhood" and related words in this context. 
 
 ## Initial Results — Nigeria Corpus
 
@@ -100,7 +111,7 @@ Also, the passage below (from our reading assignment) could be used to support t
 ## Remaining Work
 
 ### Still To Do
-- Preprocess corpora for GB, India, and USA
+- Train BERT model
 - Train FastText and Word2Vec models for all 4 corpora
 - Cross-corpus comparison of nearest neighbors
 - Procrustes alignment for direct vector space comparison across models
@@ -109,6 +120,7 @@ Also, the passage below (from our reading assignment) could be used to support t
 
 ### Known Limitations
 - Nigeria corpus is small (~1M words, 10,395 unique vocabulary after filtering), some noise expected in embeddings
+- The corpora do not have the same size and do not contain the exact same type of data (some contain more news data while other contain more conversations for instance)
 - Morphological noise in FastText (shared `-ation` suffix pulling in "donation", "imagination")
 
 ---
