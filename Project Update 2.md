@@ -91,23 +91,24 @@ A second approach would be to use masked prediction to see the words which are i
 
 For nation:
 
-=== CANADA ===
-  ġdrawn: 0.8904
-  ġnature: 0.8874
-  ġnumber: 0.8838
-  ġballet: 0.8832
-  ġignorance: 0.8832
-  ġcommunities: 0.8816
-  ġinter: 0.8810
-  ġnews: 0.8792
-  ġtesting: 0.8774
-  ġminister: 0.8770
+```python
+=== CANADA ===  
+  ġdrawn: 0.8904    
+  ġnature: 0.8874  
+  ġnumber: 0.8838  
+  ġballet: 0.8832  
+  ġignorance: 0.8832  
+  ġcommunities: 0.8816  
+  ġinter: 0.8810  
+  ġnews: 0.8792  
+  ġtesting: 0.8774  
+  ġminister: 0.8770  
 
-=== EAST AFRICA ===
-  ġnature: 0.8991
-  ġcountry: 0.8883
-  ġassembly: 0.8865
-  ġhumanity: 0.8859
+=== EAST AFRICA ===  
+  ġnature: 0.8991  
+  ġcountry: 0.8883  
+  ġassembly: 0.8865  
+  ġhumanity: 0.8859  
   ġcommunication: 0.8839
   ġscene: 0.8820
   ġnumber: 0.8814
@@ -186,9 +187,12 @@ For nation:
   ġculture: 0.8850
   ġseparation: 0.8847
   ison: 0.8847
+```
+
 
 For freedom (only testing on Jamaica, Nigeria and USA for the moment) : 
 
+```python
 === JAMAICA ===
   independence: 0.8477
   slavery: 0.8475
@@ -224,6 +228,7 @@ For freedom (only testing on Jamaica, Nigeria and USA for the moment) :
   powers: 0.8057
   empire: 0.8039
   lib: 0.8037
+```
 
 ## Discussion of methods and sources
 
