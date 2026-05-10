@@ -1,0 +1,572 @@
+<I>
+
+<p> <ICE-JA:W2A-025#1:1> <h> <bold> Kinetics and Mechanism of the Formation and Reactivity
+
+of &mu;-Hydroxo- &mu;-Sulfito-bis[bis(1,2-diaminoethane)chromium(III)]
+
+</bold> </h> </p>
+
+<p> <ICE-JA:W2A-025#2:1> <bold> Paul T. Maragh and Tara Dasgupta </bold> </p>
+
+<p> <ICE-JA:W2A-025#3:1> <it> Department of Chemistry, University of the West Indies,
+
+Kingston 7, Jamaica, West Indies </it> </p>
+
+<p> <ICE-JA:W2A-025#4:1> The kinetics of formation of [ ( en) <sb> 2 </sb> Cr( &mu;-OH)(
+
+&mu;-SO <sb> 3 </sb> ) Cr(en) <sb> 2 </sb> ] <sp> 3+ </sp> cation from [ (
+
+en) <sb> 2 </sb> Cr( &mu;-OH) <sb> 2 </sb> Cr(en) <sb> 2 </sb> ] <sp> 4+
+
+</sp> ( en = 1,2- diaminothane) in aqueous buffered sulfite solution has been
+
+studied spectrophotometrically.
+<ICE-JA:W2A-025#5:1> This formation consisted of two steps; first a rapid uptake of SO <sb>
+
+2 </sb> by the ring <l> cleaved mono- &mu;-hydroxo species [ ( OH)(en) <sb> 2
+
+</sb> Cr( &mu;- OH)Cr(en) <sb> 2 </sb> ( OH)] <sp> 3+ </sp> to form a
+
+terminal O-bonded sulfito intermediate.
+<ICE-JA:W2A-025#6:1> This reaction was studied at 600 nm in the ranges 3.79 &equal-
+
+or-less-than; pH &equal-or-less-than; 5.47, 20 &equal-or-less-than; &theta;
+
+&equal-or-less-than; 30 &degree; C and 0.03 &equal-or-less-than; [ S] <sb> T
+
+</sb> &equal-or-less-than; 0.05 mol dm <sp> - 3 </sp> ( [ S] <sb> T </sb> = [
+
+SO <sb> 2 </sb> ] + [ HSO <sb> 3 </sb> <sp> - </sp> ] + [ SO <sb> 3 </sb>
+
+<sp> 2- </sp> ] ) .
+<ICE-JA:W2A-025#7:1> The rate constant for uptake of SO <sb> 2 </sb> at 25 &degree; C was
+
+found to be ( 8.7 &plus-minus; 0.1) x 10 <sp> 7 </sp> dm <sp> 3 </sp> mol
+
+<sp> - 1 </sp> s <sp> - 1 </sp> with &DELTA; <it> H </it> &double-cross; =
+
+6.5 &plus-minus; 0.9 kJ mol <sp> - 1 </sp> and &DELTA; <it> S </it>
+
+&double-cross; = - 71 &plus-minus; 2 J K <sp> - 1 </sp> mol <sp> - 1 </sp> .
+<ICE-JA:W2A-025#8:1> The second step in which the sulfito intermediate undergoes a ring
+
+closure to form the ( &mu;-OH) ( &mu;-SO <sb> 3 </sb> ) complex with the
+
+elimination of H <sb> 2 </sb> O ( or OH <sp> - </sp> ) was studied in the
+
+ranges 2.46 &equal-or-less-than; pH &equal-or-less-than; 4.46, 19.9
+
+&equal-or-less-than; &theta; &equal-or-less- than; 29.9 &degree; C and 0.03
+
+&equal-or-less-than; [ S] <sb> T </sb> &equal-or-less-than; 0.05 mol dm <sp>
+
+- 3 </sp> , and the rate constant for this process, <it> k <sb> 3 </sb> </it>
+
+, was found to be 0.68 s <sp> - 1 </sp> at 25.2 &degree; C with &DELTA; <it>
+
+H </it> &double-cross; = 28 &plus-minus; 1 kJ mol <sp> - 1 </sp> and &DELTA;
+
+<it> S </it> &double-cross; = - 155 &plus- minus; 3 J K <sp> - 1 </sp> mol
+
+<sp> - 1 </sp> .
+<ICE-JA:W2A-025#9:1> The rate constant for ring closure with the loss of OH <sp> - </sp>
+
+was found to be 0.15 s <sp> - 1 </sp> at 25.2 &degree; C with &DELTA; <it> H
+
+</it> &double-cross; = 66 &plus-minus; 7 kJ mol <sp> - 1 </sp> and &DELTA;
+
+<it> S </it> &double-cross; = - 40 &plus-minus; 24 J K <sp> - 1 </sp> mol
+
+<sp> - 1 </sp> .
+<ICE-JA:W2A-025#10:1> The ( &mu;-OH) ( &mu;-SO <sb> 3 </sb> ) complex decomposes in acid to
+
+give free sulfite with a rate constant of ( 7.8 &plus-minus; 0.1) x 10 <sp> -
+
+5 </sp> s <sp> - 1 </sp> at 25 &degree; C which is independent of [ H <sp> +
+
+</sp> ] over the range 0.01-1.0 mol dm <sp> - 3 </sp> HCIO <sp> 4 </sp> .
+<ICE-JA:W2A-025#11:1> It undergoes additional sulfite uptake ( <it> k </it> = 3.01 x 10
+
+<sp> - 4 </sp> s <sp> - 1 </sp> , 25 &degree; C, &DELTA; <it> H </it>
+
+&double-cross; = 91 &plus-minus; 8 kJ mol </sp> - 1 </sp> , &DELTA; <it> S
+
+</it> &double-cross; = - 8.7 &plus-minus; 29.6 J K <sp> - 1 </sp> mol <sp> -
+
+1 </sp> ) to form a possible disulfito product.
+<ICE-JA:W2A-025#12:1> The reaction was found to be independent of [ S] <sp> T </sp> but
+
+dependent on [ H <sp> + </sp> ] over the ranges 2.11 &equal-or-less-than; pH
+
+&equal-or-less-than; 7.28, 0.03 &equal-or-less- than; [ S] <sb> T </sb>
+
+&equal-or-less-than; 0.05 mol dm <sp> - 3 </sp> and 20 &equal-or-less-than;
+
+&theta; &equal-or-less-than; 30 &degree; C. </p>
+
+<p> <ICE-JA:W2A-025#13:1> During recent years a number of systems have been studied which
+
+involve mononuclear aquatransition-metal complexions in aqueous sulfite
+
+solution.
+<ICE-JA:W2A-025#14:1> These include reactions of the aquapentaammine complexes of
+
+cobalt(III), <fnr> <sp> 1 </sp> </fnr> chromium(III), <fnr> <sp> 2 </sp>
+
+</fnr> rhodium(III) <fnr> <sp> 2 </sp> </fnr> and platinum(IV), <fnr> <sp> 3
+
+</sp> </fnr> <it> cis- </it> and <it> trans </it> - [ Co(en) <sb> 2 </sb> - (
+
+OH <sb> 2 </sb> ) <sb> 2 </sb> ] <sp> 3+ </sp> ( en = 1,2-diaminothane), <sp>
+
+4,5 </sp> <it> cis </it> - [ Co(tren)-(OH <sb> 2 </sb> ) <sb> 2 </sb> ] <sp>
+
+3+ </sp> [ tren = 1,2- bis(2-aminoethylaminoethane], <fnr> <sp> 6 </sp>
+
+</fnr> [ Co(tetren)(OH <sb> 2 </sb> ) ] <sp> 3+ </sp> ( tetren =
+
+tetraethylenepentamine) <fnr> <sp> 7 </sp> </fnr> and the
+
+hexaaquachromuim(II) cation. <fnr> <sp> 8 </sp> </fnr> . <footnote>
+<ICE-JA:W2A-025#15:1> 1 G. M. Harris and R. van Eldik, <it> Inorg. Chem. </it> , 1980,
+
+<bold> 19 </bold> , 880. </footnote> <footnote>
+<ICE-JA:W2A-025#16:1> 2 R. van Eldik, <it> Inorg. Chim. Acta </it> , 1980, <bold> 42
+
+</bold> , 49. </footnote> <footnote>
+<ICE-JA:W2A-025#17:1> 3 K. C. Koshy and G. M. Harris, <it> Inorg. Chem. </it> , 1983,
+
+<bold> 22 </bold> , 2947. </footnote> <footnote>
+<ICE-JA:W2A-025#18:1> 4 T. P. Dasgupta and G. M. Harris, <it> Inorg. Chem. </it> , 1984,
+
+<bold> 23 </bold> , 4399. </footnote> <footnote>
+<ICE-JA:W2A-025#19:1> 5 S. M. Farrel and R. S. Murray, <it> J. Chem. Soc., Dalton Trans.
+
+</it> , 1977, 322. </footnote> <footnote>
+<ICE-JA:W2A-025#20:1> 6 A. A. El-Awady and G. M. Harris, <it> Inorg. Chem. </it> , 1981,
+
+<bold> 20 </bold> 1660. </footnote> <footnote>
+<ICE-JA:W2A-025#21:1> 7 A. C. Dash, A. A. El-Awady and G. M. Harris, <it> Inorg. Chem.
+
+</it> , 1981, <bold> 20 </bold> , 3160. </footnote> <footnote>
+<ICE-JA:W2A-025#22:1> 8 P. A. Moritzen, A. A. El-Awady and G. M. Harris, <it> Inorg. Chem.
+
+</it> , 1985, <bold> 24 </bold> , 313. </footnote>
+<ICE-JA:W2A-025#23:1> The kinetic data show that in each instance the most significant
+
+first step in the overall process is rapid nucleophilic attack by ligand
+
+hydroxide on dissolved SO <sb> 2 </sb> to form an unstable O-bonded sulfito
+
+complex, a reaction that is readily reversible by immediate acidification.
+<ICE-JA:W2A-025#24:1> Metal-to-metal oxygen bonding is not involved in this reversible
+
+process, as confirmed by NMR measurements. <fnr> <sp> 9 </sp> </fnr>
+
+<footnote>
+<ICE-JA:W2A-025#25:1> 9 R. van Eldik, J. von Jouanne and H. Kelm, <it> Inorg. Chem. </it> ,
+
+1982, <bold> 21 </bold> , 2818. </footnote>
+<ICE-JA:W2A-025#26:1> Reactions subsequent to the formation of the O-bonded intermediate
+
+include O- to S-bonded isomerization, internal redox, sulfite-ion addition,
+
+or a combination of these processes depending on the pH, the nature of the N
+
+<sb> 4 </sb> or N <sb> 5 </sb> ligand group and the metal centre. </p>
+
+<p> <ICE-JA:W2A-025#27:1> The reactivity of the terminal aqua ( or hydroxo) ligand towards
+
+free sulfite is fairly well documented by the above mentioned work.
+<ICE-JA:W2A-025#28:1> So far, there has been only one documented report <fnr> <sp> 10 </sp>
+
+</fnr> involving the reaction of a hydroxo-bridged complex in aqueous sulfite
+
+solution. <footnote>
+<ICE-JA:W2A-025#29:1> 10 V. H. Siebert and K. Z. Wittke, <it> Z. Anorg. Allg. Chem. </it> ,
+
+1974, <bold> 40 </bold> , 282. </footnote>
+<ICE-JA:W2A-025#30:1> The work included the isolation of a sulfito-bridged cobalt(III)
+
+dimer and characterization of this complex by infrared spectroscopy.
+<ICE-JA:W2A-025#31:1> The sulfite moiety was concluded to form a doubly O- bonded bridge.
+<ICE-JA:W2A-025#32:1> We now report the isolation of a stable sulfito-bridged chromium(III)
+
+complex, elucidation of the mechanism of its formation and investigation of
+
+its reactivity in aqueous sulfite and in acidic solutions. </p>
+
+<p> <ICE-JA:W2A-025#33:1> <h> <bold> Experimental </bold> </h> </p>
+
+<p> <ICE-JA:W2A-025#34:1> <it> Materials </it> .
+<ICE-JA:W2A-025#35:1>  All chemicals used were of reagent grade.
+<ICE-JA:W2A-025#36:1> Distilled water made from a stainless-steel disillation unit was used
+
+without further purification for all syntheses.
+<ICE-JA:W2A-025#37:1> Deionized water, made by passing distilled water through a Milli- Q
+
+ion- exchange purification unit ( Millipore, Milford MA), was used for all
+
+spectral investigations in solution.
+<ICE-JA:W2A-025#38:1> Solid sodium metabisulfite Na <sb> 2 </sb> S <sb> 2 </sb> O <sb> 5
+
+</sb> ( BDH) was the source of sulfite; this salt is very stable in the solid
+
+form but hydrolyses rapidly and completely when dissolved in water to yield
+
+sulfite. <fnr> <sp> 1 </sp> </fnr>
+<ICE-JA:W2A-025#39:1> Sulfur dioxide gas was obtained from BDH ( Poole). </p>
+
+<p> <ICE-JA:W2A-025#40:1> <it> Preparation and Characterization of Complexes. </it>
+<ICE-JA:W2A-025#41:1> - cis- <it> Di- chlorobis </it> ( 1,2- <it> diaminoethane)chromium
+
+</it> ( III) <it> chloride </it> .
+<ICE-JA:W2A-025#42:1> This complex was prepared from [ Cr(en) <sb> 3 </sb> ] Cl <sb> 3
+
+</sb> by a literature <fnr> <sp> 11 </sp> </fnr> procedure, which was
+
+modified to obtain a purer product. <footnote>
+<ICE-JA:W2A-025#43:1> 11 J. Springborg and C. E. Sch &auml;ffer, <it> Inorganic Synthesis
+
+</it> , Wiley- Interscience, New York, 1978, vol. 18. </footnote>
+<ICE-JA:W2A-025#44:1> The complex [ Cr(en) <sb> 3 </sb> ] Cl <sb> 3 </sb> ( 20.3 g, 0.06
+
+mol; recrystallized from 2% NH <sb> 4 </sb> Cl in aqueous ethanol to give
+
+very fine crystals which decompose much faster than larger crystals obtained
+
+from recrystallization from water) was spread in a thin layer on a
+
+watch-glass and heated at 190 &degree; C for 20 min to give a lumpy
+
+red-violet product.
+<ICE-JA:W2A-025#45:1> These lumps were crushed and the product heated for 20 min.
+<ICE-JA:W2A-025#46:1> At this stage a 30% loss in weight ( corresponding to <it> ca. </it>
+
+99% decomposition) was observed, yielding 14.2 g of product.
+<ICE-JA:W2A-025#47:1> This represents a vast improvement on the previous procedure. <fnr>
+
+<sp> 11 </sp> </fnr>
+<ICE-JA:W2A-025#48:1> The visible spectrum compared well with that reported earlier. <fnr>
+
+&cross; </fnr> , <fnr> <sp> 13 </sp> </fnr> <footnote>
+<ICE-JA:W2A-025#49:1> &cross; The absorption coefficients are 68 and 66 dm <sp> 3 </sp> mol
+
+<sp> - 1 </sp> cm <sp> - 1 </sp> at 530 and 402 nm respectively ( lit.; <fnr>
+
+<sp> 12 </sp> </fnr> 71 and 68 dm <sp> 3 </sp> mol <sp> - 1 </sp> cm <sp> - 1
+
+</sp> ) . </footnote> <footnote> 12 J. C. Bailar, <it> J. Am. Chem. Soc.
+
+</it> , 1960, <bold> 82 </bold> , 6294. </footnote> <footnote>
+<ICE-JA:W2A-025#50:1> 13 J. C. Bailar, <it> Inorganic Synthesis </it> , Wiley-Interscience,
+
+New York, 1946, vol. 2, p. 200. </footnote> </p>
+
+<p> <ICE-JA:W2A-025#51:1> <it> Di- </it> &mu;- <it> hydroxo-bis[bis </it> ( 1,2- <it>
+
+diaminoethane)chromium </it> ( III)] <it> perchlorate </it> .
+<ICE-JA:W2A-025#52:1> This complex was prepared from the above <it> cis </it> - dichloro
+
+compound as described by Springborg and Sch&auml;ffer. <fnr> <sp> 11 </sp>
+
+</fnr>
+<ICE-JA:W2A-025#53:1> The UV/VIS spectral parameters were in good agreement with those in
+
+the literature: &lambda; 528 ( &epsilon; 176) and 384 ( 115); lit., <fnr>
+
+<sp> 11 </sp> </fnr> 528 ( 178) and 384 nm ( 115 dm <sp> 3 </sp> mol <sp> - 1
+
+</sp> cm <sp> - 1 </sp> ) . </p>
+
+<p> <ICE-JA:W2A-025#54:1> &mu;- <it> hydroxo </it> - &mu;- <it> sulfito-bis[bis </it> (
+
+1,2- <it> diaminoethane)chromium </it> ( III)] <it> perchlorate </it> .
+<ICE-JA:W2A-025#55:1> Sulfur dioxide was bubbled slowly into water ( 3 cm <sp> 3 </sp> , 0
+
+&degree; C) for 10 min.
+<ICE-JA:W2A-025#56:1> To this was added [ ( en) <sb> 2 </sb> Cr( &mu;-OH) <sb> 2 </sb> -
+
+Cr(en) <sb> 3 </sb> ] [ Clo <sb> 4 </sb> ] <sb> 4 </sb> ( 0.5 g, 0.64 mmol)
+
+with stirring until dissolution was complete.
+<ICE-JA:W2A-025#57:1> To the red-pink solution a saturated solution ( 4 cm <sp> 3 </sp> ,
+
+room temperature) of NaClo <sb> 4 </sb> was added slowly with stirring in an
+
+ice-bath and cooling continued for 1h.
+<ICE-JA:W2A-025#58:1> The red-pink crystals were filtered off, washed with two portions (
+
+1cm <sp> 3 </sp> ) of 50% v/v ethanol-water, two portions ( 2 cm <sp> 3 </sp> )
+
+of 95% ethanol, diethyl ether and dried in air.
+<ICE-JA:W2A-025#59:1> Yield: 0.4 g ( 82%).
+<ICE-JA:W2A-025#60:1> An identical product was obtained by replacing SO <sb> 2 </sb> with
+
+0.3 g of Na <sp> 2 </sp> S <sp> 2 </sp> O <sp> 5 </sp> .
+<ICE-JA:W2A-025#61:1> The purity was checked by microanalysis ( done by Dr. E. Pascher,
+
+Mikroanalytisches Labor Pascher, Remegan) ( Found: C, 12.65; H, 4.60; Cl,
+
+14,6; Cr, 12.7; N, 15.1; S, 4.15 Calc. for C <sp> 8 </sp> H <sp> 33 </sp> Cl
+
+<sp> 3 </sp> Cr <sp> 2 </sp> N <sp> 8 </sp> O <sp> 16 </sp> S: C, 12.70; H,
+
+4.65; Cl, 14.0; Cr, 13.7; N, 14.8; S, 4.25%).
+<ICE-JA:W2A-025#62:1> Visible spectrum: &lambda; 518 ( &epsilon; 202) and 385 nm ( 135 dm
+
+<sp> 3 </sp> mol <sp> - 1 </sp> cm <sp> - 1 </sp> ) .
+<ICE-JA:W2A-025#63:1> The IR spectrum showed vibrational frequencies assigned <fnr> <sp> 10
+
+</sp> </fnr> to the bridging sulfite: &delta; <sb> OSO </sb> 640w, v <sb> SO
+
+</sb> 832m, 866m, 912ms, 940s and 974s cm <sp> - 1 </sp> . </p>
+
+<p> <ICE-JA:W2A-025#64:1> <it> Spectra. </it>
+<ICE-JA:W2A-025#65:1> - The visible spectra were recorded on either a Varian Cary 219 or a
+
+Hewlett-Packard 8452A diode-array spectrophotometer, and the infrared spectra
+
+with either a Perkin Elmer 735B or a Philips Analytical Sp3-300 spectro <l>
+
+meter employing the KBr disc technique. </p>
+
+<p> <ICE-JA:W2A-025#66:1> <it> Kinetic Measurements. </it>
+<ICE-JA:W2A-025#67:1> - The kinetic data for the fast reactions were obtained at 600 nm
+
+where there is an appreciable absorbance change between the reactant and the
+
+product ( the absorption coefficients of the di- &mu;-hydroxo cation and the
+
+sulfito complex are 62 and 34 dm <sp> 3 </sp> mol <sp> - 1 </sp> cm <sp> - 1
+
+</sp> , respectively).
+<ICE-JA:W2A-025#68:1> Analysis of the data at other wavelengths ( 518 and 540 nm) gave
+
+comparable results.
+<ICE-JA:W2A-025#69:1> The ionic strength of the reaction mixtures was adjusted to 1 mol dm
+
+<sp> - 3 </sp> with 4 mol dm <sp> - 3 </sp> NaClO <sb> 4 </sb> .
+<ICE-JA:W2A-025#70:1> Rate measurements for the uptake of SO <sb> 2 </sb> were made using
+
+the sulfite self-buffering technique <fnr> <sp> 7 </sp> </fnr> where
+
+calculated amounts of sodium hydroxide or perchloric acid are added to
+
+sulfite solutions to give the required pH.
+<ICE-JA:W2A-025#71:1> Sulfite and complex solutions were introduced separately into the
+
+reservoirs of a Hi-Tech Scientific stopped-flow SHU ( SF-51) assembly
+
+connected to a Hi-Tech ( SU-40) spectrophotometer unit interfaced to a 386-AT
+
+computer running the Hi-Tech analysis program RKDEM. </p>
+
+<p> <ICE-JA:W2A-025#72:1> Rate measurements for the further addition of sulfite to, and
+
+acid hydrolysis of, the sulfito complex were made in a Cary-219
+
+spectrophotometer equipped with a thermostatted cell compartment. </p>
+
+<p> <ICE-JA:W2A-025#73:1> Reported <it> k </it> <sb> obs </sb> values have a maximum error
+
+of &plus-minus; 5%, but most are within &plus-minus; 2% or less. </p>
+
+<p> <ICE-JA:W2A-025#74:1> pH <it> Measurements </it> .
+<ICE-JA:W2A-025#75:1> - An Orion model 701, or a Beckmann model 1500, pH meter fitted with
+
+a combination glass electrode ( Fisher, Markson or Corning) was used to
+
+measure pH.
+<ICE-JA:W2A-025#76:1> The meter was calibrated at the working temperature with standard
+
+buffer solutions, <fnr> <sp> 14 </sp> </fnr> <it> viz. </it> 0.01 mol dm <sp>
+
+- 3 </sp> Na <sb> 2 </sb> B <sb> 4 </sb> O <sb> 7 </sb> &dot; 10H <sb> 2
+
+</sb> O, 0.025 mol dm <sp> - 3 </sp> KH <sb> 2 </sb> PO <sb> 4 </sb> and
+
+0.025 mol dm <sp> - 3 </sp> Na <sb> 2 </sb> HPO <sb> 4 </sb> . <footnote>
+<ICE-JA:W2A-025#77:1> 14 T. P. Dasgupta and P. T. Maragh, unpublished work. </footnote>
+<ICE-JA:W2A-025#78:1> For slow reactions the pH was measured before and after the run.
+<ICE-JA:W2A-025#79:1> For fast reactions the pH was measured immediately after mixing. </p>
+
+<p> <ICE-JA:W2A-025#80:1> <h> <bold> Results and Discussion </bold> </h> </p>
+
+<p> <ICE-JA:W2A-025#81:1> <it> Acid Dissociation Constants. </it>
+<ICE-JA:W2A-025#82:1> - The data were analysed on the basis of the values for the
+
+dissociation constants for the various equilibria present in aqueous sulfite
+
+as reported in the literature. <fnr> <sp> 1 </sp> </fnr>
+<ICE-JA:W2A-025#83:1> Values of p <it> K </it> <sb> 1 </sb> for sulfurous acid, <quote> 'H
+
+<sb> 2 </sb> SO <sb> 3 </sb> ' </quote> , have been reported as 1.85, 1.90
+
+and 1.95 at 20, 25 and 30 &degree; C respectively, while p <it> K </it> <sb>
+
+2 </sb> is constant at 6.30 over the same range ( <it> I </it> = 1.0 mol dm
+
+<sp> - 3 </sp> ) .
+<ICE-JA:W2A-025#84:1> For the HSO <sb> 3 </sb> <sp> - </sp> / S <sb> 2 </sb> O <sb> 5 </sb>
+
+<sp> 2- </sp> equilibrium, <it> K </it> <sb> 3 </sb> = 0.07 dm <sp> 3 </sp>
+
+mol <sp> - 1 </sp> at 25 &degree; C. </p>
+
+<p> <ICE-JA:W2A-025#85:1> The complex salt [ ( en) <sb> 2 </sb> Cr( &mu;-OH) <sb> 2 </sb>
+
+Cr(en) <sb> 2 </sb> ] [ ClO <sb> 4 </sb> ] <sb> 4 </sb> is in rapid
+
+equilibrium <fnr> <sp> 15 </sp> </fnr> in aqueous solution as shown in Scheme
+
+1. <footnote>
+<ICE-JA:W2A-025#86:1> 15 M. H. Thacker and W. C. E. Higginson, <it> J. Chem. Soc.; Dalton
+
+Trans. </it> , 1975, 322. </footnote>
+<ICE-JA:W2A-025#87:1> The value of <it> K </it> was reported <fnr> <sp> 15 </sp> </fnr> to
+
+be 0.76 at 25 &degree; C and is independent of acid concentration.
+<ICE-JA:W2A-025#88:1> This means that the fraction of <O> scheme </O> <O> caption </O> <O>
+
+figure </O> <O> caption </O> of di- &mu;- hydroxo cation present in all
+
+kinetic solutions will be constant, irrespective of pH.
+<ICE-JA:W2A-025#89:1> The values of p <it> K </it> <sb> 4 </sb> and p <it> K </it> <sb> 5
+
+</sb> were found to be 0.67 and 7.95 by spectrophotometric and conducto <?> -
+
+</?> metric methods respectively. <fnr> <sp> 16 </sp> </fnr> <footnote>
+<ICE-JA:W2A-025#90:1> 16 J. Springborg and H. Toftlund, <it> J. Chem. Soc., Chem. Commun.
+
+</it> , 1975, 422. </footnote>
+<ICE-JA:W2A-025#91:1> The large difference between these values is attributed <fnr> <sp> 16
+
+</sp> </fnr> to extensive hydrogen bonding in the aquahydroxo mono-
+
+&mu;-hydroxo cation which gives it extra stability.
+<ICE-JA:W2A-025#92:1> Hence, this species will be the major form over the range pH 3.8-5.5
+
+employed. </p>
+
+<p> <ICE-JA:W2A-025#93:1> <it> Qualitative Observations. </it>
+<ICE-JA:W2A-025#94:1> - Preliminary experiments in which Na <sb> 2 </sb> S <sb> 2 </sb> O
+
+<sb> 5 </sb> was added to solutions of the di- &mu;- hydroxo cation showed an
+
+instantaneous colour change from violet to red-pink corresponding to an
+
+increase, accompanied by blue shifts, in the two absorption maxima of the
+
+visible spectrum ( see Fig. 1).
+<ICE-JA:W2A-025#95:1> No <O> formula </O> charge-transfer bands were observed in the UV
+
+region of the spectrum.
+<ICE-JA:W2A-025#96:1> The final spectrum is identical to that in aqueous solution of the (
+
+&mu;-OH)( &mu;-SO <sb> 3 </sb> ) complex. </p>
+
+<p> <ICE-JA:W2A-025#97:1> When the uptake of SO <sb> 2 </sb> was monitored on the
+
+stopped-flow spectrophotometer the rapid colour change corresponded to two
+
+fast reactions, the rates of which were studied separately using different
+
+time-scales.
+<ICE-JA:W2A-025#98:1> These fast reactions are followed by a much slower one, and will be
+
+discussed later.
+<ICE-JA:W2A-025#99:1> Identical spectra for the sulfito product were obtained for equimolar
+
+solutions of the di- &mu;-hydroxo cation and sulfite, with sulfite in excess,
+
+and for solutions of the isolated product.
+<ICE-JA:W2A-025#100:1> This supports a stoichiometric ratio 1:1, and that the sulfito
+
+product is formed quantitatively from the di- &mu;-hydroxo species. </p>
+
+<p> <ICE-JA:W2A-025#101:1> <it> Sulfur Dioxide Uptake </it> .
+<ICE-JA:W2A-025#102:1>  The kinetics of this reaction was studied in the ranges 3.78
+
+&equal-or-less-than; pH &equal-or-less-than; 5.47, 20.0 &equal- or-less-than;
+
+&theta; &equal-or-less-than; 30.0 &degree; C, and 0.03 &equal-or-less-than; [
+
+S] <sb> T </sb> &equal-or-less-than; 0.05 mol dm <sp> - 3 </sp> under
+
+pseudo-first-order conditions with 3.0 x 10 <sp> - 3 </sp> mol dm <sp> - 3
+
+</sp> complex using the stopped-flow technique, and observed rate constants
+
+are listed in Tables 1 and 2. </p> <X>
+
+<p> <ICE-JA:W2A-025#X103:1> The aqueous chemistry summarized in Scheme 1 shows that there
+
+are four complex species in solution, the ring-closed di-&mu;-hydroxo and the
+
+three mono- &mu;-hydroxo cations. Since <it> K</it> ( the equilibrium
+
+constant between the di- &mu;-hydroxo and mono-&mu;-hydroxo species) is
+
+independent <fnr> <sp> 16</sp></fnr> of pH it would be difficult to <O>
+
+caption</O> <O> table</O> <O> caption</O> <O> table</O> determine the
+
+reactivity ( if any) of the di-&mu;-hydroxo cation towards any of the three S
+
+<sp> IV</sp> - containing species, so the analysis of the kinetic data is
+
+based entirely on the mono-&mu;- hydroxo species ( the hydroxo-bridge has
+
+been shown <fnr> <sp> 17</sp></fnr> to be unreactive towards dissolved CO
+
+<sb> 2</sb>). <footnote>
+<ICE-JA:W2A-025#X104:1> 17 T. P. Dasgupta and G. G. Sadler, <it> Inorg. Chem.</it>, 1987,
+
+<bold> 26</bold> 3254.</footnote>
+<ICE-JA:W2A-025#X105:1> The di-&mu;-hydroxo cation containing cyclen ( = 1,4,7,10-
+
+tetraazacyclododecane) as ligand, which is believed <fnr> <sp> 18</sp></fnr>
+
+to contain only ring-closed species in solution, reacts very slowly <fnr>
+
+<sp> 14</sp></fnr> with sulfite. <footnote>
+<ICE-JA:W2A-025#X106:1> 18 D. J. Hodgson, E. Pederson, H. Toftlund and C. Weiss, <it>
+
+Inorg. Chim. Acta</it>, 1986, <bold> 120</bold>, 177.</footnote>
+<ICE-JA:W2A-025#X107:1> This would tend to suggest that the di-&mu;-hydroxo cation would
+
+contribute very little to the rate on the stopped-flow time-scale.</p>
+
+<p> <ICE-JA:W2A-025#X108:1> The total sulfite, [ S] <sb> T</sb>, variation data show that
+
+there is a direct dependence on [ S] <sb> T</sb>, which means that one ( or
+
+more) of the sulfur(IV) species is involved in the reaction.
+<ICE-JA:W2A-025#X109:1> The pH-variation data show that there is a possible dependence on [
+
+SO <sb> 2</sb>] or [ HSO <sb> 3</sb> <sp> - </sp> ] .
+<ICE-JA:W2A-025#X110:1> The proposed mechanism is given in Scheme 1.
+<ICE-JA:W2A-025#X111:1> The reactions of the aqua-hydroxo mono-&mu;-hydroxo cation with HSO
+
+<sb> 3</sb> <sp> - </sp> and that of the dihydroxo mono-&mu;-hydroxo cation
+
+with SO <sb> 2</sb> are kinetically indistinguishable and are related by the
+
+ratio of the acid dissociation constants [ see equations ( 1) <O> formula</O>
+
+<O> formula</O> and ( 2)], where D <sp> 4+</sp> and D <sp> 3+</sp> are the
+
+aqua-hydroxo and dihydroxo forms of the mono-&mu;-hydroxo species,
+
+respectively.</p>
+
+<p> Mechanisms in which each step was considered without the other were
+
+postulated and reasonably good fits were obtained ( in the lower pH range),
+
+but it was observed that calculated <it> k</it> <sb> obs</sb> values were
+
+higher than the experimentally obtained ones at the higher pH values and the
+
+deviation increased with increasing pH.</X></I>

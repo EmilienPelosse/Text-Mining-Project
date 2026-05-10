@@ -1,0 +1,644 @@
+<I>
+
+<$A> <ICE-JA:S1A-094#1:1:A> Most extraordinary
+<ICE-JA:S1A-094#2:1:A> Hello
+
+<$B> <ICE-JA:S1A-094#3:1:B> Hello<,> Hello
+
+<$A> <ICE-JA:S1A-094#4:1:A> <O> laughs</O>Yes
+
+<$B> <ICE-JA:S1A-094#5:1:B> Hello
+
+<$A> <ICE-JA:S1A-094#6:1:A> Yes yes yes
+
+<$B> <ICE-JA:S1A-094#7:1:B> Is that Mr <{> <[> Perkins</[>
+
+<$A> <ICE-JA:S1A-094#8:1:A> <[> Mark</[></{> you we have always been arguing that the Bank
+
+of Jamaica should be independent to the Ministry of Finance haven't we<,>
+<ICE-JA:S1A-094#9:1:A> <{> <[> Yes sir it is it is</[>
+
+<$B> <ICE-JA:S1A-094#10:1:B> <[> Yes uh is this Mr Perkins</[></{>
+
+<$A> <ICE-JA:S1A-094#11:1:A> Yes sir yes
+<ICE-JA:S1A-094#12:1:A> Hello
+
+<$B> <ICE-JA:S1A-094#13:1:B> Yes sir good afternoon
+
+<$A> <ICE-JA:S1A-094#14:1:A> <O> laughs</O>Yes good afternoon <{> <[> to you</[>
+
+<$B> <ICE-JA:S1A-094#15:1:B> <[> First</[></{> time on your programme
+
+<$A> <ICE-JA:S1A-094#16:1:A> Yes mhm glad to have you
+
+<$B> <ICE-JA:S1A-094#17:1:B> Yes sir thank you
+<ICE-JA:S1A-094#18:1:B> I would like <}> <-> to</-> <=> to</=></}> talk to you uhm about
+
+the government redundancy exercise
+
+<$A> <ICE-JA:S1A-094#19:1:A> Yes
+
+<$B> <ICE-JA:S1A-094#20:1:B> And as it relates to the <?> retrained</?> staff of Institute
+
+of Sports<{1><[1><,>
+<ICE-JA:S1A-094#21:1:B> You</[1> know it involve thirty sports officer<{2><[2><,></[2>
+<ICE-JA:S1A-094#22:1:B> Now we receive our letter of termination on the eighth of June
+
+<$A> <ICE-JA:S1A-094#23:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1A-094#24:1:A> <[2> Uhuh</[2></{2>
+
+<$A> <ICE-JA:S1A-094#25:1:A> Eighth of June
+
+<$B> <ICE-JA:S1A-094#26:1:B> Yes
+
+<$A> <ICE-JA:S1A-094#27:1:A> Yes
+
+<$B> <ICE-JA:S1A-094#28:1:B> And today I think is the eighteenth of August<{1><[1><,>
+
+but</[1> I have not receive our redundancy money<{2><[2><,></[2>
+<ICE-JA:S1A-094#29:1:B> And with all these glorious and excitement thing putting into the
+
+redundancy programme and the counselling that was supposed to be offered and
+
+so on<{3><[3><,></[3> we have not up to now up to today day we have not
+
+receive our redundancy pay<{4><[4><,> and</[4> we have just been getting the
+
+run around as it relates to<,> so the financial controller at Institute <{5>
+
+<[5> of Sports</[5>
+
+<$A> <ICE-JA:S1A-094#30:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1A-094#31:1:A> <[2> Uhuh</[2></{2>
+
+<$A> <ICE-JA:S1A-094#32:1:A> <[3> Uhuh</[3></{3>
+
+<$A> <ICE-JA:S1A-094#33:1:A> <[4> Uhuh</[4></{4>
+
+<$A> <ICE-JA:S1A-094#34:1:A> <[5> Have you</[5></{5> have you asked them why
+
+<$B> <ICE-JA:S1A-094#35:1:B> Yes uhm they uh say uh when I check with the on about three to
+
+four occasion when I check with the financial controller one Mr Cousins he
+
+says that<,> the money <}> <-> will should be</-> <=> will be</=></}> paid
+
+the redundancy payment will be paid from the Ministry of the Public Service
+<ICE-JA:S1A-094#36:1:B> And I went there yesterday<,>
+<ICE-JA:S1A-094#37:1:B> And I was
+
+<$A> <ICE-JA:S1A-094#38:1:A> In other words<{1><[1><,> uhm<{1> so Mr Cousins is
+
+saying<{2><[2><,></[2> that the Ministry that the Department of Sports <{3>
+
+<[3> In the</[3> the Institute of Sports<{4><[4><,></[4> is not responsible
+
+for the payments
+<ICE-JA:S1A-094#39:1:A> <{5> <[5> The</[5> payments must come directly <}> <-> from</-><,>
+
+<=> from</=></}> the Ministry of uhm
+
+<$B> <ICE-JA:S1A-094#40:1:B> <[1> I I</[1></{1>
+
+<$B> <ICE-JA:S1A-094#41:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-094#42:1:B> <[3> Yes</[3></{3>
+
+<$B> <ICE-JA:S1A-094#43:1:B> <[4> Uhuh</[4></{4>
+
+<$B> <ICE-JA:S1A-094#44:1:B> <[5> Uh</[5></{5>
+
+<$B> <ICE-JA:S1A-094#45:1:B> Now what he's saying is that the payment is supposed to come
+
+from the Ministry of the Public Service <{1> <[1> the redundancy</[1>
+
+payment<{2><[2><,></[2>
+<ICE-JA:S1A-094#46:1:B> I went there yesterday you know <{3> <[3> and</[3> I was so
+
+fortunate to go up and to see him <?> live</?> with <}> <-> the</-> <=>
+
+the</=></}> Minister of the Public Service <{4> <[4> Dr</[4> <?>
+
+Robertson</?>
+<ICE-JA:S1A-094#47:1:B> <{5> <[5> And</[5> <}> <-> he</-> <=> he</=></}> gave me all the
+
+assistant that I would require<{6><,></[6>
+<ICE-JA:S1A-094#48:1:B> And he put me onto <{7> <[7> one</[7>
+
+<$A> <ICE-JA:S1A-094#49:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1A-094#50:1:A> <[2> Aha</[2></{2>
+
+<$A> <ICE-JA:S1A-094#51:1:A> <[3> Ah</[3></{3>
+
+<$A> <ICE-JA:S1A-094#52:1:A> <[4> Yes</[4></{4>
+
+<$A> <ICE-JA:S1A-094#53:1:A> <[5> Aha</[5></{5>
+
+<$A> <ICE-JA:S1A-094#54:1:A> <[6> Aha</[6></{6>
+
+<$A> <ICE-JA:S1A-094#55:1:A> <[7> Except </[7> </{7> that you haven't got your <}> <-> <.>
+
+de</.></-> <=> redundancies</=></}> <{> <[> still</[>
+
+<$B> <ICE-JA:S1A-094#56:1:B> <[> No</[></{> I don't get <{1> <[1> it</[1>
+<ICE-JA:S1A-094#57:1:B> And then I<,> he put me onto a lady personally he did
+
+this<{2><[2><,></[2> put me on to one Mrs <?> Estic</?><{3><[3><,></[3>
+<ICE-JA:S1A-094#58:1:B> And then after that Mrs <?> Estic</?> tried her best to contact <}>
+
+<-> the</-> <=> the</=></}> uh Ministry of Labour Welfare and
+
+Sports<{4><[4>where</[4> or<,> uh that everybody falls under<{5><[5><,></[5>
+<ICE-JA:S1A-094#59:1:B> And I went down there even before I left you know I saw Mr
+
+<unclear> word</unclear> and then he was cooperative and tried to help me
+
+too<{6><[6><,></[6>
+<ICE-JA:S1A-094#60:1:B> And I went down <}> <- > to</-> <=> to</=></}> Labour Welfare and
+
+Sport trying to see the permanent secretary
+<ICE-JA:S1A-094#61:1:B> But they was in a meeting they were in a meeting with <}> <-> <.>
+
+a</.></-> <=> about</=></}> a <?> T O J</?> issue<{7><[7><,></[7>
+<ICE-JA:S1A-094#62:1:B> So I spoke to one of the senior personnel officer one Mr <?>
+
+Shanda</?> and he say that<,> this <.> mon</.> I'm just getting the run
+
+around because they don't get any <.> m</.> interest <}> <-> for</-> <=>
+
+for</=></}> Institute of Sports <{8> <[8> <unclear>
+
+one-or-two-words</unclear></[8>
+
+<$A> <ICE-JA:S1A-094#63:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-094#64:1:A> <[2> Aha</[2></{2>
+
+<$A> <ICE-JA:S1A-094#65:1:A> <[3> Aha</[3></{3>
+
+<$A> <ICE-JA:S1A-094#66:1:A> <[4> Aha</[4></{4>
+
+<$A> <ICE-JA:S1A-094#67:1:A> <[5> Aha</[5></{5>
+
+<$A> <ICE-JA:S1A-094#68:1:A> <[6> Aha</[6></{6>
+
+<$A> <ICE-JA:S1A-094#69:1:A> <[7> Aha</[7></{7>
+
+<$A> <ICE-JA:S1A-094#70:1:A> <[8> So the <.> Mini</.></[8></{8> the Minister didn't know
+<ICE-JA:S1A-094#71:1:A> The Minister who was putting you on to <}> <-> Mr <.> E</.></-> <=>
+
+Mrs <?> Estic</?></=></}> didn't know that
+
+<$B> <ICE-JA:S1A-094#72:1:B> No not the Minister <{> <[> <?> put me on</?> <unclear>
+
+word</unclear></[>
+
+<$A> <ICE-JA:S1A-094#73:1:A> <[> <}> <-> <.> Ho</.> <.> ho</.></[></{> hold</-> <=>
+
+hold</=></}> on a little bit
+<ICE-JA:S1A-094#74:1:A> Hold on
+<ICE-JA:S1A-094#75:1:A> <}> <-> Hold hold</-> <=> hold</=></}> on a moment for me <&>
+
+ads-and-news</&>
+
+<$A> <ICE-JA:S1A-094#76:1:A> Okay
+<ICE-JA:S1A-094#77:1:A> Thank you very much
+<ICE-JA:S1A-094#78:1:A> <{> <[> We're back here again</[>
+
+<$B> <ICE-JA:S1A-094#79:1:B> <[> Yes</[></{> Mr Perkins <{> <[> yeah</[>
+
+<$A> <ICE-JA:S1A-094#80:1:A> <[> Yeah</[></{> mhm
+
+<$B> <ICE-JA:S1A-094#81:1:B> Uh yeah I wanted <}> <-> to be <.> ho</.></-> <=> to be
+
+honest</=></}> to the Minister you know
+<ICE-JA:S1A-094#82:1:B> <{1> <[1> He</[1> was just merely I went to see him and he and ask
+
+him about the section that deals with the termination <}> <-> of</-> <=>
+
+of</=></}> employment <{2> <[2> et cetera and he</[2>
+
+<$A> <ICE-JA:S1A-094#83:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1A-094#84:1:A> <[2> Aha you didn't tell him</[2></{2> you didn't tell him
+
+that what you were concerned about <}> <-> was</-> <=> was</=></}> your
+
+uhm<,> redundancy money
+
+<$B> <ICE-JA:S1A-094#85:1:B> I think <}> <-> he</-> <=> he</=></}> was just coming in his
+
+office <{1> <[1> you know so</[1>
+<ICE-JA:S1A-094#86:1:B> You know he was very much cooperative and went to the receptionist
+
+<{2> <[2> <,> </[2> <}> <-> and</-> <=> and</=></}> tried to help me as much
+
+as <{3> <[3> possible</[3>
+
+<$A> <ICE-JA:S1A-094#87:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1A-094#88:1:A> <[2> Ah</[2></{2>
+
+<$A> <ICE-JA:S1A-094#89:1:A> <[3> That's very</[3></{3> sweet of him
+
+<$B> <ICE-JA:S1A-094#90:1:B> Right
+<ICE-JA:S1A-094#91:1:B> <?> I haven't tell him</?> yeah
+
+<$A> <ICE-JA:S1A-094#92:1:A> Aha
+
+<$B> <ICE-JA:S1A-094#93:1:B> Now uhm <{> <[> from the</[>
+
+<$A> <ICE-JA:S1A-094#94:1:A> <[> But maybe</[></{> you might have saved yourself a lot of
+
+trouble<{><[><,></[> had you said to him that what I've really come about is
+
+my redundancy money which I hear that<,> your Ministry is holding up
+
+<$B> <ICE-JA:S1A-094#95:1:B> <[> Aha</[></{>
+
+<$B> <ICE-JA:S1A-094#96:1:B> I wanted to be honest to him again
+<ICE-JA:S1A-094#97:1:B> I don't even think he know anything about it <{1> <[1> <,>
+<ICE-JA:S1A-094#98:1:B> It's not</[1> him pay it's not his Ministry pay the money
+<ICE-JA:S1A-094#99:1:B> The money is <.> suppo</.> the interest's <{2> <[2> on the other
+
+side</[2>
+
+<$A> <ICE-JA:S1A-094#100:1:A> <[1> Yeah you don't</[1></[1>
+
+<$A> <ICE-JA:S1A-094#101:1:A> <[2> But this is</[2></{2>
+<ICE-JA:S1A-094#102:1:A> You said that the you were told by Mr Cousins<{><[><,> at the
+
+Institute of Sports<,> that that it was</[> the Minister that Ministry that
+
+<}> <-> would</-> <=> was</=></}> responsible for it
+
+<$B> <ICE-JA:S1A-094#103:1:B> <[> Yes and the financial controller <}> <-> at</-> <=>
+
+at</=></}> In Sports the financial controller</[></{>
+
+<$B> <ICE-JA:S1A-094#104:1:B> Yeah and I think that is a uh<,> of um <}> <-> I'd</-> <=>
+
+I'd</=></}> think it's um it's just a run around thing Mr Cousin is trying
+
+<{> <[> to do</[>
+
+<$A> <ICE-JA:S1A-094#105:1:A> <[> So Mr</[></{> Cousin yes <}> <-> but</-> <=> but</=></}>
+
+then the way to test that<{1><[1><,></[1> I would have since I was lucky
+
+enough to see the Minister <{2> <[2> and</[2> the Minister was being helpful
+
+I would have said to the Minister<{3><[3><,></[3> that this is what I came
+
+about<{4><[4><,></[4> and then he might have told you exactly what the
+
+position was
+
+<$B> <ICE-JA:S1A-094#106:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-094#107:1:B> <[2> Yah</[2></{2>
+
+<$B> <ICE-JA:S1A-094#108:1:B> <[3> Mhm</[3></{3>
+
+<$B> <ICE-JA:S1A-094#109:1:B> <[4> Yes</[4></{4>
+
+<$B> <ICE-JA:S1A-094#110:1:B> Yeah but <}> <-> I I</-> <=> I</=></}> believe Mr Cousin in
+
+the first instance you know
+<ICE-JA:S1A-094#111:1:B> And I because <{> <[> of the</[>
+
+<$A> <ICE-JA:S1A-094#112:1:A> <[> But if you</[></{> believe Mr Cousins<{1><[1><,></[1> Mr
+
+Cousins told you that it was the Ministry of <{2> <[2> <}> <-> of</-> <=>
+
+of</=></}></[2> Public Service<{3><[3><,></[3>
+<ICE-JA:S1A-094#113:1:A> You went to the Ministry of Public Service<{4><[4><,></[4>
+<ICE-JA:S1A-094#114:1:A> <}> <-> You <.> we</.></-> <=> you were</=></}> lucky enough to
+
+run into the Minister <{5> <[5> and</[5> the Minister was very
+
+helpful<{6><[6><,></[6> and disposed to be helpful to you<{7><[7><,></[7>
+<ICE-JA:S1A-094#115:1:A> Then why not just say to the Minister you know Minister what I
+
+really came here about was this redundancy money which Mr Cousins tells me
+
+from the Institute of Sports <}> <-> that</-> <=> that</=></}> your Ministry
+
+is responsible for
+
+<$B> <ICE-JA:S1A-094#116:1:B> <[1> Aha</[1></{1>
+
+<$B> <ICE-JA:S1A-094#117:1:B> <[2> Public Service</[2></{2>
+
+<$B> <ICE-JA:S1A-094#118:1:B> <[3> Mhm</[3></{3>
+
+<$B> <ICE-JA:S1A-094#119:1:B> <[4> Mhm</[4></{4>
+
+<$B> <ICE-JA:S1A-094#120:1:B> <[5> Mhm</[5></{5>
+
+<$B> <ICE-JA:S1A-094#121:1:B> <[6> Yes</[6></{6>
+
+<$B> <ICE-JA:S1A-094#122:1:B> <[7> Mhm</[7></{7>
+
+<$B> <ICE-JA:S1A-094#123:1:B> Well uh <}> <-> I</-> <{> <[> <=> I</=></[></}>
+
+<$A> <ICE-JA:S1A-094#124:1:A> <[> And the</[></{> Minister would then <}> <-> have</-> <=>
+
+have</=></}> told you exactly what the position is presumably
+
+<$B> <ICE-JA:S1A-094#125:1:B> Well you have to take <?> a man on this</?> until you find
+
+him dishonest you know
+<ICE-JA:S1A-094#126:1:B> <}> <-> I I</-> <=> I</=></}> never I take Mr Cousins by his word
+
+<{> <[> <unclear> word(s)</unclear> I'm</[>
+
+<$A> <ICE-JA:S1A-094#127:1:A> <[> Yeah but</[></{> that's what I'm saying
+<ICE-JA:S1A-094#128:1:A> If you took Mr Cousins by his word<{><[><,></[> then you were at
+
+the very fountain <}> <-> of of</-> <=> of</=></}> all the information that
+
+you needed
+
+<$B> <ICE-JA:S1A-094#129:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-094#130:1:B> But you see <}> <-> I am</-> <=> I'm</=></}> making it public
+
+<?> now and</?> now because uhm if <{1> <[1> he's trying to push up around
+
+blame</[1> on the <{2> <[2> Minister<,></[2>
+<ICE-JA:S1A-094#131:1:B> No hold on <{3> <[3> uh</[3>
+<ICE-JA:S1A-094#132:1:B> You see what I want to <}> <-> <.> id</.></-> <=> <?> I'd
+
+like</?></=></}> you know <}> <-> Mr</-> <=> Mr</=></}>
+
+Perkins<{4><[4><,></[4> I know other departments and government Ministry the
+
+employees they're experiencing the same problem
+<ICE-JA:S1A-094#133:1:B> And I <}> <- > <.> wa</.></-> <=> just wanted</=></}>
+
+to<{5><[5>say to <unclear> one-or-two- words</unclear><,></[5> yeah it uh the
+
+whole sort of redundancy exercise is a sort of fac&ccedille;ade whereby<,>
+
+<}> <-> they</-> <=> they're</=></}> using it to tell you that uhm giving
+
+people counselling and all those other thing until it all <}> <-> <.>
+
+am</.></-> <=> amounts</=></}> millions of dollars will be put into this
+
+system <{6> <[6> for</[6> <?> a change</?> workers
+<ICE-JA:S1A-094#134:1:B> <{7> <[7> Where</[7> where is the money<,,>
+<ICE-JA:S1A-094#135:1:B> <{8> <[8> I</[8> I don't get the only thing I get as benefit so
+
+far is just my <}> <-> one month</-> uhm<,> <=> the one month</=></}> leave
+
+pay and my uhm notice pay and my leave pay<{9><[9><,,></[9>
+<ICE-JA:S1A-094#136:1:B> You see and uhm <}> <-> we</-> <=> nobody</=></}> <}> <-> I I I
+
+<.> ca</.></-> <=> I want</=></}> to know how many money has been distributed
+
+to the various ministerial <}> <-> to</-> <=> to</=></}> pay redundant
+
+workers<{10><[10><,></[10>
+<ICE-JA:S1A-094#137:1:B> I can't I <}> <-> don't</-> <=> don't</=></}> see these almost
+
+three months now<{11><[11><,,></[11> right
+<ICE-JA:S1A-094#138:1:B> So you see I tell you something you know earlier on in July you
+
+know there was this uhm<,> piece of uhm editorial thing in <}> <-> the</->
+
+<=> the</=></}> paper by Tony Baker
+<ICE-JA:S1A-094#139:1:B> And he make mention of one of the sports officer as a farmer <{12>
+
+<[12> and</[12> one as principal <O> laughs</O>
+<ICE-JA:S1A-094#140:1:B> I know <}> <-> he was <.> ma</.></-> <=> he was making</=></}>
+
+that reference towards the farmer
+<ICE-JA:S1A-094#141:1:B> <{13> <[13> But</[13> I've been a farmer for <}> <-> I'm</-> <=>
+
+I</=></}> don't say anything up to now and <}> <-> I</-> <=> I've</=></}>
+
+been a farmer for twenty odd years <{14> <[14> <,> and</[14> <}> <-> a</->
+
+<=> a</=></}> sports officer for over sixteen years<{15><[15><,></[15>
+<ICE-JA:S1A-094#142:1:B> So I was a farmer before I <}> <-> <.> ca</.></-> <=> came</=></}>
+
+into this thing
+<ICE-JA:S1A-094#143:1:B> And uhm<,> just to show you uh it's a lot of things that I wasn't
+
+doing the farming because I mean if I am only in three months suppose <}> <->
+
+I</-> <=> I</=></}> never have anything to fall back on<{16><[16><,></[16>
+
+you see<{17><[17><,></[17>
+<ICE-JA:S1A-094#144:1:B> <}> <-> And</-> <=> and</=></}> the whole thing is that you know
+
+people get a bad impression of what the In Sports people used to do because
+
+there was <}> <-> no</-> <=> no</=></}> fund was available<,>
+<ICE-JA:S1A-094#145:1:B> <}> <-> You couldn't you could you</-> and uh uh <=> you</=></}>
+
+right now the <?> woman</?> is travelling from October last year everybody
+
+all the officers that <}> <-> were</-> <=> were</=></}> laid off
+<ICE-JA:S1A-094#146:1:B> They don't have any money to pay it<,,> <{18> <[18> you see</[18>
+<ICE-JA:S1A-094#147:1:B> They've been out travelling <}> <-> for from</-> <=> from</=></}>
+
+October to May and we were redundant in June
+<ICE-JA:S1A-094#148:1:B> <}> <-> So</-> <=> so</=></}> <}> <-> there there's no</-> <=>
+
+there's no</=></}> money <}> <-> in</-> <=> in</=></}> the uhm I'm wondering
+
+if this is a deliberate thing <}> <-> to</-> <=> to</=></}> stifle Miss<,>
+
+uhm Portia Simpson Ministry you know if they are holding back the money
+<ICE-JA:S1A-094#149:1:B> <}> <-> I</-> <=> I</=></}> don't know
+
+<$A> <ICE-JA:S1A-094#150:1:A> <[1> Uh uh alright son</[1></{1>
+
+<$A> <ICE-JA:S1A-094#151:1:A> <[2> Okay okay okay</[2></{2>
+
+<$A> <ICE-JA:S1A-094#152:1:A> <[3> Alright <O> laughs</O></[3></{3>
+
+<$A> <ICE-JA:S1A-094#153:1:A> <[4> Yes</[4></{4>
+
+<$A> <ICE-JA:S1A-094#154:1:A> <[5> I'm not surprised you know</[5></{5>
+
+<$A> <ICE-JA:S1A-094#155:1:A> <[6> Yes</[6></{6>
+
+<$A> <ICE-JA:S1A-094#156:1:A> <[7> Yes</[7></{7>
+
+<$A> <ICE-JA:S1A-094#157:1:A> <[8> Aha</[8></{8>
+
+<$A> <ICE-JA:S1A-094#158:1:A> <[9> Yes</[9></{9>
+
+<$A> <ICE-JA:S1A-094#159:1:A> <[10> Yes</[10></{10>
+
+<$A> <ICE-JA:S1A-094#160:1:A> <[11> Yes</[11></{11>
+
+<$A> <ICE-JA:S1A-094#161:1:A> <[12> Yeah</[12></{12>
+
+<$A> <ICE-JA:S1A-094#162:1:A> <[13> Yeah</[13></{13>
+
+<$A> <ICE-JA:S1A-094#163:1:A> <[14> Yes</[14></{14>
+
+<$A> <ICE-JA:S1A-094#164:1:A> <[15> Yes</[15></{15>
+
+<$A> <ICE-JA:S1A-094#165:1:A> <[16> Yeah</[16></{16>
+
+<$A> <ICE-JA:S1A-094#166:1:A> <[17> Yes</[17></{17>
+
+<$A> <ICE-JA:S1A-094#167:1:A> <[18> Mhm</[18></{18>
+
+<$A> <ICE-JA:S1A-094#168:1:A> I don't know sir
+<ICE-JA:S1A-094#169:1:A> <{> <[> I</[> don't know but you were with the Minister and the
+
+Minister was disposed to be helpful and you might have asked him all of that
+
+<$B> <ICE-JA:S1A-094#170:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-094#171:1:B> Yes but what <}> <-> I</-> <=> I'm</=></}> telling you Mr
+
+Perkins<{1><[1><,></[1> that had I known that <}> <-> I</-> <=> I</=></}>
+
+explained to the Minister<{2><[2><,></[2> that <}> <-> I</-> <=> I</=></}>
+
+come to seek about my remuneration <}> <-> for for the uhm<,> for</-> <=>
+
+for</=></}> <}> <-> my</-> <=> my</=></}> work period of <{3> <[3> time
+
+<unclear> several-words</unclear></[3>
+
+<$A> <ICE-JA:S1A-094#172:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1A-094#173:1:A> <[2> Aha</[2></{2>
+
+<$A> <ICE-JA:S1A-094#174:1:A> <[3> Okay so</[3></{3> what did the Minister then say
+
+<$B> <ICE-JA:S1A-094#175:1:B> The Minister refer me to <}> <-> the</-> <=> the</=></}>
+
+individual <}> <-> in</-> <=> in</=></}> his Ministry who deals <{> <[> with
+
+this matter</[>
+
+<$A> <ICE-JA:S1A-094#176:1:A> <[> And<,></[></{> and that individual in the Ministry
+
+referred you to somewhere else
+
+<$B> <ICE-JA:S1A-094#177:1:B> Yes they said that <{1> <[1> they don't know</[1> anything
+
+about it only pension <}> <-> and uh</-> <=> and</=></}> um <?> and
+
+provident</?> funded <{2> <[2> the <unclear> word</unclear></[2> and <{3>
+
+<[3> they would</[3> give you no <{4> <[4> redundancy money</[4>
+
+<$A> <ICE-JA:S1A-094#178:1:A> <[1> And when you <.> wen</.></[1></{1>
+
+<$A> <ICE-JA:S1A-094#179:1:A> <[2> Yes</[2></{2>
+
+<$A> <ICE-JA:S1A-094#180:1:A> <[3> And they <.> re</.></[3></{3>
+
+<$A> <ICE-JA:S1A-094#181:1:A> <[4> And they</[4></{4> referred you to the Ministry of
+
+Sports<{><[><,,>
+<ICE-JA:S1A-094#182:1:A> And when you</[> went to the Minister of Sports the Minister refer
+
+Sports referred you to whom
+
+<$B> <ICE-JA:S1A-094#183:1:B> <[> Yes and I went <unclear> several-words</unclear></[></{>
+
+<$B> <ICE-JA:S1A-094#184:1:B> Institute of Sports the <{1> <[1> Institute of Sports get the
+
+interest</[1><,>
+<ICE-JA:S1A-094#185:1:B> They get the money <{2> <[2> and</[2>
+
+<$A> <ICE-JA:S1A-094#186:1:A> <[1> To the Institute of Sports</[1></{1>
+
+<$A> <ICE-JA:S1A-094#187:1:A> <[2> So</[2></{2> <}> <-> you you <.> c</.></-> <=> and then
+
+you go</=></}> back to Mr Cousins at the Institute of Sports and he refers
+
+you to who
+
+<$B> <ICE-JA:S1A-094#188:1:B> Well when I go back to Mr <{1> <[1> Cousins you know</[1> <}>
+
+<-> I</-> <=> I</=></}> think he really <?> has</?> some more about this <{2>
+
+<[2> because <}> <- > I</[2> I</-> <=> I</=></}> he sending me around uh and
+
+uh now I reached the <{3> <[3> end of <}> <-> the</-> <=> the</=></}>
+
+circle</[3>
+
+<$A> <ICE-JA:S1A-094#189:1:A> <[1> To who</[1></{1>
+
+<$A> <ICE-JA:S1A-094#190:1:A> <[2> Oh I see</[2></{2>
+
+<$A> <ICE-JA:S1A-094#191:1:A> <[3> But<,> you</[3></{3> know so you're going round in a
+
+circle<{><[><,> and you</[> and you've fixed one point in the circle and this
+
+idea that <}> <-> that <.> circ</.></-> <=> that</=></}> is the point at
+
+which blame lies
+
+<$B> <ICE-JA:S1A-094#192:1:B> <[> Yeah but</[></{>
+
+<$B> <ICE-JA:S1A-094#193:1:B> No I might have to come out of the circle now<{><[><,> you
+
+see</[>
+
+<$A> <ICE-JA:S1A-094#194:1:A> <[> No but poor</[></{> poor Mr Cousins<{1><[1><,></[1> is a
+
+functionary in the Ministry <}> <-> of in the</-> <=> in the</=></}> <{2>
+
+<[2> Institute of Sports</[2>
+
+<$B> <ICE-JA:S1A-094#195:1:B> <[1> Uhu</[1></{1>
+
+<$B> <ICE-JA:S1A-094#196:1:B> <[2> But he's telling</[2></{2> lies
+<ICE-JA:S1A-094#197:1:B> <}> <-> He</-> <=> he's</=></}> telling lies becau' when he <{>
+
+<[> <?> sent me to</?></[>
+
+<$A> <ICE-JA:S1A-094#198:1:A> <[> You mean</[></{> Mr Cousins has the money there and won't
+
+pay
+
+<$B> <ICE-JA:S1A-094#199:1:B> He doesn't have uh well uh all he needs to say is that he
+
+don't get any money <}> <- > from </.> fro<.> no</-> <=> no money
+
+from</=></}> Ministry of Finance
+
+<$A> <ICE-JA:S1A-094#200:1:A> Yes<,>
+
+<$B> <ICE-JA:S1A-094#201:1:B> Instead uh <}> <-> he he</-> <=> he's</=></}> trying <}> <->
+
+to</-> <=> to</=></}> use something to get off <{> <[> this</[>
+
+<$A> <ICE-JA:S1A-094#202:1:A> <[> But <}> <-> why</[></{> why</-> <=> why</=></}> would Mr
+
+Cousins have an interest in doing this
+
+<$B> <ICE-JA:S1A-094#203:1:B> I can give you his number to phone him you know
+
+<$A> <ICE-JA:S1A-094#204:1:A> No but why should I why would Mr Cousins have an interest <{>
+
+<[> in</[> in doing this
+
+<$B> <ICE-JA:S1A-094#205:1:B> <[> He's</[></{>
+
+<$B> <ICE-JA:S1A-094#206:1:B> He don't want the blame to hit him you <{> <[> know
+
+because</[>
+
+<$A> <ICE-JA:S1A-094#207:1:A> <[> But uh</[></{> how can it hit him
+<ICE-JA:S1A-094#208:1:A> It is not him money <}> <-> isn't put</-> <=> he isn't</=></}>
+
+producing the money out of his own bank account</I>

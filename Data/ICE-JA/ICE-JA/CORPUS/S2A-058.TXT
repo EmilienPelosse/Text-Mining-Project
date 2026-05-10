@@ -1,0 +1,692 @@
+<I>
+
+<$A> <ICE-JA:S2A-058#1:1:A> Everybody here please<O>people-talking-in-background</O><,,>
+<ICE-JA:S2A-058#2:1:A> Hello<O>participants-responding-and-talking-in-background</O>
+<ICE-JA:S2A-058#3:1:A> I'm <@> Sheria</@>
+<ICE-JA:S2A-058#4:1:A> I'm your tour guide for<,> the next fifteen minutes
+<ICE-JA:S2A-058#5:1:A> Okay
+<ICE-JA:S2A-058#6:1:A> <}> <- > This is what</-> <=> This is the</=></}> R B C section
+<ICE-JA:S2A-058#7:1:A> This is where you come in
+<ICE-JA:S2A-058#8:1:A> You enter
+<ICE-JA:S2A-058#9:1:A> <}> <-> This</-> if you need<,> open shelf books <=> this</=></}> is
+
+where you come and get the books to go out
+<ICE-JA:S2A-058#10:1:A> If you are borrowing the books<,>
+<ICE-JA:S2A-058#11:1:A> Open shelf
+<ICE-JA:S2A-058#12:1:A> Or you could use it inside the library here
+<ICE-JA:S2A-058#13:1:A> This is the R B C section also where <}> <-> you</-> <=> we</=></}>
+
+three hour loan books or overnight books
+<ICE-JA:S2A-058#14:1:A> Ok I'm not
+<ICE-JA:S2A-058#15:1:A> How long you'll be here
+<ICE-JA:S2A-058#16:1:A> How long you'll be here
+
+<$Z> <X>
+<ICE-JA:S2A-058#X17:1:Z> Three months</X><O>background-talking</O>
+
+<$A> <ICE-JA:S2A-058#X18:1:A> Three months
+<ICE-JA:S2A-058#X19:1:A> Oh I'm not sure if you have the privilege of borrowing
+<ICE-JA:S2A-058#X20:1:A> Did they tell you that you have the privilege of borrowing books
+
+to take out the library
+
+<$Z> <X>
+<ICE-JA:S2A-058#X21:1:Z> Yes I I think so</X>
+
+<$A> <ICE-JA:S2A-058#X22:1:A> You think so
+<ICE-JA:S2A-058#X23:1:A> Okay
+<ICE-JA:S2A-058#X24:1:A> Well this is the section <?> if they'll</?>
+<ICE-JA:S2A-058#X25:1:A> R B C books this is where you come and you borrow the books to
+
+take out
+<ICE-JA:S2A-058#X26:1:A> Alright<O>long- break-with-background-talking</O>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X27:1:Z> You are from</X>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X28:1:Z> Jamaica</X>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X29:1:Z> Jamaica</X>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X30:1:Z> Germany</X>
+
+<$A> <ICE-JA:S2A-058#X31:1:A> Oh
+
+<$Z> <X>
+<ICE-JA:S2A-058#X32:1:Z> <{> <[> Germany</[></X>
+
+<$A> <ICE-JA:S2A-058#X33:1:A> <[> Yes</[></{>
+<ICE-JA:S2A-058#X34:1:A> She's joining us from Germany<O>laughs</O>
+<ICE-JA:S2A-058#X35:1:A> <O> participants-talking</O>She's alone <{> <[> so will you</[>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X36:1:Z> <[> <?> Yes I know</?></[></{> what she said
+<ICE-JA:S2A-058#X37:1:Z> <?> They said you're a foreigner</?></X>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X38:1:Z> Are you <{> <[> from German<[></X>
+
+<$A> <ICE-JA:S2A-058#X39:1:A> <[> Yes</[></{><O>background-talking-in-German</O>
+
+Germany<O>background-talking-in-German</O>
+<ICE-JA:S2A-058#X40:1:A> She's alone so we were waiting on this group
+<ICE-JA:S2A-058#X41:1:A> Sso <O> background-talking-in-German</O> <?> should we get</?><,>
+<ICE-JA:S2A-058#X42:1:A> Okay
+<ICE-JA:S2A-058#X43:1:A> This is the system <O> background-talking-in-German</O> that if
+
+you needs book you'll use the system to check on books
+<ICE-JA:S2A-058#X44:1:A> So it's user-friendly
+<ICE-JA:S2A-058#X45:1:A> Where you see the word<,> <}> <-> <.> f</.></-></}>
+<ICE-JA:S2A-058#X46:1:A> Everybody can see it can <?> you</?><O>unclear-
+
+word(s)-due-to-background-laughter</O> the system
+<ICE-JA:S2A-058#X47:1:A> Type word or phrase
+<ICE-JA:S2A-058#X48:1:A> You'll type your word or phrase or your subject area whatever <}>
+
+<-> you're looking for</-> <=> you're searching for</=></}> whatever the
+
+topic is
+<ICE-JA:S2A-058#X49:1:A> You'll type it there
+<ICE-JA:S2A-058#X50:1:A> Then you search by title if it's a title
+<ICE-JA:S2A-058#X51:1:A> You put it there
+<ICE-JA:S2A-058#X52:1:A> If it's by the author<,> <{> <[> the subject</[>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X53:1:Z> <[> If I don't know</[></{> uh only only a topic</X>
+
+<$A> <ICE-JA:S2A-058#X54:1:A> Only even a part of uh uh the
+
+topic<O>responses-from-participant</O>
+<ICE-JA:S2A-058#X55:1:A> Yes you can just put it in and search title or all fields or
+
+subject and <}> <-> it will bring up<,></-> <=> it will bring up</=></}>
+
+something
+<ICE-JA:S2A-058#X56:1:A> You'll see the books<,> listed<O>background- talking</O>
+<ICE-JA:S2A-058#X57:1:A> Give me a topic
+
+<$Z> <X>
+<ICE-JA:S2A-058#X58:1:Z> Tamaica</X>
+
+<$A> <ICE-JA:S2A-058#X59:1:A> Huh
+
+<$Z> <X>
+<ICE-JA:S2A-058#X60:1:Z> Jamaica</X><O>speaker-A-chuckles</O><O>other-comments-from-
+
+participants</O>
+
+<$A> <ICE-JA:S2A-058#X61:1:A> Hmm<O>participants-talking</O>
+<ICE-JA:S2A-058#X62:1:A> Alright
+<ICE-JA:S2A-058#X63:1:A> Say Jamaica
+<ICE-JA:S2A-058#X64:1:A> So if you're searching as a subject or title whatever books we
+
+have <}> <-> on</-> <=> on</=></}> that topic<,> <{1> <[1> it will comes
+
+up<,><[1>
+<ICE-JA:S2A-058#X65:1:A> So it will give you the author the title of the book the year of
+
+the book <?> the</?>
+<ICE-JA:S2A-058#X66:1:A> Everything is there<,>
+<ICE-JA:S2A-058#X67:1:A> The location
+<ICE-JA:S2A-058#X68:1:A> So as I said this section is the R B C section so if you're
+
+looking and it says West Indies collection that would be at the back of the
+
+library which we'll go there shortly
+<ICE-JA:S2A-058#X69:1:A> If it says R B C this is the section you'll get the book
+<ICE-JA:S2A-058#X70:1:A> <{12> <[12> There are open</[12> shelves
+<ICE-JA:S2A-058#X71:1:A> <{23> <[23> What</[23>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X72:1:Z> <[1> Ah okay</[1></{1>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X73:1:Z> <[12> We can print</[12></{12>
+<ICE-JA:S2A-058#X74:1:Z> <[23> We can</[23></{23> print <{1> <[1> <,> </[1> this list or I
+
+<{2> <[2> I have</[2> to write it</X>
+
+<$A> <ICE-JA:S2A-058#X75:1:A> <[1> This</[1></{1>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X76:1:Z> There's a list<[2><?>Right</?></[2></{2> or I I have to write</X>
+
+<$A> <ICE-JA:S2A-058#X77:1:A> You'd have to write it
+
+<$Z> <X>
+<ICE-JA:S2A-058#X78:1:Z> Ah okay</X>
+
+<$A> <ICE-JA:S2A-058#X79:1:A> So for R B C books the ones that says R B C the forms are by
+
+the computer here
+<ICE-JA:S2A-058#X80:1:A> <{1> <[1> You'll fill out the</[1> information
+<ICE-JA:S2A-058#X81:1:A> Just this information on the paper and they'll put it in the box
+
+there<{2><[2><,></[2> and they'll get it and you <?> followed</?> the books
+
+<}> <-> at</-> <=> at</=></}> the window around <{3> <[3> there
+<ICE-JA:S2A-058#X82:1:A> I show you</[3>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X83:1:Z> <[1> Ah</[1></{1>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X84:1:Z> <[2> Mhm</[2></{2>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X85:1:Z> <[3> Ah okay</[3></{3>
+<ICE-JA:S2A-058#X86:1:Z> <}> <-> Somebody calls the</-> <=> somebody<,> uh pick up
+
+the</=></}> books that I <{> <[> <?> write</?></[></X>
+
+<$A> <ICE-JA:S2A-058#X87:1:A> <[> Yes</[></{>
+<ICE-JA:S2A-058#X88:1:A> So you just fill out the <{> <[> form and</[>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X89:1:Z> <[> No</[></{> Nno by myself
+
+<$A> <ICE-JA:S2A-058#X90:1:A> No<O>participant-responds</O>
+<ICE-JA:S2A-058#X91:1:A> <{> <[> Not for R</[> B C
+
+<$Z> <X>
+<ICE-JA:S2A-058#X92:1:Z> <[> Oh</[></{><,> Ookay</X>
+
+<$A> <ICE-JA:S2A-058#X93:1:A> This is R B C but the books on the open shelf once it says
+
+open shelf you are the person who actually <{1> <[1> go on the shelf</[1> and
+
+get the book but you come right back there and check it out <{2> <[2>
+
+alright</[2>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X94:1:Z> <[1> Ah</[1></{1>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X95:1:Z> <[2> What</[2></{2> means uh uh uh R B C</X>
+
+<$A> <ICE-JA:S2A-058#X96:1:A> R B C<{1><[1><,></[1><O>participants-responding</O>
+<ICE-JA:S2A-058#X97:1:A> Reserved books<{2><[2><,><O>participants-responding</O>
+<ICE-JA:S2A-058#X98:1:A> Right</[2>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X99:1:Z> <[1> Yes<O>clears-throat</O></[1></{1>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X100:1:Z> <[2> <?> Reserved books<,> okay</?></[2></{2>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X101:1:Z> Yes <?> uhm</?><O>another-participants-clears-throat</O> Wwhat's
+
+this collection here <?> those</?></X>
+
+<$A> <ICE-JA:S2A-058#X102:1:A> Once it's open shelf you'll have to go on the shelf and get
+
+the books and come back here and <{> <[> check</[>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X103:1:Z> <[> The shelf is</[></{> in there this <?> flat</?> or</X>
+
+<$A> <ICE-JA:S2A-058#X104:1:A> The shelves some are upstairs and some are
+<ICE-JA:S2A-058#X105:1:A> Of course I'll show you<O>participants-talking</O>
+<ICE-JA:S2A-058#X106:1:A> bBut uh it's in alphanumeric order so it's not hard <}> <-> to
+
+find</-> <=> to find</=></}> books by call numbers<,,>
+<ICE-JA:S2A-058#X107:1:A> This is the reading room
+
+area<&>long-break-as-participants-walk-around</&>
+<ICE-JA:S2A-058#X108:1:A> This is the R B C reading room area
+<ICE-JA:S2A-058#X109:1:A> This is one of the areas that you can come and read<,>
+<ICE-JA:S2A-058#X110:1:A> Okay
+<ICE-JA:S2A-058#X111:1:A> One of the areas you can come and read and that is where you
+
+collect your books
+<ICE-JA:S2A-058#X112:1:A> If you request the R B C books this is where you come
+<ICE-JA:S2A-058#X113:1:A> You go to the window there<O>long-break-
+
+speaker-A-speaks-unintelligibly-in-background</O>
+<ICE-JA:S2A-058#X114:1:A> So if you <?> know where your</?> documents is <}> <-> you</->
+
+<=> you</=></}> take a number<,> and write this in the form
+<ICE-JA:S2A-058#X115:1:A> Here <unclear> word</unclear> when you come around here if your
+
+number was number twelve you'd see it <?> light up</?> so you go to the
+
+room<,> <?> on the left</?>
+<ICE-JA:S2A-058#X116:1:A> Alright
+<ICE-JA:S2A-058#X117:1:A> <unclear> several-words</unclear> if you're around here
+<ICE-JA:S2A-058#X118:1:A> Also if you need to<,> print or use the computers<,> you'll have
+
+to get uhm passwords<,> in order to use the computers so you can use the
+
+computers over there
+<ICE-JA:S2A-058#X119:1:A> This is one of the computer labs that we have here<,>
+<ICE-JA:S2A-058#X120:1:A> We have another one around here I'll show you<O>comment-from-
+
+participant</O>
+<ICE-JA:S2A-058#X121:1:A> Hmm
+<ICE-JA:S2A-058#X122:1:A> You know
+<ICE-JA:S2A-058#X123:1:A> Huh<,,>
+<ICE-JA:S2A-058#X124:1:A> So this is for the R B C
+
+section<&>long-break-as-they-are-walking-around</&>
+<ICE-JA:S2A-058#X125:1:A> Understood so far<O>chuckles</O><,,>
+<ICE-JA:S2A-058#X126:1:A> Uh<&>long-break-with-background-noises</&>
+<ICE-JA:S2A-058#X127:1:A> This section is the photocopying section in case you find a book
+
+and you need something in the book to copy
+<ICE-JA:S2A-058#X128:1:A> You can<,> copy it in here<,> self serve
+
+<$Z> <X>
+<ICE-JA:S2A-058#X129:1:Z> Free<,>
+<ICE-JA:S2A-058#X130:1:Z> Oh okay</X>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X131:1:Z> How much
+<ICE-JA:S2A-058#X132:1:Z> No</X>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X133:1:Z> Ah okay<O>laughter</O></X>
+
+<$A> <ICE-JA:S2A-058#X134:1:A> You have to purchase a copy card<,> and I'll show you where
+
+you purchase the copy card
+<ICE-JA:S2A-058#X135:1:A> So this is one section where you could come and copy the book
+<ICE-JA:S2A-058#X136:1:A> But in case you don't want to copy the book yourself I'll show
+
+you the section
+<ICE-JA:S2A-058#X137:1:A> You can tell them the pages that you want to copy and you can
+
+have it done<&>long-break-all-are-walking- around</&>
+<ICE-JA:S2A-058#X138:1:A> In here is called our catalogue hall
+<ICE-JA:S2A-058#X139:1:A> Well we use this normally when the lights are out
+<ICE-JA:S2A-058#X140:1:A> <?> You know</?> when we have no electricity there we can search
+
+the catalogue manually<O>participant:Ah</O>
+<ICE-JA:S2A-058#X141:1:A> But apart from that we use the computers
+<ICE-JA:S2A-058#X142:1:A> Alright<,,>
+<ICE-JA:S2A-058#X143:1:A> <unclear> several-words</unclear> you'll see the signs telling
+
+you where to go to find books so on <?> the</?><,> top floor is the open
+
+shelf<,><O>background- talking</O>
+<ICE-JA:S2A-058#X144:1:A> <?> So it's</?>
+<ICE-JA:S2A-058#X145:1:A> So you can find books like pertaining the law social sciences
+
+political science education and the call numbers beginning with K G H J and L
+
+you'll find on<,> the top floor when you use the staircase<,> so you
+<ICE-JA:S2A-058#X146:1:A> That's what I'm saying
+<ICE-JA:S2A-058#X147:1:A> For the open shelf books this <}> <-> is what</-> <=>
+
+begins</=></}> with these letters L J K
+<ICE-JA:S2A-058#X148:1:A> You go up the staircase then that's where you'll find them
+<ICE-JA:S2A-058#X149:1:A> Alright<,>
+<ICE-JA:S2A-058#X150:1:A> These are this additional computers that you can check to <}> <->
+
+<.> f fi</.></-> <=> find</=></}> books<,>
+<ICE-JA:S2A-058#X151:1:A> Well from time to time you'll always find some uhm display
+<ICE-JA:S2A-058#X152:1:A> From time to time it will displays so that's why these <unclear>
+
+word(s)</unclear>
+<ICE-JA:S2A-058#X153:1:A> You can always read the displays from time to time<,>
+<ICE-JA:S2A-058#X154:1:A> And sometimes they have awards so you even can<,> check on the
+
+<?> read the</?> awards<,,> what information <?> saysee</?><&>long- break</&>
+<ICE-JA:S2A-058#X155:1:A> This is a reference desk
+<ICE-JA:S2A-058#X156:1:A> You'll always find a librarian here in case you need additional
+
+information you can always come here<,> for help
+<ICE-JA:S2A-058#X157:1:A> Okay<,,>
+<ICE-JA:S2A-058#X158:1:A> Hmm
+<ICE-JA:S2A-058#X159:1:A> This is a <}> <-> <.> s</.></-> <=> section</=></}> or of the
+
+<unclear> word</unclear> <?> is you<,> where you get your if you need a</?>
+
+copy card<,> photocopying done<O>comment-by-participant</O>
+<ICE-JA:S2A-058#X160:1:A> This is what I was telling you if you <}> <-> do your</-> <=> get
+
+your</=></}> photocopying done instead of you copying your books
+<ICE-JA:S2A-058#X161:1:A> You get the passwords to use the computers
+<ICE-JA:S2A-058#X162:1:A> Printing accounts
+<ICE-JA:S2A-058#X163:1:A> Maybe you want to print something from the<,> system
+<ICE-JA:S2A-058#X164:1:A> You do lamination and<,> spiral binding here so<,>
+<ICE-JA:S2A-058#X165:1:A> Okay
+
+<$Z> <X>
+<ICE-JA:S2A-058#X166:1:Z> The copy card I have to pay for that</X>
+
+<$A> <ICE-JA:S2A-058#X167:1:A> Yes
+<ICE-JA:S2A-058#X168:1:A> The copy card it's a hundred and thirty dollars
+
+<$Z> <X>
+<ICE-JA:S2A-058#X169:1:Z> Okay</X>
+
+<$A> <ICE-JA:S2A-058#X170:1:A> And you get twenty copies
+
+<$Z> <X>
+<ICE-JA:S2A-058#X171:1:Z> Okay</X>
+
+<$A> <ICE-JA:S2A-058#X172:1:A> <?> When</?> Tthe card is finished<,> you return it and you
+
+get a refund of fifty dollars
+
+<$Z> <X>
+<ICE-JA:S2A-058#X173:1:Z> Okay and printing<,>
+<ICE-JA:S2A-058#X174:1:Z> What <{> <[> about printing</[></X>
+
+<$A> <ICE-JA:S2A-058#X175:1:A> <[> Well printing</[></{>
+<ICE-JA:S2A-058#X176:1:A> The minimum you can put on the printing account is fifty dollars
+<ICE-JA:S2A-058#X177:1:A> I think it's four dollars four dollars a print
+
+<$Z> <X>
+<ICE-JA:S2A-058#X178:1:Z> But can I can I print here<,> too
+<ICE-JA:S2A-058#X179:1:Z> Can I print<,> here</X><O>mumbles-in- background</O>
+
+<$A> <ICE-JA:S2A-058#X180:1:A> Yes by using another computers
+<ICE-JA:S2A-058#X181:1:A> This little computer lab around there are the computers inside
+
+<?> Merrick</?> inside that section as well
+
+<$Z> <X>
+<ICE-JA:S2A-058#X182:1:Z> Okay</X>
+
+<$A> <ICE-JA:S2A-058#X183:1:A> So you come here and you get your password
+<ICE-JA:S2A-058#X184:1:A> I think the librarian they will give you a password if you need
+
+to use the system and you can always put money <?> to it</?> set up a
+
+printing account
+<ICE-JA:S2A-058#X185:1:A> Put money into it and print
+
+<$Z> <X>
+<ICE-JA:S2A-058#X186:1:Z> Okay</X>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X187:1:Z> Question</X>
+
+<$A> <ICE-JA:S2A-058#X188:1:A> Okay
+
+<$Z> <X>
+<ICE-JA:S2A-058#X189:1:Z> And where are the very rare books</X>
+
+<$A> <ICE-JA:S2A-058#X190:1:A> That's where we're going<O>chuckles</O>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X191:1:Z> <}> <-> Where we're where</-> <=> where we're</=></}> going
+<ICE-JA:S2A-058#X192:1:Z> Where</X>
+
+<$A> <ICE-JA:S2A-058#X193:1:A> Do you see <?> a sign</?> <unclear> word(s)</unclear> so for
+
+the open shelf books those begin with the letters D to F<,> P you'll find on
+
+this<,> lower floor
+<ICE-JA:S2A-058#X194:1:A> Books periodicals begins with the letters A B C on that
+<ICE-JA:S2A-058#X195:1:A> You can see it for yourself
+<ICE-JA:S2A-058#X196:1:A> U to V M to N on that book
+<ICE-JA:S2A-058#X197:1:A> And for the same up to the top floor
+<ICE-JA:S2A-058#X198:1:A> A to C U to Z M to N all books open shelf<,
+<ICE-JA:S2A-058#X199:1:A> Alright<,,>
+<ICE-JA:S2A-058#X200:1:A> This is now the West Indies collection
+<ICE-JA:S2A-058#X201:1:A> This is the section where you find rare books<,> and anything
+
+Caribbean
+<ICE-JA:S2A-058#X202:1:A> Anything to be<,> topics on Caribbean matters this is the
+
+section<,,>
+<ICE-JA:S2A-058#X203:1:A> West Indies
+<ICE-JA:S2A-058#X204:1:A> So <?> that is a</?>the D P section
+<ICE-JA:S2A-058#X205:1:A> Open
+
+shelf<O>long-break-walking-around-and-participants-talking-in- background</O>
+<ICE-JA:S2A-058#X206:1:A> Who had asked the question about the <}> <-> rare</-> <=>
+
+rare</=></}> books<O>murmuring-in-background</O>
+<ICE-JA:S2A-058#X207:1:A> Hmm
+<ICE-JA:S2A-058#X208:1:A> Here<,,>
+<ICE-JA:S2A-058#X209:1:A> Hmm
+<ICE-JA:S2A-058#X210:1:A> <}> <-> You</-> <=> you</=></}> asked the question about the rare
+
+books
+<ICE-JA:S2A-058#X211:1:A> This is the section<O>murmuring-in-background</O>
+<ICE-JA:S2A-058#X212:1:A> Yes
+<ICE-JA:S2A-058#X213:1:A> Huh
+<ICE-JA:S2A-058#X214:1:A> Yes this is the section<,,>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X215:1:Z> Should be wearing a coat</X><,,><O>other-participants-talking-in-
+
+background</O>
+
+<$A> <ICE-JA:S2A-058#X216:1:A> Yes
+<ICE-JA:S2A-058#X217:1:A> Feel <unclear> word(s)</unclear> for coldness<,>
+<ICE-JA:S2A-058#X218:1:A> Yeah this section is the oldest section in the
+
+library<&>long-break</&>
+<ICE-JA:S2A-058#X219:1:A> In this section you won't be able to take out the books
+<ICE-JA:S2A-058#X220:1:A> You only can use the books in this section
+<ICE-JA:S2A-058#X221:1:A> Alright
+<ICE-JA:S2A-058#X222:1:A> You have to sit in here and use the books
+<ICE-JA:S2A-058#X223:1:A> They can sit over that side which is the <unclear> word</unclear>
+
+side
+<ICE-JA:S2A-058#X224:1:A> You can <?> sit in</?> right here
+<ICE-JA:S2A-058#X225:1:A> This is the quiet zone<,,>
+<ICE-JA:S2A-058#X226:1:A> If you'll need something to copy from a book<,> the copier is
+
+here
+<ICE-JA:S2A-058#X227:1:A> Just assure to show you everything's around here so you don't
+
+need to take the book out the section <&> long-break</&>
+<ICE-JA:S2A-058#X228:1:A> As <unclear?> wordAnthony</unclear?> was saying this is where you
+
+find rare books<,>
+<ICE-JA:S2A-058#X229:1:A> Caribbean
+<ICE-JA:S2A-058#X230:1:A> Anything Caribbean topics <?> it's around</?> this section
+<ICE-JA:S2A-058#X231:1:A> Anything old from way back when this is where you find it also
+<ICE-JA:S2A-058#X232:1:A> Have newspaper clippings from like in the sixties fifties forties
+
+but <}> <-> those</-> we can only retrieve <=> those</=></}> on a microfilm
+<ICE-JA:S2A-058#X233:1:A> So anything as old as that<,> is here but you'll have to use
+
+microfilm<O>mumbles-unintelligibly</O>
+<ICE-JA:S2A-058#X234:1:A> These are the machines that you <?> need/will/would</?> use to
+
+read the microfilms
+<ICE-JA:S2A-058#X235:1:A> So you can get old information as
+
+well<O>long-break-speaker-A-mumbles-something</O>
+<ICE-JA:S2A-058#X236:1:A> Otherwise what's in this collections otherwise the Elsa Goveia
+
+reading room because she was the
+
+first<,><O>participants-mumbling-in-background</O> female <unclear>
+
+words</unclear> was the first female professor so this is the<,> Elsa Goveia
+
+reading room<,>
+<ICE-JA:S2A-058#X237:1:A> So <}> <- > for this section</-> whenever you're requesting books
+
+<=> for this section</=></}> you have to fill out <}> <-> <.> f</.></-> <=>
+
+forms</=></}>
+<ICE-JA:S2A-058#X238:1:A> <}> <-> This</-> <=> this</=></}> is the area also where you find
+
+dissertations<,> theses that people have written on<,> certain topics so you
+
+fill out the yellow form for thesis <?> it's coming</?>
+<ICE-JA:S2A-058#X239:1:A> But once you see that the book is double I C or the article that
+
+you need you also have newspaper clippings around here
+<ICE-JA:S2A-058#X240:1:A> So if <}> <-> there're</-> <=> there are</=></}> any topic that
+
+you need
+<ICE-JA:S2A-058#X241:1:A> Say you're doing dance hall
+<ICE-JA:S2A-058#X242:1:A> We have newspaper clippings also on those topics
+<ICE-JA:S2A-058#X243:1:A> So you fill out a form and you leave it in the box and person
+
+who's <?> always</?> sitting here would assist you
+<ICE-JA:S2A-058#X244:1:A> Okay<,>
+<ICE-JA:S2A-058#X245:1:A> Also basically it will right here I'll remember you and you can
+
+use the material inside here
+<ICE-JA:S2A-058#X246:1:A> Alright<,>
+<ICE-JA:S2A-058#X247:1:A> Well huh <,,>
+<ICE-JA:S2A-058#X248:1:A> <?> At leastNext up well this is</?> that's where is the<,> <}>
+
+<-> catalogue</-> <=> card catalogue</=></}> so if you're looking for any
+
+particular topic you can also search the card catalogue<,>
+<ICE-JA:S2A-058#X249:1:A> Some by author and by subject
+<ICE-JA:S2A-058#X250:1:A> And this area is the subject area
+<ICE-JA:S2A-058#X251:1:A> Over this side is the author
+<ICE-JA:S2A-058#X252:1:A> So if you know author you need a book you don't remember the
+
+title of the book but you know the author you could search<,> the catalogue
+
+for the author's name and then you'll see all the books that's written by the
+
+author so you could request your books<,>
+<ICE-JA:S2A-058#X253:1:A> So<,>
+<ICE-JA:S2A-058#X254:1:A> We also have a uhm audiovisual room so in case there is a C D or
+
+whatever it is that you need to listen<,> you could use the room
+<ICE-JA:S2A-058#X255:1:A> It's up that side but you could ask here
+<ICE-JA:S2A-058#X256:1:A> So if you have anything to watch or listen to you could use the
+
+room up there<O>long-break</O>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X257:1:Z> And what time open and close</X>
+
+<$A> <ICE-JA:S2A-058#X258:1:A> Well the library is a twenty-four hour service Monday to
+
+Fridays<,> and what time on a Saturday<O>chuckles</O> closes at eight o'clock
+<ICE-JA:S2A-058#X259:1:A> On a Sunday goes up to twelve midnight on a Saturday
+
+<$Z> <X>
+<ICE-JA:S2A-058#X260:1:Z> Okay</X>
+
+<$A> <ICE-JA:S2A-058#X261:1:A> Alright<,,>
+<ICE-JA:S2A-058#X262:1:A> You can come in at any time you <}> <-> <.> n</.></-> <=>
+
+wish</=></}><O>chuckles</O><O>break-with-background-talking</O>
+<ICE-JA:S2A-058#X263:1:A> You'd need to collect that yeah
+<ICE-JA:S2A-058#X264:1:A> Item I just <?> came on one</?><O>break-with-talking-
+
+unintelligibly</O>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X265:1:Z> When I took a book from in here <unclear> words</unclear></X>
+
+<$A> <ICE-JA:S2A-058#X266:1:A> From the shelf
+
+<$Z> <X>
+<ICE-JA:S2A-058#X267:1:Z> I have to come here to read it</X>
+
+<$A> <ICE-JA:S2A-058#X268:1:A> No
+<ICE-JA:S2A-058#X269:1:A> Only the books that you borrow from here <?> they need</?>
+
+<unclear> word</unclear> <?> to stay here</?><unclear>word</unclear> but once
+
+you take a book say from this shelf here or upstairs you can stay anywhere
+
+and read it you know anywhere you took the book from you can stay anywhere
+
+and read it but it's just like <}> <- > if</-> <=> if</=></}> you wanted to
+
+go out with the book you have to check it out <?> at front</?><,,>
+<ICE-JA:S2A-058#X270:1:A> And you want to read it <{> <[> upstairs read it here</[>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X271:1:Z> <[> Can I use the <?> stable</?> or</[></{></X>
+
+<$A> <ICE-JA:S2A-058#X272:1:A> Yes <O> background-talking</O><ICE-JA:S2A-058#>Or you want to read it in
+
+there<,> you can read it anywhere<,> you can take a book and read it anywhere
+<ICE-JA:S2A-058#X273:1:A> You're not confined<&>long-break-with-walking-around</&>
+<ICE-JA:S2A-058#X274:1:A> <?> Do</?> I need to go upstairs
+<ICE-JA:S2A-058#X275:1:A> You understand what I said about upstairs
+<ICE-JA:S2A-058#X276:1:A> I don't need to go up there<,>
+<ICE-JA:S2A-058#X277:1:A> Hmm<,,>
+<ICE-JA:S2A-058#X278:1:A> You understand what I was saying about upstairs
+<ICE-JA:S2A-058#X279:1:A> Do I need to go up there and show you
+
+<$Z> <X>
+<ICE-JA:S2A-058#X280:1:Z> He wants a book</X>
+
+<$A> <ICE-JA:S2A-058#X281:1:A> What book they want
+
+<$Z> <X>
+<ICE-JA:S2A-058#X282:1:Z> <?> They</?> don't really know</X>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X283:1:Z> Apparently <?>
+
+not/none</?><O>laughter</O></X><O>background-talking- by-participants</O>
+
+<$A> <ICE-JA:S2A-058#X284:1:A> <?> Yet no</?> man living like <unclear> words</unclear>
+
+this
+
+<$Z> <X>
+<ICE-JA:S2A-058#X285:1:Z> He makes thing<,>
+<ICE-JA:S2A-058#X286:1:Z> <?> Oh you shouldn't</?>
+<ICE-JA:S2A-058#X287:1:Z> In science <?> place</?> is a elevator<O>speaker-A-laughs</O> or
+
+a escalator
+
+<$A> <ICE-JA:S2A-058#X288:1:A> No man you need to use your legs
+<ICE-JA:S2A-058#X289:1:A> Don't get it<O>participants-laughing</O>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X290:1:Z> Afterwards <{> <[> <unclear> words</unclear></[> steps today
+
+<$A> <ICE-JA:S2A-058#X291:1:A> <[> Yeah especially</[></{>
+<ICE-JA:S2A-058#X292:1:A> Yes especially going up the top floor<O>talking-
+
+unintelligibly-and-walking</O>
+<ICE-JA:S2A-058#X293:1:A> But you'll find the lift
+<ICE-JA:S2A-058#X294:1:A> Do you see the sign
+<ICE-JA:S2A-058#X295:1:A> Each <?> time</?> you go you'll see the signs <O>
+
+talking-unintelligible</O><ICE-JA:S2A-058#>So this is the <w> ladies'</w> room<,,>
+<ICE-JA:S2A-058#X296:1:A> <?> It may seem that but you're going stairs</?> there's the <w>
+
+ladies'</w> and the men's room is right<,>
+<ICE-JA:S2A-058#X297:1:A>
+<ICE-JA:S2A-058#X298:1:A> That door that is open that's the men's room
+<ICE-JA:S2A-058#X299:1:A> So as I said this is another section that you use the computers
+
+internet whatever you're doing
+
+<$Z> <X>
+<ICE-JA:S2A-058#X300:1:Z> So when you guys need to use the computers to talk to people
+
+or</X>
+
+<$A> <ICE-JA:S2A-058#X301:1:A> Or you need to
+
+<$Z> <X>
+<ICE-JA:S2A-058#X302:1:Z> Computer
+<ICE-JA:S2A-058#X303:1:Z> You come in here you can use the internet and talk to your family
+
+and<,>
+<ICE-JA:S2A-058#X304:1:Z> Yeah
+<ICE-JA:S2A-058#X305:1:Z> So if <unclear> words</unclear> if you want to use it you can
+
+<unclear> word</unclear> right</X><,,>
+
+<$A> <ICE-JA:S2A-058#X306:1:A> So that's basically it<,,>
+<ICE-JA:S2A-058#X307:1:A> That's it for now
+<ICE-JA:S2A-058#X308:1:A> Thanks for coming
+<ICE-JA:S2A-058#X309:1:A> But if you need any additional information as I said speak to the
+
+reference desk or <?> at</?> anybody at the front here
+<ICE-JA:S2A-058#X310:1:A> <{> <[> Alright</[>
+
+<$Z> <X>
+<ICE-JA:S2A-058#X311:1:Z> <[> Thank you</[></{>

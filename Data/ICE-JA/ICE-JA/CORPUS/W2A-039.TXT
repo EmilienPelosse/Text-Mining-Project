@@ -1,0 +1,509 @@
+<I>
+
+<p> <ICE-JA:W2A-039#1:1> <h> <bold> STABLE ISOTOPES OF NITROGEN AS MEASURES OF MARINE
+
+POLLUTION: A PRELIMINARY ASSAY OF CORAL TISSUE FROM JAMAICA </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#2:1> J.M. Mendes <fnr> <sp> 1 </sp> </fnr> , M.J. Risk <fnr> <sp> 2
+
+</sp> </fnr> , H.P. Scharcz <fnr> <sp> 2 </sp> </fnr> and J.D. Woodley <fnr>
+
+<sp> 3 </sp> </fnr> <footnote>
+<ICE-JA:W2A-039#3:1> <sp> 1 </sp> Department of Zoology, University of the West Indies,
+
+Mona, Kingston 7, Jamaica. </footnote> <footnote>
+<ICE-JA:W2A-039#4:1> <sp> 2 </sp> Department of Geology, McMaster University, Hamilton,
+
+Ontario, Canada. </footnote> <footnote>
+<ICE-JA:W2A-039#5:1> <sp> 3 </sp> Centre for Marine Sciences, University of the West
+
+Indies, Mona, Kingston 7, Jamaica. </footnote> </p>
+
+<p> <ICE-JA:W2A-039#6:1> <h> <bold> ABSTRACT </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#7:1> Polluted water issuing from Kingston Harbour results in a offshore
+
+pollution gradient.
+<ICE-JA:W2A-039#8:1> This study sought to determine whether coral tissues were enriched in
+
+the heavy isotope of nitrogen ( <sp> 15 </sp> N) according to their position
+
+on this gradient.
+<ICE-JA:W2A-039#9:1> Four coral communities, characterised by a progressive increase in
+
+water transparency and a decrease in abundance of free-living algae, were
+
+selected.
+<ICE-JA:W2A-039#10:1> <it> Montastr &aeligature; a annularis </it> samples from each of the
+
+four sites had significantly different mean levels of <sp> 15 </sp> N in
+
+their tissues.
+<ICE-JA:W2A-039#11:1> Inshore, closer to Kingston Harbour they are enriched in <sp> 15
+
+</sp> N , but progressively less so offshore, yielding an apparent index of
+
+their exposure to terrestrial sources of nitrogen.
+<ICE-JA:W2A-039#12:1> This could be a valuable tool for analysis of patterns of pollution
+
+in shallow tropical coastal waters. </p>
+
+<p> <ICE-JA:W2A-039#13:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#14:1> Polluted water issuing from Kingston Harbour, Jamaica, and
+
+neighbouring sources results in an offshore pollution gradient ( Goodbody
+
+1989).
+<ICE-JA:W2A-039#15:1> Elevated levels of nitrogen and phoshorus were detected to the south
+
+and west of the Harbour enterance, carried there by the estuarine outflow and
+
+the westward flowing Caribbean Current.
+<ICE-JA:W2A-039#16:1> The nutrients have resulted in blooms of plankton and of benthic
+
+algae along the Hellshire coast, where coral reefs are severely degraded.
+<ICE-JA:W2A-039#17:1> Degradation is less in the Port Royal Cays to the south and east of
+
+the Harbour ( Head and Hendry 1985).
+<ICE-JA:W2A-039#18:1> Living corals are found along this gradient of pollution. </p> <O>
+
+figure </O> <O> caption </O>
+
+<p> <ICE-JA:W2A-039#19:1> One feature of nitrogen isotope dynamics in both marine and
+
+terrestrial food webs is a stepwise enrichment of &delta; <sp> 15 </sp> N of
+
+about 3.5 &per-thousand; at higher trophic levels within a food web ( DeNiro
+
+and Epstein 1981, Minegawa and Wada 1984).
+<ICE-JA:W2A-039#20:1> This is due to excretion of nitrogenous wastes that are isotopically
+
+depleted relative to the diet.
+<ICE-JA:W2A-039#21:1> In the open ocean, both particulate and dissolved nitrogen show
+
+approximately zero enrichment over atmospheric values. </p>
+
+<p> <ICE-JA:W2A-039#22:1> Corals are mixotrophs, capable of obtaining their food from a
+
+variety of dissolved and particulate sources, both marine and terrestrial.
+<ICE-JA:W2A-039#23:1> They obtain their nitrogen by capture of suspended living and dead
+
+particles, and through direct uptake of dissolved organic and inorganic
+
+compounds.
+<ICE-JA:W2A-039#24:1> Some of the exogenous nitrogen is then metabolised and translocated
+
+to the zooxanthellae: the nitrogen cycle in corals, as monitored by <sp> 15
+
+</sp> N tracers, is described more completely in Heikoop et al. ( in review
+
+b). </p>
+
+<p> <ICE-JA:W2A-039#25:1> If <sp> 15 </sp> N levels in coral tissue reflect that in their
+
+sources of nitrogen, coral have the potential ability to trace isotopically
+
+enriched nitrogen near sources of terrestrial input.
+<ICE-JA:W2A-039#26:1> However, caution must be used in interpreting <sp> 15 </sp> N values,
+
+because <sp> 15 </sp> N values are dependant on light as well as on exogenous
+
+<sp> 15 </sp> N levels ( Muscatine and Kaplan 1994, Heikoop et al. in review
+
+a). </p>
+
+<p> <ICE-JA:W2A-039#27:1> Studies by Risk et al. ( 1989, 1994) have indicated the potential
+
+of <sp> 15 </sp> N in coral tissue to trace terrestrial sources of nitrogen,
+
+while recent unpublished studies from Indonesia ( Dunn 1995, Jompa 1996,
+
+Limmon 1996) have shown trends in <sp> 15 </sp> N in coral tissue with
+
+pollution gradients. </p>
+
+<p> <ICE-JA:W2A-039#28:1> This paper seeks to determine if coral tissues are enriched in
+
+<sp> 15 </sp> N according to their position along a known pollution gradient
+
+in Jamaica. </p>
+
+<p> <ICE-JA:W2A-039#29:1> <h> <bold> METHODS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#30:1> <h> <bold> Site </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#31:1> Four coral communities were selected along the pollution gradient
+
+( Figure 1), characterised by a progressive increase in water transparency
+
+and a decrease in abundance of free-living algae between the sites.
+<ICE-JA:W2A-039#32:1> They were, in order of most to least exposure to effluent from
+
+Kingston Harbour: </p>
+
+<p> <ICE-JA:W2A-039#33:1> Harbour Shoal, at the mouth of Kingston Harbour; Drunkenmans Cay,
+
+south and down current of Kingston Harbour; South East Cay, east and
+
+upcurrent of Kingston Harbour; and Middle Cay, about 50 miles offshore on the
+
+Pedro Bank. </p>
+
+<p> <ICE-JA:W2A-039#34:1> <h> <bold> Nitrogen </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#35:1> Coral samples were collected between January and April 1993.
+<ICE-JA:W2A-039#36:1> At each site, at a depth of 5-8 metres, six colonies of morphotype 2
+
+( Knowlton et al. 1992) of the reef building coral <it> Montastr &aeligature;
+
+a annularis </it> ( = <it> Montastr &aeligature; a faveolata </it> , Weil &
+
+Knowlton 1994) were sampled.
+<ICE-JA:W2A-039#37:1> All samples were chiselled from the base of the colony and were
+
+approximately 20cm <sp> 2 </sp> .
+<ICE-JA:W2A-039#38:1> The samples were frozen before transportation to Canada for analysis.
+
+</p>
+
+<p> <ICE-JA:W2A-039#39:1> The samples were prepared for <sp> 15 </sp> N determinations
+
+according to Le Blanc et al. ( 1989).
+<ICE-JA:W2A-039#40:1> First, the aragonite skeletons were dissolved in 10% hydrochloric
+
+acid.
+<ICE-JA:W2A-039#41:1> Following dissolution of the skeleton, endolithic algae were cleared
+
+from beneath the coral tissue.
+<ICE-JA:W2A-039#42:1> The coral tissue was then rinsed in distilled water, centrifuged and
+
+freeze dried.
+<ICE-JA:W2A-039#43:1> For each sample, approximately 15mg of the freeze dried tissue was
+
+combusted with an excess of cupric oxide at 550 &degree; C for two hours in
+
+vacuum sealed pyrex tubes.
+<ICE-JA:W2A-039#44:1> The gases produced by combustion were cryogenically separated to
+
+yield pure N <sb> 2 <sb> .
+<ICE-JA:W2A-039#45:1> Nitrogen isotope ratios were determined in a VG SIRA mass
+
+spectrometer.
+<ICE-JA:W2A-039#46:1> Organic standards ( gelatin, valine and glutamic acid) as well as
+
+atmospheric standards for nitrogen were analysed to estimate precision of the
+
+sample nitrogen isotope ratios. </p>
+
+<p> <ICE-JA:W2A-039#47:1> <sp> 15 </sp> N results are reported in standard delta notation
+
+relative to the atmospheric standard in &per-thousand; units.
+
+<p> <O> formula </O>
+
+<p> <ICE-JA:W2A-039#48:1> <h> <bold> Light </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#49:1> Light was measured at 3 of the 4 sites in May 1995 using Hobo
+
+Light Intensity Miniature data loggers.
+<ICE-JA:W2A-039#50:1> These were deployed simultaneously at a depth of 8 metres at each
+
+site for 4 days.
+<ICE-JA:W2A-039#51:1> The data loggers were calibrated against a Li-Cor integrating quantum
+
+radiometer/photometer ( Model no. LI 188B) fitted with a sperical underwater
+
+sensor.
+<ICE-JA:W2A-039#52:1> This allowed the miniature data logger readings to be converted to
+
+micro- einsteins. </p>
+
+<p> <ICE-JA:W2A-039#53:1> For each site the mean maximum daily reading was calculated as an
+
+indication of relative available light between sites. </p>
+
+<p> <ICE-JA:W2A-039#54:1> <h> <bold> RESULTS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#55:1> Corals from the four sites had significantly different mean
+
+levels of &delta; <sp> 15 </sp> N in their tissues ( Table 1, Figure 2): </p>
+
+<O> table </O>
+
+<p> <ICE-JA:W2A-039#56:1> at Harbour Shoal, 6.47 &per-thousand; &plus-minus; 0.7,
+
+Drunkenmans Cay, 4.99 &per-thousand; &plus-minus; 0.3, South East Cay, 3.05
+
+&per-thousand; &plus-minus; 0.6, and Middle Cay, 1.51 &per- thousand;
+
+&plus-minus; 0.3.
+<ICE-JA:W2A-039#57:1> These &delta; <sp> 15 N values show a clear trend.
+<ICE-JA:W2A-039#58:1> Inshore, closer to Kingston Harbour, they are enriched in <sp> 15
+
+</sp> N, but progressively less so offshore.
+<ICE-JA:W2A-039#59:1> The Middle Cay samples show &delta; <sp> 15 </sp> N values in the
+
+same range as those found by Altabet ( 1989) for the open ocean. </p>
+
+<p> <ICE-JA:W2A-039#60:1> The Coefficients of Variation ( CV: Standard deviation/Mean) are
+
+quite small, 16 %.
+<ICE-JA:W2A-039#61:1> This can be compared with the high variability of direct measurements
+
+of water pollution.
+<ICE-JA:W2A-039#62:1> CV for the data on suspended particulate organic nitrogen ( Figure 1)
+
+was 50% ( Morrison and Greenaway 1989). </p>
+
+<p> <ICE-JA:W2A-039#63:1> Light data ( Figure 3) showed the lowest mean maximum light
+
+levels, 233.7 &plus-minus; 64.2 microeinsteins at Harbour Shoal, closest to
+
+Kingston Harbour where there were high levels of suspended particulate
+
+organic matter, and dense plankton blooms, with progressively higher levels
+
+offshore. </p> <O> figure </O> <O> caption </O> <O> figure </O> <O> caption
+
+</O>
+
+<p> <ICE-JA:W2A-039#64:1> <h> <bold> DISCUSSION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#65:1> Previous studies of <sp> 15 </sp> N variations in coral tissue (
+
+Muscatine and Kaplan 1994, Heikoop et al. in review) have shown that coral
+
+tissue becomes more depleted ( lighter) with decreasing light levels due to
+
+decreased fractionation by photosynthesis.
+<ICE-JA:W2A-039#66:1> In this study, light levels are lower nearshore, where the tissues
+
+are more enriched.
+<ICE-JA:W2A-039#67:1> The gradient in &delta; <sp> 15 </sp> N values is the inverse of that
+
+which would be due to differences in light, and much more pronounced,
+
+suggesting that enrichment from terrestrial sources is the dominant factor.
+
+</p>
+
+<p> <ICE-JA:W2A-039#68:1> Previous measures of terrestrial pollution in this area have been
+
+based on direct water quality measurements ( Goodbody 1989) or benthic
+
+surveys of indirect indicators such as benthic algae ( Head and Hendry 1985).
+<ICE-JA:W2A-039#69:1> Water quality measurements must be collected over an extended period
+
+due to high variability. </p>
+
+<p> <ICE-JA:W2A-039#70:1> In the present study, a single sampling occasion yielded an
+
+apparent index of exposure to terrestrial sources of nitrogen.
+<ICE-JA:W2A-039#71:1> Analysis of Nitrogen isotopes could be a valuable tool for
+
+determination of patterns of pollution in shallow, clear tropical coastal
+
+waters, as the method is objective and highly cost effective, requiring
+
+little field work. </p>
+
+<p> <ICE-JA:W2A-039#72:1> <h> <bold> ACKNOWLEDGEMENTS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#73:1> We wish to thank J. Heikoop for the <sp> 15 </sp> N
+
+determinations and M. Knyf for technical assistance with the mass
+
+spectrometer.
+<ICE-JA:W2A-039#74:1> This work was supported by funds from an NSERC Visiting International
+
+<}> <-> Fellwoship </-> <+> Fellowship </+> </}> to JDW. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2A-039#75:2> <h> <bold> Neutron activation analysis of cadmium in Jamaican
+
+soils </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#76:2> <bold> C. N. Grant, G. C. Lalor, <sp> * </sp> M. K. Vutchkov </p>
+
+<p> <ICE-JA:W2A-039#77:2> <it> International Centre for Environmental and Nuclear Sciences
+
+University of the West Indies, Kingston, Jamaica </it> </p>
+
+<p> <ICE-JA:W2A-039#78:2> ( Received March 19, 1998) </p>
+
+<p> <ICE-JA:W2A-039#79:2> A procedure for the instrumental neutron activation analysis of
+
+Cd in soils with relatively high Cd content and possible interferences is
+
+reported.
+<ICE-JA:W2A-039#80:2> Cadmium concentrations in Jamaican soils above 4 mg·kg <sp> - 1 </sp>
+
+can now be reliably determined by multielemental instrumental activation
+
+analysis with an accuracy &plus-minus; 10% and the reasonably high throughput
+
+of 30 samples per day.
+<ICE-JA:W2A-039#81:2> Over 600 geochemical survey samples were analysed for Cd along with
+
+some 20 other long-lived elements. </p>
+
+<p> <ICE-JA:W2A-039#82:2> <h> <bold> Introduction </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#83:2> Recent work <sp> 1 </sp> has shown that, compared with world
+
+levels Jamaican soils are enriched in many heavy metals.
+<ICE-JA:W2A-039#84:2> The concentrations of the potentially hazardous element cadmium are
+
+particularly interesting; these range from less than the detection limit (
+
+0.3 mg·kg <sp> - 1 </sp> ) for the flame atomic absorption spectrophotometric
+
+( AAS) method, used previously, to over 400 mg·kg <sp> - 1 </sp> and average
+
+19 mg·kg <sp> - 1 </sp> .
+<ICE-JA:W2A-039#85:2> These values are very high compared with the world average <sp> 2
+
+</sp> being below 1 mg·kg <sp> - 1 </sp> and ranges from 0.005 to 0.9 mg·kg
+
+<sp> - 1 </sp> .
+<ICE-JA:W2A-039#86:2> The higher cadmium concentrations are generally found in the terra
+
+rossa soils and are, therefore, as shown in Table 1, associated with high
+
+concentrations of aluminium, iron and manganese.
+<ICE-JA:W2A-039#87:2> There are also significant concentrations of uranium in these soils.
+
+</p>
+
+<p> <ICE-JA:W2A-039#88:2> Because cadmium is considered to be an extremely toxic element
+
+these findings indicate the need for a detailed study which requires the
+
+analysis of very large numbers of samples of rocks, sediments, and other
+
+materials.
+<ICE-JA:W2A-039#89:2> AAS is a standard method for the determination of cadmium but neutron
+
+activation analysis has the great advantages of multi- elemental capability
+
+and minimum sample preparation.
+<ICE-JA:W2A-039#90:2> However, its application to the routine analysis of Cd has some
+
+limitations.
+<ICE-JA:W2A-039#91:2> V <smallcaps> ostokova </smallcaps> et al. <sp> 3 </sp> noted that
+
+the multielement INAA scheme used for 35 elements is unsatisfactory for Cd,
+
+Mg, Ti and Ni.
+<ICE-JA:W2A-039#92:2> W <smallcaps> u </smallcaps> and L <smallcaps> andsberger
+
+</smallcaps> <sp> 4 </sp> used epithermal irradiation and Compton suppression
+
+for INAA of Cd in new soil CRMs.
+<ICE-JA:W2A-039#93:2> S <smallcaps  <teinnes  </smallcaps> <sp> 5 </sp> used 2 days
+
+irradiation in a thermal neutron flux of 1.5·10 <sp> 13 </sp> n·cm <sp> - 2
+
+</sp> ·s <sp> - 1 </sp> and radiochemical separation to determine Cd levels
+
+in soils.
+<ICE-JA:W2A-039#94:2> These irradiation and counting conditions are beyond the capabilities
+
+of the SLOWPOKE <sp> 6 </sp> and radiochemical separation for large-scale
+
+geochemical surveys is time consuming. </p>
+
+<p> <ICE-JA:W2A-039#95:2> This paper reports an INAA procedure for cadmium in Jamaican
+
+soils which also allows multi-elemental analysis with good accuracy and
+
+reasonably high throughput, and is therefore suitable for geochemical
+
+surveys. </p>
+
+<p> <ICE-JA:W2A-039#96:2> <h> <bold> Expexperimental </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#97:2> Sample collection and sample treatment have been previously
+
+described. <sp> 1 </sp>
+<ICE-JA:W2A-039#98:2> For each analysis, an accurately weighed sub-sample ( ca 250 mg) was
+
+heat-sealed within a 1 ml polyethylene capsule, which had been previously
+
+soaked in 1M nitric acid for 48 hours and then thoroughly washed with pure
+
+water.
+<ICE-JA:W2A-039#99:2> The capsules were themselves sealed in 7 ml capsules for irradiation.
+
+</p>
+
+<p> <ICE-JA:W2A-039#100:2> The SLOWPOKE-2 reactor <sp> 6 </sp> was used for activation at a
+
+neutron flux of 10 <sp> 12 </sp> n·cm <sp> - 2 </sp> ·s <sp> - 1 </sp> .
+<ICE-JA:W2A-039#101:2> Because of the flux stability and reproducibility of this reactor
+
+the calculation of elemental concentrations was based on the measurement of
+
+the activation constant, <it> k </it> , for each element and on the
+
+application of the Eq. ( 1), <sp> 7 </sp> in which <it> m </it> is the mass
+
+of the particular element in grams, <it> R </it> is the peak area, <it> t
+
+<sb> i </sb> </it> , <it> t <sb> d </sb> </it> , <it> t <sb> c, </sb> are the
+
+times of irradiation, decay, and counting, respectively, and &lambda; is the
+
+decay constant: </p> <O> formula </O>
+
+<p> <ICE-JA:W2A-039#102:2> The activation constant <it> k </it> is <O> formula </O> with
+
+<it> z </it> is the detector efficiency; &theta; is the abundance of the
+
+activated nuclide; <it> N <sb> A </sb> <it> is the Avogadro's number =
+
+6.023·10 <sp> 23 </sp> ; &sigma; isotopic activation cross section; &phi;
+
+neutron flux; <it> A </it> is the atomic weight of the irradiated element.
+
+</p>
+
+<p> <ICE-JA:W2A-039#103:2> The values of <it> k </it> were determined using suitable single
+
+element standards prepared from stable AR grade oxides and carbonates.
+<ICE-JA:W2A-039#104:2> An Ortec Gamma Spectroscopy System was used for collection of
+
+spectra.
+<ICE-JA:W2A-039#105:2> Data processing was done using Ortec's Omnigam <sp> 9 </sp> and
+
+in-house developed software. </p> <O> caption </O> <O> table </O> <O> caption
+
+</O> <O> table </O>
+
+<p> <ICE-JA:W2A-039#106:2> <h> <bold> Results and discussion </bold> </h> </p>
+
+<p> <ICE-JA:W2A-039#107:2> Natural cadmium contains several isotopes and therefore, as
+
+shown in Table 2, can produce a variety of thermal neutron activation
+
+products. </p>
+
+<p> <ICE-JA:W2A-039#108:2> The induced activity after an irradiation time of <it> t <sb> i
+
+</sb> </it> can be calculated from Eq. ( 1), with <it> t <sb> d </sb> </it>
+
+=0 and <it> t <sb> c </sb> </it> =0.
+<ICE-JA:W2A-039#109:2> The last column in Table 2 lists the relative activities of Cd
+
+calculated for the standard irradiation conditions ( <quote> " Short"
+
+</quote> : <it> t <sb> i </sb> </it> =60 s, at a flux of 1·10 <sp> 11 </sp>
+
+n·cm <sp> - 2 </sp> ·s <sp> - 1 </sp> ; <quote> " Long" </quote> : <it> t
+
+<sb> i </sb> </it> =1 h at a flux of 1·10 <sp> 12 </sp> n·cm <sp> - 2 </sp>
+
+·s <sp> - 1 </sp> ) . </p> </I>

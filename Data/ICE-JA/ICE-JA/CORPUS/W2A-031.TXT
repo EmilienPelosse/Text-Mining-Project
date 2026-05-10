@@ -1,0 +1,418 @@
+<I>
+
+<p> <ICE-JA:W2A-031#1:1> <h> The Potential of Renewable Energy in the Caribbean </h> </p>
+
+<p> <ICE-JA:W2A-031#2:1> DENNIS MINOTT </p>
+
+<p> <ICE-JA:W2A-031#3:1> <h> <bold> Energy Requirements and Supplies for Rural Development
+
+</bold> </h> </p>
+
+<p> <ICE-JA:W2A-031#4:1> With the exception of Trinidad ( oil producer/exporter) and Haiti
+
+( very minimal industrial activity), energy-use patterns in Caribbean
+
+countries show remarkable similarities, especially in rural areas.
+<ICE-JA:W2A-031#5:1> In unique ways, the command economy in Cuba somewhat changes the rural
+
+energy consumption pattern, but generally, options for applying renewable
+
+energy to rural development need neither be many nor very country-specific
+
+among the states of the region. </p>
+
+<p> <ICE-JA:W2A-031#6:1> In the Caribbean context, the pervasive assumption that rural
+
+areas are more amenable to supply by small renewable sources than are urban
+
+areas, is open to question.
+<ICE-JA:W2A-031#7:1> Notably, whenever centralized supplies of electrical power or
+
+petroleum products are significantly disrupted many households in urban
+
+Caribbean areas readily make the temporary change to renewable sources of
+
+energy for domestic purposes.
+<ICE-JA:W2A-031#8:1> The phenomenon serves to indicate a major potential for renewables
+
+linked to small appliances to play an important role even in the urban
+
+centres of this humid tropical region. </p>
+
+<p> <ICE-JA:W2A-031#9:1> In any event, there are many opportunities for applying renewables
+
+to urban areas because ( 1) most urban dwellings have only one floor, and
+
+thus have direct rooftop access to sunlight for all occupants; ( 2) most
+
+urban dwellings occupy less than 40% of the property on which they are
+
+located; ( 3) more than 25% of the urban yard spaces in the region are
+
+covered by lawn grass ( a renewable biomass resource); and ( 4) most urban
+
+domestic energy applications do not require high enthalpy energy sources.
+
+</p>
+
+<p> <ICE-JA:W2A-031#10:1> Although, on balance, the rural areas offer the best
+
+opportunities for applying renewables, the potential in urban areas should
+
+not be ignored. </p>
+
+<p> <ICE-JA:W2A-031#11:1> In a major UNDP/CARICOM Secretariat study on the feasibility of
+
+establishing a Caribbean Regional Renewable Energy Development Station (
+
+RREDS), Minott <it> et al. </it> ( 1985) carried out comprehensive sub-sector
+
+level projections of renewables market potential and annual US dollar savings
+
+possible over a 30-year period in the Caribbean region, based on
+
+extrapolations from analyses of the enthalpies and quantities of commercial
+
+energy usage in Jamaica at the start of the last decade.
+<ICE-JA:W2A-031#12:1> Table 16.1 is a summary of these projections for both urban and rural
+
+areas of the Caribbean ( excluding Cuba). </p>
+
+<p> <ICE-JA:W2A-031#13:1> In 1984, the primary demand for rural energy was for agricultural
+
+produc <l> tion, sugar processing, cooking, lighting, refrigeration and
+
+transportation.
+<ICE-JA:W2A-031#14:1> An estimate of the BOE demand may be made by extrapolating from the
+
+data given in Table 16.1. </p>
+
+<p> <ICE-JA:W2A-031#15:1> <h> <bold> The Energy Issues in the Caribbean </bold> </h> </p>
+
+<p> <ICE-JA:W2A-031#16:1> The industrial world of the late nineteenth and the twentieth
+
+centuries initially designed its industries around non-renewable fossil
+
+fuels: oil, gas and coal. As the enterprises expanded, their demand for these
+
+dwindling resources precipitated a large international trading activity
+
+involving the purchase of fossil fuel from the resources of the developing
+
+world at prices well below those that would be appropriate if rational
+
+marginal costings were applied. </p>
+
+<p> <ICE-JA:W2A-031#17:1> The countries of the Caribbean group, in trying to improve the
+
+quality of life for their citizens, have increasingly adopted the lifestyles
+
+of the industrialized world, including heavy dependency on fossil fuels.
+<ICE-JA:W2A-031#18:1> But among the stark differences between this group and the
+
+industrialized country models which it seeks to emulate are ( 1) the
+
+availability of capital; ( 2) political power and international influence; (
+
+3) technological prowess related to the harnessing of the factors of
+
+production within the context of the Caribbean environment; ( 4) experience
+
+in implementing policies of self-reliance without disrupting the social
+
+order; ( 5) experience in commercializing local innovation by private and
+
+public concern; and ( 6) the relative availabilities of alternatives to
+
+fossil fuels. </p>
+
+<p> <ICE-JA:W2A-031#19:1> In the critical field of energy, the Caribbean, which in past
+
+centuries was completely reliant on renewables, almost completely discarded
+
+its heritage.
+<ICE-JA:W2A-031#20:1> This was not necessary for industrialization.
+<ICE-JA:W2A-031#21:1> In developing countries such as the People's Republic of China, fuel
+
+and energy production benefited consider <l> ably from the wholesale
+
+adherence to the continued but modernized use of renewables, especially in
+
+rural areas by way of small hydro- power, biogas and woodfuel in conjunction
+
+with necessary use of available non-renewables. </p>
+
+<p> <ICE-JA:W2A-031#22:1> There is an assumption that increased fuel and energy use per
+
+capita is essential to economic growth.
+<ICE-JA:W2A-031#23:1> While this may be so in some cases it is surely not so in the
+
+majority of cases.
+<ICE-JA:W2A-031#24:1> The problem is that we have almost invariably equated energy with
+
+high-grade fuels and electricity.
+<ICE-JA:W2A-031#25:1> In order to accomplish work in a <quote> modern' </quote> way we
+
+have forgotten or ignored equally simple ways to perform work without
+
+electricity.
+<ICE-JA:W2A-031#26:1> As the volume of work to be done increases with population,
+
+consumption of electrical power and petroleum fuels increases
+
+disproportionately to the actual end uses.
+<ICE-JA:W2A-031#27:1> Consequently, the volume of high-grade fuels that has to be wasted in
+
+order to provide electrical power at 15% to 30% efficiency climbs at a
+
+greater than linear rate.
+<ICE-JA:W2A-031#28:1> To put it bluntly, the shallow economic dictum that equates growth
+
+with energy consumption per capita results from a failure to understand the
+
+second law of thermodynamics and the degree to which electrical energy is
+
+abused due to ignorance about the options for performing work economically.
+
+</p> <O> table </O>
+
+<p> <ICE-JA:W2A-031#29:1> For the Caribbean, with the exception of Trinidad, the only
+
+options are the renewables.
+<ICE-JA:W2A-031#30:1> Their abundance is such that we are well placed to be among the first
+
+beneficiaries of the non-nuclear energy options which the entire planet will
+
+have to rely upon in the foreseeable future.
+<ICE-JA:W2A-031#31:1> What abounds in the region by way of year-round sunlight, land and
+
+aquatic resources in the continental countries, wind energy in the eastern
+
+states and relatively reliable rainfall are the raw materials' on which the
+
+world's new options must invariably be based. </p>
+
+<p> <ICE-JA:W2A-031#32:1> Even in the cases of Trinidad and Tobago and Barbados, which
+
+produce fossil oil and gas, it is advisable that these non-renewable but
+
+valuable assets be husbanded for use in ( 1) meeting necessary present energy
+
+needs conservatively; ( 2) generating investment capital to provide
+
+alternatives for their replacement in the future; ( 3) manufacturing <quote>
+
+nobler' </quote> products which will be more resilient in sustaining
+
+economic well-being than fossil products can ever be; ( 4) building up energy
+
+reserves for meeting emergency needs for high- grade fossil fuels in national
+
+crises within the future of renewables; and ( 5) directly assisting the
+
+transition to biomass and other solar technologies on a phased basis by
+
+providing materials such as fertilizers, plastics, etc. </p>
+
+<p> <ICE-JA:W2A-031#33:1> The Caribbean's bequest of renewable energy resources is such
+
+that the region can, in a generation, be living off its own natural energy
+
+income rather that continuing to exist on oil credits' generously provided
+
+by Venezuela, Mexico, Nigeria, and Trinidad and Tobago.
+<ICE-JA:W2A-031#34:1> Indeed, it is a commendable feature of the credit facilities offered
+
+under these oil supply agreements that capital investments in new sources of
+
+energy in the consuming countries may, to an appreciable extent, be offset
+
+against due repayments.
+<ICE-JA:W2A-031#35:1> Unfortunately, however, these facilities for renewable energy
+
+development remain, for the most part, under- or unutilised because there is
+
+no viable local capacity to effect a meaningful programme of renewable energy
+
+development in the region despite the many ( but woefully fragmented) efforts
+
+of the agencies. </p>
+
+<p> <ICE-JA:W2A-031#36:1> Of course, there is yet another awkward non-economic factor
+
+contributing to world- wide tardiness in large-scale development of
+
+renewables, especially in the Third World.
+<ICE-JA:W2A-031#37:1> Renewables are, by their very nature, anti-monopolistic, more
+
+democratic and less amenable to centralized control.
+<ICE-JA:W2A-031#38:1> This has its political implications.
+<ICE-JA:W2A-031#39:1> At the working level, there tends to be an incestuous institutional
+
+relationship between second-level policy makers, regulatory bodies, executing
+
+organizations and implementing agencies, largely brought about by the
+
+scarcity of available technical personnel to staff the various agencies.
+<ICE-JA:W2A-031#40:1> Consequently, these <quote> old boy' </quote> relationships work
+
+against diversity in thinking, reinforce non-innovative, non-critical
+
+conformity and perpetuate increased reliance on fossil fuels and electrical
+
+energy within large, highly centralized systems vulnerable to undemocratic
+
+manipulation. </p>
+
+<p> <ICE-JA:W2A-031#41:1> The argument that the economies of scale of large power supply
+
+systems makes them more suitable to meeting national energy demand is of
+
+questionable validity.
+<ICE-JA:W2A-031#42:1> When one examines the distribution of electrical power in relatively
+
+industrialized Jamaica and Trinidad, compared to far less industrialized
+
+Haiti, the most striking similarity is the small proportion of the <w>
+
+consumers' </w> tariff dollar which is actually paid for energy.
+<ICE-JA:W2A-031#43:1> So much of the residential tariffs are to pay for ( 1) transmission
+
+and distribution losses plus power station losses; ( 2) subsidizing
+
+industrial and agricultural power supply; ( 3) paying for energy waste at
+
+levels which would not be typical if smaller, more efficient renewable
+
+systems were doing the same work; ( 4) maintaining idle reserves; ( 5) paying
+
+for new capital equipment which will reduce jobs and trap large amounts of
+
+capital, thus directing investment away from other critical targets for the
+
+development efforts; and ( 6) the negative effects of mis-timed demand
+
+forecasts, interest, escalations, strikes, administration and competition for
+
+foreign exchange to purchase fossil fuels from overseas. </p>
+
+<p> <ICE-JA:W2A-031#44:1> Inevitably, we have to confront the fact that probably no more
+
+than about 12% of electricity use in the Caribbean really requires energy in
+
+the electro-magnetic form.
+<ICE-JA:W2A-031#45:1> However, one hastens to add that where the potential for cheap
+
+hydro-electric power exists, this form of energy should be exploited fully
+
+since the development process can only benefit from this.
+<ICE-JA:W2A-031#46:1> Dominica, Cayenne, Suriname, Guyana, Haiti, Belize and St Vincent
+
+could well rationalize their industrial potential for producing high-grade
+
+power in the form of electricity from hydro resources. </p>
+
+<p> <ICE-JA:W2A-031#47:1> Trinidad and Barbados, despite their hydrocarbon resources and
+
+relatively dense levels of population, may need to concentrate on those
+
+technologies and industries which can begin the process of exploiting their
+
+renewable resources in the forms of direct solar power, biomass and wind.
+<ICE-JA:W2A-031#48:1> In similar fashion, Jamaica, Antigua, the Bahamas, Belize, the
+
+Dominican Republic and most of the Windward Islands have the options of
+
+direct solar, biomass and, in the case of the eastern states, wind energy.
+
+</p>
+
+<p> <ICE-JA:W2A-031#49:1> In the Caribbean context, ocean energy and geothermal resources,
+
+though promising, are inherently disposed to trapping large blocks of capital
+
+into low levels of economic production for too long.
+<ICE-JA:W2A-031#50:1> Furthermore, ocean thermal and geothermal sources do not create any
+
+significant employment and are not as environmentally benign as might at
+
+first appear. </p>
+
+<p> <ICE-JA:W2A-031#51:1> So, what must be done regionally?
+<ICE-JA:W2A-031#52:1> Briefly, these countries need to set out together to develop small
+
+energy systems based on their affordable and sustainable renewables.
+<ICE-JA:W2A-031#53:1> But this must be done incrementally  first, by supplementing
+
+existing systems, then by deliberately allowing renewables to supplant
+
+existing systems.
+<ICE-JA:W2A-031#54:1> The approach needs to be structured, conducted by a comprehensively
+
+endowed body of experts in collaboration with existing institutions.
+<ICE-JA:W2A-031#55:1> The proposed programme would ensure the thorough public education and
+
+democratic and commercial participation of the Caribbean peoples whose lives
+
+will be affected by the development of new energy alternatives. </p>
+
+<p> <ICE-JA:W2A-031#56:1> <h> <bold> Research and Development in Rural Energy Supplies
+
+</bold> </h> </p>
+
+<p> <ICE-JA:W2A-031#57:1> Table 16.1 lists the types of renewable and fossil resources on a
+
+country-by-country basis and gives an approximate picture of the distribution
+
+of energy resources in the sub- region.
+<ICE-JA:W2A-031#58:1> Research and development should be designed to service the technology
+
+needs of each country according to its indigenous energy resources.
+<ICE-JA:W2A-031#59:1> The particular choices of technology are recommended on the perceived
+
+distribution of exploitable resources and on the demonstrable nature and
+
+magnitude of energy demands for each country. </p>
+
+<p> <ICE-JA:W2A-031#60:1> In terms of renewable resources already being or likely to be
+
+exploited, Table 16.1 indicates the following order of technological
+
+priorities: ( 1) forestry/silvicultural biomass, including natural wood
+
+sources and cultivated wood and foliage sources for fermentation to fuels,
+
+etc.; ( 2) sugar cane and grasses biomass from existing plantations and from
+
+cultivation of enhanced varieties and species for alcohol, fuel gases and
+
+solid fuels; ( 3) direct solar for low enthalpy heat production and also for
+
+high temperature and electrical purposes; ( 4) small hydro-power ( below 5
+
+MW) and conventional hydro-power; ( 5) wind energy; ( 6) geothermal energy (
+
+not truly a renewable technology); ( 7) rice-derived fuels; ( 8) wave energy;
+
+( 9) tidal energy; and ( 10) ocean thermal energy conversion. </p>
+
+<p> <ICE-JA:W2A-031#61:1> This ordering of the technological priorities must be matched by:
+
+</p>
+
+<p> <ICE-JA:W2A-031#62:1> 1 Complementary facilities for technological developments in the
+
+uses of immediate by-products of the energy processes specific to the
+
+priorities determined above.
+<ICE-JA:W2A-031#63:1> These facilities must, in general, serve to promote the extraction of
+
+maximum economic and commercial benefits from the indigenous energy resources
+
+in an environmentally benign way; </p>
+
+<p> <ICE-JA:W2A-031#64:1> 2 Provision for a Regional Renewables Research Station to play a
+
+strong role in promoting and facilitating thrifty and efficient use of local
+
+energy resources; </I>

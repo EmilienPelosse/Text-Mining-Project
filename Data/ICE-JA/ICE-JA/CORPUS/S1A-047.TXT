@@ -1,0 +1,527 @@
+<I>
+
+<$A> <ICE-JA:S1A-047#1:1:A> So the maths behind it what happens to these digital signalling
+
+and basically<,> <}> <-> you can't you</-> <=> you're</=></}> not seeing
+
+these signals
+<ICE-JA:S1A-047#2:1:A> What happens to this<,> and what happens when you put this signal
+
+into this system <{1> <[1> and</[1> how it looks after it comes out and so on
+<ICE-JA:S1A-047#3:1:A> So we get <}> <-> some practical</-> <=> some practical</=></}>
+
+experience by doing that<,>
+<ICE-JA:S1A-047#4:1:A> Uhm we use programs and these programs uhm<,> show you what had
+
+happened to the <}> <-> <.> sy</.> <.> sy</.></-> <=> systems</=></}>
+<ICE-JA:S1A-047#5:1:A> The most practical thing that we did was uhm<,> in a <.> l</.> class
+
+called<,,> P thirty-four K<{2><[2><,></[2><,> no P twenty-four K
+<ICE-JA:S1A-047#6:1:A> We actually made stop lights<{3><[3><,></[3> and we made <}> <->
+
+two</-> <=> two</=></}> stop lights and they have to be synchronized <{4>
+
+<[4> <,> so</[4> basically you have to imagine two stop lights at a crossing
+
+and one is on red and one has to be on green <{5> <[5> because you know</[5>
+
+what will happen if both of them are on <{6> <[6> green<,></[6>
+<ICE-JA:S1A-047#7:1:A> You'll have an accident
+<ICE-JA:S1A-047#8:1:A> So we have to use <}> <-> the the</-> uhm<,> <=> the</=></}>
+
+instruments<,> the materials like the flip-flops and the timers and the<,>
+
+integrated circuits
+<ICE-JA:S1A-047#9:1:A> <{7> <[7> We had to use</[7> all of those things put them together
+
+and make <}> <- > the</-> <=> the</=></}> stop light<,>
+<ICE-JA:S1A-047#10:1:A> But<,,> that stop light is just a small<,> it's just a teeny
+
+tiny<{8><[8><,></[8> right and is like<,> basically<,,>
+<ICE-JA:S1A-047#11:1:A> The electronics that UWI teaches is for you to move on to something
+
+else<{9><[9><,></[9>
+<ICE-JA:S1A-047#12:1:A> It's not for you to <{10> <[10> basically get leave here</[10> or
+
+you can work on a fan or <?> whatever</?>
+<ICE-JA:S1A-047#13:1:A> It just teaches you<,> it mostly a lot of things they do this about
+
+digital systems <{11> <[11> you know</[11> like<,> <}> <-> you you're</-> <=>
+
+you're</=></}> talking about your cell phones and so on<,>
+<ICE-JA:S1A-047#14:1:A> <}> <-> We</-> <=> we</=></}> get<,> knowledge about cell phones
+
+not how to fix them <{12> <[12> but how</[12> they work<,>
+<ICE-JA:S1A-047#15:1:A> So basically when you leave UWI<,> yes you could work at Digicell
+
+or Cable and Wireless but they have to teach you what to do
+<ICE-JA:S1A-047#16:1:A> <{13> <[13> You</[13> only have the knowledge
+<ICE-JA:S1A-047#17:1:A> They only say okay<,> you have passed through the system you have a
+
+degree<,> so basically you are smart enough <}> <-> for you</-> <=> for
+
+us</=></}> to teach you<{14><[14><,></[14> but usually you have to leave here
+
+and go to another institution <?> although</?> and do your masters<,> to
+
+basically you know understand all of these things<,>
+<ICE-JA:S1A-047#18:1:A> To fix a fan and so on is not<,> someone who does electronics it's
+
+most of a person <?> you know</?> a electrician<{15><[15><,></[15>
+<ICE-JA:S1A-047#19:1:A> So they are basically the ones that <?> would go by</?> in the
+
+house and know what is going to be happening in your fan and so on
+<ICE-JA:S1A-047#20:1:A> UWI doesn't <}> <-> <.> tea</.></-><+>teach</+></}> that uhm<,>
+<ICE-JA:S1A-047#21:1:A> You can go basically U Tech<,> would do that<{16><[16><,></[16> <}>
+
+<-> more practical</-><,> <=> more practical</=></}> uhm electronics
+<ICE-JA:S1A-047#22:1:A> U Tech will do that<{17><[17><,></[17> but not UWI
+<ICE-JA:S1A-047#23:1:A> UWI is so theory-based when you leave here <}> <-> you</-> <=>
+
+you</=></}> definitely have to do your masters<,> to go <?> practice/back
+
+to</?> some things <{18> <[18> or</[18> go to a company that is definitely
+
+teach you what they want you do
+
+<$B> <ICE-JA:S1A-047#24:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-047#25:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-047#26:1:B> <[3> Okay</[3></{3>
+
+<$B> <ICE-JA:S1A-047#27:1:B> <[4> Mhm</[4></{4>
+
+<$B> <ICE-JA:S1A-047#28:1:B> <[5> Yes</[5></{5>
+
+<$B> <ICE-JA:S1A-047#29:1:B> <[6> Green yes</[6></{6>
+
+<$B> <ICE-JA:S1A-047#30:1:B> <[7> Mhm</[7></{7>
+
+<$B> <ICE-JA:S1A-047#31:1:B> <[8> <?> Menu</?></[8></{8>
+
+<$B> <ICE-JA:S1A-047#32:1:B> <[9> Okay</[9></{9>
+
+<$B> <ICE-JA:S1A-047#33:1:B> <[10> To actually <unclear> words</unclear></[10></{10>
+
+<$B> <ICE-JA:S1A-047#34:1:B> <[11> Mhm</[11></{11>
+
+<$B> <ICE-JA:S1A-047#35:1:B> <[12> Mhm</[12></{12>
+
+<$B> <ICE-JA:S1A-047#36:1:B> <[13> Yeah</[13></{13>
+
+<$B> <ICE-JA:S1A-047#37:1:B> <[14> Mhm</[14></{14>
+
+<$B> <ICE-JA:S1A-047#38:1:B> <[15> Mhm</[15></{15>
+
+<$B> <ICE-JA:S1A-047#39:1:B> <[16> Mhm</[16></{16>
+
+<$B> <ICE-JA:S1A-047#40:1:B> <[17> Mhm</[17></{17>
+
+<$B> <ICE-JA:S1A-047#41:1:B> <[18> Okay</[18></{18>
+
+<$B> <ICE-JA:S1A-047#42:1:B> Okay<,> okay<,,>
+<ICE-JA:S1A-047#43:1:B> <O> laughs</O>Sounds interesting but I really don't
+
+know<O>$A-laughs</O> <{1> <[1> what you know<O>laughter</O> <}> <-> what</->
+
+<=> what</=></}> you're <?> talking</?> </[1> you know<,>
+<ICE-JA:S1A-047#44:1:B> I kind of get <}> <-> the</- > uhm <=> the</=></}> understanding
+
+about the difference the between actually<,,> electronics
+
+theory<{2><[2><,></[2> from electronics <{3> <[3> <?> <.> pra</.></?><,></[3>
+<ICE-JA:S1A-047#45:1:B> Exactly <{4> <[4> <,> cos</[4> I also thought that you know<,>
+
+electronics that is being offered here is like oh you can fix my T V you can
+
+<{5> <[5> fix my radio<,></[5>
+<ICE-JA:S1A-047#46:1:B> You're supposed to know how to do these things right
+
+<$A> <ICE-JA:S1A-047#47:1:A> <[1> <O> laughs</O>I know I know<O>laughter</O><,> I
+
+know</[1></{1>
+
+<$A> <ICE-JA:S1A-047#48:1:A> <[2> Uhu</[2></{2>
+
+<$A> <ICE-JA:S1A-047#49:1:A> <[3> Practical</[3></{3>
+
+<$A> <ICE-JA:S1A-047#50:1:A> <[4> Uhm</[4></{4>
+
+<$A> <ICE-JA:S1A-047#51:1:A> <[5> No<,> uhuh</[5></{5>
+
+<$A> <ICE-JA:S1A-047#52:1:A> <?> But electricity I mean</?> if something is wrong with your
+
+T V or your radio you go find somebody else to fix it<,>
+<ICE-JA:S1A-047#53:1:A> You don't cos <}> <-> you not you don't</-> <=> you don't</=></}>
+
+get any skills
+<ICE-JA:S1A-047#54:1:A> They don't teach you any skills to do that<{1><[1><,></[1>
+
+because<,> basically<,> my T V something was wrong with it and I had to go<,>
+
+to an electrician to <{2> <[2> fix it</[2> because I don't have the skills to
+
+fix it
+<ICE-JA:S1A-047#55:1:A> I could go in there and I messed up
+<ICE-JA:S1A-047#56:1:A> I would mess it up<,> and then basically I have to buy another one
+
+so I had to<,> go to the electrician<{3><[3><,></[3>
+<ICE-JA:S1A-047#57:1:A> But<,> uhm basically<,> electronics it was fun and<,> there're only
+
+<O> chuckling</O>five girls<{4><[4><,></[4> five girls five females in the
+
+third year class<{5><[5><,></[5> five<,>
+<ICE-JA:S1A-047#58:1:A> Everybody else <{6> <[6> was
+<ICE-JA:S1A-047#59:1:A> On a whole</[6> <}> <-> we have</-> I don't think <=> we
+
+have</=></}> ten females<,> in third year physics apart from the electronics
+
+and physics we don't have ten<,>
+<ICE-JA:S1A-047#60:1:A> We don't have that much
+<ICE-JA:S1A-047#61:1:A> So <}> <-> it was</-> <=> it's</=></}> mostly males<{7><[7><,></[7>
+
+and uhm<,> <}> <-> it <.> wa</.> it was <.> i</.></-> honestly <=> it
+
+was</=></}> a fun experience
+<ICE-JA:S1A-047#62:1:A> I'm glad I did it
+<ICE-JA:S1A-047#63:1:A> <}> <- > You learn</-> you meet a lot of persons<,> and <=> you
+
+learn</=></}> to get along with a lot of people because <}> <-> you have</->
+
+<=> you learn</=></}> that you can't be selfish<,>
+<ICE-JA:S1A-047#64:1:A> Uhm you always going to meet them at the hall <unclear>
+
+words</unclear> <?> you're</?> always going to meet somebody there to help
+
+you and you have to learn to share your ideas<,> with someone
+<ICE-JA:S1A-047#65:1:A> You can't be selfish
+<ICE-JA:S1A-047#66:1:A> Some persons who try realize that<,,> it's not going to <{8> <[8>
+
+benefit them</[8>
+<ICE-JA:S1A-047#67:1:A> They have to learn to deal with people and so on<,,> but that's the
+
+nice part of my course
+<ICE-JA:S1A-047#68:1:A> The other <{9> <[9> part of my course</[9> I don't really like <?>
+
+that</?> the education part<,,><O><?>$B-</?>laughs</O>
+<ICE-JA:S1A-047#69:1:A> I don't <}> <-> I</-> <=> I'm</=></}> probably biased when it comes
+
+<?> unto it</?>
+<ICE-JA:S1A-047#70:1:A> I really don't like the education<{10><[10><,></[10>
+<ICE-JA:S1A-047#71:1:A> I already did that in college but I am <?> a</?> certified
+
+teacher<{11><[11><,></[11>
+<ICE-JA:S1A-047#72:1:A> I did that in college and I thought it was only <?> some more
+
+time</?> because all the courses that I'm doing now I already did
+
+them<{12><[12><,></[12> and UWI's degree program<,> is not up to standard<,>
+
+at least for me
+<ICE-JA:S1A-047#73:1:A> <}> <-> <{13> <[13> They don't</-></[13><,> <=> it's not</=></}>
+
+properly set up<{14><[14><,></[14> so basically<,> as I said some of the
+
+courses I already did them so it's basically boring cos you're doing the same
+
+things over and over again<,> and <}> <- > persons that I</-> <=> I've
+
+happened to find that persons</=></}> in these education faculty they are<,,>
+
+selfish<{15><[15><,></[15> such as the ones in my class
+<ICE-JA:S1A-047#74:1:A> They would hide information from you
+<ICE-JA:S1A-047#75:1:A> They will take the information steal the information out of the doc
+
+centre<{16><[16><,></[16> and then at the end of the course they will put it
+
+in there
+<ICE-JA:S1A-047#76:1:A> They don't really care whether or not somebody else want to use it
+
+and they don't like to share and I'm not used to that<{17><[17><,></[17>
+
+because<,> I may have maybe two classes in education <{18> <[18> or one</[18>
+
+depending on how much I choose for the semester and in physics I'll have
+
+maybe three or four<{19><[19><,></[19> and<,,> <}> <- > <.>
+
+basi</.></-><+>basically</+></}> in physics you have to share
+<ICE-JA:S1A-047#77:1:A> No doubt about it
+<ICE-JA:S1A-047#78:1:A> When you're doing four-hour labs and the labs you have two weeks to
+
+complete a lab and then another week to write it up
+<ICE-JA:S1A-047#79:1:A> <}> <-> And you have to</-><,> you have a lab partner first of all
+
+<=> and then you have to</=></}> have courses and <?> <}> <-> when</-> <=>
+
+if</=></}></?> you don't understand something you have to be able to talk to
+
+people
+<ICE-JA:S1A-047#80:1:A> <{20> <[20> Education</[20> is not like that
+<ICE-JA:S1A-047#81:1:A> Uh is like everybody for themselves
+<ICE-JA:S1A-047#82:1:A> So <}> <-> I really</-> <=> I don't really</=></}> like the <?>
+
+whole area</?> and it's boring
+<ICE-JA:S1A-047#83:1:A> I usually fall asleep in class which is so very bad but <{21> <[21>
+
+<,,> <O> laughs</O></[21>
+<ICE-JA:S1A-047#84:1:A> But <}> <-> it's it it's</-> <=> it's</=></}> boring <}> <->
+
+it's</-> to me <=> it's</=></}> boring<,> and <}> <-> it</-> I think <=>
+
+it's</=></}> so easy to pass
+<ICE-JA:S1A-047#85:1:A> You don't need to do much
+
+<$B> <ICE-JA:S1A-047#86:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-047#87:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-047#88:1:B> <[3> Mhm</[3></{3>
+
+<$B> <ICE-JA:S1A-047#89:1:B> <[4> Well</[4></{4>
+
+<$B> <ICE-JA:S1A-047#90:1:B> <[5> Mhm</[5></{5>
+
+<$B> <ICE-JA:S1A-047#91:1:B> <[6> <?> Because it's</?> <unclear> word(s)</unclear> <?>
+
+understand it</?></[6></{6>
+
+<$B> <ICE-JA:S1A-047#92:1:B> <[7> Mhm</[7></{7>
+
+<$B> <ICE-JA:S1A-047#93:1:B> <[8> Mhm</[8></{8>
+
+<$B> <ICE-JA:S1A-047#94:1:B> <[9> Okay</[9></{9>
+
+<$B> <ICE-JA:S1A-047#95:1:B> <[10> Okay</[10></{10>
+
+<$B> <ICE-JA:S1A-047#96:1:B> <[11> Mhm</[11></{11>
+
+<$B> <ICE-JA:S1A-047#97:1:B> <[12> Mhm</[12></{12>
+
+<$B> <ICE-JA:S1A-047#98:1:B> <[13> <?> How's that</?></[13></{13>
+
+<$B> <ICE-JA:S1A-047#99:1:B> <[14> Mhm</[14></{14>
+
+<$B> <ICE-JA:S1A-047#100:1:B> <[15> Okay</[15></{15>
+
+<$B> <ICE-JA:S1A-047#101:1:B> <[16> Mhm</[16></{16>
+
+<$B> <ICE-JA:S1A-047#102:1:B> <[17> Okay</[17></{17>
+
+<$B> <ICE-JA:S1A-047#103:1:B> <[18> Mhm</[18></{18>
+
+<$B> <ICE-JA:S1A-047#104:1:B> <[19> Okay</[19></{19>
+
+<$B> <ICE-JA:S1A-047#105:1:B> <[20> Mhm</[20></{20>
+
+<$B> <ICE-JA:S1A-047#106:1:B> <[21> <O> laughs</O>It happens to the best of us
+<ICE-JA:S1A-047#107:1:B> It's okay</[21></{21>
+
+<$B> <ICE-JA:S1A-047#108:1:B> In education
+
+<$A> <ICE-JA:S1A-047#109:1:A> In education
+
+<$B> <ICE-JA:S1A-047#110:1:B> But I find it that's so many people who <?> go</?> out of
+
+education courses they find it so hard <{> <[>
+<ICE-JA:S1A-047#111:1:B> They're always complaining</[>
+
+<$A> <ICE-JA:S1A-047#112:1:A> <[> Cos <}> <-> they're not <.> u</.></-><,></[></{> <=>
+
+they're not using</=></}> their brains<,>
+<ICE-JA:S1A-047#113:1:A> They are trying to make the subject <}> <-> as <.> ha</.></-> uhm
+
+<=> harder</=></}> than what it is<,>
+<ICE-JA:S1A-047#114:1:A> You don't get any exams<{1><[1><,></[1>
+<ICE-JA:S1A-047#115:1:A> You don't get any exams
+<ICE-JA:S1A-047#116:1:A> At least for most education courses you don't have a final
+
+exam<{2><[2><,></[2>
+<ICE-JA:S1A-047#117:1:A> All you have is maybe three assignments to do if so much for the
+
+whole semester three assignment
+<ICE-JA:S1A-047#118:1:A> Usually at the beginning of the class <?> better</?> at the
+
+beginning of the semester<,> <}> <-> you get</-><,,> <=> you get</=></}> the
+
+list the uhm like you know<,,> you don't want <{3> <[3> to get the<,,>
+<ICE-JA:S1A-047#119:1:A> Yeah</[3> uhm the semester outline plus the exams you uhm the <{4>
+
+<[4> <,> assignment</[4> list and you know when it is due because they don't
+
+change the due dates<{5><[5><,></[5> unless it approaches the due date and
+
+then you ask for some extension or something but you get that<,> and<,> I'm
+
+doing <?> most the</?> times I don't <?> go to class</?>
+<ICE-JA:S1A-047#120:1:A> I don't see<,> why they make such a big deal just that<,> you have
+
+to read a lot<{6><[6><,></[6> but these people<,> they
+
+don't<{7><[7><,></[7><O>laughs</O> <{8> <[8>
+<ICE-JA:S1A-047#121:1:A> Yes teachers<,></[8>
+<ICE-JA:S1A-047#122:1:A> They don't<,> and sometimes what I think is that<,,> they are
+
+making it harder than how it is<,> and if the <}> <-> <.> l</.></-> <=>
+
+lecturer</=></}> <}> <-> akses</- > <=> asks</=></}> you for like<,,> X<,,>
+
+they give you the whole alphabet
+<ICE-JA:S1A-047#123:1:A> They write and write and write and usually not write<,> <{9> <[9>
+
+what<,> is expected<,></[9>
+<ICE-JA:S1A-047#124:1:A> But she asks you something and you like maybe<,,> okay discuss the
+
+importance of <}> <- > Piaget's</-><{10><[10><,></[10> <=> Piaget's</=></}>
+
+theories<,> and they would give you twenty pages<,> and I'm wondering<,,> <}>
+
+<-> Piaget doesn't</-> <=> you don't need</=></}> twenty pages
+<ICE-JA:S1A-047#125:1:A> You can just take one and break it down but they write too much
+
+and when<,> you give<,> five pages and they give twenty<,> and you come up
+
+with a A and they come up with a C they get upset
+<ICE-JA:S1A-047#126:1:A> They don't understand that because they think that they always
+
+right<,><{11><[11>and that is the problem I have with</[11> teachers
+<ICE-JA:S1A-047#127:1:A> They always think that they're right
+<ICE-JA:S1A-047#128:1:A> And I'm saying that no you have to realize that sometimes you're
+
+going to be wrong<,> and they don't believe that
+<ICE-JA:S1A-047#129:1:A> I write twenty pages I'm supposed to get an A<,> and <}> <->
+
+the</-> <=> the</=></}> lecturer is like
+<ICE-JA:S1A-047#130:1:A> You write twenty pages but<,> <{12> <[12> that's not</[12> what I
+
+want<{13><[13><,></[13> twenty pages of<,> irrelevant material irrelevant
+
+information<,> and basically <}> <-> that</- > <=> that's</=></}> what
+
+usually happen in education
+<ICE-JA:S1A-047#131:1:A> They write too much about the wrong things<{14><[14><,></[14>
+
+spend too little time explaining what the lecturers want<{15><[15><,></[15>
+
+and<,> they waste a lot of time<,> because they believe that they're teachers
+
+and so what
+<ICE-JA:S1A-047#132:1:A> They're teachers
+<ICE-JA:S1A-047#133:1:A> You have to respect me I'm a teacher<,,>
+<ICE-JA:S1A-047#134:1:A> <{16> <[16> <}> <-> Education is not</-></[16> honestly <=>
+
+education is not</=></}> a hard faculty
+<ICE-JA:S1A-047#135:1:A> If I was in <O> laughing</O>education alone<,> man I would get a
+
+first class honours<O>laughs</O><,>
+<ICE-JA:S1A-047#136:1:A> It's not
+<ICE-JA:S1A-047#137:1:A> I'm telling you the truth
+<ICE-JA:S1A-047#138:1:A> I do<,> a little bit of work
+<ICE-JA:S1A-047#139:1:A> I usually start my assignments <{17> <[17> <,> this is</[17> very
+
+bad the night before<,> because<O>laughs</O> I have until three o'clock <{18>
+
+<[18> for them to do it</[18>
+<ICE-JA:S1A-047#140:1:A> You can ask <?> a word</?>
+<ICE-JA:S1A-047#141:1:A> Every time they <?> do enough</?> having an <}> <-> <.> ec</.></->
+
+<=> education assignment</=></}> <{19> <[19> because that's the</[19> time
+
+when I stay up all night<,>
+<ICE-JA:S1A-047#142:1:A> That's it<,>
+<ICE-JA:S1A-047#143:1:A> And I usually I basically that's how I see it <{20> <[20>
+<ICE-JA:S1A-047#144:1:A> I don't</[20> put in enough work in education class <{21> <[21>
+
+<,> I know</[21> that<,> and I get B plusses and As<,>
+<ICE-JA:S1A-047#145:1:A> What if I was actually <{22> <[22> putting in the effort<,></[22>
+
+and I don't consider myself a very good writer<{23><[23><,></[23>
+<ICE-JA:S1A-047#146:1:A> I don't<{24><[24><,></[24>
+<ICE-JA:S1A-047#147:1:A> I write to the point that is why I couldn't do with history<,>
+
+because history you have to write <{25> <[25> and write and explain</[25> it
+<ICE-JA:S1A-047#148:1:A> I don't like explaining I'm going to tell you something<,> like
+
+one paragraph you understand it that is it<{26><[26><,></[26><O>laughter</O>
+<ICE-JA:S1A-047#149:1:A> So that is me
+<ICE-JA:S1A-047#150:1:A> <}> <-> I'm just</-> <=> I</=></}> write to the point and if I can
+
+write to the point<,> and I can get<,> that<,,> one night's work<,> if I
+
+actually was putting in an effort<{27><[27><,></[27> I may have had a
+
+better<O>laughs</O> average<,> yes I may have had a better average <{28>
+
+<[28> <,> but </[28> you when you're bored<,> just don't find any motivation
+
+<{29> <[29>
+<ICE-JA:S1A-047#151:1:A> You have to push yourself</[29> actually do something actually
+
+getting out of bed to go to the class<,,>
+
+<$B> <ICE-JA:S1A-047#152:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-047#153:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-047#154:1:B> <[3> Your outline yeah</[3></{3>
+
+<$B> <ICE-JA:S1A-047#155:1:B> <[4> Assignment</[4></{4>
+
+<$B> <ICE-JA:S1A-047#156:1:B> <[5> Mhm</[5></{5>
+
+<$B> <ICE-JA:S1A-047#157:1:B> <[6> Mhm</[6></{6>
+
+<$B> <ICE-JA:S1A-047#158:1:B> <[7> Poor teachers</[7></{7>
+
+<$B> <ICE-JA:S1A-047#159:1:B> <[8> <?> So</?> like that <unclear> word</unclear></[8></{8>
+
+<$B> <ICE-JA:S1A-047#160:1:B> <[9> What is supposed to be there
+<ICE-JA:S1A-047#161:1:B> Yeah</[9></{9>
+
+<$B> <ICE-JA:S1A-047#162:1:B> <[10> Mhm</[10></{10>
+
+<$B> <ICE-JA:S1A-047#163:1:B> <[11> <?> Cos they're teachers</?></[11></{11>
+
+<$B> <ICE-JA:S1A-047#164:1:B> <[12> <unclear> word</unclear></[12></{12>
+
+<$B> <ICE-JA:S1A-047#165:1:B> <[13> Uhuh</[13></{13>
+
+<$B> <ICE-JA:S1A-047#166:1:B> <[14> Mhm</[14></{14>
+
+<$B> <ICE-JA:S1A-047#167:1:B> <[15> Mhm</[15></{15>
+
+<$B> <ICE-JA:S1A-047#168:1:B> <[16> Yeah I understand</[16></{16>
+
+<$B> <ICE-JA:S1A-047#169:1:B> <[17> Late</[17></{17>
+
+<$B> <ICE-JA:S1A-047#170:1:B> <[18> Mhm</[18></{18>
+
+<$B> <ICE-JA:S1A-047#171:1:B> <[19> <O> laughs</O>Okay</[19></{19>
+
+<$B> <ICE-JA:S1A-047#172:1:B> <[20> <?> Mhm</?></[20></{20>
+
+<$B> <ICE-JA:S1A-047#173:1:B> <[21> <?> For a class</?></[21></{21>
+
+<$B> <ICE-JA:S1A-047#174:1:B> <[22> Putting in the effort yes</[22></{22>
+
+<$B> <ICE-JA:S1A-047#175:1:B> <[23> Okay</[23></{23>
+
+<$B> <ICE-JA:S1A-047#176:1:B> <[24> Okay</[24></{24>
+
+<$B> <ICE-JA:S1A-047#177:1:B> <[25> <unclear> words</unclear></[25></{25>
+
+<$B> <ICE-JA:S1A-047#178:1:B> <[26> Okay</[26></{26>
+
+<$B> <ICE-JA:S1A-047#179:1:B> <[27> Mhm</[27></{27>
+
+<$B> <ICE-JA:S1A-047#180:1:B> <[28> Okay</[28></{28>
+
+<$B> <ICE-JA:S1A-047#181:1:B> <[29> Well that's true</[29></{29>
+
+<$B> <ICE-JA:S1A-047#182:1:B> <O> laughs</O>Yeah that true<,>
+<ICE-JA:S1A-047#183:1:B> Uhm good luck with <}> <-> your</-> you know <=> any
+
+course</=></}> you know what you do<,> and it was nice talking to you
+
+<$A> <ICE-JA:S1A-047#184:1:A> Okay<&>end-of-tape</&></I>

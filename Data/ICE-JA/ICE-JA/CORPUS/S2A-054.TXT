@@ -1,0 +1,1241 @@
+<I>
+
+<$A> <ICE-JA:S2A-054#1:1:A> This is our latest exhibition
+
+<$Z> <X>
+<ICE-JA:S2A-054#X2:1:Z> Aha</X>
+
+<$A> <ICE-JA:S2A-054#X3:1:A> Go in go in go
+
+<$Z> <X>
+<ICE-JA:S2A-054#X4:1:Z> Is this underwater world</X><&>background-speaker</&>
+
+<$A> <ICE-JA:S2A-054#X5:1:A> Okay Susan
+<ICE-JA:S2A-054#X6:1:A> This is a coral reef diorama
+
+<$Z> <X>
+<ICE-JA:S2A-054#X7:1:Z> Okay</X>
+
+<$B> <ICE-JA:S2A-054#X8:1:B> You know what a diorama is
+
+<$Z> <X>
+<ICE-JA:S2A-054#X9:1:Z> Yes</X>
+
+<$A> <ICE-JA:S2A-054#X10:1:A> <}> <-> This is what a <.> health</.></-> <=> this is what a
+
+healthy</=></}> Jamaican coral reef is supposed to look
+
+like<{1><[1><&>background-speaker</&></[1>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X11:1:Z> Okay <[1>
+<ICE-JA:S2A-054#X12:1:Z> Oops<O>laughs</O></[1></{1></X>
+
+<$A> <ICE-JA:S2A-054#X13:1:A> <?> Could we</?> go down please
+
+<$Z> <X>
+<ICE-JA:S2A-054#X14:1:Z> Yeah<&>background-speaker</&><,,>
+<ICE-JA:S2A-054#X15:1:Z> So you said this is what a healthy <{> <[> coral reef should
+<ICE-JA:S2A-054#X16:1:Z> <}> <-> Is</-> <=> is</=></}></[> there still a healthy coral reef
+
+or<,> isn't there</X>
+
+<$A> <ICE-JA:S2A-054#X17:1:A> <[> This is a healthy coral reef <.> it</.></[></{>
+
+<$A> <ICE-JA:S2A-054#X18:1:A> Yes there is
+<ICE-JA:S2A-054#X19:1:A> Yes there is
+<ICE-JA:S2A-054#X20:1:A> But what we're trying to do with this<O>clears-throat</O> is teach
+
+people about corals and their importance <{1> <[1> to</[1> the environment so
+
+that when they go out<{2><[2><,></[2> diving swimming and they see this they
+
+leave it alone
+
+<$Z> <X>
+<ICE-JA:S2A-054#X21:1:Z> <[1> Mhm</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X22:1:Z> <[2> Mhm</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X23:1:Z> Yeah because they're very sensitive <{> <[> I know</[></X>
+
+<$A> <ICE-JA:S2A-054#X24:1:A> <[> They're very sensitive</[></{>
+<ICE-JA:S2A-054#X25:1:A> And a lot of the reasons why we have problems is because uhm lack
+
+of education<,>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X26:1:Z> That's right
+<ICE-JA:S2A-054#X27:1:Z> It looks beautiful</X>
+
+<$A> <ICE-JA:S2A-054#X28:1:A> We have a voice over that we play along with this telling
+
+people about it at the same time <{> <[> but<,></[> because of the time
+
+constraints
+
+<$Z> <X>
+<ICE-JA:S2A-054#X29:1:Z> <[> Aha excellent</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X30:1:Z> Yeah besides I'm more interested in non-recorded
+
+voices<O>chuckling</O>
+<ICE-JA:S2A-054#X31:1:Z> That personal touch<,></X><&>continuing-tour</&>
+
+<$A> <ICE-JA:S2A-054#X32:1:A> Sorry<,>
+<ICE-JA:S2A-054#X33:1:A> <}> <-> Show you</-> <=> show you</=></}> crocodile
+
+<$Z> <X>
+<ICE-JA:S2A-054#X34:1:Z> Actually I've come across one of those when they were
+
+alive<O>chuckles</O></X>
+
+<$A> <ICE-JA:S2A-054#X35:1:A> Okay
+
+<$Z> <X>
+<ICE-JA:S2A-054#X36:1:Z> I was swimming once and uh I thought it was a log but it was a
+
+crocodile</X><&>background-speaker</&>
+
+<$A> <ICE-JA:S2A-054#X37:1:A> Well to be honest the closest I've ever been to a crocodile
+
+is this<O>laughs</O>
+<ICE-JA:S2A-054#X38:1:A> Right
+<ICE-JA:S2A-054#X39:1:A> Even I work with them I still have a certain fear
+<ICE-JA:S2A-054#X40:1:A> But I'd like to show you one last thing before uh <?> you must
+
+leave</?><,,>
+<ICE-JA:S2A-054#X41:1:A> Is another one of Jamaica's treasures
+<ICE-JA:S2A-054#X42:1:A> The butterfly right here one in the centre <{> <[> number six</[>
+<ICE-JA:S2A-054#X43:1:A> This is the Giant Swallowtail Butterfly
+<ICE-JA:S2A-054#X44:1:A> Have you ever heard that before the name
+
+<$Z> <X>
+<ICE-JA:S2A-054#X45:1:Z> <[> Aha</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X46:1:Z> No no</X>
+
+<$A> <ICE-JA:S2A-054#X47:1:A> Okay
+
+<$Z> <X>
+<ICE-JA:S2A-054#X48:1:Z> It's huge</X>
+
+<$A> <ICE-JA:S2A-054#X49:1:A> Very
+<ICE-JA:S2A-054#X50:1:A> <}> <-> It's the second largest <unclear> words</unclear></-> <=>
+
+it's the second largest butterfly in the world</=></}> and it's only found in
+
+Jamaica
+<ICE-JA:S2A-054#X51:1:A> And it's largest butterfly in this hemisphere only found in
+
+Jamaica nowhere else <{> <[> in the world</[>
+
+<$B> <ICE-JA:S2A-054#X52:1:B> <[> I think</[></{> by comparison this is not the largest
+
+specimen that we have
+
+<$Z> <X>
+<ICE-JA:S2A-054#X53:1:Z> Okay so <}> <-> there</-> <=> they</=></}> come <{1> <[1> <,>
+
+</[1> even <{2> <[2> larger</[2></X>
+
+<$B> <ICE-JA:S2A-054#X54:1:B> <[1> <unclear> word</unclear></[></{>
+
+<$A> <ICE-JA:S2A-054#X55:1:A> <[2> Larger</[2></{2>
+
+<$B> <ICE-JA:S2A-054#X56:1:B> Yes
+
+<$Z> <X>
+<ICE-JA:S2A-054#X57:1:Z> Yes
+<ICE-JA:S2A-054#X58:1:Z> Okay<&>somebody-clearing-throat</&>
+<ICE-JA:S2A-054#X59:1:Z> They're very nice<,,></X>
+
+<$A> <ICE-JA:S2A-054#X60:1:A> That me <unclear> word</unclear> it
+<ICE-JA:S2A-054#X61:1:A> I wish we had more time
+<ICE-JA:S2A-054#X62:1:A> <{> <[> That could be</[> a real impressive tour
+
+<$Z> <X>
+<ICE-JA:S2A-054#X63:1:Z> <[> Me too</[></{><O>laughs</O></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X64:1:Z> Me too</X>
+
+<$A> <ICE-JA:S2A-054#X65:1:A> Thank you very much for coming
+
+<$Z> <X>
+<ICE-JA:S2A-054#X66:1:Z> Well thank you very much for showing me
+<ICE-JA:S2A-054#X67:1:Z> I</X><,>
+
+<$A> <ICE-JA:S2A-054#X68:1:A> I'm going to <?> forward you pictures</?>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X69:1:Z> Aha</X>
+
+<$C> <ICE-JA:S2A-054#X70:1:C> I'm going to ask one <{> <[> for you</[>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X71:1:Z> <[> Okay</[></{><,,>
+<ICE-JA:S2A-054#X72:1:Z> Thank you</X>
+
+<$A> <ICE-JA:S2A-054#X73:1:A> Thank you very much for coming
+
+<$C> <ICE-JA:S2A-054#X74:1:C> It was nice meeting you
+
+<$Z> <X>
+<ICE-JA:S2A-054#X75:1:Z> Thank you very much</X>
+
+<$C> <ICE-JA:S2A-054#X76:1:C> Take care
+<ICE-JA:S2A-054#X77:1:C> Alright
+
+<$Z> <X>
+<ICE-JA:S2A-054#X78:1:Z> Goodbye</X>
+
+<$D> <ICE-JA:S2A-054#X79:1:D> I promised that <}> <-> it</-> <=> it</=></}> appears
+
+<unclear> several words</unclear> a lot of information
+
+<$Z> <X>
+<ICE-JA:S2A-054#X80:1:Z> Well that's good because uhm as I said I'm interested in things
+
+anyway so</X>
+
+<$D> <ICE-JA:S2A-054#X81:1:D> Okay
+<ICE-JA:S2A-054#X82:1:D> We have as
+<ICE-JA:S2A-054#X83:1:D> Andrew's quite right way he put it that we just don't have enough
+
+time
+<ICE-JA:S2A-054#X84:1:D> So I give you an open air that they locked this gate just now
+<ICE-JA:S2A-054#X85:1:D> We're gonna go through there but <unclear> words</unclear>
+<ICE-JA:S2A-054#X86:1:D> Right
+<ICE-JA:S2A-054#X87:1:D> The shortest way is to go right back <{> <[> around on</[> the
+
+streets
+
+<$Z> <X>
+<ICE-JA:S2A-054#X88:1:Z> <[> Okay</[></{></X><&>omission-of-passage</&>
+
+<$D> <ICE-JA:S2A-054#X89:1:D> Okay you're familiar with these two buildings now we are
+
+going to this one
+
+<$Z> <X>
+<ICE-JA:S2A-054#X90:1:Z> Aha</X>
+
+<$D> <ICE-JA:S2A-054#X91:1:D> Uhm the National Library of Jamaica
+<ICE-JA:S2A-054#X92:1:D> Then next we're gonna go over to the museums division and back to
+
+this building back here that is the Junior Centres
+
+<$Z> <X>
+<ICE-JA:S2A-054#X93:1:Z> That's a huge complex</X>
+
+<$D> <ICE-JA:S2A-054#X94:1:D> Yes it is<&>omission-of-passage</&>
+
+<$D> <ICE-JA:S2A-054#X95:1:D> This is Colin Neita
+<ICE-JA:S2A-054#X96:1:D> Doctor Sand<&>omission-of-passage(long)</&><&>recording-
+
+interrupted:side-B</&>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X97:1:Z> Mhm</X>
+
+<$G> <ICE-JA:S2A-054#X98:1:G> This's much colder here now than it was before
+
+<$Z> <X>
+<ICE-JA:S2A-054#X99:1:Z> Okay</X>
+
+<$G> <ICE-JA:S2A-054#X100:1:G> <?> It didn't cost all of the uhm</?> general binding
+<ICE-JA:S2A-054#X101:1:G> We do most of conservation work down the bottom
+<ICE-JA:S2A-054#X102:1:G> We're working on letters a few maps<{><[><,></[> uhm photograph
+
+<unclear> words</unclear> and
+
+<$Z> <X>
+<ICE-JA:S2A-054#X103:1:Z> <[> Mhm</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X104:1:Z> You do photographs as well</X>
+
+<$G> <ICE-JA:S2A-054#X105:1:G> Yeah we don't really do the photograph actually we used to
+
+do<{><[><,></[> just just a little
+
+<$Z> <X>
+<ICE-JA:S2A-054#X106:1:Z> <[> But</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X107:1:Z> But the settings</X>
+
+<$G> <ICE-JA:S2A-054#X108:1:G> Yeah
+
+<$Z> <X>
+<ICE-JA:S2A-054#X109:1:Z> Ah and these are uh owned by <{1> <[1> the library</[1> they have
+
+photo albums and everything
+<ICE-JA:S2A-054#X110:1:Z> <{2> <[2> Uh that's beautiful</[2></X>
+
+<$G> <ICE-JA:S2A-054#X111:1:G> <[1> The library yes</[1></{1>
+
+<$G> <ICE-JA:S2A-054#X112:1:G> <[2> Yes
+<ICE-JA:S2A-054#X113:1:G> I think</[2></{2> they make copies of this so you can use the
+
+copies of series instead of originals
+
+<$Z> <X>
+<ICE-JA:S2A-054#X114:1:Z> Ah <{> <[> I see</[></X>
+
+<$G> <ICE-JA:S2A-054#X115:1:G> <[> <unclear> word(s)</unclear></[></{> different sections
+
+of Kingston and through the rural areas
+
+<$Z> <X>
+<ICE-JA:S2A-054#X116:1:Z> Ah different <{> <[> <unclear> word</unclear></[></X>
+
+<$G> <ICE-JA:S2A-054#X117:1:G> <[> That's</[></{> right
+
+<$Z> <X>
+<ICE-JA:S2A-054#X118:1:Z> Oh that's wonderful</X><,>
+
+<$G> <ICE-JA:S2A-054#X119:1:G> Victoria market orange street
+<ICE-JA:S2A-054#X120:1:G> Victoria market
+<ICE-JA:S2A-054#X121:1:G> <.> Victor</.> this is orange street in <?>
+
+Barbadara</?><{1><[1><,></[1> <?> you've passed there<?> <{2> <[2> <unclear>
+
+words</unclear></[2> Marvin street <{3> <[3> is that interesting for you</[3>
+<ICE-JA:S2A-054#X122:1:G> So it's quite a while
+
+<$Z> <X>
+<ICE-JA:S2A-054#X123:1:Z> <[1> Mhm</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X124:1:Z> <[2> Yes
+<ICE-JA:S2A-054#X125:1:Z> Right</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X126:1:Z> <[3> Oh in eighteen ninety-eight</[3></{3></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X127:1:Z> But <}> <-> the</-> <=> the</=></}> pictures are in excellent
+
+condition</X>
+
+<$G> <ICE-JA:S2A-054#X128:1:G> Yes
+
+<$Z> <X>
+<ICE-JA:S2A-054#X129:1:Z> Wonderful hm</X>
+
+<$G> <ICE-JA:S2A-054#X130:1:G> So it's gonna be restore not just the album and keep it as
+
+it is
+<ICE-JA:S2A-054#X131:1:G> I wanna make copies of these so you can use the copies instead of
+
+originals
+
+<$Z> <X>
+<ICE-JA:S2A-054#X132:1:Z> Sensible<,,></X>
+
+<$G> <ICE-JA:S2A-054#X133:1:G> These are here like pamphlets that are going in that
+
+pamphlet collection
+<ICE-JA:S2A-054#X134:1:G> <?> They're not finished quite yet</?><,> but actually they've
+
+just put them on the covers
+<ICE-JA:S2A-054#X135:1:G> You use like uhm mandala that printing stuff uhm some photo
+
+copies
+
+<$Z> <X>
+<ICE-JA:S2A-054#X136:1:Z> <[> The government</[></{> <{1> <[1> printings</[1> and things
+
+<{2> <[2> and that</[2></X>
+
+<$G> <ICE-JA:S2A-054#X137:1:G> <[1> Yeah</[1></{1>
+
+<$G> <ICE-JA:S2A-054#X138:1:G> <[2> <}> <-> <?> Up</?></-> <=> upstairs</=></[2></{2><,,>
+<ICE-JA:S2A-054#X139:1:G> You know it normally goes in the pamphlet boxes upstairs
+
+<$Z> <X>
+<ICE-JA:S2A-054#X140:1:Z> Alright</X><&>background-question</&>
+
+<$G> <ICE-JA:S2A-054#X141:1:G> <?> Old yeah</?> yes outdated guillotine <?> stilling
+
+with</?> punish and still running have to service it regular
+<ICE-JA:S2A-054#X142:1:G> <{1> <[1> You</[1> know but nobody has to come in and work on it
+
+so which is good <O> laughter</O>
+<ICE-JA:S2A-054#X143:1:G> You know this is a scroll from somebody's collection that came in
+
+now I just to do some work on it
+<ICE-JA:S2A-054#X144:1:G> <unclear> word</unclear> just fold <?>
+
+them/him</?><{2><[2><,></[2> and they got broken up in pieces<{3><[3><,></[3>
+
+so what is actually doing is us <}> <-> restoring back the</-> <=> putting it
+
+back together</=></}> straightening the sections that were torn <{4> <[4>
+
+and</[4> and is gonna fill out you know the sections here <{5> <[5> that are
+
+missing</[5> <{6> <[6> <unclear> words</unclear></[6>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X145:1:Z> <[1> Yeah</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X146:1:Z> <[2> Yes</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X147:1:Z> <[3> Aha</[3></{3></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X148:1:Z> <[4> And</[4></{4></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X149:1:Z> <[5> Yeah</[5></{5></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X150:1:Z> <[6> But will that go back</[6></{6> to the private collection or
+
+will that be part of</X>
+
+<$G> <ICE-JA:S2A-054#X151:1:G> The library
+<ICE-JA:S2A-054#X152:1:G> No I think this is private collection I think probably what they
+
+do is probably microfilm it upstairs which is what they normally
+
+do<{1><[1><,></[1>
+<ICE-JA:S2A-054#X153:1:G> They get that copy of it and then they send it back to the owners
+
+<$Z> <X>
+<ICE-JA:S2A-054#X154:1:Z> <[1> Yeah</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X155:1:Z> And <}> <-> you</-> <=> you</=></}> do needle work as well</X>
+
+<$G> <ICE-JA:S2A-054#X156:1:G> Well what you use a needle to do is to mark the
+
+tissue<{1><[1><,> so you</[1> can get that
+<ICE-JA:S2A-054#X157:1:G> You can <?> need</?> that water tear that he's doing now or you
+
+can <?> use</?> a needle depends on which one is much easier
+<ICE-JA:S2A-054#X158:1:G> <{2> <[2> So what he's gonna do</[2> he's using the water tear
+
+which is much easier to move and <?> find out</?><,>
+<ICE-JA:S2A-054#X159:1:G> Normally do it under lighting but I'm using one inside here know
+
+how <?> to do it</?><O>laughs</O>
+<ICE-JA:S2A-054#X160:1:G> He doesn't want to use the other one because this much bigger
+
+than a smaller one <?> of them</?> so
+
+<$Z> <X>
+<ICE-JA:S2A-054#X161:1:Z> <[1> Okay</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X162:1:Z> <[2> I see</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X163:1:Z> Aha aha is a huge thing</X><&>phone</&>
+
+<$G> <ICE-JA:S2A-054#X164:1:G> <{> <[> Right </[>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X165:1:Z> <[> Yeah</[></{></X>
+
+<$G> <ICE-JA:S2A-054#X166:1:G> Here's where we come to that letter room <unclear>
+
+word</unclear> in five <?> sentences</?>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X167:1:Z> Are they still used</X>
+
+<$G> <ICE-JA:S2A-054#X168:1:G> Yes we just got the <unclear> words</unclear>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X169:1:Z> They look brand-new</X>
+
+<$G> <ICE-JA:S2A-054#X170:1:G> Yes they're new and <?> also these are zinc</?> but they
+
+have let it <{1> <[1> we're trying</[1> yeah we are trying to get rid of them
+<ICE-JA:S2A-054#X171:1:G> So we want a lot more of those if we could have brass it'd be
+
+great <{2> <[2> brass</[2> types
+
+<$Z> <X>
+<ICE-JA:S2A-054#X172:1:Z> <[1> You have lead ones as well</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X173:1:Z> <[2> Okay so</[2></{2><,></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X174:1:Z> brass is the best</X>
+
+<$G> <ICE-JA:S2A-054#X175:1:G> Yeah best
+
+<$Z> <X>
+<ICE-JA:S2A-054#X176:1:Z> Mhm</X>
+
+<$G> <ICE-JA:S2A-054#X177:1:G> And this is another uhm set of old newspapers
+<ICE-JA:S2A-054#X178:1:G> This is a <?> bang</?> years ago uhm it's from nineteen
+
+sixty-nine from somebody's personal collection
+<ICE-JA:S2A-054#X179:1:G> Apparently he had these and he want them to restored it so we're
+
+just repairing them<{1><[1><,></[1> put locks in them and if you're doing <?>
+
+dehydrafication</?> process then but the paper is not the best quality cos
+
+<{2> <[2> newspapers</[2>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X180:1:Z> <[1> Aha</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X181:1:Z> <[2> Newspapers</[2></{2> usually <{1> <[1> yeah I know all about
+
+that</[1>
+<ICE-JA:S2A-054#X182:1:Z> I tried scanning in newspapers at a point and <}> <-> it</-> <=>
+
+it's</=></}> a mess<{2><[2><,></[2> because you all see through <{3> <[3>
+
+what the other side</[3> has and the typeset isn't even and oh<{4><[4><,> yes
+
+yeah</[4></X>
+
+<$G> <ICE-JA:S2A-054#X183:1:G> <[1> Yeah Not not not good</[1></[1>
+
+<$G> <ICE-JA:S2A-054#X184:1:G> <[2> <.> Ac</.> <.> ac</.></[2></[2>
+
+<$G> <ICE-JA:S2A-054#X185:1:G> <[3> The colour
+<ICE-JA:S2A-054#X186:1:G> Right</[3></{3>
+
+<$G> <ICE-JA:S2A-054#X187:1:G> <[4> Right that's the problem</[4></{4>
+
+<$G> <ICE-JA:S2A-054#X188:1:G> So just trying to repair this and put it back together
+<ICE-JA:S2A-054#X189:1:G> We don't know aren't sure how he wants it cos he have this
+
+section and there's another section which is much bigger which is actually a
+
+totally different size
+
+<$Z> <X>
+<ICE-JA:S2A-054#X190:1:Z> Oh</X>
+
+<$G> <ICE-JA:S2A-054#X191:1:G> <O> chuckles</O>So this side is actually the bigger one
+
+which is the idio<unclear>word</unclear> which he has this set and that set
+
+and I don't know if he wants it <?> both</?> together or I'll probably do
+
+them separate
+<ICE-JA:S2A-054#X192:1:G> <{> <[> But it's</[> not a full Gleaner it's just this is all it
+
+is
+
+<$Z> <X>
+<ICE-JA:S2A-054#X193:1:Z> <[> Probably</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X194:1:Z> Oh it's just</X>
+
+<$G> <ICE-JA:S2A-054#X195:1:G> <O> chuckles</O>Just that
+
+<$Z> <X>
+<ICE-JA:S2A-054#X196:1:Z> Okay</X>
+
+<$G> <ICE-JA:S2A-054#X197:1:G> A few pieces
+
+<$Z> <X>
+<ICE-JA:S2A-054#X198:1:Z> Yeah</X>
+
+<$G> <ICE-JA:S2A-054#X199:1:G> You know so we wanna use and put everything together this
+
+with that one
+<ICE-JA:S2A-054#X200:1:G> If he wants it that way and then put it in a book form so it can
+
+keep it or register it and sell it to a <unclear> word</unclear><O>laughs</O>
+
+and you know
+<ICE-JA:S2A-054#X201:1:G> But here we do like our washing and so forth<{><[><,></[> the
+
+gasification process
+
+<$Z> <X>
+<ICE-JA:S2A-054#X202:1:Z> </[> Aha</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X203:1:Z> Do you also have a lot of parchment uh</X>
+
+<$G> <ICE-JA:S2A-054#X204:1:G> Yes we do
+
+<$Z> <X>
+<ICE-JA:S2A-054#X205:1:Z> Except from <{> <[> <unclear> word</unclear> <?> school</?>
+
+obviously is</[></X>
+
+<$G> <ICE-JA:S2A-054#X206:1:G> <[> <unclear> word</unclear> the schools is yes</[></{> what
+
+the schools yes
+
+<$Z> <X>
+<ICE-JA:S2A-054#X207:1:Z> Aha</X>
+
+<$G> <ICE-JA:S2A-054#X208:1:G> <unclear> word</unclear> collections
+<ICE-JA:S2A-054#X209:1:G> And those are nice to work on you know <{1> <[1> that's
+
+strange</[1> that leave it<{2><[2><O>laughs</O></[2>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X210:1:Z> <[1> Yeah I can see that</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X211:1:Z> <[2> Yeah <}> <-> you can</-> <=> you can</=></}> <?> give a dump
+
+of things more</?></[2></{2> <{1> <[1> yeah yeah yeah<,></[1>
+<ICE-JA:S2A-054#X212:1:Z> That's right excellent material<{2><[2><,></[2>
+<ICE-JA:S2A-054#X213:1:Z> Well thank you for showing me around
+<ICE-JA:S2A-054#X214:1:Z> I have Mister Neita who is <{3> <[3> here rushing me along
+
+and</[3> <}> <-> it's</-> <=> it's</=></}> for my own best I
+
+know</X><O>all-laugh</O>
+
+<$G> <ICE-JA:S2A-054#X215:1:G> <[1> And it won't tear</[1></{1>
+
+<$G> <ICE-JA:S2A-054#X216:1:G> <[2> Yeah</[2></{2>
+
+<$G> <ICE-JA:S2A-054#X217:1:G> <[3> <unclear> words</unclear> true</[3></{3>
+
+<$E> <ICE-JA:S2A-054#X218:1:E> Okay then<ICE-JA:S2A-054#>Alright
+
+<$Z> <X>
+<ICE-JA:S2A-054#X219:1:Z> Thank you</X>
+
+<$E> <ICE-JA:S2A-054#X220:1:E> Bye-bye see you later
+
+<$Z> <X>
+<ICE-JA:S2A-054#X221:1:Z> Okay</X><&>passage-omitted</&>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X222:1:Z> Thank you for having me<,> oh</X>
+
+<$E?> <ICE-JA:S2A-054#X223:1:E> One of the main traits of our architectures is that we have
+
+a <?> lot of troubles</?>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X224:1:Z> Oh that's good
+<ICE-JA:S2A-054#X225:1:Z> As long as we don't<,> knock over any flower pots</X>
+
+<$E?> <ICE-JA:S2A-054#X226:1:E> No we won't knock over any flower pots
+<ICE-JA:S2A-054#X227:1:E> Christine can you <unclear> words</unclear>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X228:1:Z> He's already waiting for us</X>
+
+<$E?> <ICE-JA:S2A-054#X229:1:E> Yes
+
+<$Z> <X>
+<ICE-JA:S2A-054#X230:1:Z> Oh oh oh</X>
+
+<$E?> <ICE-JA:S2A-054#X231:1:E> <-> How is</-> <=> uh no hold on how is</=> it that we're
+
+supposed to do this <{> <[> because we're not running</[>
+<ICE-JA:S2A-054#X232:1:E> Uhm actually it was museum's first
+
+<$Z> <X>
+<ICE-JA:S2A-054#X233:1:Z> <[> Uh you check your itinerary</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X234:1:Z> Okay</X>
+
+<$E?> <ICE-JA:S2A-054#X235:1:E> There is this cabin because uhm<&>background-talking</&>
+<ICE-JA:S2A-054#X236:1:E> Yeah we're running badly back in time
+
+<$Z> <X>
+<ICE-JA:S2A-054#X237:1:Z> Ah you know</X><&>loud-traffic</&>
+
+<$E> <ICE-JA:S2A-054#X238:1:E> <}> <-> This is</-> <=> this is</=></}> something that
+
+everybody has expressed to me
+<ICE-JA:S2A-054#X239:1:E> Is very very difficult to do these uh whirl wind tours
+
+<$Z> <X>
+<ICE-JA:S2A-054#X240:1:Z> I know because you get</X>
+
+<$E> <ICE-JA:S2A-054#X241:1:E> There's so much
+
+<$Z> <X>
+<ICE-JA:S2A-054#X242:1:Z> Yeah <{> <[> you get</[>
+<ICE-JA:S2A-054#X243:1:Z> Because it's very interesting and you're</X>
+
+<$E> <ICE-JA:S2A-054#X244:1:E> <[> There's so much</[></{><&>woman-talking</&>
+
+<$E> <ICE-JA:S2A-054#X245:1:E> Hi Miss <unclear> name</unclear> how are you doing
+
+<$Z> <X>
+<ICE-JA:S2A-054#X246:1:Z> You want to know what they have to say and</X>
+
+<$E> <ICE-JA:S2A-054#X247:1:E> They<&>background-noise</&><,>
+<ICE-JA:S2A-054#X248:1:E> Can you call Mister Modest for me
+
+please<&>opening-of-doors</&><,,>
+<ICE-JA:S2A-054#X249:1:E> This is the headquarters of the museum's division
+
+<$Z> <X>
+<ICE-JA:S2A-054#X250:1:Z> Aha</X>
+
+<$E> <ICE-JA:S2A-054#X251:1:E> A'right
+<ICE-JA:S2A-054#X252:1:E> Uhm <}> <-> I I cannot do them</-> <=> I cannot do what they have
+
+here and <?> just as fine but I</?> can tell you that in addition to their
+
+research and preservation work they have a display here which is what Mister
+
+Modest is gonna tell you about
+<ICE-JA:S2A-054#X253:1:E> This one if you have the time you would have to come back and see
+
+this one
+<ICE-JA:S2A-054#X254:1:E> It's very fascinating in a sense that it touches on Jamaican uhm
+
+religion
+
+<$Z> <X>
+<ICE-JA:S2A-054#X255:1:Z> Mhm
+<ICE-JA:S2A-054#X256:1:Z> Because <}> <-> it</-> <=> it</=></}> looks to me as if it was
+
+something to do with Maya or obeah or whatever <{1> <[1> of</[1> the sort I'm
+
+not an expert on these religions <{2> <[2> I think</[2> but uh</X>
+
+<$E> <ICE-JA:S2A-054#X257:1:E> <[1> Uhm</[1></{1>
+
+<$E> <ICE-JA:S2A-054#X258:1:E> <[2> Okay</[2></{2>
+
+<$E> <ICE-JA:S2A-054#X259:1:E> What it really focuses on is a religion what we call Revival
+
+<$Z> <X>
+<ICE-JA:S2A-054#X260:1:Z> Okay<{><[><,></[>
+<ICE-JA:S2A-054#X261:1:Z> Mhm
+<ICE-JA:S2A-054#X262:1:Z> Yes I've heard about that</X>
+
+<$E> <ICE-JA:S2A-054#X263:1:E> <[> A'right</[></{>
+
+<$E> <ICE-JA:S2A-054#X264:1:E> Okay this is a recreation of a Revival yard<,,> and <}> <->
+
+it is</-> <=> it is</=></}> very very authentic and people who have been to
+
+actual Revival yards who have come here and seen it have given very high
+
+marks for authenticity<&>$H-approaching-talking</&>Hello Mister Modest
+
+<$H> <ICE-JA:S2A-054#X265:1:H> Hello
+
+<$Z> <X>
+<ICE-JA:S2A-054#X266:1:Z> Hello</X>
+
+<$H> <ICE-JA:S2A-054#X267:1:H> Nice to meet you again
+
+<$Z> <X>
+<ICE-JA:S2A-054#X268:1:Z> Good to see you</X>
+
+<$E> <ICE-JA:S2A-054#X269:1:E> Sorry we're late in getting to you <{1> <[1> but you
+
+know</[1> you know how it <{2> <[2> is with these tours</[2>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X270:1:Z> <[1> Yeah <unclear> words</unclear></[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X271:1:Z> <[2> Yeah</[2></{2> everybody has a lot to say and I'm interested
+
+in what they say so we get</X>
+
+<$H> <ICE-JA:S2A-054#X272:1:H> Really I'm happy that you're interested
+
+<$Z> <X>
+<ICE-JA:S2A-054#X273:1:Z> Yes I am</X>
+
+<$H> <ICE-JA:S2A-054#X274:1:H> How long are you here then
+
+<$Z> <X>
+<ICE-JA:S2A-054#X275:1:Z> Uh this time only two weeks because I have to go back to my
+
+university and teach
+<ICE-JA:S2A-054#X276:1:Z> The term has already started but uhm I'll be back at you know
+
+various intervals</X>
+
+<$H> <ICE-JA:S2A-054#X277:1:H> The university's in Munich
+
+<$Z> <X>
+<ICE-JA:S2A-054#X278:1:Z> No in Freiburg</X>
+
+<$H> <ICE-JA:S2A-054#X279:1:H> In Freiburg okay
+<ICE-JA:S2A-054#X280:1:H> Uhm well I'm going to do is uhm to introduce the Museums Division
+
+a little and <unclear> word</unclear> to<{1><[1><,></[1> have the <unclear>
+
+word</unclear> who is what I call in charge of popular
+
+culture<{2><[2><,></[2> <}> <-> and and and</-> <{3> <[3> <=>
+
+and</}></}><,></[3> folk <{4> <[4> <unclear> words</unclear></[4> put on for
+
+exhibitions
+
+<$Z> <X>
+<ICE-JA:S2A-054#X281:1:Z> <[1> Mhm</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X282:1:Z> <[2> Mhm</[2></{2></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X283:1:Z> <[3> Hello</[3></X>
+
+<$?> <ICE-JA:S2A-054#X284:1:?> <[3> Morning</[3>
+
+<$?> <ICE-JA:S2A-054#X285:1:?> <[3> Morning</[3></{3>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X286:1:Z> <[4> Okay</[4></{4></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X287:1:Z> Yeah
+<ICE-JA:S2A-054#X288:1:Z> Good</X><&>omission-of-passage(S2A-055)</&>
+
+<$E> <ICE-JA:S2A-054#X289:1:E> One of the fascinating things of our building and perhaps
+
+it's a little bit more something to tell you
+<ICE-JA:S2A-054#X290:1:E> Uhm this building up here<{><[><,></[> there was a time when it
+
+was used for <}> <- > as</-> <=> a</=></}> entirely different purpose and <}>
+
+<-> the</-> <=> the</=></}> debate at one point it was the question was it a
+
+hostel or was it a novel kind of <?> L</?>
+
+<$Z> <X> <[> Mhm</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X291:1:Z> Establishment</X>
+
+<$E> <ICE-JA:S2A-054#X292:1:E> Establishment
+
+<$Z> <X>
+<ICE-JA:S2A-054#X293:1:Z> Yes I see
+<ICE-JA:S2A-054#X294:1:Z> Mhm</X>
+
+<$E> <ICE-JA:S2A-054#X295:1:E> And so as much as Jamaican history is rather
+
+colourful<O>$X-laughing</O> the history of our own facility here has a bit of
+
+interest <{> <[> to it as well </[>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X296:1:Z> <[> For</[></{> such a respectable looking building</X>
+
+<$E> <ICE-JA:S2A-054#X297:1:E> Yes <}> <-> it is</-> <=> it is</=></}> isn't
+
+it<&>omission-of-passage</&>
+<ICE-JA:S2A-054#X298:1:E> As you see just the size of the things around you tells you that
+
+this is really engineered for children
+
+<$Z> <X>
+<ICE-JA:S2A-054#X299:1:Z> Yeah yeah excellent</X>
+
+<$E> <ICE-JA:S2A-054#X300:1:E> Alright
+<ICE-JA:S2A-054#X301:1:E> Okay Mister Duffus
+
+<$L> <ICE-JA:S2A-054#X302:1:L> Yes
+
+<$K> <ICE-JA:S2A-054#X303:1:K> We have finally arrived as you see
+
+<$L> <ICE-JA:S2A-054#X304:1:L> I realise the kind <{> <[> <unclear> words</unclear></[>
+
+<$K> <ICE-JA:S2A-054#X305:1:K> <[> Very very we're on time</[>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X306:1:Z> <[> Yeah</[></{></X>
+
+<$L> <ICE-JA:S2A-054#X307:1:L> Mhm
+<ICE-JA:S2A-054#X308:1:L> Well
+<ICE-JA:S2A-054#X309:1:L> This is the Junior Centre main
+<ICE-JA:S2A-054#X310:1:L> Well this is a library right
+<ICE-JA:S2A-054#X311:1:L> Incidentally we have another Junior Centre which is in Greater
+
+Portmore Saint Catherine<{><[><,></[> right but this is the parent body so to
+
+speak
+<ICE-JA:S2A-054#X312:1:L> And this is our library which we incidentally got uhm refurbished
+
+and reorganized and everything thus over <?> here it go outside</?>
+<ICE-JA:S2A-054#X313:1:L> Alright
+<ICE-JA:S2A-054#X314:1:L> And there we have a <}> <-> <.> l</.></-> <=> librarian</=></}>
+
+in place who is going out and uh over outreach programme <?> today</?> Miss
+
+Thomas <?> Thompson</?> rather
+<ICE-JA:S2A-054#X315:1:L> And this is our office so the uhm library assistance
+<ICE-JA:S2A-054#X316:1:L> We have a programme's manager office further down but uhm we have
+
+to get a replacement and uhm this is our offices for our secretaries
+<ICE-JA:S2A-054#X317:1:L> Uhm<&>knocks-on-door</&>
+<ICE-JA:S2A-054#X318:1:L> Who is there<&>opens-the-door</&>
+<ICE-JA:S2A-054#X319:1:L> Oh Miss Morgan this is one of our worker here
+
+<$Z> <X>
+<ICE-JA:S2A-054#X320:1:Z> <[> Mhm</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X321:1:Z> Hello</X>
+
+<$L> <ICE-JA:S2A-054#X322:1:L> That's Miss <{> <[> <@> Gordon</@></[>
+
+<$M> <ICE-JA:S2A-054#X323:1:M> <[> Hi</[></{>
+
+<$K?> <ICE-JA:S2A-054#X324:1:K> Morning morning
+
+<$L> <ICE-JA:S2A-054#X325:1:L> Doctor <{> <[> Sand</[>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X326:1:Z> <[> Morning</[></{></X>
+
+<$L> <ICE-JA:S2A-054#X327:1:L> And uhm let me take you upstairs
+<ICE-JA:S2A-054#X328:1:L> To try to showcase some of the things that we do uhm like <}> <->
+
+creative</-> <=> in the creative</=></}> crafts
+<ICE-JA:S2A-054#X329:1:L> This is some of the natives work right here
+<ICE-JA:S2A-054#X330:1:L> <?> we do</?> needle work and one question is about all this is
+
+that this is all the <unclear> word</unclear> case
+<ICE-JA:S2A-054#X331:1:L> Mainly library in the summer workshops are like you know after
+
+school
+
+<$Z> <X>
+<ICE-JA:S2A-054#X332:1:Z> Aha<,></X>
+
+<$L> <ICE-JA:S2A-054#X333:1:L> And this is the hall which we have recently dedicated to
+
+founder the Junior Centre uh the late Robert Verity who was the person was
+
+instrumental in fashioning this of uhm something that the boys town thing
+
+like
+
+<$Z> <X>
+<ICE-JA:S2A-054#X334:1:Z> Aha aha</X>
+
+<$L> <ICE-JA:S2A-054#X335:1:L> Right now this is some of the art work
+<ICE-JA:S2A-054#X336:1:L> We do our drama classes here creative dancing and uhm story
+
+telling
+
+<$E> <ICE-JA:S2A-054#X337:1:E> And <}> <-> Mister <.> m</.></-> <=> Mister Duffus</=></}>
+
+this is actually being quite modest in the sense that the Junior Centre
+
+programme has been very very successful in our local uhm festival competition
+
+<$L> <ICE-JA:S2A-054#X338:1:L> Oh yes
+
+<$E> <ICE-JA:S2A-054#X339:1:E> They have gotten
+<ICE-JA:S2A-054#X340:1:E> How many golds is it
+
+<$L> <ICE-JA:S2A-054#X341:1:L> Well they've gotten quite a number this year you know but
+
+last year
+<ICE-JA:S2A-054#X342:1:L> This will give you an indication I think at the <unclear>
+
+words</unclear> this winter <{1> <[1> <unclear> words</unclear></[1> <?> so
+
+this is more in the Junior Centre</?>
+<ICE-JA:S2A-054#X343:1:L> But we did quite well in festival this year you
+
+know<{2><[2><,></[2> uhm we <}> <-> win</-> <=> won</=></}> a number of
+
+medals bronze silver gold you know<{3><[3><,></[3>
+<ICE-JA:S2A-054#X344:1:L> They have been in drumming and in the dancing area
+
+<$Z> <X>
+<ICE-JA:S2A-054#X345:1:Z> <[1> Okay <unclear> word(s)</unclear></[1></{1></X>
+
+<$E> <ICE-JA:S2A-054#X346:1:E> <[2> Mhm</[2></{2>
+
+<$E> <ICE-JA:S2A-054#X347:1:E> <[3> Mhm</[3></{3>
+
+<$E> <ICE-JA:S2A-054#X348:1:E>
+<ICE-JA:S2A-054#X349:1:E> And there has been some interests in the media to come <{> <[>
+
+and see the Junior Centre</[> as to carry their performances to the rest of
+
+the world
+
+<$Z> <X>
+<ICE-JA:S2A-054#X350:1:Z> <[> Mhm mhm mhm</[></{></X>
+
+<$L> <ICE-JA:S2A-054#X351:1:L> Oh yeah is
+
+<$N> <ICE-JA:S2A-054#X352:1:N> Good morning
+
+<$E> <ICE-JA:S2A-054#X353:1:E> <{> <[> Just like pure fortune</[>
+
+<$L> <ICE-JA:S2A-054#X354:1:L> <[> Miss Phyllis</[></{> the director
+
+<$Z> <X>
+<ICE-JA:S2A-054#X355:1:Z> Good morning</X>
+
+<$N> <ICE-JA:S2A-054#X356:1:N> Hi good to have you
+
+<$Z> <X>
+<ICE-JA:S2A-054#X357:1:Z> <{> <[> Nice to meet you</[></X>
+
+<$L> <ICE-JA:S2A-054#X358:1:L> <[> <?> I'm sure we'll</?></[></{> take over from
+
+here<{><[><O>laughs</O></[>
+
+<$N> <ICE-JA:S2A-054#X359:1:N> <[> No I see I <unclear> words</unclear> just a bit and
+
+<unclear> words</unclear></[><[><O>$X-laughs</O></[></{>
+
+<$E> <ICE-JA:S2A-054#X360:1:E> Doctor Sand if you remember <}> <-> the</-> <=> the</=></}>
+
+uhm tour that we're gonna do<{1><[1><,></[1> how you want to answer<,>
+<ICE-JA:S2A-054#X361:1:E> You want to answer
+<ICE-JA:S2A-054#X362:1:E> That's why <unclear> word</unclear<{2><[2><,></[2>
+<ICE-JA:S2A-054#X363:1:E> Doctor Sand is the linguist with the university <.> ty</.> of
+
+Freiburg and she's here doing her study on linguistics
+<ICE-JA:S2A-054#X364:1:E> And because we are so involved in the business of Jamaican
+
+history and <{3> <[3> culture</[3> it would be a very good opportunity for
+
+her to be <{4> <[4> here</[4>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X365:1:Z> <[1> Mh uh</[1></{1></X>
+
+<$N> <ICE-JA:S2A-054#X366:1:N> <[2> Okay</[2></{2>
+
+<$N> <ICE-JA:S2A-054#X367:1:N> <[3> And culture
+<ICE-JA:S2A-054#X368:1:N> Mhm mhm</[3></{3>
+
+<$N> <ICE-JA:S2A-054#X369:1:N> <[4> Okay fine</[4></{4>
+
+<$N> <ICE-JA:S2A-054#X370:1:N> So when are you coming to the centre and see the children
+
+<$Z> <X>
+<ICE-JA:S2A-054#X371:1:Z> <{1> <[1> Ah</[1>
+<ICE-JA:S2A-054#X372:1:Z> Well <}> <-> I've</-> <=> I'd</=></}> loved <{2> <[2> to do
+
+that</[2> but probably have to be postponed to my next visit because I'm
+
+bound to leave on Friday</X>
+
+<$E> <ICE-JA:S2A-054#X373:1:E> <[1> The the</[1></{1>
+
+<$E> <ICE-JA:S2A-054#X374:1:E> <[2> Wish</[2></{2>
+
+<$N> <ICE-JA:S2A-054#X375:1:N> Oh <{> <[> okay how <.> sh</.></[>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X376:1:Z> <[> Yes I know</[></{> I know</X>
+
+<$L> <ICE-JA:S2A-054#X377:1:L> Because in the afternoons when they have a <{> <[> <unclear>
+
+several words</unclear></[>
+
+<$N> <ICE-JA:S2A-054#X378:1:N> <[> The buzz of excitement is here</[></{> in the afternoon
+
+<$E> <ICE-JA:S2A-054#X379:1:E> It's very very quiet until about two o'clock
+
+<$Z> <X>
+<ICE-JA:S2A-054#X380:1:Z> Yeah</X>
+
+<$E> <ICE-JA:S2A-054#X381:1:E> <{> <[> Uhm</[>
+
+<$E> <ICE-JA:S2A-054#X382:1:E> <[> Then</[></{> the children come out of school
+
+<$E> <ICE-JA:S2A-054#X383:1:E> As by about two thirty you cannot hear yourself
+
+thinking<O>$X-laughing</O><O>$O- commentating</O>
+<ICE-JA:S2A-054#X384:1:E> I'm exaggerating but <{> <[> <}> <.> i i</.> <-> it gets</-> <=>
+
+it gets</=></}></[> really noisy and <unclear> word</unclear>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X385:1:Z> <[> Yeah yeah</[></{></X>
+
+<$N> <ICE-JA:S2A-054#X386:1:N> Okay
+
+<$Z> <X>
+<ICE-JA:S2A-054#X387:1:Z> And you have uh like permanent groups of children at various age
+
+<{> <[> <,> groups</[></X>
+
+<$N> <ICE-JA:S2A-054#X388:1:N> <[> We have different ages</[></{> but we find that uhm the
+
+turn over kind of high <{1> <[1> some</[1> come this term some will come next
+
+term <{2> <[2> <unclear> word</unclear></[2>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X389:1:Z> <[1> Yeah</[1></{1></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X390:1:Z> <[2> But</[2></{2> when you prepare for a competition you will
+
+<{1> <[1> have a group that will stay together for a couple of</[1></X>
+
+<$N> <ICE-JA:S2A-054#X391:1:N> <[1> Yes which we are keeping right for the <{2> <[2>
+
+competition</[2></[1></{1>
+
+<$L> <ICE-JA:S2A-054#X392:1:L> <[2> Yes</[2>
+
+<$E> <ICE-JA:S2A-054#X393:1:E> <[2> Yes</[2></{2> <}> <-> the</-> <=> the</=></}>
+
+performing <?> kids</?> stays with the concept
+
+<$Z> <X>
+<ICE-JA:S2A-054#X394:1:Z> Yeah
+<ICE-JA:S2A-054#X395:1:Z> Okay</X>
+
+<$N> <ICE-JA:S2A-054#X396:1:N> So how the gentlemen are taking care of you
+
+<$Z> <X>
+<ICE-JA:S2A-054#X397:1:Z> Yes yes yes yes yes
+<ICE-JA:S2A-054#X398:1:Z> I have Mister Neita here rushing me from place to place which
+
+is<{1><[1><,></[1><[1><O>$O-laughs</O></[1></{1> of course the main
+
+objective<{2><[2><,></[2>
+<ICE-JA:S2A-054#X399:1:Z> So<{3><[3><,></[3> I have to be grateful</X>
+
+<$N> <ICE-JA:S2A-054#X400:1:N> <[2> Yes</[2></{2>
+
+<$L> <ICE-JA:S2A-054#X401:1:L> <[3> Okay</[3></{3>
+
+<$N> <ICE-JA:S2A-054#X402:1:N> Okay
+<ICE-JA:S2A-054#X403:1:N> Come again
+
+<$Z> <X>
+<ICE-JA:S2A-054#X404:1:Z> I'll do my best <{> <[> <,> </[> because this looks</X>
+
+<$N> <ICE-JA:S2A-054#X405:1:N> <[> Okay
+<ICE-JA:S2A-054#X406:1:N> Alright</[></{> <unclear> several words</unclear><&>omission-of-
+
+passage</&>
+
+<$L> <ICE-JA:S2A-054#X407:1:L> <}> <-> The</-> <=> the</=></}> <}> <-> <.> co<.></-> <=>
+
+compound</=></}> here is very grateful
+
+<$O> <ICE-JA:S2A-054#X408:1:O> <}> <-> But the the</-> <=> but <}> <-> the</-> <=>
+
+the</=></}></=></}> land what <?> terms get through</?> public subscription
+
+<$L> <ICE-JA:S2A-054#X409:1:L> Yes but in the former year that after the term started they
+
+were <unclear> word</unclear>
+<ICE-JA:S2A-054#X410:1:L> But young people to you know meet and you know have discussions
+
+and this is what alright <?> we told of</?> that
+
+<$?> <ICE-JA:S2A-054#X411:1:?> <?> An interesting thing</?>
+
+<$L> <ICE-JA:S2A-054#X412:1:L> And that was with benefactors and the Jamaican welfare
+
+<unclear> several words</unclear> to the fact yeah
+
+<$Z> <X>
+<ICE-JA:S2A-054#X413:1:Z> Aha</X>
+
+<$L> <ICE-JA:S2A-054#X414:1:L> You know
+
+<$O> <ICE-JA:S2A-054#X415:1:O> Alright <{1> <[1> Mister Duffus</[1>
+<ICE-JA:S2A-054#X416:1:O> Thank you <{2> <[2> very much</[2>
+
+<$L> <ICE-JA:S2A-054#X417:1:L> <[1> Okay</[1></{1>
+
+<$L> <ICE-JA:S2A-054#X418:1:L> <[2> Alright</[2>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X419:1:Z> <[2> Thank you very much</[2></{2></X>
+
+<$L> <ICE-JA:S2A-054#X420:1:L> We hope to see again Doctor Sand
+
+<$N> <ICE-JA:S2A-054#X421:1:N> Right
+
+<$E> <ICE-JA:S2A-054#X422:1:E> Okay we're heading over to <{1> <[1> uhm <unclear> several
+
+words</unclear></[1>
+
+<$L> <ICE-JA:S2A-054#X423:1:L> <[1> Yeah inside the</[1></{1> National Library
+
+<$E> <ICE-JA:S2A-054#X424:1:E> Uh you haven't seen National Library yet
+
+<$L> <ICE-JA:S2A-054#X425:1:L> It's alright uhm National Gallery
+
+<$Z> <X>
+<ICE-JA:S2A-054#X426:1:Z> <{> <[> Gallery</[></X>
+
+<$E> <ICE-JA:S2A-054#X427:1:E> <[> Gallery</[></{>
+
+<$L> <ICE-JA:S2A-054#X428:1:L> We're not that far behind
+
+<$E> <ICE-JA:S2A-054#X429:1:E> Alright<,><&>continuation-of-tour</&>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X430:1:Z> Ah that's great I mean</X>
+
+<$E> <ICE-JA:S2A-054#X431:1:E> Yeah
+<ICE-JA:S2A-054#X432:1:E> Believe me Doctor Sand
+<ICE-JA:S2A-054#X433:1:E> I started here in April and I went home saying to my wife already
+
+that I learnt something new today
+
+<$Z> <X>
+<ICE-JA:S2A-054#X434:1:Z> Aha</X>
+
+<$E> <ICE-JA:S2A-054#X435:1:E> For I said that everyday for about a month and a
+
+half<&>very-loud-background</&>
+<ICE-JA:S2A-054#X436:1:E> And the single reason that I stopped saying it after ninety days
+
+was that the pressure of my work didn't give me the time to go and <{> <[>
+
+<,> learn</[> something new
+<ICE-JA:S2A-054#X437:1:E> A'right <?> we'll just take my car</?> <unclear> word</unclear>
+
+end of the road
+<ICE-JA:S2A-054#X438:1:E> Uhm yeah <}> <-> this is</-> <=> this is</=></}> a place where
+
+you can learn something new everyday
+<ICE-JA:S2A-054#X439:1:E> Uhm I've been to all of the facilities but I've not seen all the
+
+artefacts or heard all the stories and I think that's a common <?> threat</?>
+
+for virtually everybody who works here
+
+<$Z> <X>
+<ICE-JA:S2A-054#X440:1:Z> <[> Learn</[></{></X>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X441:1:Z> Yes yeah</X>
+
+<$L> <ICE-JA:S2A-054#X442:1:L> Right <}> <-> there is a</-> <=> there is a</=></}> <{> <[>
+
+<unclear> words</unclear></[>
+
+<$Z> <X>
+<ICE-JA:S2A-054#X443:1:Z> <[> It's virtually impossible to<,> to know about
+
+everything</X></I>

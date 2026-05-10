@@ -1,0 +1,660 @@
+<I>
+
+<$A> <ICE-JA:S1B-068#1:1:A> Mr <@> Pepper</@> you have to speak very loudly
+<ICE-JA:S1B-068#2:1:A> The judge and everybody must hear you
+<ICE-JA:S1B-068#3:1:A> You are <@> Andrew Pepper</@>
+
+<$B> <ICE-JA:S1B-068#4:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#5:1:A> And you live in the parish of St Ann
+
+<$B> <ICE-JA:S1B-068#6:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#7:1:A> What do you do for a living Mr <@> Pepper</@>
+
+<$B> <ICE-JA:S1B-068#8:1:B> Upholstering and I run a little shop
+
+<$A> <ICE-JA:S1B-068#9:1:A> What kind of shop sir
+
+<$B> <ICE-JA:S1B-068#10:1:B> Grocery shop
+
+<$A> <ICE-JA:S1B-068#11:1:A> Where is this shop located
+
+<$B> <ICE-JA:S1B-068#12:1:B> Aboukir in St Ann
+
+<$A> <ICE-JA:S1B-068#13:1:A> Can you describe this shop for me sir
+
+<$B> <ICE-JA:S1B-068#14:1:B> It is a board shop with bolted windows and bolted doors
+<ICE-JA:S1B-068#15:1:B> Bolted doors and bolted windows
+<ICE-JA:S1B-068#16:1:B> Board shop with zinc roof and shingle also
+
+<$C> <ICE-JA:S1B-068#17:1:C> It is a wood shop with bolted doors
+
+<$B> <ICE-JA:S1B-068#18:1:B> Both of them bolt
+
+<$C> <ICE-JA:S1B-068#19:1:C> Bolted doors and what
+
+<$B> <ICE-JA:S1B-068#20:1:B> And window bolt also
+
+<$C> <ICE-JA:S1B-068#21:1:C> And you said something about zinc roof
+
+<$B> <ICE-JA:S1B-068#22:1:B> Zinc roof but underneath <indig> di</indig> zinc it have
+
+shingle
+
+<$A> <ICE-JA:S1B-068#23:1:A> And for how long have you been operating this grocery shop
+
+<$B> <ICE-JA:S1B-068#24:1:B> About five years
+
+<$A> <ICE-JA:S1B-068#25:1:A> What do you sell at this shop
+
+<$B> <ICE-JA:S1B-068#26:1:B> Flour rice sugar milk cooking oil biscuit bread and things
+
+like that
+
+<$A> <ICE-JA:S1B-068#27:1:A> Now do you recall the twenty-eighth day of August
+
+nineteen-ninety-eight
+
+<$B> <ICE-JA:S1B-068#28:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#29:1:A> At about ten P M
+
+<$B> <ICE-JA:S1B-068#30:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#31:1:A> Where were you
+
+<$B> <ICE-JA:S1B-068#32:1:B> In my shop
+
+<$A> <ICE-JA:S1B-068#33:1:A> Apart from yourself anyone else was in the shop
+
+<$B> <ICE-JA:S1B-068#34:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#35:1:A> Who
+
+<$B> <ICE-JA:S1B-068#36:1:B> Two customers
+
+<$A> <ICE-JA:S1B-068#37:1:A> Now while you were in the shop with these two customers sir
+
+did anything happen
+
+<$B> <ICE-JA:S1B-068#38:1:B> Yes
+<ICE-JA:S1B-068#39:1:B> I actually got robbed
+
+<$A> <ICE-JA:S1B-068#40:1:A> You got robbed
+
+<$B> <ICE-JA:S1B-068#41:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#42:1:A> Tell us exactly what happened
+
+<$B> <ICE-JA:S1B-068#43:1:B> I was sitting in <indig> di corner in di shop and a si</indig>
+
+three man come along
+<ICE-JA:S1B-068#44:1:B> One
+
+<$C> <ICE-JA:S1B-068#45:1:C> Just a second please
+<ICE-JA:S1B-068#46:1:C> Don't go so fast
+<ICE-JA:S1B-068#47:1:C> Sitting in the corner of the shop and you see three men came along
+
+<$B> <ICE-JA:S1B-068#48:1:B> Yes
+<ICE-JA:S1B-068#49:1:B> I wasn't over <indig> di</indig> counter
+<ICE-JA:S1B-068#50:1:B> I was on <indig> di</indig> public side of <indig> di</indig> shop
+
+customer side of <indig> di</indig> shop in a corner
+<ICE-JA:S1B-068#51:1:B> Three man entered the door
+
+<$A> <ICE-JA:S1B-068#52:1:A> Hold on
+
+<$C> <ICE-JA:S1B-068#53:1:C> Three men come along
+
+<$B> <ICE-JA:S1B-068#54:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#55:1:A> Come along where
+
+<$B> <ICE-JA:S1B-068#56:1:B> In <indig> di</indig> shop
+<ICE-JA:S1B-068#57:1:B> One at <indig> di</indig> doorway stand up one held <indig>
+
+mi</indig> in <indig> di</indig> corner <indig> a di</indig> shop
+
+<$C> <ICE-JA:S1B-068#58:1:C> One
+
+<$B> <ICE-JA:S1B-068#59:1:B> Held me in <indig> di</indig> corner of <indig> di</indig>
+
+shop
+
+<$C> <ICE-JA:S1B-068#60:1:C> <quote> One held me in the corner of the shop</quote>
+
+<$B> <ICE-JA:S1B-068#61:1:B> Yes where I was sitting down
+
+<$C> <ICE-JA:S1B-068#62:1:C> Yes
+
+<$B> <ICE-JA:S1B-068#63:1:B> And <indig> di</indig> other enter to <indig> di part whey mi
+
+walk go over di</indig> counter
+
+<$A> <ICE-JA:S1B-068#64:1:A> Yes sir
+
+<$B> <ICE-JA:S1B-068#65:1:B> And after <indig> dat</indig> one have his <indig>
+
+t'ing</indig> here
+
+<$A> <ICE-JA:S1B-068#66:1:A> When you say his thing what do you mean
+
+<$B> <ICE-JA:S1B-068#67:1:B> His gun and held me in <indig> di</indig> corner
+
+<$A> <ICE-JA:S1B-068#68:1:A> Which one that is
+
+<$B> <ICE-JA:S1B-068#69:1:B> <@> Chris White</@> and held me hit after <indig> mi</indig>
+
+in <indig> di</indig> corner
+
+<$C> <ICE-JA:S1B-068#70:1:C> Just a second
+<ICE-JA:S1B-068#71:1:C> So <@> Chris White</@> is the one who had you in the corner
+
+<$B> <ICE-JA:S1B-068#72:1:B> Yes
+
+<$C> <ICE-JA:S1B-068#73:1:C> What you said he was doing with the gun
+
+<$B> <ICE-JA:S1B-068#74:1:B> He just have his hand like <indig> dat</indig>
+
+<$C> <ICE-JA:S1B-068#75:1:C> His hands
+
+<$B> <ICE-JA:S1B-068#76:1:B> No <indig> di</indig> gun was exposed
+
+<$C> <ICE-JA:S1B-068#77:1:C> So the gun was into his hand
+
+<$B> <ICE-JA:S1B-068#78:1:B> No it was exposed
+
+<$A> <ICE-JA:S1B-068#79:1:A> You said it was exposed
+<ICE-JA:S1B-068#80:1:A> Where was it
+
+<$B> <ICE-JA:S1B-068#81:1:B> I mean in his waist but half of it was outside
+
+<$C> <ICE-JA:S1B-068#82:1:C> So where was his hand then
+
+<$B> <ICE-JA:S1B-068#83:1:B> His hand was just like <indig> dis</indig> and <indig>
+
+den</indig> I turn around
+
+<$C> <ICE-JA:S1B-068#84:1:C> Was his hand touching anything
+
+<$B> <ICE-JA:S1B-068#85:1:B> Yes his hand was on it like <indig> dis</indig> you know
+
+<$A> <ICE-JA:S1B-068#86:1:A> So what parts of the gun you saw
+
+<$B> <ICE-JA:S1B-068#87:1:B> I see <indig> di</indig> upper half a <indig> di</indig> gun
+
+<$A> <ICE-JA:S1B-068#88:1:A> Meaning what part sir
+
+<$B> <ICE-JA:S1B-068#89:1:B> Like from which part <indig> di</indig> trigger business
+
+<indig> deh</indig> come up to <indig> di</indig> handle
+
+<$C> <ICE-JA:S1B-068#90:1:C> Like from which part the trigger business
+
+<$B> <ICE-JA:S1B-068#91:1:B> Just below <indig> di</indig> handle just below
+
+<$C> <ICE-JA:S1B-068#92:1:C> The trigger business up to the handle
+
+<$A> <ICE-JA:S1B-068#93:1:A> You ever seen guns before sir
+
+<$B> <ICE-JA:S1B-068#94:1:B> Yes your Honour
+
+<$A> <ICE-JA:S1B-068#95:1:A> You said he held his hand at his waist where the gun is
+
+<$B> <ICE-JA:S1B-068#96:1:B> Yes him never actually put his hand on it yet right
+<ICE-JA:S1B-068#97:1:B> He put his hand like <indig> dis</indig>
+
+<$C> <ICE-JA:S1B-068#98:1:C> Touching it
+
+<$B> <ICE-JA:S1B-068#99:1:B> Yes just like <indig> dat</indig>
+
+<$C> <ICE-JA:S1B-068#100:1:C> Yes
+
+<$A> <ICE-JA:S1B-068#101:1:A> Yes sir
+
+<$B> <ICE-JA:S1B-068#102:1:B> And <indig> di</indig> other one now he just walk to
+
+<$A> <ICE-JA:S1B-068#103:1:A> Which other one now
+
+<$B> <ICE-JA:S1B-068#104:1:B> Not <@> Alan</@>
+<ICE-JA:S1B-068#105:1:B> <indig> Whey di</indig> other Rose name
+
+<$A> <ICE-JA:S1B-068#106:1:A> You see him here today
+<ICE-JA:S1B-068#107:1:A> You see <@> Alan Beckman</@> here today
+
+<$B> <ICE-JA:S1B-068#108:1:B> Yes
+<ICE-JA:S1B-068#109:1:B> I see both of <indig> dem</indig>
+
+<$C> <ICE-JA:S1B-068#110:1:C> Are you saying there is a third Rose
+
+<$B> <ICE-JA:S1B-068#111:1:B> No one is <@> Alan</@> and one is <@> Chris</@>
+
+<$C> <ICE-JA:S1B-068#112:1:C> So you see that one here today
+
+<$B> <ICE-JA:S1B-068#113:1:B> Yes both of <indig> dem mi</indig> see here
+
+<$C> <ICE-JA:S1B-068#114:1:C> Who is the one that
+
+<$B> <ICE-JA:S1B-068#115:1:B> <indig> Dat</indig> is <@> Alan</@>
+
+<$C> <ICE-JA:S1B-068#116:1:C> O K
+
+<$B> <ICE-JA:S1B-068#117:1:B> He just do like <indig> dis</indig> step over <indig>
+
+di</indig> counter like <indig> dat</indig>
+
+<$C> <ICE-JA:S1B-068#118:1:C> So <@> Alan</@> was the one by the counter
+
+<$B> <ICE-JA:S1B-068#119:1:B> Yes
+
+<$C> <ICE-JA:S1B-068#120:1:C> And what he did
+
+<$B> <ICE-JA:S1B-068#121:1:B> His gun in his hand like <indig> dis</indig> and he step over
+
+<indig> di</indig> counter like <indig> dis</indig>
+
+<$C> <ICE-JA:S1B-068#122:1:C> He had the gun in his hand and was holding it up like that
+
+<$B> <ICE-JA:S1B-068#123:1:B> Just like <indig> dis</indig>
+
+<$A> <ICE-JA:S1B-068#124:1:A> What part of the gun you saw
+
+<$B> <ICE-JA:S1B-068#125:1:B> <indig> Di whole a di gun
+<ICE-JA:S1B-068#126:1:B> Only whey him hold mi nuh si but mi si di whole of it and know seh
+
+is a gun</indig>
+
+<$A> <ICE-JA:S1B-068#127:1:A> Yes the whole of it where
+<ICE-JA:S1B-068#128:1:A> Tell us the part
+
+<$B> <ICE-JA:S1B-068#129:1:B> Is only which part him hold with him hand <indig> mi nuh si
+
+but mi si di</indig> point
+<ICE-JA:S1B-068#130:1:B> Is only <indig> whey him hand hold mi can't si</indig>
+
+<$C> <ICE-JA:S1B-068#131:1:C> You see the point
+
+<$B> <ICE-JA:S1B-068#132:1:B> Yes
+
+<$C> <ICE-JA:S1B-068#133:1:C> And where else
+
+<$B> <ICE-JA:S1B-068#134:1:B> <indig> Just like dis yah part whey him hold mi can't si just
+
+di point</indig>
+
+<$C> <ICE-JA:S1B-068#135:1:C> What else
+
+<$B> <ICE-JA:S1B-068#136:1:B> After <indig> mi</indig> saw <indig> dat</indig> now
+
+<$C> <ICE-JA:S1B-068#137:1:C> Only the point you see
+
+<$B> <ICE-JA:S1B-068#138:1:B> Which part him hand hold <indig> mi couldn't si</indig> right
+
+<$C> <ICE-JA:S1B-068#139:1:C> So which part
+
+<$B> <ICE-JA:S1B-068#140:1:B> <indig> di</indig> rest of <indig> di</indig> gun gone up
+
+<indig> soh</indig>
+
+<$A> <ICE-JA:S1B-068#141:1:A> So what part of it gone up <indig> soh</indig>
+
+<$B> <ICE-JA:S1B-068#142:1:B> <indig> di mouth part a di gun</indig>
+
+<$A> <ICE-JA:S1B-068#143:1:A> What
+
+<$B> <ICE-JA:S1B-068#144:1:B> <indig> Nuh di mouth part a di gun whey di</indig> shot come
+
+out through
+
+<$A> <ICE-JA:S1B-068#145:1:A> The mouth part of the gun
+
+<$B> <ICE-JA:S1B-068#146:1:B> <indig> Whey di</indig> shots come through
+
+<$C> <ICE-JA:S1B-068#147:1:C> And you said he stepped over the counter
+
+<$B> <ICE-JA:S1B-068#148:1:B> Yes just like <indig> dis</indig>
+<ICE-JA:S1B-068#149:1:B> Him just <indig> duh like dis</indig> and step over like <indig>
+
+dat and den him just tek whey</indig> him want and back out same like a show
+
+like a movie
+
+<$A> <ICE-JA:S1B-068#150:1:A> So he stepped over the counter
+
+<$B> <ICE-JA:S1B-068#151:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#152:1:A> After he stepped over the counter what he did
+
+<$B> <ICE-JA:S1B-068#153:1:B> <indig> Him tek up di</indig> box with the money
+
+<$A> <ICE-JA:S1B-068#154:1:A> And this box was
+
+<$B> <ICE-JA:S1B-068#155:1:B> Under <indig> di</indig> counter
+
+<$C> <ICE-JA:S1B-068#156:1:C> The box was where
+
+<$B> <ICE-JA:S1B-068#157:1:B> Under <indig> di</indig> counter
+
+<$A> <ICE-JA:S1B-068#158:1:A> So while <@> Alan</@> was taking up the money what was <@>
+
+Chris</@> doing
+
+<$B> <ICE-JA:S1B-068#159:1:B> <indig> Him deh have mi under subminate in a di corner
+<ICE-JA:S1B-068#160:1:B> Dem time him have mi in a di corner and mi eyes pacing di next
+
+one</indig>
+
+<$C> <ICE-JA:S1B-068#161:1:C> I am sorry
+
+<$A> <ICE-JA:S1B-068#162:1:A> What you mean by that sir
+
+<$B> <ICE-JA:S1B-068#163:1:B> I mean when him have <indig> mi</indig> down <indig>
+
+dat</indig> mean to <indig> seh</indig> when somebody have <indig>
+
+yuh</indig> down <indig> yuh</indig> can't move <indig> yuh</indig> only can
+
+use <indig> yuh</indig> eyes
+<ICE-JA:S1B-068#164:1:B> So <indig> mi</indig> can't move <indig> mi</indig> only use
+
+<indig> mi</indig> eyes
+
+<$A> <ICE-JA:S1B-068#165:1:A> And the third man
+
+<$B> <ICE-JA:S1B-068#166:1:B> <indig> Mi nuh know him none tall
+<ICE-JA:S1B-068#167:1:B> Mi nuh know him none tall</indig>
+
+<$A> <ICE-JA:S1B-068#168:1:A> All right
+<ICE-JA:S1B-068#169:1:A> You see going back to <@> Chris White</@> you said that he came in
+
+and you described the gun
+<ICE-JA:S1B-068#170:1:A> So how were you able to recognise him
+
+<$B> <ICE-JA:S1B-068#171:1:B> <indig> Mi look in a</indig> him face for <}> <-> about a few
+
+minutes</-><=>about two minutes</=></}>
+
+<$A> <ICE-JA:S1B-068#172:1:A> And when you were looking in his face how far away from you
+
+he was
+
+<$B> <ICE-JA:S1B-068#173:1:B> As close up about <indig> dis</indig> about <indig>
+
+dis</indig> distance
+
+<$A> <ICE-JA:S1B-068#174:1:A> Two feet
+
+<$C> <ICE-JA:S1B-068#175:1:C> What
+
+<$A> <ICE-JA:S1B-068#176:1:A> Within touching distance
+
+<$C> <ICE-JA:S1B-068#177:1:C> Twelve inches
+
+<$A> <ICE-JA:S1B-068#178:1:A> Yes
+
+<$A> <ICE-JA:S1B-068#179:1:A> And anything between you and him
+
+<$B> <ICE-JA:S1B-068#180:1:B> Is only <indig> di</indig> little struggle
+
+<$A> <ICE-JA:S1B-068#181:1:A> No man
+<ICE-JA:S1B-068#182:1:A> You say him was right up in your face
+<ICE-JA:S1B-068#183:1:A> Between his face and your face anything in between
+
+<$B> <ICE-JA:S1B-068#184:1:B> You mean like
+
+<$C> <ICE-JA:S1B-068#185:1:C> Mean like any object anything to block your view
+
+<$B> <ICE-JA:S1B-068#186:1:B> No no no
+
+<$A> <ICE-JA:S1B-068#187:1:A> And how were you able to see his face
+
+<$B> <ICE-JA:S1B-068#188:1:B> <indig> Him deh close close to mi and him face nah
+
+hide</indig>
+
+<$A> <ICE-JA:S1B-068#189:1:A> Yes but is night time
+
+<$B> <ICE-JA:S1B-068#190:1:B> <indig> Den light nuh all over di place</indig>
+
+<$A> <ICE-JA:S1B-068#191:1:A> I don't know you have to tell me
+
+<$B> <ICE-JA:S1B-068#192:1:B> <indig> Di</indig> place have light you know
+<ICE-JA:S1B-068#193:1:B> I wasn't in <indig> di</indig> dark
+
+<$A> <ICE-JA:S1B-068#194:1:A> So did you know <@> Chris White</@> before
+
+<$B> <ICE-JA:S1B-068#195:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#196:1:A> Where you know him from
+
+<$B> <ICE-JA:S1B-068#197:1:B> I would just see him <indig> goh</indig> through the area and
+
+know <indig> seh a</indig> him
+
+<$A> <ICE-JA:S1B-068#198:1:A> Which area
+
+<$B> <ICE-JA:S1B-068#199:1:B> Area of Aboukir Thatchwalk Cave Valley round <indig>
+
+dat</indig> surrounding
+
+<$A> <ICE-JA:S1B-068#200:1:A> Aboukir and where sir
+
+<$C> <ICE-JA:S1B-068#201:1:C> Cave Valley you say
+
+<$B> <ICE-JA:S1B-068#202:1:B> Aboukir Cave Valley and Thatchwalk
+
+<$A> <ICE-JA:S1B-068#203:1:A> So how long you know him
+
+<$B> <ICE-JA:S1B-068#204:1:B> Well <indig> mi</indig> know
+<ICE-JA:S1B-068#205:1:B> <indig> Mi</indig> couldn't tell you say I know him yesterday or
+
+<indig> di</indig> day before but <indig> mi</indig> know <indig> mi si him
+
+all di while round di</indig> place
+<ICE-JA:S1B-068#206:1:B> When is not a friend and <indig> yuh si people and yuh know seh
+
+a</indig> <@> Stan</@> <@> Grant</@> and <@> Larry</@> but <indig> yuh
+
+nuh</indig> know <w> nut'n</w> else otherwise
+
+<$A> <ICE-JA:S1B-068#207:1:A> You see him all the while but how often would you see him
+
+<$B> <ICE-JA:S1B-068#208:1:B> <indig> Mek him si</indig> how often
+<ICE-JA:S1B-068#209:1:B> Maybe all three four times <indig> fi di</indig> year
+<ICE-JA:S1B-068#210:1:B> <indig> Mi</indig> might see him three four times <indig> fi
+
+di</indig> year
+<ICE-JA:S1B-068#211:1:B> It all depend on where you go you understand
+<ICE-JA:S1B-068#212:1:B> It all depend on where you <indig> goh in di</indig> area
+
+<$A> <ICE-JA:S1B-068#213:1:A> <@> Alan Beckman</@> now
+
+<$B> <ICE-JA:S1B-068#214:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#215:1:A> When you first saw him you see how far from you he was
+
+<$B> <ICE-JA:S1B-068#216:1:B> <@> Alan Beckman</@>
+
+<$A> <ICE-JA:S1B-068#217:1:A> Eeehi
+
+<$B> <ICE-JA:S1B-068#218:1:B> About you mean in <indig> di</indig> shop
+
+<$A> <ICE-JA:S1B-068#219:1:A> Yes in the shop
+
+<$B> <ICE-JA:S1B-068#220:1:B> Say bout four yards or five
+
+<$A> <ICE-JA:S1B-068#221:1:A> About five yards
+<ICE-JA:S1B-068#222:1:A> And between you and him anything in between the two of you
+
+<$B> <ICE-JA:S1B-068#223:1:B> No
+
+<$A> <ICE-JA:S1B-068#224:1:A> And what part of him you looked at
+
+<$B> <ICE-JA:S1B-068#225:1:B> Straight in a him face
+
+<$A> <ICE-JA:S1B-068#226:1:A> And how long you looked at him
+
+<$B> <ICE-JA:S1B-068#227:1:B> About two minutes three minutes <indig> soh</indig>
+
+<$A> <ICE-JA:S1B-068#228:1:A> And did you know him before
+
+<$B> <ICE-JA:S1B-068#229:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#230:1:A> Where you know him from
+
+<$B> <ICE-JA:S1B-068#231:1:B> Him buy all cigarette and <?> <indig> sinting</indig></?> in
+
+<indig> a mi</indig> shop
+
+<$A> <ICE-JA:S1B-068#232:1:A> You said you knew him before
+
+<$B> <ICE-JA:S1B-068#233:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#234:1:A> Where you know him from
+
+<$B> <ICE-JA:S1B-068#235:1:B> Same surrounding
+<ICE-JA:S1B-068#236:1:B> Thatchwalk Aboukir Cave Valley same surrounding
+
+<$A> <ICE-JA:S1B-068#237:1:A> And how often would you see him
+
+<$B> <ICE-JA:S1B-068#238:1:B> I see him more regular <indig> dan di</indig> other one
+
+sometime all six seven times per year up to ten times per year
+
+<$A> <ICE-JA:S1B-068#239:1:A> When was the last time you saw <@> Alan Beckman</@> before
+
+the incident if you can remember
+
+<$B> <ICE-JA:S1B-068#240:1:B> I don't quite remember when last you know but I heard they
+
+were in the area
+
+<$A> <ICE-JA:S1B-068#241:1:A> No don't tell me what you hear
+<ICE-JA:S1B-068#242:1:A> You don't quite remember when last you saw him
+
+<$B> <ICE-JA:S1B-068#243:1:B> When last
+
+<$A> <ICE-JA:S1B-068#244:1:A> You can remember when last you saw <@> Chris White</@> before
+
+<$B> <ICE-JA:S1B-068#245:1:B> No only <indig> di time dem come rob mi dat was di</indig>
+
+last time
+
+<$C> <ICE-JA:S1B-068#246:1:C> That was the last time but she is asking about what time
+
+before that last time
+
+<$B> <ICE-JA:S1B-068#247:1:B> No
+
+<$A> <ICE-JA:S1B-068#248:1:A> All right
+<ICE-JA:S1B-068#249:1:A> So you said <@> Alan</@> take up the money
+<ICE-JA:S1B-068#250:1:A> Tell us what happened
+<ICE-JA:S1B-068#251:1:A> You recognised them one over the counter one had you down
+
+<$B> <ICE-JA:S1B-068#252:1:B> Yes
+
+<$A> <ICE-JA:S1B-068#253:1:A> Tell us what happened
+
+<$B> <ICE-JA:S1B-068#254:1:B> <indig> After him have mi down dat one goh over di counter
+
+tek out di money
+<ICE-JA:S1B-068#255:1:B> After him tek out the di money dem just come out and gone and wi
+
+sit down same way nut'n further</indig>
+<ICE-JA:S1B-068#256:1:B> We don't say a word
+
+<$A> <ICE-JA:S1B-068#257:1:A> After them take the money
+
+<$B> <ICE-JA:S1B-068#258:1:B> Not a word <indig> wi seh</indig>
+
+<$A> <ICE-JA:S1B-068#259:1:A> So how much money you missed in all
+
+<$B> <ICE-JA:S1B-068#260:1:B> Say about three thousand dollars was in the box
+
+<$C> <ICE-JA:S1B-068#261:1:C> Three
+
+<$B> <ICE-JA:S1B-068#262:1:B> That was in the box
+
+<$A> <ICE-JA:S1B-068#263:1:A> In your
+
+<$B> <ICE-JA:S1B-068#264:1:B> That was in the box about three thousand dollars
+
+<$A> <ICE-JA:S1B-068#265:1:A> And where that three thousand dollars came from
+
+<$B> <ICE-JA:S1B-068#266:1:B> Out of my grocery business
+
+<$A> <ICE-JA:S1B-068#267:1:A> You mentioned at one stage you see that <@> Chris White</@>
+
+hit after you
+
+<$B> <ICE-JA:S1B-068#268:1:B> Yes and I actually stumble
+
+<$A> <ICE-JA:S1B-068#269:1:A> When you say you stumbled
+
+<$B> <ICE-JA:S1B-068#270:1:B> About three blows and a sit down on something
+<ICE-JA:S1B-068#271:1:B> When <indig> mi</indig> sit down <indig> mi</indig> go like
+
+<indig> dat</indig> sort of stumble like
+
+<$C> <ICE-JA:S1B-068#272:1:C> I didn't hear that you know<&>notes-read-by-court-reporter<&>
+
+<$C> <ICE-JA:S1B-068#273:1:C> Yes
+<ICE-JA:S1B-068#274:1:C> So after they left tell us you did anything
+
+<$B> <ICE-JA:S1B-068#275:1:B> After they left
+
+<$A> <ICE-JA:S1B-068#276:1:A> Yes the men left
+
+<$B> <ICE-JA:S1B-068#277:1:B> Same time <indig> di</indig> police come on <indig>
+
+di</indig> scene and <indig> mi mek</indig> a report
+
+<$A> <ICE-JA:S1B-068#278:1:A> All right
+<ICE-JA:S1B-068#279:1:A> Thank you
+<ICE-JA:S1B-068#280:1:A> These two lawyers will have some questions of you
+
+<$D> <ICE-JA:S1B-068#281:1:D> Mr <@> Pepper</@> you are called <@> Stone</@>
+
+<$B> <ICE-JA:S1B-068#282:1:B> Yes
+
+<$D> <ICE-JA:S1B-068#283:1:D> Now you have been mentioning <@> Alan Beckman</@>
+<ICE-JA:S1B-068#284:1:D> You knew that name before
+<ICE-JA:S1B-068#285:1:D> When was the first time you heard that name <@> Alan Beckman</@>
+
+<$B> <ICE-JA:S1B-068#286:1:B> Me hear it long long time before
+
+<$D> <ICE-JA:S1B-068#287:1:D> Long long time before
+
+<$B> <ICE-JA:S1B-068#288:1:B> Yes long long time before me get rob
+
+<$D> <ICE-JA:S1B-068#289:1:D> Before what
+
+<$B> <ICE-JA:S1B-068#290:1:B> Me got rob
+
+<$D> <ICE-JA:S1B-068#291:1:D> So when you made your report to the police you told them
+
+about <@> Alan Beckman</@>
+
+<$B> <ICE-JA:S1B-068#292:1:B> I tell them exactly what happened
+
+<$D> <ICE-JA:S1B-068#293:1:D> No sir answer the question
+<ICE-JA:S1B-068#294:1:D> I ask you if you tell them about <@> Alan Beckman</@> the police
+
+<$B> <ICE-JA:S1B-068#295:1:B> I tell them bout both of them
+
+<$D> <ICE-JA:S1B-068#296:1:D> You didn't tell them about <@> Alan Beckman</@>
+
+<$C> <ICE-JA:S1B-068#297:1:C> You tell them what
+
+<$B> <ICE-JA:S1B-068#298:1:B> Both of them
+
+<$C> <ICE-JA:S1B-068#299:1:C> Oh both
+
+<$D> <ICE-JA:S1B-068#300:1:D> What I want to know you see Mr <@> Pepper</@> if you told the
+
+police that one of the men who robbed you was <@> Alan Beckman</@> and give
+
+them the name <@> Alan Beckman</@>
+
+<$B> <ICE-JA:S1B-068#301:1:B> Yes</I>

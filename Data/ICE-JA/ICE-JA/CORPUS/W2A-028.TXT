@@ -1,0 +1,477 @@
+<I>
+
+<p> <ICE-JA:W2A-028#1:1> <h> <bold> SLOW RELEASE FORMULATION PART 1  ENCAPSULATION OF
+
+PESTICIDES BY STARCH MATRICES </bold> </h> </p>
+
+<p> <ICE-JA:W2A-028#2:1> Constance Brown </p>
+
+<p> <ICE-JA:W2A-028#3:1> Scientific Research Council, Kingston, Jamaica </p>
+
+<p> <ICE-JA:W2A-028#4:1> Tara P. Dasgupta and Earle V. Roberts </p>
+
+<p> <ICE-JA:W2A-028#5:1> Department of Chemistry, University of the West Indies, Kingston,
+
+Jamaica </p>
+
+<p> <ICE-JA:W2A-028#6:1> ABSTRACT
+<ICE-JA:W2A-028#7:1> The encapsulation of a widely used organophosphorus pesticide,
+
+Diazinon ( o,o,-diethyl o-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl]
+
+phosphorothioate, in the form of Basudin was successfully achieved in three
+
+starch matrices  a calcium adduct, and two starch borate complexes.
+<ICE-JA:W2A-028#8:1> Of the latter, one ( borate-1) was prepared by using NaOH to
+
+solubilize the starch and the other ( borate-2) was prepared by solubilizing
+
+the starch with boiling boric acid solution.
+<ICE-JA:W2A-028#9:1> The borate-1 encapsulation procedure was used for three starches 
+
+corn, cassava, and dasheen which are all produced locally.
+<ICE-JA:W2A-028#10:1> The percent recovery was in the order  dasheen ( 100%) &gt; cassava
+
+( 96%) &gt; corn ( 91%).
+<ICE-JA:W2A-028#11:1> However, the percent encapsulation was in the reverse order  dasheen
+
+( 94%) &lt; cassava ( 96%) &lt; corn ( 97%). </p>
+
+<p> <ICE-JA:W2A-028#12:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-028#13:1> Slow release technology has been developed in the drug industry
+
+<fnr> <sp> 1 </sp> </fnr> since 1960 in order to combat the side effects
+
+caused by administering high doses of conventional drugs and at the same time
+
+to maintain an effective level of drugs in the body. <footnote>
+<ICE-JA:W2A-028#14:1> 1. Lewis, D. H.; Cowsar, D. H. Controlled Release Pesticides. Harbert
+
+B. ed., American Chemical Society, Washington D.C., USA, 1977, 1 </footnote>
+<ICE-JA:W2A-028#15:1> Applying the same principle, attempts have been made <fnr> <sp> 2
+
+</sp> </fnr> during the last decade to develop suitable controlled release
+
+pesticides for use in the soil and on foliage to reduce ( 1) pesticide
+
+application rates ( 2) pesticide levels in the environment and ( 3) pesticide
+
+toxicity and to extend pesticide residual activity. <footnote>
+<ICE-JA:W2A-028#16:1> 2. Baker, R.W.; Lonsdale, H. K. <it> Chem. Tech., 1975, 5, 668. </it>
+
+</footnote> </p>
+
+<p> <ICE-JA:W2A-028#17:1> There are three main advantages of using con <l> trolled release
+
+formulations: ( i) reduced possibility of over or underdosing ( ii) much less
+
+pesticide can be used for the same period of activity as a conven <l>
+
+tionally applied pesticide and ( iii) maintenance of an effective
+
+concentration of pesticide for a prolonged period.
+<ICE-JA:W2A-028#18:1> The first advantage can be illustrated by Figure 1 where the
+
+concentration of an active agent has been plotted as a function of time after
+
+delivery in a conventional manner.
+<ICE-JA:W2A-028#19:1> Shortly after the agent is applied the concentration rises rapidly to
+
+a maximum and then falls as the agent is metabolized or degraded.
+<ICE-JA:W2A-028#20:1> Two important concentration levels are to be noticed in this figure 
+
+the effective concentration which is the minimum concentration necessary to
+
+produce the desired effect and the toxic concentra <l> tion above which side
+
+effects occur.
+<ICE-JA:W2A-028#21:1> It is important, therefore, to maintain a concentration of pesticide
+
+between the effective and toxic levels.
+<ICE-JA:W2A-028#22:1> Controlled release formulation is an ideal method of achieving this
+
+concentration level. </p>
+
+<p> <ICE-JA:W2A-028#23:1> To understand the significance of the other two advantages it is
+
+necessary to consider the kinetics of degradation of active ingredients <fnr>
+
+<sp> 3 </sp> </fnr> when applied in a conventional way. <footnote>
+<ICE-JA:W2A-028#24:1> 3. Singh, N.; Dasgupta, T. P.; Roberts, E.V; Mansingh, A. J. <it>
+
+Agri & Food Chem. </it> , 1990. </footnote>
+<ICE-JA:W2A-028#25:1> In most cases, the degradation is a first order process and follows
+
+the following rate law: </p>
+
+<p> <O> formula </O> </p>
+
+<p> where x is the amount of active reagent in the en <l> vironment.
+<ICE-JA:W2A-028#26:1> If the minimum effective level of the reagent is x <sb> e </sb> and x
+
+<sb> i </sb> is the amount initially applied, the rate expression after
+
+integration becomes </p>
+
+<p> <O> formula </O> </p>
+
+<p> where t <sb> e </sb> is the time during which an effective quan <l> tity
+
+of the drug is present.
+<ICE-JA:W2A-028#27:1> Figure 2 illustrates the validity of expression 2 and the economy in
+
+the usage of controlled release formulations. </p>
+
+<p> <ICE-JA:W2A-028#28:1> Encapsulation processes can be divided into three categories:
+
+</p>
+
+<p> <ICE-JA:W2A-028#29:1> 1) Phase Separation  in this process micro-capsules are formed
+
+by emulsifying or dispersing the core material in an immiscible continuous
+
+phase in which the wall material <O> graph </O> <O> caption </O> <O> graph
+
+</O> <O> caption </O> dissolves and then separates from the continuous phase,
+
+depositing around the core particles </p>
+
+<p> <ICE-JA:W2A-028#30:1> 2) Interfacial Reaction  microcapsules are formed by emulsifying
+
+or dispersing the core material in an immiscible phase and then an
+
+interfacial polymerization reaction results at the surface of the core
+
+particles </p>
+
+<p> <ICE-JA:W2A-028#31:1> 3) Physical Methods  wall material and core particles are
+
+physically brought together and wall material flows around the core particles
+
+to form capsules.
+<ICE-JA:W2A-028#32:1> Matrix polymerization in which core material is embedded in a polymer
+
+matrix during capsule formation falls in this category.
+<ICE-JA:W2A-028#33:1> This method of encapsulation was used in this study. </p>
+
+<p> <ICE-JA:W2A-028#34:1> It should be noted that when a particular method of encapsulation
+
+is chosen one of the factors that must be considered is the end use of the
+
+formulation and thus the desired permeability of the membrane.
+<ICE-JA:W2A-028#35:1> Some of the parameters that affect capsular wall permeability and how
+
+that can be manipulated are discussed in the literature. <fnr> <sp> 4 </sp>
+
+</fnr> <footnote>
+<ICE-JA:W2A-028#36:1> 4. Scer, H. B. Controlled Release Pesticides. American Chemical
+
+Society, Washington D. C., U.S.A., 1974. </footnote> </p>
+
+<p> <ICE-JA:W2A-028#37:1> Microencapsulation techniques have been used to prepare
+
+spherically-shaped reservoir devices for controlled release of pesticides.
+<ICE-JA:W2A-028#38:1> The most frequently used procedures include phase separation,
+
+coacerva <l> tion, spray coating, solvent evaporation from emul <l> sions and
+
+interfacial polymerisation.
+<ICE-JA:W2A-028#39:1> The choice of method depends mainly on the characteristics of the
+
+pesticide and the release-controlling membrane.
+<ICE-JA:W2A-028#40:1> Common polymeric wall materials include polyamides, polyesters,
+
+polyureas, cellulose and gelatin.
+<ICE-JA:W2A-028#41:1> The most notable of the currently marketed microencapsulated products
+
+is the Penncap-M for <l> mulation developed by the Penwalt Corporation, <fnr>
+
+<sp> 5,6 </sp> </fnr> in which Methyl Parathion is encapsulated in the
+
+polyamide wall material. <footnote>
+<ICE-JA:W2A-028#42:1> 5. Koeslater, R. C.; Ivy, E. E. Proc. Controlled Release Pesticides.
+
+University of Akron, Ohio, U.S.A.; 1974. </footnote> <footnote>
+<ICE-JA:W2A-028#43:1> 6. Koeslater, R. C. Proc. Controlled Release Pesticides. University
+
+of Akron, Ohio, U.S.A., 1976. </footnote>
+<ICE-JA:W2A-028#44:1> This product exhibits decreased toxicity and longer activity.
+<ICE-JA:W2A-028#45:1> In addition to these delivery systems which operate by diffusion or
+
+leaching mechanisms, other formulations which rely on erosion and diffusion
+
+have been reported. <fnr> <sp> 7 </sp> </fnr> <footnote>
+<ICE-JA:W2A-028#46:1> 7. Sinclair, R. G. <it> Enviro. Sc. & Tech. </it> , 1977, 7, 955.
+
+</footnote> </p>
+
+<p> <ICE-JA:W2A-028#47:1> The most important factor to be considered when selecting a
+
+coating material is the chemical inertness of the material towards the active
+
+in <l> gredient.
+<ICE-JA:W2A-028#48:1> A number of polymeric materials are used as encapsulation matrices
+
+for controlled release.
+<ICE-JA:W2A-028#49:1> It is necessary, in order to facilitate sustained release, that these
+
+materials are fairly resistant to degradation by both biological and
+
+environmental factors.
+<ICE-JA:W2A-028#50:1> It is known that if an inert material is added to the soil it aids
+
+aeration, but there is also the potential for ecological damage if the
+
+material is accumulated over time.
+<ICE-JA:W2A-028#51:1> Most synthetic polymers are resistant to microbial degradation and
+
+show limited suscep <l> tibility to environmental degradation.
+<ICE-JA:W2A-028#52:1> Natural polymers are therefore a better choice since they are
+
+biodegradable and this therefore eliminates the prob <l> lem cited above.
+
+</p>
+
+<p> <ICE-JA:W2A-028#53:1> The use of starch as a natural polymer in the slow release of
+
+pesticides was reported by Shasha et al. <fnr> <sp> 8 </sp> </fnr> <footnote>
+<ICE-JA:W2A-028#54:1> 8. Shasha, B. S.; Doane, W. M.; Russel, C. R. <it> Poly. Sc. Polym.
+
+Lett. </it> , 1976, 14, 417. </footnote>
+<ICE-JA:W2A-028#55:1> In that study a starch xanthate matrix which has lipophilic but water
+
+insoluble properties was used to encapsulate a variety of pesticides.
+<ICE-JA:W2A-028#56:1> Subsequently, the same group of workers used other starch matrices
+
+viz, a calcium starch adduct and borate complex. <fnr> <sp> 9,10 </sp> </fnr>
+
+<footnote>
+<ICE-JA:W2A-028#57:1> 9. Shasha, B. S.; Trimnell, D.; Otey, F. H. <it> J. Polym. Sc. </it>
+
+, 1981, 19, 1981. </footnote> <footnote>
+<ICE-JA:W2A-028#58:1> 10. Trimnell, D.; Shasha, B. S.; Wing, R. E.; Otey, F. H. <it> J.
+
+Appl. Polym. Sc. </it> , 1982, 27, 3919. </footnote>
+<ICE-JA:W2A-028#59:1> Encapsulation with steam injected ( jet cooked) starch <fnr> <sp> 11
+
+</sp> </fnr> and an autoencapsulation method were also developed by the same
+
+workers. <fnr> <sp> 12,13 </sp> </fnr> <footnote>
+<ICE-JA:W2A-028#60:1> 11. Wing R. E.; Maiti, S.; Doane, W. M. <it> Starke </it> , 1987, 39,
+
+422. </footnote> <footnote>
+<ICE-JA:W2A-028#61:1> 12. Trimnell, D.; Shasha, B. S. <it> J. Controlled Release </it> ,
+
+1988, 7, 25. </footnote> <footnote>
+<ICE-JA:W2A-028#62:1> 13. Trimnell, D.; Shasha, B.S. <it> Polym. Prep. </it> , 1987, 28,
+
+107. </footnote> </p>
+
+<p> <ICE-JA:W2A-028#63:1> The following is a report of the investigation on the possibility
+
+of encapsulating pesticides in locally available cassava starch using
+
+modified literature methods applicable for Pearle corn starch. <fnr> <sp>
+
+8-10 </sp> </fnr> </p>
+
+<p> <ICE-JA:W2A-028#64:1> <h> <bold> EXPERIMENTAL </bold> </h> </p>
+
+<p> <ICE-JA:W2A-028#65:1> All chemicals used were reagent grade.
+<ICE-JA:W2A-028#66:1> All or <l> ganic solvents and water used were distilled before use.
+<ICE-JA:W2A-028#67:1> Commercially available K-brand corn starch was used.
+<ICE-JA:W2A-028#68:1> Some of the cassava starch was bought in a local market and some was
+
+extracted from cassava in the laboratory.
+<ICE-JA:W2A-028#69:1> Diazinon 60 EC used for encap <l> sulation was obtained from Grace
+
+Agrochemicals, Kingston, Jamaica. </p>
+
+<p> <ICE-JA:W2A-028#70:1> <h> <bold> Starch Extraction </bold> </h> </p>
+
+<p> <ICE-JA:W2A-028#71:1> 1.65 kg of cassava obtained from a local market were peeled,
+
+cubed and crushed in a blender.
+<ICE-JA:W2A-028#72:1> The resulting slurry was strained through a fine mesh cloth.
+<ICE-JA:W2A-028#73:1> The residue was washed with water and strained again.
+<ICE-JA:W2A-028#74:1> This was repeated until the filtrate was pale white.
+<ICE-JA:W2A-028#75:1> The filtrate was left to settle.
+<ICE-JA:W2A-028#76:1> When the suspended starch had settled the supernatant liquid was
+
+poured off and the residue was left to dry.
+<ICE-JA:W2A-028#77:1> 390 g of starch which was slightly off-white in colour were obtained.
+
+</p>
+
+<p> <ICE-JA:W2A-028#78:1> <h> <bold> Pesticide Encapsulation </bold> </h> </p>
+
+<p> <ICE-JA:W2A-028#79:1> A. Starch-Xanthide method  this method was essentially adopted
+
+from the published procedure. <fnr> <sp> 8 </sp> </fnr>
+<ICE-JA:W2A-028#80:1> The encapsulated pesticide was filtered on a 60 mesh and washed with
+
+water and pressed dry.
+<ICE-JA:W2A-028#81:1> The semi-dried mass was forced through a 15 mesh grid and left to dry
+
+to yield 70 g of product. </p>
+
+<p> B. Starch-Calcuim Chloride Method  Shasha's published procedure <fnr>
+
+<sp> 8 </sp> </fnr> was followed to prepare the product.
+<ICE-JA:W2A-028#82:1> The encapsulated product was washed thoroughly with water and then
+
+pressed dry.
+<ICE-JA:W2A-028#83:1> The semi-dried mass was forced through a 16 mesh grid and left to
+
+dry. </p>
+
+<p> <ICE-JA:W2A-028#84:1> C. Starch-Borate Method 1  22.5 g of starch, 10 cm <sp> 3 </sp>
+
+of emulsifiable concentrate formulation of Diazinon and 35 cm <sp> 3 </sp> of
+
+water were placed in a blender and mixed.
+<ICE-JA:W2A-028#85:1> 25 cm <sp> 3 </sp> of a 6% NaOH solution were added to gel the starch
+
+and mixing was continued.
+<ICE-JA:W2A-028#86:1> 2.5 g of boric acid were then added and mixed until a uniform rubbery
+
+mass was obtained.
+<ICE-JA:W2A-028#87:1> 11.25 g starch were then added and mixing continued until
+
+non-adhering particles were formed.
+<ICE-JA:W2A-028#88:1> The particles were then forced through a 16 mesh grid and left to air
+
+dry to yield 34 g of product. </p>
+
+<p> <ICE-JA:W2A-028#89:1> D. Starch-Borate Method 2  10 cm <sp> 3 </sp> of the
+
+emulsifiable concentrated formulation of Diazinon Chlorpyrifos were added to
+
+11.25 g starch and thoroughly mixed in a blender.
+<ICE-JA:W2A-028#90:1> 15 cm <sp> 3 </sp> of boiling boric acid solution ( 1.25 g boric acid
+
+in 15 cm <sp> 3 </sp> water) were added.
+<ICE-JA:W2A-028#91:1> The mixture was blended again until a uniform gel formed.
+<ICE-JA:W2A-028#92:1> The mixture was poured onto plates in thin layers and left to dry.
+<ICE-JA:W2A-028#93:1> The dried films were then broken up in a blender. </p>
+
+<p> <ICE-JA:W2A-028#94:1> Alternatively, boric was added to a slurry of starch in unheated
+
+water.
+<ICE-JA:W2A-028#95:1> The mixture was then heated to gel approximately at 80 &degree; C.
+<ICE-JA:W2A-028#96:1> 1-10 cm <sp> 3 </sp> of an emulsifiable concentration formulation of
+
+Diazinon were added, followed by mixing.
+<ICE-JA:W2A-028#97:1> The mixture was poured onto plates in thin layers and left to dry.
+<ICE-JA:W2A-028#98:1> Water volume was varied from 15 to 100 cm <sp> 3 </sp> and boric acid
+
+mass was varied from 1.5  5 g. </p>
+
+<p> <ICE-JA:W2A-028#99:1> E. Cooked Starch  10 cm <sp> 3 </sp> of an emulsifiable
+
+concentration formulation of Diazinon were added to 11.25 g starch in a
+
+blender and mixed.
+<ICE-JA:W2A-028#100:1> 30 cm <sp> 3 </sp> of boiling water were added to the mixture and
+
+the latter blended.
+<ICE-JA:W2A-028#101:1> The gelled slurry was poured onto plated in thin layers to dry.
+<ICE-JA:W2A-028#102:1> The dry films were then broken up in a blender. </p>
+
+<p> <ICE-JA:W2A-028#103:1> <h> <bold> Analysis for Recovered Pesticide and Percent
+
+Encapsulation </bold> </h> </p>
+
+<p> <ICE-JA:W2A-028#104:1> A. Calcium Adduct and Starch  Borate 1  approximately 0.1 g of
+
+the encapsulated product was weighed out accurately in 100 cm <sp> 3 </sp>
+
+conical flasks.
+<ICE-JA:W2A-028#105:1> About 20 cm <sp> 3 </sp> of water were added and the product left to
+
+soften for about 15 min.
+<ICE-JA:W2A-028#106:1> The flasks were then heated for about 10 min.
+<ICE-JA:W2A-028#107:1> At this stage the complexes were completely dissolved.
+<ICE-JA:W2A-028#108:1> After cooling, the solutions were extracted with three 30 cm <sp> 3
+
+</sp> portions of 15% dichloromethane/hexane solution.
+<ICE-JA:W2A-028#109:1> The extracts were dried and transferred to volumetric flasks.
+<ICE-JA:W2A-028#110:1> The contents were analysed for the pesticide using a gas
+
+chromatograph fitted with a flame photometric detector.
+<ICE-JA:W2A-028#111:1> This analysis gave the total amount of pesticide present,
+
+encapsulated and unencapsulated ( on the surface).
+<ICE-JA:W2A-028#112:1> The unencapsulated pesticide was determined by washing the granules
+
+with a suitable solvent, collecting the washing and analysing the latter by
+
+gas chromatography. </p>
+
+<p> <ICE-JA:W2A-028#113:1> B. Starch  Xanthide  approximately 0.1 g of the encapsulated
+
+product was weighed out accurately and crushed in an electrically operated
+
+mortar and pestle in the presence of approximately 50 cm <sp> 3 </sp> of
+
+hexane.
+<ICE-JA:W2A-028#114:1> The solvent was filtered from the powder and collected.
+<ICE-JA:W2A-028#115:1> The powder was then washed with approximately three 10 cm <sp> 3
+
+</sp> portions of hexane and the washings combined with the filtrate, dried,
+
+placed in a 100 cm <sp> 3 </sp> volumetric flask made up to the mark and then
+
+analysed by gas chromato <l> graphy. </p>
+
+<p> <ICE-JA:W2A-028#116:1> C. Starch  Borate 2 and Cooked Starch  approximately 0.05 g of
+
+the encapsulated product was placed in a 100 cm <sp> 3 </sp> conical flask
+
+and about 30 cm <sp> 3 </sp> was added. <X>
+<ICE-JA:W2A-028#X117:1> This was left for about 3 hrs. to soften the matrix, and then
+
+homogenized.
+<ICE-JA:W2A-028#X118:1> The homogenized mixture was then extracted with three, 30 cm <sp>
+
+3</sp> portions of 15% dichloromethane/hexane solution.
+<ICE-JA:W2A-028#X119:1> The extract was then analysed for the pesticide using a gas
+
+chromatograph fitted with a flame photometric detector.</p>
+
+<p> <ICE-JA:W2A-028#X120:1> <h> Particle Size Separation</h></p>
+
+<p> The granules were separated into four particle size ranges: &gt; 8, 8/16,
+
+16/30 and &gt; 30 by sifting the granules through meshes of appropriate size
+
+range.</p>
+
+<p> <ICE-JA:W2A-028#X121:1> <h> Swellability Determination</h></p>
+
+<p> <ICE-JA:W2A-028#X122:1> About 0.5 g of the encapsulated product was placed in a 5 cm
+
+<sp> 3</sp> measuring cylinder and the volume noted.
+<ICE-JA:W2A-028#X123:1> Water was placed in the cylinder and the mixture left for about 3
+
+hours.
+<ICE-JA:W2A-028#X124:1> The volume of the granules was then noted.</p>
+
+<p> <ICE-JA:W2A-028#X125:1> <h> pH Measurement</h></p>
+
+<p> <ICE-JA:W2A-028#X126:1> About 1 g of the granules was placed in 100 cm <sp> 3</sp>
+
+water and left to soak for about one hour.
+<ICE-JA:W2A-028#X127:1> The pH of the water was then measured by a digital pH meter.</p>
+
+<p> <ICE-JA:W2A-028#X128:1> <h> Instrumentation</h></p>
+
+<p> <ICE-JA:W2A-028#X129:1> A Shimadzu 9A with flame photometric detector ( FPD) and
+
+phosphorous filter was used for chromatographic analysis.
+<ICE-JA:W2A-028#X130:1> A column of 1.6 m in length and 12 mm internal diameter packed with
+
+OV-17 on Chromosorb WHP 80/100 was used with the gas chromatograph (
+
+GC).</X></I>

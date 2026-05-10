@@ -1,0 +1,460 @@
+<I>
+
+<p> <ICE-JA:W2A-035#1:1> <h> STOCHASTIC SIMULATION AND FORECASTING OF HOURLY AVERAGE WIND
+
+SPEED SEQUENCES IN JAMAICA </h> </p>
+
+<p> <ICE-JA:W2A-035#2:1> A. R. DANIEL and A. A. CHEN <fnr> * </fnr> <footnote>
+<ICE-JA:W2A-035#3:1> *ISES member. </footnote> </p>
+
+<p> <ICE-JA:W2A-035#4:1> Department of Physics, University of the West Indies, Kingston 7,
+
+Jamaica </p>
+
+<p> <ICE-JA:W2A-035#5:1> <bold> Abstract </bold> -
+<ICE-JA:W2A-035#6:1> Stochastic simulation and forecast models of hourly average speeds are
+
+presented in this paper.
+<ICE-JA:W2A-035#7:1> The models take into account several basic features of wind speed data
+
+including autocorrelation, non-Gaussian distribution, and diurnal
+
+nonstationarity.
+<ICE-JA:W2A-035#8:1> The positive correlation between consecutive wind speed observations
+
+is taken into account by fitting an autoregressive moving average ( ARMA)
+
+process to wind speed data which were transformed to make their distribution
+
+approximately Gaussian and standardized to remove diurnal nonstationarity.
+<ICE-JA:W2A-035#9:1> Based on three years of data, separate models were obtained for the
+
+months of June, July, and August.
+<ICE-JA:W2A-035#10:1> Tests were performed to verify the adequacy of the models and
+
+comparisons were made between generated and real series and between
+
+forecasted and real series to check if the wind speed behaviour was
+
+faithfully reproduced.
+<ICE-JA:W2A-035#11:1> Good results were obtained. </p>
+
+<p> <ICE-JA:W2A-035#12:1> <h> <bold> 1. Introduction </bold> </h> </p>
+
+<p> <ICE-JA:W2A-035#13:1> The peak demand for power in Jamaica during any typical day
+
+occurs in the early afternoon ( private com <l> munication, Jamaica Public
+
+Service Co. Ltd.).
+<ICE-JA:W2A-035#14:1> Since the wind speed in Jamaica also peaks in the early af <l>
+
+ternoon, it is possible that wind energy conversion sys <l> tems ( WECS)
+
+could be used as alternate back-up sup <l> plies instead of conventional
+
+back-up plants if the winds are favourable.
+<ICE-JA:W2A-035#15:1> These conventional plants require ap <l> proximately a 15-minute
+
+start-up time; and if WECS are to be used as alternate sources of back-up
+
+power to the national grid, a statistical model is necessary to forecast wind
+
+power in advance.
+<ICE-JA:W2A-035#16:1> Such a forecast would allow a load dispatcher at the Public Utility
+
+to deter <l> mine how much back-up power could be expected from WECS a few
+
+hours in advance and advise accordingly.
+<ICE-JA:W2A-035#17:1> Since wind power is a function of wind speed, forecasts of power
+
+generally are derived from forecasts of speed.
+<ICE-JA:W2A-035#18:1> Methods of converting wind speed to wind power are described
+
+extensively in the literature ( e.g. [ 1] and [ 2]) and will not be discussed
+
+here. </p>
+
+<p> <ICE-JA:W2A-035#19:1> Models to forecast wind speeds were developed by using data from
+
+Norman Manley International Airport, which is situated in the vicinity of
+
+Kingston.
+<ICE-JA:W2A-035#20:1> Data from this site were chosen because of their reliability and
+
+continuity and also because a previous study [ 3] in <l> dicated that the
+
+area in the vicinity of Manley was a good site for WECS.
+<ICE-JA:W2A-035#21:1> The models were also used to simulate winds speeds at Manley since a
+
+methodology to develop reliable models to simulate wind speeds is required as
+
+the data at the other potential WECS sites are of short duration ( e.g.;
+
+Flagaman, Discovery Bay, and Pimento Hill) and a long sequence of data is nec
+
+<l> essary in reliability and load matching studies. </p>
+
+<p> <ICE-JA:W2A-035#22:1> Many previous studies such as those by Chou and Corotis [ 4], Goh
+
+and Nathan [ 5], McNerney and Veers [ 6], and Kirchhoff <it> et al. </it> [
+
+7] have attempted to incorporate autocorrelation into wind speed models.
+<ICE-JA:W2A-035#23:1> The approaches taken in some of these studies have been based on very
+
+specific assumptions about the sta <l> tistical characteristics of wind speed
+
+data.
+<ICE-JA:W2A-035#24:1> Moreover, some of the studies have neglected to consider impor <l>
+
+tant properties of such data, including the non-Gaus <l> sian shape and
+
+nonstationarity of the wind speed.
+<ICE-JA:W2A-035#25:1> The Chou and Corotis model has been found not to gen <l> erate enough
+
+persistency in simulated data [ 8].
+<ICE-JA:W2A-035#26:1> The work of McNerney and Veers used a Markov method for simulating
+
+non-Gaussian wind speed time series, with a Rayleigh distribution as an
+
+example.
+<ICE-JA:W2A-035#27:1> The work of Kirchhoff <it> et al. </it> employed a Markov chain model
+
+for generating time series for 15-minute average wind speeds and for rapidly
+
+sampled turbulent wind speeds. </p>
+
+<p> <ICE-JA:W2A-035#28:1> To take into account autocorrelation, Blanchard <it> et al. </it>
+
+[ 9] and Brown <it> et al. </it> [ 2] employed a class of para <l> metric
+
+time series models called autoregressive moving average processes ( ARMA)
+
+made popular by Box and Jenkins [ 10].
+<ICE-JA:W2A-035#29:1> However, the previous studies did not use several years of wind speed
+
+data for a given month to develop a model for that month.
+<ICE-JA:W2A-035#30:1> If more than one year of data for a given month is used, the
+
+statistical calculations would be more complicated, requiring a revision of
+
+the formulae.
+<ICE-JA:W2A-035#31:1> The primary advantage of including more than one year of data in the
+
+model development is the increased reliability of the estimates of the model
+
+parameter.
+<ICE-JA:W2A-035#32:1> In particular, a wind speed model based on many years of June data
+
+should be more representative of future June speeds than a model based on a
+
+single year of June data. </p>
+
+<p> <ICE-JA:W2A-035#33:1> The modelling methodology described here, consists of first
+
+fitting ARMA process of various orders to hourly average wind speed ( HAWS)
+
+data which have been transformed to make their distribution approximately
+
+Gaussian and standardized to remove diurnal nonsta <l> tionarity.
+<ICE-JA:W2A-035#34:1> Then a model selection criterion is employed to select the most
+
+appropriate ARMA process.
+<ICE-JA:W2A-035#35:1> Seasonal nonstationarity is removed by fitting a separate model for
+
+each month. </p> <O> caption </O> <O> table </O>
+
+<p> <ICE-JA:W2A-035#36:1> <h> <bold> 2. TRANSFORMATION AND STANDARDIZATION </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2A-035#37:1> <h> 2.1 <it> Transformation to obtain a Gaussian distribution
+
+</it> </h> </p>
+
+<p> <ICE-JA:W2A-035#38:1> By applying the graphical method of cumulative probability
+
+distribution used by Tackle and Brown [ 11] it was found that the hourly
+
+average wind speeds ( HAWS) at Norman Manley International Airport could be
+
+described by a Weibull distribution of shape factor between 2 and 3.
+<ICE-JA:W2A-035#39:1> It was evident from the value of <it> k </it> that the distribution
+
+was positively skewed.
+<ICE-JA:W2A-035#40:1> Similar skewed distributions have been found to characterize wind
+
+speeds measured at other sites and over other time periods. </p>
+
+<p> <ICE-JA:W2A-035#41:1> Time series models based on Markov chain models have been
+
+developed for random variables possessing a Weibull distribution [ 6,7].
+<ICE-JA:W2A-035#42:1> Brown <it> et al. </it> [ 2] took an alternative approach to
+
+approximating the fitting of a Weibull distribution by applying a power
+
+transfor <l> mation.
+<ICE-JA:W2A-035#43:1> Dubey [ 12] showed that for a shape factor close to 3.6, the Weibull
+
+distribution is similar to a Gaussian distribution.
+<ICE-JA:W2A-035#44:1> Use of this result provided one method of selecting an appropriate
+
+power transformation to make the distribution approximately Gaussian.
+<ICE-JA:W2A-035#45:1> This approach is reasonable because a Weibull random variable raised
+
+to a power <it> m </it> is also a Weibull random variable. </p>
+
+<p> <ICE-JA:W2A-035#46:1> If wind speed <it> U </it> has a Weibull probability density
+
+function <O> formula </O> where <it> k </it> and <it> c </it> are the shape
+
+and scale parameters, re <l> spectively, then <it> U <sp> m </sp> </it> has a
+
+Weibull distribution with shape parameter </it> k/m </it> and scale parameter
+
+<it> c <sp> m </sp> </it> .
+<ICE-JA:W2A-035#47:1> In order <O> caption </O> <O> table </O> to find an appropriate power
+
+<it> m </it> for the transformation, it is only necessary to solve the
+
+equation </p> <O> formula </O>
+
+<p> <ICE-JA:W2A-035#48:1> The values of <it> k </it> and <it> c </it> can be determined by
+
+the graphical method of Tackle and Brown [ 11].
+<ICE-JA:W2A-035#49:1> An alter <l> native method of determining the Weibull parameters <it>
+
+c </it> and <it> k </it> is the maximum likelihood technique given by Johnson
+
+and Kotz [ 13].
+<ICE-JA:W2A-035#50:1> The value of <it> k </it> and <it> c </it> , respectively, satisfy
+
+eqns ( 3) and ( 4) below.
+<ICE-JA:W2A-035#51:1> Equations ( 3) and ( 4) are slightly revised to accommodate more than
+
+one year of data for a given month. </p> <O> formula </O> <O> formula </O>
+
+<p> where <it> U <sb> n,y </sb> </it> = hourly average wind speed for the
+
+<it> y </it> - th year; <it> y </it> = 1, 2, 3 & <it> Y </it> ( the number of
+
+years of obser <l> vation); <it> n </it> = 1, 2, 3 & <it> N </it> ( the
+
+number of observations of a given month of a year). </p>
+
+<p> <ICE-JA:W2A-035#52:1> The value of <it> k </it> is obtained from eqn ( 4), and then
+
+used in eqn ( 3), to find the value of <it> c </it> .
+<ICE-JA:W2A-035#53:1> Equation ( 4), however, is a transcendental equation that requires an
+
+iterative process to achieve a solution.
+<ICE-JA:W2A-035#54:1> A first guess is made for the value of <it> k </it> .
+<ICE-JA:W2A-035#55:1> This value is then put into the right-hand side of the eqn ( 4), and
+
+a second value of <it> k </it> is obtained.
+<ICE-JA:W2A-035#56:1> In about 3 to 10 iterations, convergence to within 0.01% should be
+
+achieved, depending on the difference between the first guess and the final
+
+value of <it> k </it> .
+<ICE-JA:W2A-035#57:1> On substituting this value of <it> k </it> into eqn ( 3), the value
+
+of <it> c </it> could be determined. </p>
+
+<p> <ICE-JA:W2A-035#58:1> Another approach to selecting a power transfor <l> mation to
+
+obtain an approximately Gaussian distri <l> bution is by using the skewness
+
+statistic [ 14] <O> formula </O> where <it> M <sb> n,y </sb> </it> ( assumed
+
+transformed data) = ( <it> U <sb> n,y </sb> </it> ) <sp> <it> m </it> </sp> ;
+
+&unch; = mean of the <it> M <sb> n,y </sb> </it> series; <it> s </it> =
+
+standard deviation of the series. </p> <O> figure </O> <O> caption </O> <O>
+
+figure </O> <O> caption </O>
+
+<p> <ICE-JA:W2A-035#59:1> The skewness statistic method requires the trans <l> formation of
+
+the data using several values of <it> m </it> ( e.g., 1, 0.3, 0.5, 0.7).
+<ICE-JA:W2A-035#60:1> Then the skewness statistic, which is a measure of the symmetry of a
+
+distribution, is cal <l> culated for each set of transformed data.
+<ICE-JA:W2A-035#61:1> It takes a value of zero when the distribution is completely
+
+symmetric.
+<ICE-JA:W2A-035#62:1> By comparing and interpolating between the values of <it> S <sb> k
+
+</sb> </it> , the value of <it> m </it> for which <it> S <sb> k </sb> </it>
+
+is closest to zero can be determined approximately. </p>
+
+<p> <ICE-JA:W2A-035#63:1> Once the value of <it> m </it> is estimated, the power trans <l>
+
+formation is applied to adjust for the non-Gaussian distribution of HAWS
+
+giving transformed data: </p> <O> formula </O>
+
+<p> <ICE-JA:W2A-035#64:1> <h> 2.2 <it> Standardization to remove diurnal nonstationarity
+
+</it> </h> </p>
+
+<p> <ICE-JA:W2A-035#65:1> The diurnal nonstationarity can be removed by subtracting the
+
+hourly expected values &mu; ( <it> t </it> ) from the <O> figure </O> <O>
+
+caption </O> <O> figure </O> <O> caption </O> transformed data and by
+
+dividing by the hourly stan <l> dard deviation.
+<ICE-JA:W2A-035#66:1> Thus the transformed, standardized hourly average wind speed is given
+
+by <O> formula </O> where </p> <O> formula </O> <O> formula </O>
+
+<p> <ICE-JA:W2A-035#67:1> Here it is assumed that &mu; ( <it> t </it> ) and &sigma; ( <it>
+
+t </it> ) are periodic functions, for example </p> <O> formula </O> , <O>
+
+formula </O> <O> formula </O> , <O> formula </O>
+
+<p> <ICE-JA:W2A-035#68:1> The values of &mu; ( <it> t </it> ) and &sigma; ( <it> t </it> )
+
+may be estimated by the sample mean and the standard deviation of all the
+
+transformed wind speed in the <it> t </it> - th hour of the day. </p> <O>
+
+caption </O> <O> table </O>
+
+<p> <ICE-JA:W2A-035#69:1> <h> <bold> 3. ARMA MODEL </bold> </h> </p>
+
+<p> <ICE-JA:W2A-035#70:1> <h> 3.1 <it> Methodology </it> </h> </p>
+
+<p> <ICE-JA:W2A-035#71:1> ARMA models incorporate into prediction not only past values of
+
+the data but past values of the prediction residuals as well.
+<ICE-JA:W2A-035#72:1> An ARMA ( <it> p </it> , <it> q </it> ) model can be written as
+
+follows: </p> <O> formula </O>
+
+<p> <ICE-JA:W2A-035#73:1> where <it> B </it> = backward shift operator such that <O>
+
+formula </O> = autoregressive parameters; <O> formula </O> = moving average
+
+parameters; <it> a <sb> n,y </sb> </it> = white noise process ( uncorrelated
+
+random variables with mean 0 and variance <O> formula </O> ) .
+<ICE-JA:W2A-035#74:1> It is obvious that the moving average parameters will be equal to
+
+zero if the model is a pure autoregressive ( AR) process. </p>
+
+<p> <ICE-JA:W2A-035#75:1> The model building process comprises three main steps: ( i)
+
+identification, ( ii) estimation, and ( iii) di <l> agnostic checking.
+<ICE-JA:W2A-035#76:1> The identification and estimation steps necessarily overlap.
+<ICE-JA:W2A-035#77:1> The first step consists of se <l> lecting a model which seems to be a
+
+good represen <l> tation of the data.
+<ICE-JA:W2A-035#78:1> In the second step, the chosen model is fitted accurately to the data
+
+and the model parameters are evaluated.
+<ICE-JA:W2A-035#79:1> Diagnostic checking, the last step, tests the validity of the model.
+<ICE-JA:W2A-035#80:1> If it is judged inadequate by established tests, the three steps must
+
+be repeated until a suitable model is obtained. </p>
+
+<p> <ICE-JA:W2A-035#81:1> <h> 3.2 <it> Model identification </it> </h> </p>
+
+<p> <ICE-JA:W2A-035#82:1> The identification step consists of the preliminary estimation of
+
+the model parameters and the determi <l> nation of the values of <it> p </it>
+
+and <it> q </it> in the eqn ( 10).
+<ICE-JA:W2A-035#83:1> Initial estimates of the AR parameters ( <O> formula </O> ) are ob
+
+<l> tained by replacing the theoretical autocorrelations by the estimated
+
+autocorrelation <it> r <sb> k </sb> </it> in the Yule-Walker <O> caption </O>
+
+<O> table </O> equations ( Box and Jenkins [ 10], p. 82).
+<ICE-JA:W2A-035#84:1> The sample autocorrelation function <it> r <sb> k </sb> </it> is
+
+estimated using the equation <O> formula </O> where <O> formula </O> <O>
+
+formula </O> and <it> c <sb> k </sb> </it> is the unbiassed estimate of the
+
+population auto <?> - </?> covariance of lag <it> k </it> = 1, 2, 3 & .
+<ICE-JA:W2A-035#85:1> The above-mentioned method can be used to obtain initial estimates of
+
+<O> formula </O> for and AR ( <it> p </it> ) model or the AR component of the
+
+ARMA ( <it> p </it> , <it> q </it> ) model. </p>
+
+<p> <ICE-JA:W2A-035#86:1> The white noise variance of a pure autoregressive model is
+
+estimated from the equation <O> formula </O> where <O> formula </O> is the
+
+variance of the transformed stan <l> dardized HAWS. </p> <O> figure </O> <O>
+
+caption </O>
+
+<p> <ICE-JA:W2A-035#87:1> The moving average ( <it> MA </it> ) component of the ARMA ( <it>
+
+p </it> , <it> q </it> ) model is obtained from the series <O> formula </O>
+
+by calculating the autocovariance function <O> formula </O> of the <O>
+
+formula </O> series.
+<ICE-JA:W2A-035#88:1> <O> formula </O> can be calculated as usual by eqn ( 12).
+<ICE-JA:W2A-035#89:1> Alternatively, Box and Jenkins [ 10] give the formula for the <O>
+
+formula </O> in terms of the <it> c <sb> k </sb> </it> of the <O> formula
+
+</O> series and the &unch;'s already available from the previous steps.
+<ICE-JA:W2A-035#90:1> With the use of <O> formula </O> the parameters <O> formula </O> and
+
+the residual variance <O> formula </O> are obtained by solving equation
+
+A6.2.4 of Box and Jenkins [ 10] iteratively by assuming the initial values of
+
+the unknown parameters to be zero. </p>
+
+<p> <ICE-JA:W2A-035#91:1> <h> 3.3 <it> Order determination </it> </h> </p>
+
+<p> <ICE-JA:W2A-035#92:1> The general appearance of plots of the estimated autocorrelation
+
+function ( ACF) and the partial auto <l> correlation function ( PACF) of the
+
+transformed, stan <l> dardized <O> figure </O> <O> table </O> <O> caption
+
+</O> wind speed series versus lag <it> k </it> is studied to provide clues
+
+about the choice of the order of <it> p </it> and <it> q </it> for ARMA
+
+parameters.
+<ICE-JA:W2A-035#93:1> The characteristic behaviour of the theoretical ACF of an AR process
+
+of order <it> p </it> tails off while the theoretical PACF has a cut-off
+
+value after lag <it> p </it> .
+<ICE-JA:W2A-035#94:1> The sample PACF ( <it> Q <sb> k </sb> </it> ( <it> k </it> ) ) are
+
+obtained from Durbins relations [ 10].
+<ICE-JA:W2A-035#95:1> If both the ACF and PACF tail off, a mixed process is suggested.
+<ICE-JA:W2A-035#96:1> Furthermore, the ACF for a mixed process, containing a <it> p </it> -
+
+th order AR component and a <it> q </it> - th order moving average compo <l>
+
+nent, is a mixture of exponentials and damped sine waves after the first <it>
+
+q-p </it> lags.
+<ICE-JA:W2A-035#97:1> Conversely, the PACF for a mixed process is dominated by a mixture of
+
+ex <l> ponentials and damped sine waves after the first <it> p-q </it> lags [
+
+10]. </p>
+
+<p> <ICE-JA:W2A-035#98:1> Another qualitative procedure for choosing the or <l> der of an
+
+ARMA process is called the Bayesian infor <l> mation criterion ( BIC).
+<ICE-JA:W2A-035#99:1> It is a mathematical formu <l> lation which considers the principle
+
+of parsimony in model building. </I>

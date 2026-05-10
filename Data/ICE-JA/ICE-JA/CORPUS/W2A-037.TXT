@@ -1,0 +1,481 @@
+<I>
+
+<p> <ICE-JA:W2A-037#1:1> <h> Application of the Folin-Ciocalteau reagent to the
+
+determination of salbutamol in pharmaceutical preparations </h> </p>
+
+<p> <ICE-JA:W2A-037#2:1> Novelette P. Sandler <sp> * </sp> , Helen Jacobs </p>
+
+<p> <ICE-JA:W2A-037#3:1> <it> Department of Chemistry, University of the West Indies, Mona,
+
+Kingston 7, Jamaica </it> </p>
+
+<p> <ICE-JA:W2A-037#4:1> Received 27 July 1994; revised 23 January 1995; accepted 24
+
+January 1995 </p>
+
+<p> <ICE-JA:W2A-037#5:1> <h> <bold> Abstract </bold> </h> </p>
+
+<p> <ICE-JA:W2A-037#6:1> A method for the determination of salbutamol in both tablets and
+
+syrups is described.
+<ICE-JA:W2A-037#7:1> It utilizes the reduction of the Folin-Ciocalteau reagent by the
+
+phenolic group, monitoring the absorbance of the resulting complex at 760 nm.
+<ICE-JA:W2A-037#8:1> Results obtained are linear over the range 0-6 &mu; g ml <sp> - 1
+
+</sp> salbutamol.
+<ICE-JA:W2A-037#9:1> Coloring material was removed by anionexchange chromatography prior to
+
+analysis and there was no interference from sucrose, neutral flavorings or
+
+the common preservative sodium benzoate.
+<ICE-JA:W2A-037#10:1> This method appears suitable as a general assay for salbutamol. </p>
+
+<p> <ICE-JA:W2A-037#11:1> <h> <bold> 1. Introduction </bold> </h> </p>
+
+<p> <ICE-JA:W2A-037#12:1> Salbutamol, <bold> 1 </bold> , &alpha; - [ ( <it> tert </it> -
+
+butylamino)methyl]-4-hydroxy- <it> m </it> - xylene- &alpha; , &alpha; <it> '
+
+</it> - diol, the structure of which is shown in Fig. 1, is a sympathomimetic
+
+amine containing a phenolic group.
+<ICE-JA:W2A-037#13:1> Salbutamol sulfate in various forms  aerosol spray, tablets, syrups,
+
+injection  is extensively used in the treatment of asthma. </p>
+
+<p> <ICE-JA:W2A-037#14:1> The recent expiration of the proprietary rights of the original
+
+patent holders has led to the widespread utilization of the generic sub <l>
+
+stance in formulations for oral dosage, many of which are flavored and
+
+colored to appeal to specific local tastes. </p>
+
+<p> <ICE-JA:W2A-037#15:1> The most recent official B.P. [ 1] and U.S.P. [ 2] assays for
+
+salbutamol ( as the sulfate) in formulation are based on HPLC and non-aqueous
+
+titration, and are described specifically for tablets, injection solutions
+
+and aerosol sprays.
+<ICE-JA:W2A-037#16:1> Although the non-aqueous titration method is straightforward, it is
+
+inapplicable to syrups and solutions, while the other methods are unsuitable
+
+for the technologically less well-developed settings in which it is often
+
+necessary to quantify salbutamol in formula <l> tions.
+<ICE-JA:W2A-037#17:1> An earlier B.P. method [ 3] is based on anion-exchange chromatography
+
+and the UV absorption at 276 nm of the salbutamol cation in acid.
+<ICE-JA:W2A-037#18:1> Although suitable to relatively low-technology environments and, in
+
+principle, ap <l> plicable to a number of formulations, this method is
+
+described specifically for tablets only; it is subject to interference from
+
+neutral and cationic excipients, and additives, several of which absorb in
+
+the same mid-UV region as salbutamol. </p>
+
+<p> <ICE-JA:W2A-037#19:1> Recently published salbutamol assays in <l> clude a
+
+microtitrimetric method [ 4], described in application for tablets only, and
+
+a number of others which entail the formation of highly unstable derivatives
+
+with various chromogenic agents [ 5-16]. </p> <O> formula </O> <O> caption
+
+</O>
+
+<p> <ICE-JA:W2A-037#20:1> The phenolic group in salbutamol makes it a reductant for the
+
+Folin- <}> <-> Ciocalteu </-> <+> Ciocalteau </+> </}> reagent, a chromogenic
+
+agent which has been widely ap <l> plied to the determination of a number of
+
+compounds with reducing properties [ 17], and has been successfully used to
+
+quantify phenol morphine in the presence of its methyl ether codeine [ 18].
+
+</p>
+
+<p> <ICE-JA:W2A-037#21:1> <h> <bold> 2. Experimental </bold> </h> </p>
+
+<p> <ICE-JA:W2A-037#22:1> <h> <it> 2.1. Apparatus </it> </h> </p>
+
+<p> <ICE-JA:W2A-037#23:1> A Phillips single beam P48670 visible/near-IR spectrophotometer
+
+was used for the ab <l> sorbance measurements at 760 nm.
+<ICE-JA:W2A-037#24:1> For the B.P. method [ 3] and the measurement of spec <l> tra of
+
+neutral solutions obtained by ion-ex <l> change chromatography of syrups, UV
+
+absorbances were determined on a Hewlett-Packard 8452 diode array
+
+spectrophotometer.
+<ICE-JA:W2A-037#25:1> A 1 cm quartz cell was used in both cases.
+<ICE-JA:W2A-037#26:1> An Orion model EA 920 pH meter was used for pH measurements. </p>
+
+<p> <ICE-JA:W2A-037#27:1> <h> <it> 2.2. Materials </it> </h> </p>
+
+<p> <ICE-JA:W2A-037#28:1> Pure drug samples were obtained from P.A. Benjamin Manufacturing
+
+Co. Ltd., Kingston, Jamaica.
+<ICE-JA:W2A-037#29:1> Dosage forms were acquired from local and overseas sources, and the
+
+following formulations were used. </p>
+
+<p> <ICE-JA:W2A-037#30:1> ( A) Ventasol syrup, salbutamol sulfate equivalent to 2 mg
+
+salbutamol per 5 ml syrup, no color or flavor.
+<ICE-JA:W2A-037#31:1> ( P.A. Benjamin Manufac <l> turing Co. Ltd., Kingston, Jamaica). </p>
+
+<p> <ICE-JA:W2A-037#32:1> ( B) Fedbutamol syrup, salbutamol sulfate equivalent to 2 mg
+
+salbutamol per 5 ml syrup, colored and flavored.
+<ICE-JA:W2A-037#33:1> ( Federated Pharmaceuti <l> cal Co. Ltd., Kingston, Jamaica). </p>
+
+<p> <ICE-JA:W2A-037#34:1> ( C) Ventolin tablets, salbutamol sulfate equivalent to 2 mg
+
+salbutamol per tablet, col <l> ored.
+<ICE-JA:W2A-037#35:1> ( Glaxo Operations UK Ltd., Greenford, UK). </p>
+
+<p> <ICE-JA:W2A-037#36:1> ( D) Ventolin syrup, salbutamol sulfate equivalent to 2 mg
+
+salbutamol per 5 ml syrup, no color or flavor.
+<ICE-JA:W2A-037#37:1> ( Glaxo Operations UK Ltd., Greenford, UK). </p>
+
+<p> <ICE-JA:W2A-037#38:1> ( E) Albuterol syrup, salbutamol sulfate equivalent to 2 mg
+
+salbutamol per 5 ml syrup, colored and flavored.
+<ICE-JA:W2A-037#39:1> ( Allen & Mansbury's ( Di <l> vision of Glaxo), Research Triangle, NC
+
+27709, USA). </p>
+
+<p> <ICE-JA:W2A-037#40:1> <h> <it> 2.3. Reagents </it> </h> </p>
+
+<p> <ICE-JA:W2A-037#41:1> Distilled deionized water was used through <l> out.
+<ICE-JA:W2A-037#42:1> Folin- <}> <-> Cioicalteu </-> <+> Ciocalteau </+> </}> reagent was
+
+prepared ac <l> cording to a published procedure [ 18].
+<ICE-JA:W2A-037#43:1> The reagent was used as soon as possible after preparation, although
+
+colorimetric solutions prepared from reagent that was 54 h old gave results
+
+indistinguishable from those obtained with freshly prepared reagent. </p>
+
+<p> <ICE-JA:W2A-037#44:1> Ion-exchange chromatography utilized the commercially available
+
+chloride form of a strongly basic ion-exchange resin ( usually Dowex 1-X2,
+
+50-100 mesh) which, prior to use, was stirred briefly with 0.1 M NaCl or 0.1
+
+M HCl and washed free of chloride ions. </p>
+
+<p> <ICE-JA:W2A-037#45:1> Saturated NA <sb> 2 </sb> CO <sb> 3 </sb> solutions were cooled
+
+and filtered before use. </p>
+
+<p> <ICE-JA:W2A-037#46:1> <h> <it> 2.4. Standard drug solutions </it> </h> </p>
+
+<p> <ICE-JA:W2A-037#47:1> A solution of salbutamol sulfate in water of concentration
+
+equivalent to 50 &mu; g ml <sp> - 1 </sp> salbu <l> tamol was made up, and
+
+appropriate aliquots taken for preparation of colorimetric solutions used to
+
+generate the standard curve. </p>
+
+<p> <ICE-JA:W2A-037#48:1> <h> <it> 2.5. Analytical samples from pharmaceutical preparations
+
+</it> </h> </p>
+
+<p> <ICE-JA:W2A-037#49:1> Anion-exchange chromatography was car <l> ried out to remove
+
+coloring materials where present, as most common food dyes are anionic and
+
+non-phenolic.
+<ICE-JA:W2A-037#50:1> This procedure also re <l> moved benzoate. </p>
+
+<p> <ICE-JA:W2A-037#51:1> <h> <it> Tablets </it> </h> </p>
+
+<p> <ICE-JA:W2A-037#52:1> Ten tablets were weighed and powdered, and a quantity of powder
+
+containing the equivalent of 5 mg salbutamol suspended in 30 ml water.
+<ICE-JA:W2A-037#53:1> The suspension was filtered, the filtrate passed through 10-15 ml of
+
+the chloride ion-exchange resin contained in a 50 ml burette, and the resin
+
+washed with water until the volume of eluant was 100 ml. </p>
+
+<p> <ICE-JA:W2A-037#54:1> <h> <it> Syrups </it> </h> </p>
+
+<p> <ICE-JA:W2A-037#55:1> For syrups with and without color, a volume of syrup containing
+
+the equivalent of 5 mg salbutamol was diluted with an equal volume of water,
+
+the solution passed through 10-15 ml of the chloride resin, and 100 ml eluant
+
+col <l> lected.
+<ICE-JA:W2A-037#56:1> Solutions of syrups without color were also prepared by dilution to
+
+100 ml of a vol <l> ume of syrup containing the equivalent of 5 mg
+
+salbutamol. </p> <O> table </O> <O> caption </O>
+
+<p> <ICE-JA:W2A-037#57:1> <h> <it> 2.6. Preparation of colorimetric solutions </it> </h>
+
+</p>
+
+<p> <ICE-JA:W2A-037#58:1> Aliquots of standard or sample solutions containing the
+
+equivalent of 5, 10, 20, 30, 40, 50, 100, 200, 400, 600 and 800 &mu; g
+
+salbutamol were placed in 100 ml volumetric flasks.
+<ICE-JA:W2A-037#59:1> To each flask was added 2 ml of Folin- <}> <-> Ciocalteu </-> <+>
+
+Ciocalteau </+> <}> reagent and 3 ml of saturated Na <sb> 3 </sb> CO <sb> 3
+
+</sb> solu <l> tion, and the volume made up to the mark with water.
+<ICE-JA:W2A-037#60:1> Five hours were allowed for develop <l> ment of the maximum blue
+
+color, after which the absorbance could be measured within 18 h. </p>
+
+<p> <ICE-JA:W2A-037#61:1> <h> <bold> 3. Results and discussion </bold> </h> </p>
+
+<p> <ICE-JA:W2A-037#62:1> <h> <it> 3.1. Effect of concentration </it> </h> </p>
+
+<p> <ICE-JA:W2A-037#63:1> Plots of optical density versus concentration were made over the
+
+range 0-8 &mu; g ml <sp> - 1 </sp> using salbutamol standards.
+<ICE-JA:W2A-037#64:1> Excellent linear correla <l> tion was obtained up to 6 &mu; g ml <sp>
+
+- 1 </sp> , and the slope of the plot over this range was used to calculate
+
+the molar absorptivity at 760 nm by Beer's law.
+<ICE-JA:W2A-037#65:1> The results of linear regressional analysis of the data are shown in
+
+Table 1.
+<ICE-JA:W2A-037#66:1> The salbutamol concentration in each pharmaceuti <l> cal preparation
+
+was again determined using Beer's equation, making substitutions for the
+
+above-determined molar absorptivity and for the measured absorbance.
+<ICE-JA:W2A-037#67:1> Several concentra <l> tions of each preparation were used and the
+
+average calculated, along with its standard de <l> viation.
+<ICE-JA:W2A-037#68:1> Table 2 summarizes the results ob <l> tained. </p>
+
+<p> <ICE-JA:W2A-037#69:1> <h> <it> 3.2. Effect of flavoring and benzoate </it> </h> </p>
+
+<p> <ICE-JA:W2A-037#70:1> The flavorings and benzoate present in the syrups did not
+
+interfere with the determination of salbutamol using the colorimetric method.
+<ICE-JA:W2A-037#71:1> The results obtained using syrup solutions pre <l> pared via
+
+ion-exchange chromatography were identical to those for solutions made up by
+
+simple dilution of syrups.
+<ICE-JA:W2A-037#72:1> UV analysis ( moni <l> toring 278 nm) of neutral solutions obtained
+
+from the ion-exchange chromatography of col <l> orless syrups in some cases
+
+revealed severe interference by cationic or neutral species present as
+
+flavoring. </p>
+
+<p> <ICE-JA:W2A-037#73:1> In all the cases studied, the salbutamol con <l> centrations
+
+obtained by this method were in agreement with those stated by the manufac
+
+<l> turers of the formulations, which were given to one significant figure.
+
+</p>
+
+<p> <ICE-JA:W2A-037#74:1> The reaction between salbutamol and the Folin-Ciocalteau reagent
+
+results in the forma <l> tion of an intensely blue complex ( &lambda; <sb>
+
+max </sb> = 760 nm), which is probably a reduced heteropolyanion of
+
+molybdenum and tungsten [ 19].
+<ICE-JA:W2A-037#75:1> Isopoly- and heteropolyanions of molyb <l> denum and tungsten have
+
+been extensively studied, and their structures are fairly well understood.
+<ICE-JA:W2A-037#76:1> They can be reversibly reduced by the addition of one to six
+
+electrons per anion to give the <quote> " heteropoly blues" </quote> , a
+
+generic name derived from their intense coloration.
+<ICE-JA:W2A-037#77:1> These <quote> " blues" </quote> can be classified as mixed-valence
+
+com <l> plexes containing Mo(V) and Mo(VI), or W(V) and W(VI).
+<ICE-JA:W2A-037#78:1> It is likely that the phenolic group of salbutamol reduces the Mo(VI)
+
+and W(VI) centers to produce these relatively stable mixed-valence complexes.
+<ICE-JA:W2A-037#79:1> The intense, fairly broad band observed at 760 nm in the visible/near
+
+IR is typical of these complexes, and has been attributed to intervalence
+
+charge-transfer bands between Mo(V) and Mo(VI) via an oxo bridge, or to d-d
+
+bands for MO(V) [ 20].
+<ICE-JA:W2A-037#80:1> The large value of &epsilon; obtained in this study is consis <l>
+
+tent with those usually observed for d-d tran <l> sitions [ 19,20]. </p> <O>
+
+table </O> <O> caption </O>
+
+<p> <ICE-JA:W2A-037#81:1> <h> <bold> <}> <-> Acknowledgment </-> <+> Acknowledgement </+>
+
+</}> </bold> </h> </p>
+
+<p> <ICE-JA:W2A-037#82:1> The authors thank P.A. Benjamin Co Ltd., Kingston, Jamaica, for
+
+providing samples of Ventasol and some funding for this research. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2A-037#83:2> <h> Rapid Detection of Polymorphism in Yams ( <it> Dioscorea
+
+</it> sp) through Amplification by Polymerase Chain Reaction and rDNA
+
+Variation </h> </p>
+
+<p> <ICE-JA:W2A-037#84:2> Ingrid Muzac-Tucker and Mohammed H Ahmad <sp> * </sp> </p>
+
+<p> <ICE-JA:W2A-037#85:2> Biotechnology Centre, University of the West Indies, Mona,
+
+Kingston 7, Jamaica, West Indies </p>
+
+<p> <ICE-JA:W2A-037#86:2> ( Received 11 July 94; accepted 20 September 1994) </p>
+
+<p> <ICE-JA:W2A-037#87:2> <bold> Abstract: </bold>
+<ICE-JA:W2A-037#88:2> Ribosomal DNA ( rDNA) from rice ( <it> Oriza Sativa </it> ) was used
+
+to examine polymorphism in 12 yam ( <it> Dioscorea </it> sp) cultivars.
+<ICE-JA:W2A-037#89:2> Restriction enzyme digests of total yam DNA was probed with the
+
+pRR217 probe containing the entire repeat unit of rDNA from rice.
+<ICE-JA:W2A-037#90:2> The polymerase chain reaction was also used to amplify genomic DNA of
+
+six of the 12 cultivars studied using random primers.
+<ICE-JA:W2A-037#91:2> The amplification patterns of <it> D rotundata-cayenensis </it> cv
+
+tau suggested that <quote> 'tau' </quote> is more closely related to <it> D
+
+rotundata </it> sp than it is to the <it> D cayenensis </it> sp.
+<ICE-JA:W2A-037#92:2> The results showed polymorphisms among the different yam cultivars.
+
+</p>
+
+<p> <ICE-JA:W2A-037#93:2> Key words:
+<ICE-JA:W2A-037#94:2> polymerase chain reaction, restriction fragment length polymor <l>
+
+phism, polymorphism, <it> Dioscorea </it> , yam. </p>
+
+<p> <ICE-JA:W2A-037#95:2> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-037#96:2> Yam ( <it> Dioscorea </it> sp) are monocots belonging to the <it>
+
+Dio <l> scorea </it> genus which contains about 600 species growing mainly in
+
+the tropics and subtropics ( Coursey 1967).
+<ICE-JA:W2A-037#97:2> Only a few species are edible and constitute and impor <l> tant
+
+source of food for millions of people in West Africa and in the Caribbean.
+<ICE-JA:W2A-037#98:2> In Jamaica, six species containing approximately 12 cultivars are
+
+widely grown.
+<ICE-JA:W2A-037#99:2> It has been shown that yam tubers are biochemically diverse in terms
+
+of their protein content, phenolics, vitamin C, lipid and polyphenol oxidase
+
+enzyme activities ( Muzac-Tucker <it> et al </it> 1993).
+<ICE-JA:W2A-037#100:2> The taxonomy of yam cultivars is complicated by the lack of clear
+
+morphological differ <l> ences between closely related species.
+<ICE-JA:W2A-037#101:2> With the advent of molecular techniques, DNA-based approaches have
+
+been proposed to generate genetic fingerprinting of numerous organisms (
+
+Botstein <it> et al </it> 1980; Landry and Michelmore 1987; Erlich <it> et al
+
+</it> 1991).
+<ICE-JA:W2A-037#102:2> One common pro <l> cedure has been DNA restriction fragment length
+
+poly <l> morphism ( RFLP).
+<ICE-JA:W2A-037#103:2> RFLP are genetic markers based on cloned molecules of DNA.
+<ICE-JA:W2A-037#104:2> Using RFLP, scientists can construct high-density genetic linkage
+
+maps and locate economically important genes ( Young 1992).
+<ICE-JA:W2A-037#105:2> Williams <it> et al </it> ( 1990) reported a novel DNA analysis
+
+technique based on the amplification of random DNA sequences using the
+
+polymerase chain reaction ( PCR) and single primers of arbitrary sequence,
+
+called random amplified polymorphic DNA ( RAPD).
+<ICE-JA:W2A-037#106:2> This new technology is currently used in numerous organisms to
+
+construct genetic maps, identify important genes and for popu <l> lation
+
+genetic studies ( Waugh and Powell 1992).
+<ICE-JA:W2A-037#107:2> However, such information on DNA fingerprinting or genetic markers
+
+for Jamaican yams is not available.
+<ICE-JA:W2A-037#108:2> In this study, 12 cultivars of yam species were identified for their
+
+genetic <}> <-> diveristy </- > <+> diversity </+> </}> and polymorphism
+
+using a ribo <l> somal DNA ( rDNA) probe and the PCR. </p>
+
+<p> <ICE-JA:W2A-037#109:2> <h> <bold> MATERIALS AND METHODS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-037#110:2> <h> <bold> DNA extraction </bold> </h> </p>
+
+<p> <ICE-JA:W2A-037#111:2> DNA was isolated from leaves obtained from tissue cul <l> tured
+
+plantlets ( 4 months old) by using a modification of the method of Dellaporta
+
+<it> et al </it> ( 1983).
+<ICE-JA:W2A-037#112:2> The tissue culture method used for growing yam plantlets was pre <l>
+
+viously published ( Mitchell <it> et al </it> 1994).
+<ICE-JA:W2A-037#113:2> The tissue cul <l> tured plantlets were stored in the dark for 12-48
+
+h prior to the time of DNA extraction ( Vandarajan and Pra <l> kash 1991).
+
+</p> <O> caption </O> <O> table </O>
+
+<p> <ICE-JA:W2A-037#114:2> <h> <bold> Restriction digestion and Southern blotting </bold>
+
+</h> </p>
+
+<p> <ICE-JA:W2A-037#115:2> About 1 &mu; g of DNA per cultivar was digested with TaqI at 65
+
+&degree; C.
+<ICE-JA:W2A-037#116:2> The digested DNA was electrophoresed in 7 g kg <sp> - 1 </sp>
+
+agarose gels.
+<ICE-JA:W2A-037#117:2> The separated DNA fragments were blotted in Hybond N <sp> + </sp>
+
+membrances ( Amersham) after Southern ( 1975).
+<ICE-JA:W2A-037#118:2> The transferred DNA was cross-linked to the membrane by baking at 80
+
+&degree; C for 1 h. </p>
+
+<p> <ICE-JA:W2A-037#119:2> <h> <bold> Hybridisation </bold> </h> </p>
+
+<p> <ICE-JA:W2A-037#120:2> The DNA probes were chemically labelled with digoxigenin-dUTP
+
+and detected enzymically according to the suppliers instructions ( Boehringer
+
+Manneheim).
+<ICE-JA:W2A-037#121:2> The hybridisation was carried out at the standard con <l> ditions (
+
+42 &degree; C, 12 h) as described in the kit. </p> </I>

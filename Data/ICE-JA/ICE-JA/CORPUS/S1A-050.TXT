@@ -1,0 +1,837 @@
+<I>
+
+<$A> <ICE-JA:S1A-050:S1A-050#1:1:A> Sorry about that
+<ICE-JA:S1A-050:S1A-050#2:1:A> I don't <{1> <[1> know what's wrong</[1> with the tape you know
+<ICE-JA:S1A-050:S1A-050#3:1:A> <{2> <[2> Can't keep it</[2> stopping
+
+<$B> <ICE-JA:S1A-050:S1A-050#4:1:B> <[1> Uhu</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#5:1:B> <[2> Uhu</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#6:1:B> Yeah
+
+<$A> <ICE-JA:S1A-050:S1A-050#7:1:A> Okay my name is Laurie
+<ICE-JA:S1A-050:S1A-050#8:1:A> What's yours
+
+<$B> <ICE-JA:S1A-050:S1A-050#9:1:B> Gregory
+
+<$A> <ICE-JA:S1A-050:S1A-050#10:1:A> Gregory what
+
+<$B> <ICE-JA:S1A-050:S1A-050#11:1:B> Evans
+<ICE-JA:S1A-050:S1A-050#12:1:B> <{> <[> Laurie</[> what
+
+<$A> <ICE-JA:S1A-050:S1A-050#13:1:A> <[> Evans</[></{>
+
+<$A> <ICE-JA:S1A-050:S1A-050#14:1:A> <}> <-> <.> L</.></-> <=> Laurie-Ann</=></}>
+
+Clarke<{><[><O>laughs</O>
+<ICE-JA:S1A-050:S1A-050#15:1:A> Why you want</[> to interview me
+
+<$B> <ICE-JA:S1A-050:S1A-050#16:1:B> <[> <O> laughs</O>Hi Laurie-Ann Clarke</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#17:1:B> Yeah right but <}> <-> it</-> <=> it's a</=></}> two-way
+
+conversation ey
+
+<$A> <ICE-JA:S1A-050:S1A-050#18:1:A> Oh<O>laughs</O> okay
+<ICE-JA:S1A-050:S1A-050#19:1:A> <}> <-> So what you you laughing at <O>
+
+$B-clears- throat</O>at</-> <=> what you laughing at</=></}> <@> Michael</@>
+
+<@> Green</@>
+<ICE-JA:S1A-050:S1A-050#20:1:A> What you laughing <}> <-> at</-> <=> at</=></}> <{> <[> <@>
+
+Michael</@></[>
+
+<$B> <ICE-JA:S1A-050:S1A-050#21:1:B> <[> Actually</[></{> true<,> that's not the name we know him
+
+by<,> you understand
+
+<$A> <ICE-JA:S1A-050:S1A-050#22:1:A> Mhm
+
+<$B> <ICE-JA:S1A-050:S1A-050#23:1:B> <?> And Mrs <@> Steele</@> is</?> a girl he is speaking
+
+to<{1><[1><,></[1> come up with all this nice new<,> talking to a girl nicely
+
+while we know him as a rough tough person
+<ICE-JA:S1A-050:S1A-050#24:1:B> <{2> <[2> <?> Uh whatever</?></[2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#25:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#26:1:A> <[2> <}> <-> What's his <.> n</.></-></[2></{2> <=> what's
+
+his</=></}> name
+
+<$B> <ICE-JA:S1A-050:S1A-050#27:1:B> <?> Can't remember</?> <{> <[> <unclear> words</unclear> fair
+
+enough</[>
+
+<$A> <ICE-JA:S1A-050:S1A-050#28:1:A> <[> Well no what is</[></{> this stuff
+
+<$B> <ICE-JA:S1A-050:S1A-050#29:1:B> Like I think <?> that's how some</?> of them call
+
+him<{1><[1><,> or</[1> something <{2> <[2> yeah</[2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#30:1:A> <[1> Oh okay</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#31:1:A> <[2> <O> laughs</O></[2></{2>Alright so what you do here
+
+<$B> <ICE-JA:S1A-050:S1A-050#32:1:B> Well actually <}> <-> we're</-><,> <=> we're</=></}> on a
+
+project here the language lab
+<ICE-JA:S1A-050:S1A-050#33:1:B> <{1> <[1> We renovate</[1> the language lab
+<ICE-JA:S1A-050:S1A-050#34:1:B> <{2> <[2> Yeah<,> construction</[2><{3><[3><,></[3>
+<ICE-JA:S1A-050:S1A-050#35:1:B> Yeah
+
+<$A> <ICE-JA:S1A-050:S1A-050#36:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#37:1:A> <[2> Oh<,> okay</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#38:1:A> <[3> Uhu</[3></{3>
+
+<$A> <ICE-JA:S1A-050:S1A-050#39:1:A> What exactly <?> you doing in here</?>
+<ICE-JA:S1A-050:S1A-050#40:1:A> Just renovating just <{> <[> <,> or expanding</[> it
+
+<$B> <ICE-JA:S1A-050:S1A-050#41:1:B> <[> Yeah change it</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#42:1:B> Yeah well yeah <{1> <[1> we're</[1> expanding that
+<ICE-JA:S1A-050:S1A-050#43:1:B> As you know a larger space they have some computers and
+
+stuff<{2><[2><,></[2> them language thing <?> deh what it name</?><,> <?>
+
+when</?><,> you <{3> <[3>
+<ICE-JA:S1A-050:S1A-050#44:1:B> I thought that the language lab</[3>
+
+<$A> <ICE-JA:S1A-050:S1A-050#45:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#46:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#47:1:A> <[3> Yes <?> <}> <-> and I</-> <=> but</=></}></?></[3></{3>
+
+the <}> <-> it's</-> <=> it</=></}> moved
+<ICE-JA:S1A-050:S1A-050#48:1:A> I think that's probably the education part that you're expanding
+
+<{1> <[1> <,> from the language</[1>
+<ICE-JA:S1A-050:S1A-050#49:1:A> Uh my education<,> part is over at that end
+<ICE-JA:S1A-050:S1A-050#50:1:A> <}> <-> I</-> <=> I</=></}> realize why I said language because
+
+there's a sign in there that says <{2> <[2> language<,></[2>
+<ICE-JA:S1A-050:S1A-050#51:1:A> Yeah language lab
+
+<$B> <ICE-JA:S1A-050:S1A-050#52:1:B> <[1> Oh so where is the <}> <-> <.>
+
+lang</.></-><+>language</+></}> <}> <- > <.> whe</.></-><+>where</+></}>
+
+oh</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#53:1:B> <[2> Language lab</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#54:1:B> And they deal with uh with <?> uhm</?> <{1> <[1> <,> Spanish
+
+yeah and Japanese or French<,>
+<ICE-JA:S1A-050:S1A-050#55:1:B> Oh you</[1> don't do those things
+<ICE-JA:S1A-050:S1A-050#56:1:B> What you <{2> <[2> do</[2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#57:1:A> <[1> Spanish oh yes Spanish and Japanese and French okay <?>
+
+language</?></[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#58:1:A> <[2> No</[2></{2> I don't do those
+<ICE-JA:S1A-050:S1A-050#59:1:A> I do communication
+
+<$B> <ICE-JA:S1A-050:S1A-050#60:1:B> Oh oh oh what <{> <[> you</[> third year
+
+<$A> <ICE-JA:S1A-050:S1A-050#61:1:A> <[> Yeah</[></{>
+
+<$A> <ICE-JA:S1A-050:S1A-050#62:1:A> No I <.> fa</.> <}> <-> yeah I <{1> <[1> finish</-></[1> <=>
+
+yeah I finish</=></}>
+<ICE-JA:S1A-050:S1A-050#63:1:A> <{2> <[2> I finish in this</[2> summer
+
+<$B> <ICE-JA:S1A-050:S1A-050#64:1:B> <[1> Huh</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#65:1:B> <[2> Oh yeah yeah</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#66:1:B> Oh yeah that's nice
+
+<$A> <ICE-JA:S1A-050:S1A-050#67:1:A> Uhu
+
+<$B> <ICE-JA:S1A-050:S1A-050#68:1:B> You passed your exams and stuff alright <{> <[> that's
+
+nice</[>
+
+<$A> <ICE-JA:S1A-050:S1A-050#69:1:A> <[> Hopefully</[></{> <?> quite</?><{1><[1><,>
+
+depressing</[1><O>laughter</O> <{2> <[2> well</[2>
+<ICE-JA:S1A-050:S1A-050#70:1:A> So what exactly do you do specifically
+
+<$B> <ICE-JA:S1A-050:S1A-050#71:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#72:1:B> <[2> Alright</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#73:1:B> <O> clears-throat</O>Well actually uhm
+
+<$A> <ICE-JA:S1A-050:S1A-050#74:1:A> You're a supervisor
+
+<$B> <ICE-JA:S1A-050:S1A-050#75:1:B> <.> Y</.> kind yeah a supervisor quantity surveyor a really
+
+<}> <-> quantities</-> <=> quanties</=></}> I do quantity
+
+surveying<{1><[1><,></[1> you understand
+<ICE-JA:S1A-050:S1A-050#76:1:B> me really a freelancer <?> but mi really a kind of they want a
+
+brethren with mi brethren
+<ICE-JA:S1A-050:S1A-050#77:1:B> Me brethren needs a</?> contractor<{2><[2><,></[2> yeah so I'm with
+
+him<,> I do all the stuff his estimates<,> his claims <{3> <[3> you know</[3>
+<ICE-JA:S1A-050:S1A-050#78:1:B> If certificate <?> anything</?> would get anything if we get the
+
+money<{4><[4><,></[4> yeah them sort of thing
+<ICE-JA:S1A-050:S1A-050#79:1:B> I'm doing pay bill<,> you know<{5><[5><,></[5> them sort of thing
+
+<$A> <ICE-JA:S1A-050:S1A-050#80:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#81:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#82:1:A> <[3> Hmm</[3></{3>
+
+<$A> <ICE-JA:S1A-050:S1A-050#83:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-050:S1A-050#84:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-050:S1A-050#85:1:A> Oh <{> <[> okay</[>
+
+<$B> <ICE-JA:S1A-050:S1A-050#86:1:B> <[> Yeah</[></{> so
+
+<$A> <ICE-JA:S1A-050:S1A-050#87:1:A> Okay where are you from
+
+<$B> <ICE-JA:S1A-050:S1A-050#88:1:B> Actually I live in Linstead
+
+<$A> <ICE-JA:S1A-050:S1A-050#89:1:A> Oh you live in Linstead
+
+<$B> <ICE-JA:S1A-050:S1A-050#90:1:B> Yeah
+<ICE-JA:S1A-050:S1A-050#91:1:B> Why you know Linstead
+<ICE-JA:S1A-050:S1A-050#92:1:B> <{> <[> Why's</[> that
+<ICE-JA:S1A-050:S1A-050#93:1:B> How you know Linstead
+
+<$A> <ICE-JA:S1A-050:S1A-050#94:1:A> <[> Yes</[></{>
+
+<$A> <ICE-JA:S1A-050:S1A-050#95:1:A> Oh
+<ICE-JA:S1A-050:S1A-050#96:1:A> No I don't really know anybody from Linstead but at least you know
+
+some people tell me some name and I'm like okay where's that but that <{> <[>
+
+<?> recall the name</?></[>
+
+<$B> <ICE-JA:S1A-050:S1A-050#97:1:B> <[> Oh <?> I don't know</?></[></{>
+<ICE-JA:S1A-050:S1A-050#98:1:B> Where you from
+
+<$A> <ICE-JA:S1A-050:S1A-050#99:1:A> Eh
+<ICE-JA:S1A-050:S1A-050#100:1:A> I'm from Stony Hill
+
+<$B> <ICE-JA:S1A-050:S1A-050#101:1:B> Stony <{> <[> Hill</[>
+
+<$A> <ICE-JA:S1A-050:S1A-050#102:1:A> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#103:1:B> So how you know Linstead when <{1> <[1> Stony Hill</[1> is
+
+that way <{2> <[2> uh</[2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#104:1:A> <[1> I mean</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#105:1:A> <[2> No</[2></{2> you can drive through Stony Hill and reach
+
+<?> your</?> Linstead
+
+<$B> <ICE-JA:S1A-050:S1A-050#106:1:B> Oh through them back ways
+
+<$A> <ICE-JA:S1A-050:S1A-050#107:1:A> Yeah you <{> <[> can</[> mhm
+
+<$B> <ICE-JA:S1A-050:S1A-050#108:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#109:1:B> Yeah Rock Hall and them <{> <[> way they</[>
+<ICE-JA:S1A-050:S1A-050#110:1:B> Mhm mhm
+
+<$A> <ICE-JA:S1A-050:S1A-050#111:1:A> <[> Yeah you can</[></{>
+
+<$A> <ICE-JA:S1A-050:S1A-050#112:1:A> Alright
+<ICE-JA:S1A-050:S1A-050#113:1:A> So you travel long coming here
+
+<$B> <ICE-JA:S1A-050:S1A-050#114:1:B> Yeah yeah mhm
+
+<$A> <ICE-JA:S1A-050:S1A-050#115:1:A> There's <?> one</?> oh one of my lecturers come from I think
+
+not Linstead Sligoville
+
+<$B> <ICE-JA:S1A-050:S1A-050#116:1:B> Oh well <{1> <[1> <}> <-> him</-> <=> him</=></}> go the <.>
+
+dir</.></[1><,>
+<ICE-JA:S1A-050:S1A-050#117:1:B> It's easier to go that direction and go up in the
+
+hill<{2><[2><,></[2> than to go Red Hills<{3><[3><,></[3> probably<,,>
+<ICE-JA:S1A-050:S1A-050#118:1:B> Probably him prefer to go Bog Walk like him going to Linstead
+
+<$A> <ICE-JA:S1A-050:S1A-050#119:1:A> <[1> Yeah <}> <-> is from</-> <=> is from</=></}>
+
+hmm</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#120:1:A> <[2> Oh</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#121:1:A> <[3> Uhu</[3></{3>
+
+<$A> <ICE-JA:S1A-050:S1A-050#122:1:A> Uhu
+<ICE-JA:S1A-050:S1A-050#123:1:A> I don't know which way she drive that is a she
+<ICE-JA:S1A-050:S1A-050#124:1:A> I don't know which way <{1> <[1> she</[1> drive<,,> <{2> <[2>
+<ICE-JA:S1A-050:S1A-050#125:1:A> Oh</[2>
+<ICE-JA:S1A-050:S1A-050#126:1:A> Okay<,> oh so you're from Linstead
+<ICE-JA:S1A-050:S1A-050#127:1:A> <}> <-> You</-> <=> you</=></}> grew up there
+
+<$B> <ICE-JA:S1A-050:S1A-050#128:1:B> <[1> Oh</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#129:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#130:1:B> Yeah well I grew up in Kingston really but <{> <[> <?>
+
+yeah</?></[> I was born in Linstead
+
+<$A> <ICE-JA:S1A-050:S1A-050#131:1:A> <[> Uhu</[></{>
+
+<$A> <ICE-JA:S1A-050:S1A-050#132:1:A> Oh<,> <{1> <[1> so <}> <-> why</[1> she why <O>
+
+$B-clears-throat</O>she why why</-> then <{2> <[2> <=> why</[2> you grew
+
+up</=></}> in <}> <-> <.> Li</.></-> uhm <=> Kingston</=></}> but <{3> <[3>
+
+you moved back</[3> to Linstead
+
+<$B> <ICE-JA:S1A-050:S1A-050#133:1:B> <[1> Yeah</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#134:1:B> <[2> Why</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#135:1:B> <[3> No because of</[3></{3>
+
+<$B> <ICE-JA:S1A-050:S1A-050#136:1:B> No actually because of <}> <-> the</-> uhm <=> the</=></}>
+
+going around and around and
+<ICE-JA:S1A-050:S1A-050#137:1:B> Well I went to school in Kingston<{1><[1><,></[1>
+<ICE-JA:S1A-050:S1A-050#138:1:B> I went to Kingston K C and <{2> <[2> and then<,>
+
+yeah</[2><{3><[3><,></[3> and <?> we</?> getting transferred back to <?> Lin
+
+Hill</?><{4><[4><,></[4> you understand and the<,> they working at the place
+
+again decided to <?> work at <indig> kyaaf</indig></?> they decided <?> for
+
+<indig> kyaaf</indig></?><{5><[5><,></[5> drop out of
+
+class<{6><[6><unclear>word</unclear> at Kingston</[6> idle <}> <-> and
+
+and</-> <=> and</=></}> troublesome<,> yeah
+<ICE-JA:S1A-050:S1A-050#139:1:B> You wanna <?> decide what we do</?><O>$A- chuckles</O>
+
+<$A> <ICE-JA:S1A-050:S1A-050#140:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#141:1:A> <[2> You went to K C</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#142:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-050:S1A-050#143:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-050:S1A-050#144:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-050:S1A-050#145:1:A> <[6> Why you drop out</[6></{6>
+
+<$A> <ICE-JA:S1A-050:S1A-050#146:1:A> What were you doing<{1><[1><,></[1>
+<ICE-JA:S1A-050:S1A-050#147:1:A> What were you doing
+<ICE-JA:S1A-050:S1A-050#148:1:A> No what <}> <-> you <.> d</.></-> <=> you do</=></}>
+<ICE-JA:S1A-050:S1A-050#149:1:A> <{2> <[2> What</[2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#150:1:B> <[1> <unclear> word</unclear><O>laughs</O></[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#151:1:B> <[2> Cos</[2></{2> of the <unclear>
+
+words</unclear><O>laughs</O>
+
+<$A> <ICE-JA:S1A-050:S1A-050#152:1:A> What you can't say that <?> theme/thing</?>
+<ICE-JA:S1A-050:S1A-050#153:1:A> What wrong with it
+<ICE-JA:S1A-050:S1A-050#154:1:A> <unclear> word</unclear> the matter
+
+<$B> <ICE-JA:S1A-050:S1A-050#155:1:B> No it does
+
+<$A> <ICE-JA:S1A-050:S1A-050#156:1:A> Yes it doesn't matter <{> <[> what you</[> say no
+
+<$B> <ICE-JA:S1A-050:S1A-050#157:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#158:1:B> I would just get mixed up in all sort of things you
+
+know<{1><[1><,></[1> <}> <- > you</-> <=> you</=></}> know drugs and all sort
+
+of
+<ICE-JA:S1A-050:S1A-050#159:1:B> Well before that <{2> <[2> yeah</[2> me was a kind
+
+of<{3><[3><,></[3> troublemaker
+
+<$A> <ICE-JA:S1A-050:S1A-050#160:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#161:1:A> <[2> Hmm</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#162:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-050:S1A-050#163:1:A> Oh<,>
+<ICE-JA:S1A-050:S1A-050#164:1:A> <{> <[> You get</[> in trouble at K C
+
+<$B> <ICE-JA:S1A-050:S1A-050#165:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#166:1:B> Not really at K C
+<ICE-JA:S1A-050:S1A-050#167:1:B> Well I was a choir boy at K C
+
+<$A> <ICE-JA:S1A-050:S1A-050#168:1:A> You were a choir boy
+
+<$B> <ICE-JA:S1A-050:S1A-050#169:1:B> Yeah
+
+<$A> <ICE-JA:S1A-050:S1A-050#170:1:A> Oh so you can sing that's what you meant
+<ICE-JA:S1A-050:S1A-050#171:1:A> So <}> <-> you</-> <=> you're</=></}> on the choir<O>$B-laughs</O>
+<ICE-JA:S1A-050:S1A-050#172:1:A> <}> <-> I thought you meant</-> <=> I thought you mean</=></}> <{>
+
+<[> that</[>
+
+<$B> <ICE-JA:S1A-050:S1A-050#173:1:B> <[> Yes</[></{> yes yes
+
+<$A> <ICE-JA:S1A-050:S1A-050#174:1:A> Oh
+
+<$B> <ICE-JA:S1A-050:S1A-050#175:1:B> Oh yeah we travel a lot <}> <-> on</-> <=> on</=></}> the
+
+choir
+<ICE-JA:S1A-050:S1A-050#176:1:B> All over the place
+
+<$A> <ICE-JA:S1A-050:S1A-050#177:1:A> Mhm
+
+<$B> <ICE-JA:S1A-050:S1A-050#178:1:B> Mhm
+
+<$A> <ICE-JA:S1A-050:S1A-050#179:1:A> Oh <}> <-> you</-> <=> you</=></}> must be a good singer to
+
+be selected for K C choir<{><[><,></[>
+<ICE-JA:S1A-050:S1A-050#180:1:A> You can sing me something
+
+<$B> <ICE-JA:S1A-050:S1A-050#181:1:B> <[> Yeah well</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#182:1:B> You crazy <{1> <[1>
+<ICE-JA:S1A-050:S1A-050#183:1:B> I just<O>laughs</O></[1><,,>
+<ICE-JA:S1A-050:S1A-050#184:1:B> <{2> <[2> <}> <-> I</-> <=> I</=></}> never <?> done sung</?>
+
+and</[2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#185:1:A> <[1> Why
+<ICE-JA:S1A-050:S1A-050#186:1:A> Yes</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#187:1:A> <[2>
+<ICE-JA:S1A-050:S1A-050#188:1:A> Why<,>
+<ICE-JA:S1A-050:S1A-050#189:1:A> Then suppose</[2></{2> you know some woman somebody hear your
+
+voice and want <{> <[> to kiss you</[>
+
+<$B> <ICE-JA:S1A-050:S1A-050#190:1:B> <[> Oh really</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#191:1:B> Oh uh uhh<O>laughs</O>
+
+<$A> <ICE-JA:S1A-050:S1A-050#192:1:A> You never know
+<ICE-JA:S1A-050:S1A-050#193:1:A> Please
+
+<$B> <ICE-JA:S1A-050:S1A-050#194:1:B> Tell them to hear I'm talking about singing and check me
+
+out<O>laughs</O>
+
+<$A> <ICE-JA:S1A-050:S1A-050#195:1:A> Uh uhh no they really want
+<ICE-JA:S1A-050:S1A-050#196:1:A> <{> <[> See they come from all the way from<,> Germany just to <?>
+
+choose</?> your<,>
+<ICE-JA:S1A-050:S1A-050#197:1:A> What</[> they probably just hearing your voice and gonna say oh
+
+my<,,> I want to know that boy you know
+<ICE-JA:S1A-050:S1A-050#198:1:A> You never know
+
+<$B> <ICE-JA:S1A-050:S1A-050#199:1:B> <[> No not a great singer<,,>
+<ICE-JA:S1A-050:S1A-050#200:1:B> I'm not a great singer
+<ICE-JA:S1A-050:S1A-050#201:1:B> Do you hear my voice</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#202:1:B> Hello Miss
+
+<$A> <ICE-JA:S1A-050:S1A-050#203:1:A> Yes
+
+<$B> <ICE-JA:S1A-050:S1A-050#204:1:B> Don't bother with it<O>laughter</O>
+
+<$A> <ICE-JA:S1A-050:S1A-050#205:1:A> <O> chuckles</O>Me no bother with it<O>laughter</O>
+
+<$B> <ICE-JA:S1A-050:S1A-050#206:1:B> Oh man alright so uhm<{1><[1><,></[1> that's uh why I <?>
+
+oh</?> yeah yeah<{2><[2><,> get</[2> in trouble and all sort of thing happen
+
+<$A> <ICE-JA:S1A-050:S1A-050#207:1:A> <[1> Uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#208:1:A> <[2> Oh</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#209:1:A> Hey you need go back but you can't go back <}> <-> you</->
+
+<=> you</=></}> can't
+
+<$B> <ICE-JA:S1A-050:S1A-050#210:1:B> Yeah yeah I <{> <[> guess yeah</[>
+
+<$A> <ICE-JA:S1A-050:S1A-050#211:1:A> <[> You interested in</[></{> going back
+
+<$B> <ICE-JA:S1A-050:S1A-050#212:1:B> Yeah I am but <?> they</?> have no <?> fund</?> single
+
+<$A> <ICE-JA:S1A-050:S1A-050#213:1:A> How <?> with this</?> single
+
+<$B> <ICE-JA:S1A-050:S1A-050#214:1:B> The funds
+
+<$A> <ICE-JA:S1A-050:S1A-050#215:1:A> Oh the <{1> <[1> funds</[1> oh
+<ICE-JA:S1A-050:S1A-050#216:1:A> So what with <}> <-> a <.> l</.></-> <=> a <{2> <[2>
+
+loan</=></}></[2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#217:1:B> <[1> Funds yeah</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#218:1:B> <[2> What happened</[2></{2>
+<ICE-JA:S1A-050:S1A-050#219:1:B> Something drop
+
+<$A> <ICE-JA:S1A-050:S1A-050#220:1:A> Yeah my pen
+<ICE-JA:S1A-050:S1A-050#221:1:A> Oh<{1><[1><,>
+<ICE-JA:S1A-050:S1A-050#222:1:A> Yes I found</[1> it<{2><[2><,></[2>
+<ICE-JA:S1A-050:S1A-050#223:1:A> Mhm
+
+<$B> <ICE-JA:S1A-050:S1A-050#224:1:B> <[1> Found one of them <?> was right here</?></[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#225:1:B> <[2> <unclear> word</unclear></[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#226:1:B> Yeah<O>clears-throat</O>
+
+<$A> <ICE-JA:S1A-050:S1A-050#227:1:A> What about a loan
+
+<$B> <ICE-JA:S1A-050:S1A-050#228:1:B> I <?> want/won't</?> tell about the student loan thing well I
+
+guess you know come and they <?> might fund</?> some bank loan that them
+
+offering<,> to go back to school but<,>
+<ICE-JA:S1A-050:S1A-050#229:1:B> So many things
+<ICE-JA:S1A-050:S1A-050#230:1:B> Take care of your kid and you know<{1><[1><,></[1> a lot of things
+<ICE-JA:S1A-050:S1A-050#231:1:B> Can't <{2> <[2> go back <unclear> word(s)</unclear></[2><ICE-JA:S1A-050:S1A-050#>I have
+
+a son
+
+<$A> <ICE-JA:S1A-050:S1A-050#232:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#233:1:A> <[2> Do you have children</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#234:1:A> Oh
+
+<$B> <ICE-JA:S1A-050:S1A-050#235:1:B> Yeah
+
+<$A> <ICE-JA:S1A-050:S1A-050#236:1:A> How old is he
+
+<$B> <ICE-JA:S1A-050:S1A-050#237:1:B> Ten <{> <[> eleven</[> in January
+
+<$A> <ICE-JA:S1A-050:S1A-050#238:1:A> <[> Oh</[></{>
+
+<$A> <ICE-JA:S1A-050:S1A-050#239:1:A> Oh taking G Sat
+
+<$B> <ICE-JA:S1A-050:S1A-050#240:1:B> Yeah should be <.> ta</.> yeah when we go back the next year
+
+he might take G Sat<{><[><,></[>
+<ICE-JA:S1A-050:S1A-050#241:1:B> Him in grade four now
+
+<$A> <ICE-JA:S1A-050:S1A-050#242:1:A> <[> Uhu</[></{>
+
+<$A> <ICE-JA:S1A-050:S1A-050#243:1:A> Oh okay
+
+<$B> <ICE-JA:S1A-050:S1A-050#244:1:B> Mhm
+
+<$A> <ICE-JA:S1A-050:S1A-050#245:1:A> Oh<,>
+<ICE-JA:S1A-050:S1A-050#246:1:A> The school that you live in Linstead with <{> <[> you</[>
+
+<$B> <ICE-JA:S1A-050:S1A-050#247:1:B> <[> Yeah</[></{> mhm
+
+<$A> <ICE-JA:S1A-050:S1A-050#248:1:A> Just one of those schools
+
+<$B> <ICE-JA:S1A-050:S1A-050#249:1:B> Yeah one of them primary school in the area
+
+<$A> <ICE-JA:S1A-050:S1A-050#250:1:A> <}> <-> What's its</-> <=> what's its</=></}> name
+
+<$B> <ICE-JA:S1A-050:S1A-050#251:1:B> His name <{> <[> it's</[>
+
+<$A> <ICE-JA:S1A-050:S1A-050#252:1:A> <[> No</[></{> <}> <-> <.> n</.></-> <=> yeah</=></}> the <{>
+
+<[> school name</[>
+
+<$B> <ICE-JA:S1A-050:S1A-050#253:1:B> <[> <}> <-> It's not</-> <=> it's</=></}></[></{> in Ewarton
+
+Ewarton
+<ICE-JA:S1A-050:S1A-050#254:1:B> <{> <[> But the
+<ICE-JA:S1A-050:S1A-050#255:1:B> Yeah</[> Ewarton Primary
+
+<$A> <ICE-JA:S1A-050:S1A-050#256:1:A> <[> Ewarton Primary</[></{>
+
+<$A> <ICE-JA:S1A-050:S1A-050#257:1:A> Oh
+
+<$B> <ICE-JA:S1A-050:S1A-050#258:1:B> Yeah<,>
+
+<$A> <ICE-JA:S1A-050:S1A-050#259:1:A> What's <}> <-> the</-> <=> the</=></}> uh <.> y</.>
+
+<$B> <ICE-JA:S1A-050:S1A-050#260:1:B> <O> laughs</O>What's going on><&>shouting-in-background</&>
+<ICE-JA:S1A-050:S1A-050#261:1:B> Yeah yeah yeah
+<ICE-JA:S1A-050:S1A-050#262:1:B> Uhm
+
+<$A> <ICE-JA:S1A-050:S1A-050#263:1:A> There's even more connection <}> <-> to</-> <=> to</=></}>
+
+Linstead cos my mother teaches at Above Rocks uhm<{1><[1><,></[1> St Mary's
+
+College<,>
+<ICE-JA:S1A-050:S1A-050#264:1:A> <{2> <[2> <}> <-> <.> Y</.></-> <=> you</=></}> know that</[2>
+<ICE-JA:S1A-050:S1A-050#265:1:A> No it's not in Linstead it's in Above Rocks but students from
+
+Linstead
+
+<$B> <ICE-JA:S1A-050:S1A-050#266:1:B> <[1> Oh</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#267:1:B> <[2> But in Linstead</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#268:1:B> Oh oh yeah go to that school<,> <{> <[> you like</[> them
+
+<unclear> words</unclear>
+<ICE-JA:S1A-050:S1A-050#269:1:B> Don't think them travel
+
+<$A> <ICE-JA:S1A-050:S1A-050#270:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-050:S1A-050#271:1:A> They don't travel
+
+<$B> <ICE-JA:S1A-050:S1A-050#272:1:B> No <?> I think that</?> well apparently something like that
+
+<$A> <ICE-JA:S1A-050:S1A-050#273:1:A> But I think Ewarton Primary <}> <-> one of the school</-> <=>
+
+one of</=> <- > the</-> <=> those schools</=></}> that always have students
+
+<$B> <ICE-JA:S1A-050:S1A-050#274:1:B> Oh oh yeah <}> <-> <.> pa</.></-> good great <=>
+
+passes</=></}><{1><[1><,>
+<ICE-JA:S1A-050:S1A-050#275:1:B> Yeah</[1> yeah yeah I<}><-><.>un</.></-> <=> understand</=></}>
+<ICE-JA:S1A-050:S1A-050#276:1:B> Yeah <}> <- > even</-><,> <=> even</=></}> a lot of schools in
+
+Kingston<{2><[2><,> always</[2> have a good pass <?> for my</?> school I
+
+think
+<ICE-JA:S1A-050:S1A-050#277:1:B> That's right
+<ICE-JA:S1A-050:S1A-050#278:1:B> My son don't <?> even go to</?> Ewarton but<,> by right is not
+
+supposed to<,> go to that school because of the <}> <- > <.> l</.> locale</->
+
+uhm <=> location</=></}><{3><[3><,></[3> them out of the rate <}> <-> the</->
+
+<=> the</=></}> present vicinity of the school<{4><[4><,></[4>
+<ICE-JA:S1A-050:S1A-050#279:1:B> Right so you have to get somebody to talk to them to get somebody
+
+on the inside of it you know<{5><[5><,></[5> because they always have that
+<ICE-JA:S1A-050:S1A-050#280:1:B> Me hearing that school always have good passes
+
+<$A> <ICE-JA:S1A-050:S1A-050#281:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#282:1:A> <[2> Uhu</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#283:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-050:S1A-050#284:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-050:S1A-050#285:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-050:S1A-050#286:1:A> Mhm
+
+<$B> <ICE-JA:S1A-050:S1A-050#287:1:B> Yeah
+
+<$A> <ICE-JA:S1A-050:S1A-050#288:1:A> Okay
+
+<$B> <ICE-JA:S1A-050:S1A-050#289:1:B> <}> <-> So</-> <=> so</=></}> how you find coming up here<,>
+
+and you glad you finishing<,> or <}> <-> you're <{> <[> you're</-> <=>
+
+you're</=></}><,> the <unclear> word</unclear></[>
+
+<$A> <ICE-JA:S1A-050:S1A-050#290:1:A> <[> Actually I don't want to</[></{> leave
+
+<$B> <ICE-JA:S1A-050:S1A-050#291:1:B> You don't want to leave <{> <[> Lord</[>
+
+<$A> <ICE-JA:S1A-050:S1A-050#292:1:A> <[> No</[></{>
+
+<$B> <ICE-JA:S1A-050:S1A-050#293:1:B> And me hear a girl out there say that she a cuss<,> she
+
+quarrelling she a quarrel<{1><[1><,></[1> why she <}> <-> <indig>
+
+kyaan</indig> <unclear> words</unclear></-> <=> she <indig> kyaan</indig>
+
+wait to finish</=></}><,> <{2> <[2> so she just</[2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#294:1:A> <[1> Uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#295:1:A> <[2> That's what they always</[2></{2> say because the you
+
+know but during the time you cuss and say oh you want <{1> <[1> to leave
+
+because them</[1> pressure but then after <{2> <[2> you realize you
+
+leave</[2> <?> in a while to</?> UWI
+<ICE-JA:S1A-050:S1A-050#296:1:A> <{3> <[3> You know</[3> <?> where you were good</?> could do
+
+anything and <O>
+
+$B- laughs</O>everything you just uh<,>
+<ICE-JA:S1A-050:S1A-050#297:1:A> UWI's nice
+<ICE-JA:S1A-050:S1A-050#298:1:A> They don't do anything really
+
+<$B> <ICE-JA:S1A-050:S1A-050#299:1:B> <[1> Yeah yeah that's what <?> I told her</?></[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#300:1:B> <[2> I've got time</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#301:1:A> <[3> Mhm</[3></{3>
+
+<$B> <ICE-JA:S1A-050:S1A-050#302:1:B> What's your name again
+
+<$A> <ICE-JA:S1A-050:S1A-050#303:1:A> Laurie
+
+<$B> <ICE-JA:S1A-050:S1A-050#304:1:B> Laurie
+
+<$A> <ICE-JA:S1A-050:S1A-050#305:1:A> Mhm
+<ICE-JA:S1A-050:S1A-050#306:1:A> <{1> <[1> They don't really</[1> do anything<{2><[2><,>
+<ICE-JA:S1A-050:S1A-050#307:1:A> Well you</[2> want to go into the world even though you <?> don't
+
+even go <{3> <[3> in the</?></[3> world just to make money <{4> <[4>
+
+anyway</[4>
+<ICE-JA:S1A-050:S1A-050#308:1:A> What money is there
+<ICE-JA:S1A-050:S1A-050#309:1:A> I <?> ask somebody</?><{5><[5><,> <?> I always</?></[5> think they
+
+can't pay me
+<ICE-JA:S1A-050:S1A-050#310:1:A> And the money <unclear> words</unclear> <{6> <[6> they can't pay
+
+me</[6>
+
+<$B> <ICE-JA:S1A-050:S1A-050#311:1:B> <[1> Laurie</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#312:1:B> <[2> Oh really yeah</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#313:1:B> <[3> No money</[3></{3>
+
+<$B> <ICE-JA:S1A-050:S1A-050#314:1:B> <[4> Yeah</[4></{4>
+
+<$B> <ICE-JA:S1A-050:S1A-050#315:1:B> <[5> Eh<O>laughs</O></[5></{5>
+
+<$B> <ICE-JA:S1A-050:S1A-050#316:1:B> <[6> So <}> <-> what you planning</-></[6></{6> <=> what you
+
+planning</=></}><ICE-JA:S1A-050:S1A-050#>Do you going and get a <}> <-> <.> educ</.></-> uhm <- >
+
+<.> educ</.></-> uh <=> you're in education</=></}> is that right<{><[><,>
+<ICE-JA:S1A-050:S1A-050#317:1:B> <}> <- > What</-> <=> what</=></}> you doing</[>
+
+<$A> <ICE-JA:S1A-050:S1A-050#318:1:A> <[> No it's language</[></{> <{1> <[1> communication</[1> uhm
+<ICE-JA:S1A-050:S1A-050#319:1:A> No I was working at UWI for the summer<,>
+<ICE-JA:S1A-050:S1A-050#320:1:A> I can go to anything I want to do<,> <{2> <[2> anything</[2> I
+
+want
+<ICE-JA:S1A-050:S1A-050#321:1:A> Yeah I can teach English<{3><[3><,></[3>
+<ICE-JA:S1A-050:S1A-050#322:1:A> I can uhm go into communication public relation
+<ICE-JA:S1A-050:S1A-050#323:1:A> I can work in a bank in the communication <{4> <[4> field</[4>
+<ICE-JA:S1A-050:S1A-050#324:1:A> Yeah I can uhm
+
+<$B> <ICE-JA:S1A-050:S1A-050#325:1:B> <[1> Language what</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#326:1:B> <[2> Anything</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#327:1:B> <[3> Yes</[3></{3>
+
+<$B> <ICE-JA:S1A-050:S1A-050#328:1:B> <[4> Department yeah</[4></{4>
+
+<$B> <ICE-JA:S1A-050:S1A-050#329:1:B> Prospects are high
+
+<$A> <ICE-JA:S1A-050:S1A-050#330:1:A> Mhm<{1><[1> there're</[1> different things but <}> <-> the
+
+the <.> j</.></-> <=> the</=></}> prospects here in Jamaica<{2><[2> are low
+
+but I can</[2> do anything<,> at UWI<,>
+<ICE-JA:S1A-050:S1A-050#331:1:A> I also study international relations
+
+<$B> <ICE-JA:S1A-050:S1A-050#332:1:B> <[1> Yeah</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#333:1:B> <[2> Yeah yeah mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#334:1:B> Mhm so you can<,> do a foreign <}> <-> and get <{> <[>
+
+involved</-><,> <=> and get involved</=></}> in the</[>
+
+<$A> <ICE-JA:S1A-050:S1A-050#335:1:A> <[> <.> Y</.> yeah but <}> <-> <.>
+
+inter</.></-><+>international</+></}> <}> <- > you you</-> yeah</[></{> <=>
+
+you</=></}> studying <}> <-> international relationship</-> uhm <=>
+
+international relations</=></}> don't mean that you get the opportunity just
+
+like that
+<ICE-JA:S1A-050:S1A-050#336:1:A> You have to be<,> usually they take more mature
+
+persons<{1><[1><,></[1> older persons <{2> <[2> <}> <-> to do those <.>
+
+stu</.></-></[2> yes <=> to do those stuff </=> </}>
+<ICE-JA:S1A-050:S1A-050#337:1:A> You know it take a whole long while for you to get <}> <->
+
+that</-> <=> that</=></}> amount of drive for <{3> <[3> them to send you</[3>
+
+there<,> <{4> <[4> mhm</[4>
+
+<$B> <ICE-JA:S1A-050:S1A-050#338:1:B> <[1> Yeah yeah</[1></{1>
+
+<$B> <ICE-JA:S1A-050:S1A-050#339:1:B> <[2> Uhm people with experience</[2></{2>
+
+<$B> <ICE-JA:S1A-050:S1A-050#340:1:B> <[3> Yeah yeah yeah</[3></{3>
+
+<$B> <ICE-JA:S1A-050:S1A-050#341:1:B> <[4> Yeah</[4></{4>
+<ICE-JA:S1A-050:S1A-050#342:1:B> Ah you work with the government and the <{1> <[1> uhm</[1> <}> <->
+
+them</-> <=> them</=></}> what them call the minister of <unclear>
+
+word</unclear> <{2> <[2> <,>
+<ICE-JA:S1A-050:S1A-050#343:1:B> Foreign affairs</[2> yeah <{3> <[3> mhm</[3><,> yeah
+
+<$A> <ICE-JA:S1A-050:S1A-050#344:1:A> <[1> Uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#345:1:A> <[2> Foreign affairs minister</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#346:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-050:S1A-050#347:1:A> Cos I interested in going to Japan<ICE-JA:S1A-050:S1A-050#>I wanna teach in Japan
+
+<$B> <ICE-JA:S1A-050:S1A-050#348:1:B> Oh really
+<ICE-JA:S1A-050:S1A-050#349:1:B> Oh this friend that I have uhm this girl she stopped me right here
+<ICE-JA:S1A-050:S1A-050#350:1:B> <{1> <[1> She came</[1> to me right here<,> <}> <-> at <.>
+
+a</.></-> <=> at</=></}> I think
+<ICE-JA:S1A-050:S1A-050#351:1:B> What you do again
+<ICE-JA:S1A-050:S1A-050#352:1:B> <.> L</.> <}> <-> what you do</-> <=> what you do</=></}> you do
+
+uhm<{2><[2><,> language<,,> yes</[2> that's what she do<{3><[3><,></[3>
+
+language and communication <{4> <[4> I think</[4>
+
+<$A> <ICE-JA:S1A-050:S1A-050#353:1:A> <[1> Uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#354:1:A> <[2> Language communication
+<ICE-JA:S1A-050:S1A-050#355:1:A> What she do</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#356:1:A> <[3> Huhu</[3></{3>
+
+<$A> <ICE-JA:S1A-050:S1A-050#357:1:A> <[4> Why</[4></{4> she stop you<,>
+
+<$B> <ICE-JA:S1A-050:S1A-050#358:1:B> No I know her I <{1> <[1> know her know her</[1> know her
+<ICE-JA:S1A-050:S1A-050#359:1:B> <{2> <[2> Uhm actually</[2> she's from Linstead<{3><[3><,></[3>
+<ICE-JA:S1A-050:S1A-050#360:1:B> She goes to my church
+
+<$A> <ICE-JA:S1A-050:S1A-050#361:1:A> <[1> Oh you know her</[1></{1>
+
+<$A> <ICE-JA:S1A-050:S1A-050#362:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-050:S1A-050#363:1:A> <[3> Okay</[3></{3></I>

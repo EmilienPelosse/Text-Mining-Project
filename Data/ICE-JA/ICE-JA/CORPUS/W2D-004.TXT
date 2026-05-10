@@ -1,0 +1,512 @@
+<I>
+
+<p> <ICE-JA:W2D-004#1:1> <h> <bold> 6. Sampling and sample handling </h> </p>
+
+<p> <ICE-JA:W2D-004#2:1> 6.1 Sampling. </bold>
+<ICE-JA:W2D-004#3:1> For specific sampling plans, refer to the standard for each product.
+
+</p>
+
+<p> <ICE-JA:W2D-004#4:1> <h> <bold> 6.2 Sample handling </h> </p>
+
+<p> <ICE-JA:W2D-004#5:1> 6.2.1 </bold> Samples shall be analysed as soon as possible after
+
+arrival.
+<ICE-JA:W2D-004#6:1> If storage is necessary, samples shall be stored at room temperature
+
+and shall not be incubated, refrigerated or frozen before or after analysis.
+
+</p>
+
+<p> <ICE-JA:W2D-004#7:1> <typeface> NOTE.
+<ICE-JA:W2D-004#8:1> Refer to standard specification for each product. </typeface> </p>
+
+<p> <ICE-JA:W2D-004#9:1> <bold> 6.2.2 </bold> Samples shall be inspected carefully before
+
+opening and any irregularities of the sample container noted on the analyst's
+
+worksheet. </p>
+
+<p> <ICE-JA:W2D-004#10:1> <bold> 6.2.3 </bold> The surface of the sample container shall be
+
+disinfected with an aqueous mixture of 70% alcohol ( v/v) and the surface
+
+dried with sterile gauze before opening and removing the con <l> tents. </p>
+
+<p> <ICE-JA:W2D-004#11:1> <bold> 6.2.4 </bold> If only one sample unit is available and
+
+multiple analysis is requested, that is, micro <l> biological, toxicological,
+
+chemical, the subsample for microbiological examination shall be taken prior
+
+to those for other analyses.
+<ICE-JA:W2D-004#12:1> In this situation, the amount of the subsample used for microbial
+
+analysis will depend on the other analyses to be performed.
+<ICE-JA:W2D-004#13:1> For example, if the total sample contents is 5 mL, a 1 mL or 2 mL
+
+portion shall be used for microbiological analysis. </p>
+
+<p> <ICE-JA:W2D-004#14:1> <h> <bold> 7. Procedure </h> </p>
+
+<p> <ICE-JA:W2D-004#15:1> 7.1 Test portions. </bold>
+<ICE-JA:W2D-004#16:1> A representative portion of the contents shall be used for microbial
+
+analy <l> sis.
+<ICE-JA:W2D-004#17:1> If possible a 10 g ( mL) sample shall be used.
+<ICE-JA:W2D-004#18:1> For products whose weight is less than 10 g ( mL) the entire contents
+
+shall be analyzed. </p>
+
+<p> <ICE-JA:W2D-004#19:1> <bold> 7.2 Preparation of dilutions. </bold>
+<ICE-JA:W2D-004#20:1> Irrespective of the type of cosmetic being analyzed prepare decimal
+
+dilutions from 1:10 to 1:10 000 in diluent.
+<ICE-JA:W2D-004#21:1> Dilute decimally from 1:10 to 1:10 000 by adding 10 mL of a previous
+
+dilution to 90 mL of diluent. </p>
+
+<p> <ICE-JA:W2D-004#22:1> <bold> 7.3 Preparation of samples. </bold>
+<ICE-JA:W2D-004#23:1> The types of equipment and supplies necessary for sample prepar <l>
+
+ation and analysis will vary with the type of cosmetic preparation being
+
+analysed. </p>
+
+<p> <ICE-JA:W2D-004#24:1> <bold> 7.3.1 </bold> <it> Liquids. </it>
+<ICE-JA:W2D-004#25:1> No special preparation of the sample is required.
+<ICE-JA:W2D-004#26:1> 10 mL of the sample ( if available) shall be directly added to 90 mL
+
+of the diluent to obtain a 1:10 dilution.
+<ICE-JA:W2D-004#27:1> If this amount is not available, adjust the volume of diluent to
+
+obtain an initial 1:10 dilution; for example 5 mL of sample added to 45 mL of
+
+diluent. </p>
+
+<p> <ICE-JA:W2D-004#28:1> <bold> 7.3.2 </bold> <it> Solids and powders. </it>
+<ICE-JA:W2D-004#29:1> Aseptically remove and weigh 1 g sample into 20 mm x 150 mm screw-cap
+
+test tube containing 1 mL sterile Tween 80.
+<ICE-JA:W2D-004#30:1> Dispense product in Tween 80 with sterile spatula.
+<ICE-JA:W2D-004#31:1> Add 8 mL sterile <}> <-> modified </-> <+> modified </+> </}> letheen
+
+broth ( see <bold> 5.3.3 </bold> ) and mix thoroughly.
+<ICE-JA:W2D-004#32:1> Add an appropriate amount of prepared sample to 90 mL <}> <->
+
+modified </-> <+> modified </+> </}> letheen broth to obtain 1:10 dilution.
+
+</p>
+
+<p> <ICE-JA:W2D-004#33:1> Alternately aseptically weigh 10 g of the sample into 90 mL
+
+diluent to obtain 1:10 dilution and mix thoroughly. </p>
+
+<p> <ICE-JA:W2D-004#34:1> <bold> 7.3.3 </bold> <it> Cream and oil-based products. </it>
+<ICE-JA:W2D-004#35:1> Aseptically remove and weigh 1 g of sample into 20 mm x 150 mm
+
+screw-cap tube containing 1 mL sterile Tween 80.
+<ICE-JA:W2D-004#36:1> Dispense product in Tween 80 with sterile spatula.
+<ICE-JA:W2D-004#37:1> Adjust total volume to 10 mL with sterile modified letheen broth, ( 8
+
+mL broth) ( see <bold> 5.3.3 </bold> ) .
+<ICE-JA:W2D-004#38:1> Add an appropriate amount of prepared sample to 90 mL modified
+
+letheen broth to obtain 1:10 dilution.
+<ICE-JA:W2D-004#39:1> Alternate method as in <bold> 7.3.2. </bold> </p>
+
+<p> <ICE-JA:W2D-004#40:1> <bold> 7.3.4 </bold> <it> Aerosols of powders, soaps, liquids and
+
+other materials. </it>
+<ICE-JA:W2D-004#41:1> After decontaminating the nozzle ( see <bold> 6.2.3 </bold> ) , expel
+
+an appropriate amount of the product into a tared dilution or media bottle [
+
+see <bold> 4.2 </bold> ( b)].
+<ICE-JA:W2D-004#42:1> Mix thoroughly and reweigh the bottle. </p>
+
+<p> <ICE-JA:W2D-004#43:1> <h> <bold> 7.4 Microbiological evaluations </h> </p>
+
+<p> <ICE-JA:W2D-004#44:1> <h> 7.4.1 </bold> <it> Screening test for microbial contaminants
+
+</it> </h> </p>
+
+<p> <ICE-JA:W2D-004#45:1> <bold> 7.4.1.1 </bold> Inoculate 1 mL ( g) of sample directly
+
+into a screw-cap bottle containing 90 mL modi <l> fied letheen broth, and
+
+another 1 mL ( g) portion into a bottle containing 90 mL Sabouraud's dextrose
+
+broth. </p>
+
+<p> <ICE-JA:W2D-004#46:1> <bold> 7.4.1.2 </bold> If product is water-immiscible, for
+
+example, creams, oils, powders, treat it as described in <bold> 7.3.2 </bold>
+
+before inoculating broths. </p>
+
+<p> <ICE-JA:W2D-004#47:1> <bold> 7.4.1.3 </bold> Incubate at 30 &plus-minus; 2 &degree; C
+
+for 7 days. </p>
+
+<p> <ICE-JA:W2D-004#48:1> <bold> 7.4.1.4 </bold> Confirm growth at 2 days and 7 days ( or
+
+when growth becomes evident) by plating on modified letheen agar ( see <bold>
+
+5.2.12 </bold> ) and either malt extract agar ( see <bold> 5.2.9 </bold> ) or
+
+potato dextrose agar ( see <bold> 5.2.22 </bold> ) , both containing 40 ppm
+
+chlorotetracycline. </p>
+
+<p> <ICE-JA:W2D-004#49:1> <bold> 7.4.1.5 </bold> Transfer 0.5 mL portion from Sabouraud's
+
+dextrose broth to prepared malt extract or potato dextrose agar plate. </p>
+
+<p> <ICE-JA:W2D-004#50:1> <bold> 7.4.1.6 </bold> Transfer 0.5 mL from modified letheen
+
+broth to prepared modified letheen agar plate. </p>
+
+<p> <ICE-JA:W2D-004#51:1> <bold> 7.4.1.7 </bold> Spread inoculum over surface of agar
+
+plates, using sterile bent glass streaking rod. </p>
+
+<p> <ICE-JA:W2D-004#52:1> <bold> 7.4.1.8 </bold> Incubate 30 &plus-minus; 2 &degree; C.
+<ICE-JA:W2D-004#53:1> Record results of screening test. </p>
+
+<p> <ICE-JA:W2D-004#54:1> <h> <bold> 7.4.2 </bold> <it> Total aerobic plate count ( TAPC)
+
+</it> </h> </p>
+
+<p> <ICE-JA:W2D-004#55:1> <bold> 7.4.2.1 </bold> <it> Preparation of plates. </it>
+<ICE-JA:W2D-004#56:1> Prepare and label duplicate petri dishes for the 1:10 to 1:10 000
+
+dilutions.
+<ICE-JA:W2D-004#57:1> Thoroughly shake the dilution bottles 1:10 to 1:10 000 and transfer
+
+using a sterile pipette 1 mL of each dilution into each of the appropriately
+
+labelled duplicate petri dishes; or, using a sterile pipette transfer 0.5 mL
+
+of each dilution to surface of prepared modified letheen agar or tryptic soy
+
+agar ( see <bold> 5.2.29 </bold> ) , labelled duplicate plate.
+<ICE-JA:W2D-004#58:1> Add 20 mL to 25 mL melted tryptic soy agar TSA ( see <bold> 5.2.29
+
+</bold> ) or letheen agar ( see <bold> 5.2.12 </bold> ) , tempered to 45
+
+&degree; C, to each plate and rotate the plates thoroughly to mix the
+
+inoculum. </p>
+
+<p> <ICE-JA:W2D-004#59:1> <it> Alternate method. </it>
+<ICE-JA:W2D-004#60:1> Spread inoculum over entire surface of plate with bent glass rod that
+
+has been sterilized in 95% ethanol and flamed to remove traces of ethanol.
+
+</p>
+
+<p> <ICE-JA:W2D-004#61:1> <bold> 7.4.2.2 </bold> <it> Incubation. </it>
+<ICE-JA:W2D-004#62:1> Allow the agar to solidify or allow the spread inoculum to be
+
+complete <l> ly absorbed by the agar.
+<ICE-JA:W2D-004#63:1> Invert the petri dishes and incubate at 35 &plus-minus; 2 &degree; C
+
+for 48 hours. </p>
+
+<p> <ICE-JA:W2D-004#64:1> <bold> 7.4.2.3 </bold> <it> Counting and recording colonies.
+
+</it>
+<ICE-JA:W2D-004#65:1> Count all colonies on plates containing 30 to 300 colonies and record
+
+results per dilution counted.
+<ICE-JA:W2D-004#66:1> Count colonies after 24 h and 48 h incuba <l> tion.
+<ICE-JA:W2D-004#67:1> If plates do not contain 30 to 300 colonies, record dilutions counted
+
+and note the number of colonies found. </p>
+
+<p> <ICE-JA:W2D-004#68:1> <bold> 7.4.2.4 </bold> <it> Reporting results. </it>
+<ICE-JA:W2D-004#69:1> Average the counts obtained, multiply by the appropriate dilution
+
+factor and report results as total aerobic plate count ( TAPC) per g ( mL)
+
+sample. </p>
+
+<p> <ICE-JA:W2D-004#70:1> <h> <bold> 7.4.3 </bold> <it> Staphylococcus aureus ( S. aureus)
+
+plate count </it> <h> </p>
+
+<p> <ICE-JA:W2D-004#71:1> <bold> 7.4.3.1 </bold> <it> Inoculation. </it>
+<ICE-JA:W2D-004#72:1> Transfer, using a sterile 1.0 mL pipette, 0.5 mL aliquots of the 1:10
+
+dilu <l> tion to appropriately labelled duplicate plates of VJ agar ( see
+
+<bold> 5.2.32 </bold> ) or MSA agar ( see <bold> 5.2.10 </bold> ) previously
+
+tempered to room temperature.
+<ICE-JA:W2D-004#73:1> Distribute inoculum over the plate surface with a sterile bent glass
+
+streaking rod [ see <bold> 4.1 </bold> ( g)]. </p>
+
+<p> <ICE-JA:W2D-004#74:1> <bold> 7.4.3.2 </bold> <it> Incubation. </it>
+<ICE-JA:W2D-004#75:1> When the inoculum is completely absorbed by the agar invert the
+
+plates and incubate at 35 &plus-minus; 2 &degree; C for 24 h to 48 h. </p>
+
+<p> <ICE-JA:W2D-004#76:1> <bold> 7.4.3.3 </bold> <it> Typical colonies. </it>
+<ICE-JA:W2D-004#77:1> Examine the plates for typical colonies of <it> Staphylococcus aureus
+
+</it> .
+<ICE-JA:W2D-004#78:1> Typical <it> Staphylococcus aureus </it> colonies appear on VJ afar
+
+as convex, shiny black colonies with or without a yellow zone extending into
+
+the medium.
+<ICE-JA:W2D-004#79:1> On mannitol salt agar ( MSA) ( see <bold> 5.2.10 </bold> ) typical
+
+colonies of <it> Staphylococcus aureus </it> appear as cream-coloured
+
+colonies with a yellow zone.
+<ICE-JA:W2D-004#80:1> From each plate showing typical colonies as described above, pick one
+
+or more typical colonies and transfer individually to TSA ( see <bold> 5.2.29
+
+</bold> ) , NA ( see <bold> 5.2.18 </bold> ) or PC agar ( see <bold> 5.2.21
+
+</bold> ) maintenance slant.
+<ICE-JA:W2D-004#81:1> Incubate at 35 &plus-minus; 2 &degree; C for 24 h to 48 h. </p>
+
+<p> <ICE-JA:W2D-004#82:1> <bold> 7.4.3.4 </bold> <it> Coagulase test. </it>
+<ICE-JA:W2D-004#83:1> Inoculate a small amount of growth from the maintenance slant to 0.2
+
+mL of brain heart infusion broth ( see <bold> 5.2.3 </bold> ) in a 13 mm x
+
+100 mm test tube.
+<ICE-JA:W2D-004#84:1> Incubate for 18 h to 24 h at 35 &plus-minus; 2 &degree; C.
+<ICE-JA:W2D-004#85:1> Add 0.5 mL of reconstituted rabbit coagulase plasma with EDTA and mix
+
+thoroughly.
+<ICE-JA:W2D-004#86:1> Incubate at 35 &plus-minus; 2 &degree; C and examine for clotting at
+
+hourly intervals from one to six hours. </p>
+
+<p> <ICE-JA:W2D-004#87:1> All cultures giving a positive coagulase reaction in six hours
+
+shall be considered as <it> Staphylo <l> coccus aureus </it> .
+<ICE-JA:W2D-004#88:1> With every set of test samples include a known coagulase-positive and
+
+coagulase-negative control. </p>
+
+<p> <ICE-JA:W2D-004#89:1> <bold> 7.4.3.5 </bold> <it> Reporting results. </it>
+<ICE-JA:W2D-004#90:1> Calculate the number of <it> Staphylococcus aureus </it> by
+
+determining the fraction of colonies tested that are coagulase-positive.
+<ICE-JA:W2D-004#91:1> Multiply this fraction by the average number of typical colonies
+
+appearing on the duplicate plates.
+<ICE-JA:W2D-004#92:1> Multiply by the appropriate dilution factor and report as the number
+
+of <it> Staphylococcus aureus </it> per gram ( mL of sample <+> ) </+> .
+<ICE-JA:W2D-004#93:1> If no typical colonies are found, report the result as <quote> 'no
+
+<it> Staphylococcus aureus </it> found per gram ( mL)' </quote> . </p>
+
+<p> <ICE-JA:W2D-004#94:1> <h> <bold> 7.4.4 </bold> <it> Yeast and mould plate count </it>
+
+</h> </p>
+
+<p> <ICE-JA:W2D-004#95:1> <bold> 7.4.4.1 </bold> Prepare and label quadruplicate petri
+
+plates with 20 mL to 25 mL of malt extract agar ( see <bold> 5.2.9 </bold> )
+
+or potato dextrose agar ( see <bold> 5.2.22 </bold> ) both supplemented with
+
+40 ppm chlor <l> tetracycline. </p>
+
+<p> <ICE-JA:W2D-004#96:1> <bold> 7.4.4.2 </bold> Transfer, using a sterile pipette 0.5 mL
+
+aliquots of the 1:10 dilutions to appropriately labelled duplicate plates.
+
+</p>
+
+<p> <ICE-JA:W2D-004#97:1> <bold> 7.4.4.3 </bold> Spread inoculum over surface of medium
+
+with sterile bent glass rod. </p>
+
+<p> <ICE-JA:W2D-004#98:1> <bold> 7.4.4.4 </bold> <it> Incubation. </it>
+<ICE-JA:W2D-004#99:1> After inoculum has been absorbed, invert the plates and incubate
+
+dupli <l> cate plates at 35 &plus-minus; 2 &degree; C and duplicate plates at
+
+28 &degree; C for 7 days.
+<ICE-JA:W2D-004#100:1> Examine plates daily for growth. </p>
+
+<p> <ICE-JA:W2D-004#101:1> <bold> 7.4.4.5 </bold> <it> Reporting result. </it>
+<ICE-JA:W2D-004#102:1> Average the counts of duplicate plates and report as 35 &degree; C
+
+yeast or mould count per gram ( mL) sample, and 28 &degree; C yeast and mould
+
+count per gram ( mL) sample. </p>
+
+<p> <ICE-JA:W2D-004#103:1> <typeface> NOTE.
+<ICE-JA:W2D-004#104:1> The identification of the isolated yeast or mould shall be performed
+
+by an experienced mycologist. </typeface> </p>
+
+<p> <ICE-JA:W2D-004#105:1> <h> <bold> 7.4.5 </bold> <it> Screening test for anaerobic
+
+bacteria </it> </h> </p>
+
+<p> <ICE-JA:W2D-004#106:1> <bold> 7.4.5.1 </bold> Inoculate 90 mL of thioglycollate medium
+
+( see <bold> 5.2.27 </bold> ) with prepared sample in <bold> 7.3.2 </bold.>
+
+</p>
+
+<p> <ICE-JA:W2D-004#107:1> <bold> 7.4.5.2 </bold> Do not shake bottle after adding cosmetic
+
+preparation. </p>
+
+<p> <ICE-JA:W2D-004#108:1> <bold> 7.4.5.3 </bold> Incubate at 35 &plus-minus; 2 &degree; C
+
+for a minimum of 7 days. </p>
+
+<p> <ICE-JA:W2D-004#109:1> <bold> 7.4.5.4 </bold> At the end of 7-day incubation period, or
+
+sooner, if growth is suspected, plate 0.1 mL thioglycollate medium ( see
+
+<bold> 5.2.27 </bold> ) onto modified letheen agar and pre-reduced anaerobic
+
+agar plates. </p>
+
+<p> <ICE-JA:W2D-004#110:1> <bold> 7.4.5.5 </bold> Spread inoculum over surface of agar
+
+plates, using sterile bent glass streaking rod. </p>
+
+<p> <ICE-JA:W2D-004#111:1> <bold> 7.4.5.6 </bold> Pre-reduce anaerobic agar plates before
+
+inoculation by placing them in an anaerobic atmosphere overnight ( 12 h to 16
+
+h). </p>
+
+<p> <ICE-JA:W2D-004#112:1> <bold> 7.4.5.7 </bold> Incubate anaerobic plates in anaerobic
+
+atmosphere, ( anaerobic jar, incubator or glove box) for 4 days at 35
+
+&plus-minus; 2 &degree; C. </p>
+
+<p> <ICE-JA:W2D-004#113:1> <bold> 7.4.5.8 </bold> Incubate modified letheen agar plates
+
+aerobically for 4 days at 35 &plus-minus; 2 &degree; C. </p>
+
+<p> <ICE-JA:W2D-004#114:1> <bold> 7.4.5.9 </bold> Observe plates for growth at the end of
+
+the incubation period.
+<ICE-JA:W2D-004#115:1> If growth appears on any plates after these procedures perform plate
+
+counts on cosmetic sample. </p>
+
+<p> <ICE-JA:W2D-004#116:1> <bold> 7.4.5.10 </bold> If no growth is observed on any plates
+
+report cosmetic as containing no viable micro <?> - </?> organism. </p>
+
+<p> <ICE-JA:W2D-004#117:1> <h> <bold> 7.4.6 <it> Anaerobic plate count </it> </h> </p>
+
+<p> <ICE-JA:W2D-004#118:1> <bold> 7.4.6.1 </bold> Prepare and label duplicate petri dishes
+
+for the 1:10 to 1:10 000 dilution. </p>
+
+<p> <ICE-JA:W2D-004#119:1> <bold> 7.4.6.2 </bold> Thoroughly shake the dilution bottles
+
+1:10 to 1:10 000 and transfer using a sterile pipette 1 mL of each dilution
+
+into each of the appropriately labelled duplicate petri dishes. </p>
+
+<p> <ICE-JA:W2D-004#120:1> <bold> 7.4.6.3 </bold> Add 15 mL to 20 mL melted anaerobic agar
+
+and 5% defibrinated sheep blood agar tempered to 45 &degree; C to each plate,
+
+and rotate the plates thoroughly to mix inoculum. </p>
+
+<p> <ICE-JA:W2D-004#121:1> <bold> 7.4.6.4 </bold> Allow to solidify and pour an additional
+
+5 mL of the respective melted media to each plate ( overlay). </p>
+
+<p> <ICE-JA:W2D-004#122:1> <bold> 7.4.6.5 </bold> Allow the agar to solidify, invert the
+
+petri dishes, incubate the blood agar plates in 5% to 10% carbon dioxide
+
+atmosphere ( candle jar or CO <sb> 2 </sb> incubator) and the anaerobe agar
+
+plates in anaerobic jars, both for 48 h at 35 &plus-minus; 2 &degree; C
+
+before counting. </p>
+
+<p> <ICE-JA:W2D-004#123:1> <bold> 7.4.6.6 </bold> Strict anaerobes will grow only in the
+
+anaerobic jars, therefore a minimum amount of exposure to oxygen is essential
+
+for good recovery of these organisms.
+<ICE-JA:W2D-004#124:1> It is recommended that a small amount of inoculum be used, ( for
+
+example 0.1 mL) and that the inoculated plates be placed in an anaerobic
+
+atmosphere within minutes after inoculation. </p>
+
+<p> <ICE-JA:W2D-004#125:1> <bold> 7.4.6.7 </bold> Suspected anaerobic organisms must be
+
+subcultured aerobically ( under CO <sb> 2 </sb> ) as well as anaerobically to
+
+establish their true oxygen relationship. </p>
+
+<p> <ICE-JA:W2D-004#126:1> <typeface> NOTE.
+<ICE-JA:W2D-004#127:1> Anaerobic plate count to be used only for talcs and powders.
+
+</typeface> </p>
+
+<p> <ICE-JA:W2D-004#128:1> <h> <bold> 7.4.7 </bold> <it> Inoculation of enrichment broth (
+
+sterility test) </it> </h> </p>
+
+<p> <ICE-JA:W2D-004#129:1> <bold> 7.4.7.1 </bold> Incubate the original 1:10 dilution at 35
+
+&plus-minus; 2 degree;C and the 1:100 dilution at 28 &degree; C ( room
+
+temperature) for a maximum of seven days.
+<ICE-JA:W2D-004#130:1> Examine the broths daily for growth. </p>
+
+<p> <ICE-JA:W2D-004#131:1> If growth is suspected, or if broth is turbid at any time up to
+
+seven days, streak the broth on an enrichment agar such as TSA ( see <bold>
+
+5.2.29 </bold> ) , NA ( see <bold> 5.2.18 <bold> ) or PC agar ( see <bold>
+
+5.2.21 </bold> ) and MacConkey agar plate before discarding the bottle.
+<ICE-JA:W2D-004#132:1> Incubate plates at 35 &plus-minus; 2 &degree; C for 18 h to 24 h.
+
+</p>
+
+<p> <ICE-JA:W2D-004#133:1> <typeface> NOTE.
+<ICE-JA:W2D-004#134:1> Many cosmetic products, because of their consistency or colour,
+
+cause dense turbidity in the enrich <l> ment broth so that growth cannot be
+
+determined by visual inspection.
+<ICE-JA:W2D-004#135:1> If these conditions are present, sub <?> - </?> culture 1.0 mL of
+
+the broth to another TAT broth ( see <bold> 5.3.1 </bold> ) or letheen broth
+
+( see <bold> 5.3.3 </bold> ) and incubate for two days, examine, then
+
+incubate for three more days and re- examine for growth. </p>
+
+<p> <ICE-JA:W2D-004#136:1> <bold> 7.4.7.2. </bold> <it> Reporting result. </it>
+<ICE-JA:W2D-004#137:1> If at the end of seven days no growth is detected in the enrichment
+
+broth, report the sterility test as negative. </p>
+
+<p> <ICE-JA:W2D-004#138:1> However, if growth is detected report sterility test as positive
+
+and proceed to identify any micro-organism present as outlined in clause
+
+<bold> 8 </bold> . </p>

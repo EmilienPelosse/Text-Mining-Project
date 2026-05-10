@@ -1,0 +1,504 @@
+<I>
+
+<$A> <ICE-JA:S1A-085#1:1:A> Good morning
+
+<$B> <ICE-JA:S1A-085#2:1:B> Good <{> <[> morning</[>
+
+<$A> <ICE-JA:S1A-085#3:1:A> <[> I'll just</[></{> be asking you general questions
+<ICE-JA:S1A-085#4:1:A> Uhm whatever you don't feel like answering I'll just ask you
+
+something different<,>
+<ICE-JA:S1A-085#5:1:A> So uhm you're a student at this university
+
+<$B> <ICE-JA:S1A-085#6:1:B> Yes
+
+<$A> <ICE-JA:S1A-085#7:1:A> How long have you been uhm attending school here
+
+<$B> <ICE-JA:S1A-085#8:1:B> Well one year now
+
+<$A> <ICE-JA:S1A-085#9:1:A> How was your <}> <-> <.> si</.> was <?> the</?><,> uhm</-> <=>
+
+coming here</=></}>
+<ICE-JA:S1A-085#10:1:A> <}> <-> Was uh</-><,> <=> were</=></}> you expecting something
+
+different than you found when you got here
+<ICE-JA:S1A-085#11:1:A> Are you disappointed
+
+<$B> <ICE-JA:S1A-085#12:1:B> No not disappointed
+<ICE-JA:S1A-085#13:1:B> It's actually living up to <}> <-> its</-> <=> its</=></}>
+
+reputation<O>laughs</O>
+
+<$A> <ICE-JA:S1A-085#14:1:A> Oh so you're satisfied with <{> <[> it</[>
+
+<$B> <ICE-JA:S1A-085#15:1:B> <[> Yes</[></{>
+
+<$A> <ICE-JA:S1A-085#16:1:A> Okay
+<ICE-JA:S1A-085#17:1:A> And what is it
+<ICE-JA:S1A-085#18:1:A> What is your major
+
+<$B> <ICE-JA:S1A-085#19:1:B> Uhm education history
+
+<$A> <ICE-JA:S1A-085#20:1:A> So uh were you a teacher before you came here
+
+<$B> <ICE-JA:S1A-085#21:1:B> Yes
+
+<$A> <ICE-JA:S1A-085#22:1:A> <}> <-> <.> D</.> do you plan</-> <=> and you plan</=></}> to
+
+go back to teaching
+
+<$B> <ICE-JA:S1A-085#23:1:B> <?> Well</?> I'm <}> <-> <.> w</.></-> <=> weighing</=></}>
+
+the options
+
+<$A> <ICE-JA:S1A-085#24:1:A> Okay uhm<,> uhm <}> <-> why</-> <=> what</=></}> is it that
+
+drew you to teaching in the first place<,>
+
+<$B> <ICE-JA:S1A-085#25:1:B> Well I love kids and I thought it was the best way for me to
+
+you know give back to society so to speak <{> <[> so</[> that was the main
+
+reason
+
+<$A> <ICE-JA:S1A-085#26:1:A> <[> Okay</[></{>
+
+<$A> <ICE-JA:S1A-085#27:1:A> Okay and uhm <}> <-> what <.> grou</.></-> <=> what age
+
+group</=></}> <}> <- > <.> d</.></-> uhm <{> <[> <=> do</=></}> you
+
+prefer</[> to teach
+
+<$B> <ICE-JA:S1A-085#28:1:B> <[> High School</[></{>
+
+<$B> <ICE-JA:S1A-085#29:1:B> High School students <?> uh</?> thirteen up <{1> <[1> <?>
+
+Mhm</?></[1>
+
+<$A> <ICE-JA:S1A-085#30:1:A> <[1> <?> Okay</?></[1></{1>
+<ICE-JA:S1A-085#31:1:A> <?> Why is that</?><,>
+
+<$B> <ICE-JA:S1A-085#32:1:B> Well I find it easier to relate to them<{><[><,></[>
+<ICE-JA:S1A-085#33:1:B> You know you have to have a lot of patience to deal with the
+
+younger sets and that level <}> <-> you</-> <=> you</=></}> can interact with
+
+them easier so that's why I prefer that age group
+
+<$A> <ICE-JA:S1A-085#34:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-085#35:1:A> Okay uhm<,,><&>break-in-recording-recording-continued</&>
+<ICE-JA:S1A-085#36:1:A> Okay so uhm where are you from<,>
+
+<$B> <ICE-JA:S1A-085#37:1:B> Saint Catherine
+
+<$A> <ICE-JA:S1A-085#38:1:A> Uhm is it a parish that you like living<{><[><,> in</[>
+
+<$B> <ICE-JA:S1A-085#39:1:B> <[> Yes</[></{> I enjoy living in Saint Catherine<O>laughs</O>
+
+<$A> <ICE-JA:S1A-085#40:1:A> What do you think <}> <?> <-> is</-></?> <=> is</=></}> the
+
+best thing that Saint Catherine has to offer<,>
+
+<$B> <ICE-JA:S1A-085#41:1:B> Heritage
+
+<$A> <ICE-JA:S1A-085#42:1:A> <{> <[> Heritage</[>
+
+<$B> <ICE-JA:S1A-085#43:1:B> <[> Yeah</[></{>
+
+<$A> <ICE-JA:S1A-085#44:1:A> What is it that is so significant about the heritage of Saint
+
+Catherine
+
+<$B> <ICE-JA:S1A-085#45:1:B> Well it have a whole lot of history cos you know the whole
+
+thing with the Spanish the British coming straight down
+<ICE-JA:S1A-085#46:1:B> And you have a lot of remains of that history and it's
+
+well-preserved and you know available for tourist and<,> for Jamaicans to go
+
+and view and learn about their history<,>
+<ICE-JA:S1A-085#47:1:B> And the people there really <}> <-> want</-> <=> want</=></}> to
+
+get to know <?> that</?>
+
+<$A> <ICE-JA:S1A-085#48:1:A> Okay
+<ICE-JA:S1A-085#49:1:A> Uhm I know that a issue that's uhm affecting students on campus is
+
+this new uhm <}> <-> <.> liberalati</.></-> <=> liberalisation</=></}> of
+
+education<{><[><,></[>
+<ICE-JA:S1A-085#50:1:A> <?> Which I'm sure</?> you know about where uhm school fees are
+
+being <}> <- > <.> r</.></-> uhm<,> <=> piped up</=></}> <}> <-> to</-> <=>
+
+to</=></}> meet with the international uhm standards and competition<,>
+<ICE-JA:S1A-085#51:1:A> Uhm that is affecting all of us
+<ICE-JA:S1A-085#52:1:A> What do you think about that
+<ICE-JA:S1A-085#53:1:A> Do you think that is something that students on this <}> <- > <.>
+
+camp</.></-> <=> campus</=></}> can manage to uhm<,> or can afford right now
+
+<$B> <ICE-JA:S1A-085#54:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-085#55:1:B> Well I don't believe that we will all be able to afford a
+
+university education but I mean facilities are provided for us to go and get
+
+loans and so on so<,> in the event that they do decide to raise the tuition
+
+fees<,> we have other options
+<ICE-JA:S1A-085#56:1:B> We can go and get a loan or can apply for a scholarship
+<ICE-JA:S1A-085#57:1:B> So options are available<,>
+<ICE-JA:S1A-085#58:1:B> So it's just for you to go and <}> <-> find</-> <=> find</=></}>
+
+your way out
+
+<$A> <ICE-JA:S1A-085#59:1:A> <}> <-> And</-> <=> and</=></}> uhm what about persons from
+
+uhm lower income backgrounds that will be coming into school
+<ICE-JA:S1A-085#60:1:A> Do you think that the school will go back to a level of kind of
+
+elitist thing where only uhm upper middle class persons can afford to come
+
+here
+
+<$B> <ICE-JA:S1A-085#61:1:B> <O> clicks-tongue</O><,>I don't believe that that will happen
+
+because<,> as I said scholarships are available and if these persons are
+
+of<,> university standard and academically <}> <-> they are</-><,,> <=> they
+
+are</=></}> performing at a level you know they'll be able to apply for these
+
+scholarships
+<ICE-JA:S1A-085#62:1:B> And <}> <-> loans</-> when you apply for <=> loans</=></}> they
+
+don't discriminate with your background so<,> I don't believe it will be
+
+change back to a elitist<{><[><,></[> school
+
+<$A> <ICE-JA:S1A-085#63:1:A> <[> Okay</[></{>
+
+<$A> <ICE-JA:S1A-085#64:1:A> Okay
+<ICE-JA:S1A-085#65:1:A> Uhm I know that uhm <}> <-> another</-> <=> a</=></}> issue that is
+
+affecting the country now is uhm the economic uhm strains that persons <}>
+
+<-> are</-> <=> are</=></}> under
+<ICE-JA:S1A-085#66:1:A> Uhm<,> are you one of those persons that blame the government for
+
+what is happening <}> <-> or</-> <=> or</=></}> do you think there are other
+
+explanations
+
+<$B> <ICE-JA:S1A-085#67:1:B> No I'm not one of those persons that blame the
+
+government<O>laughs</O>
+<ICE-JA:S1A-085#68:1:B> Okay I believe that people should work and contribute to the whole
+
+development of the society and if you are facing financial and economical
+
+constraints you need to live within your means and find other option in order
+
+to <?> meet</?> you
+<ICE-JA:S1A-085#69:1:B> So<,> I don't believe in going on and blaming the
+
+government<O>laughs</O>
+
+<$A> <ICE-JA:S1A-085#70:1:A> Okay <}> <-> well</-> <=> well</=></}> how do you explain the
+
+fact that uhm<,> whatever you are earning now uhm is buying less and less
+
+like <}> <-> it</-> <=> it's</=></}> good to say live within your means but
+
+it's what can your means get you these days
+
+<$B> <ICE-JA:S1A-085#71:1:B> <O> laughs</O>Well inflation you know<,> I can't stop
+
+inflation
+<ICE-JA:S1A-085#72:1:B> None of us can and<,,> what we were spending years aback is not as
+
+if it's not the same now
+<ICE-JA:S1A-085#73:1:B> It's just that we think <}> <-> it's</-> <=> it's</=></}> different
+
+but basically it work out to be the same amount of money
+<ICE-JA:S1A-085#74:1:B> So<,,> really and truly you just have a budget <}> <-> and</-> <=>
+
+and</=></}> try and do as best as possible and some of those things that we
+
+don't really need we just do without
+
+<$A> <ICE-JA:S1A-085#75:1:A> Okay
+<ICE-JA:S1A-085#76:1:A> <}> <-> And</-> <=> and</=></}> what do you think can cause more
+
+growth in the society
+<ICE-JA:S1A-085#77:1:A> Where do you think that the country needs to be going to ensure
+
+that you know we're best positioned for twenty thirty years from now
+
+<$B> <ICE-JA:S1A-085#78:1:B> Well I think we need to invest more in our young people where
+
+education is concerned especially<,> primary education<,> and of course
+
+university education and <}> <- > as</-> <=> as</=></}> long as we provide<,>
+
+that for our young people I'm sure that they will come out successful and
+
+invest in the country so<,,>
+<ICE-JA:S1A-085#79:1:B> Mhm invest in our young people that's the only thing we can do now
+
+cos<,> it's about <?> all</?> our assets <{> <[> so<O>laughs</O></[>
+
+<$A> <ICE-JA:S1A-085#80:1:A> <[> Okay</[></{><,,>
+<ICE-JA:S1A-085#81:1:A> Uhm <}> <-> as a</-> <=> as a</=></}> female as a woman in the
+
+society what do you think are the major uhm issues <}> <-> that</-> <=>
+
+that</=></}> women face <}> <-> in in</-> <=> in</=></}> Jamaica<,,>
+
+<$B> <ICE-JA:S1A-085#82:1:B> Hm<,> that's a tough one because<,,> I believe that women have
+
+the opportunity to achieve anything they want to once they set their mind to
+
+it and obstacles will be there yes but<,> as long as you're determined to
+
+achieve something nothing will really stop you<,> <{> <[>
+<ICE-JA:S1A-085#83:1:B> So</[><,> other than the fact that being a female is a problem
+
+within itself because I mean you fall prey <}> <-> to</-><,> <=> to</=></}>
+
+everybody in the society cos they believe that we're the weaker sex<,> other
+
+than that I believe that whatever a woman want she'll achieve<,>
+
+<$A> <ICE-JA:S1A-085#84:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-085#85:1:A> Okay
+
+<$B> <ICE-JA:S1A-085#86:1:B> Despite the barriers
+
+<$A> <ICE-JA:S1A-085#87:1:A> Okay<,,>
+<ICE-JA:S1A-085#88:1:A> Uhm<,> what uhm <}> <-> I <.> s</.></-> <=> I see</=></}> that
+
+you're married <?> that</?> I'm assuming
+<ICE-JA:S1A-085#89:1:A> Do you have any children
+
+<$B> <ICE-JA:S1A-085#90:1:B> No
+<ICE-JA:S1A-085#91:1:B> Not yet
+
+<$A> <ICE-JA:S1A-085#92:1:A> You're planning to have children
+
+<$B> <ICE-JA:S1A-085#93:1:B> When I can afford them
+
+<$A> <ICE-JA:S1A-085#94:1:A> When you can afford them<O>laughs</O>
+
+<$B> <ICE-JA:S1A-085#95:1:B> Which is probably never so<O>laughs</O>
+
+<$A> <ICE-JA:S1A-085#96:1:A> Okay
+<ICE-JA:S1A-085#97:1:A> Uhm what is it that you want for yourself
+<ICE-JA:S1A-085#98:1:A> Uhm I know you're at school so <}> <-> that's</-> <=>
+
+that's</=></}> <}> <-> <.> o</.></-> <=> obviously</=></}> <}> <-> a</-> <=>
+
+a</=></}> goal but what do you want <}> <-> from</-> <=> for</=></}> yourself
+
+like twenty years from now<,>
+
+<$B> <ICE-JA:S1A-085#99:1:B> Hm<,,>
+<ICE-JA:S1A-085#100:1:B> Where do I see myself twenty years from now
+<ICE-JA:S1A-085#101:1:B> Well I see myself owning my own business definitely and<,> of
+
+course<,> having<,> my own home and a vehicle to get around<,,>
+<ICE-JA:S1A-085#102:1:B> I also see myself with my P h D<O>laughs</O><{1><[1><,></[1>
+<ICE-JA:S1A-085#103:1:B> So <}> <-> that's</-> <=> that's</=></}> basically it <}> <->
+
+just</-> <=> just</=></}> you know the everyday dream owning your own assets
+
+and living comfortably <{2> <[2>
+<ICE-JA:S1A-085#104:1:B> <?> So</?></[2> that's it
+
+<$A> <ICE-JA:S1A-085#105:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-085#106:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-085#107:1:A> Okay
+<ICE-JA:S1A-085#108:1:A> What do you think are some of <}> <-> the <.> m</.></-> <=> the
+
+major</=></}> challenges of married life that you found<,>
+
+<$B> <ICE-JA:S1A-085#109:1:B> Well I haven't found the challenges yet cos I've only been
+
+married for a year<O>laughs</O> <{1> <[1> <,> so basically</[1> I'm still on
+
+the honeymoon phase<{2><[2>so</[2><,> the challenges <}> <-> I <.> d</.> I
+
+don't</-> <=> I don't</=></}> reach that section yet but<,,> from what I've
+
+heard<,,> communication is the key so we're working on that more than
+
+anything else now<,,>
+<ICE-JA:S1A-085#110:1:B> So when I reach the challenges I'll call you and let you
+
+know<O>laughs</O>
+
+<$A> <ICE-JA:S1A-085#111:1:A> <[1> Oh <?> yes</?></[1></{1>
+
+<$A> <ICE-JA:S1A-085#112:1:A> <[2> Okay</[2></{2>
+
+<$A> <ICE-JA:S1A-085#113:1:A> Okay okay<,,><{><[><,></[> uhm<&>break-in-recording</&>
+
+<$B> <ICE-JA:S1A-085#114:1:B> <[> Mhm</[></{> <&> recording-continued</&><$A><ICE-JA:S1A-085#>Right
+
+uhm<,> I know that on campus there are a lot of<,> issues affecting students
+
+<}> <-> and uhm and</-><,> <=> or</=></}> behavioural problems that uhm a lot
+
+of people uhm<,> are talking about or is constantly a problem and I know one
+
+of them has to do with females and how they dress to come to school the
+
+behaviour on campus
+<ICE-JA:S1A-085#115:1:B> A lot of people think it's not uhm what you would expect from uhm
+
+a tertiary level institution especially one like this one
+<ICE-JA:S1A-085#116:1:B> What are your views on that<,>
+
+<$B> <ICE-JA:S1A-085#117:1:B> Well we have to keep in mind that we're dealing with adults
+
+here and you can't really put restrictions on adults where <}> <=> their</=>
+
+dress code uh you know <-> their</- ></}> is concerned and<,,> in order for
+
+us to really live up to<,> <}> <-> the<,> the</-> <=> the</=></}> fact that
+
+we're a <}> <-> <.> s</.></-> <=> quote unquote</=></}> liberated university
+
+you can't really put restrictions on people's dress and so on because it's a
+
+part of their culture and really and truly you'd be <unclear> word</unclear>
+
+their culture if you tell them that well certain things they can't wear<,>
+<ICE-JA:S1A-085#118:1:B> On the other hand though if it is affecting<,,> individuals on the
+
+campus <&> noise-in-background</&>and<,,> affecting them in such a way that
+
+it will<,> impact upon their education well something must be done about it
+
+cos<,> we need to provide a comfortable<,> setting for everyone
+<ICE-JA:S1A-085#119:1:B> So<,> in that light <?> then</?> fine<,,>
+
+<$A> <ICE-JA:S1A-085#120:1:A> Okay uhm another thing is that uhm <&>
+
+unclear-words-due-to-interruption-of-
+
+recording</&><&>break-in-recording-recording-continued</&>
+<ICE-JA:S1A-085#121:1:A> Uhm another issue that affects the university is that a lot of
+
+people seem to think that the university does not give back enough <}> <-> to
+
+the</-> <=> to the</=></}> society like uhm for an institution that <}> <->
+
+<.> s</.></-> <=> is</=></}> supposed to turn out the best minds in the
+
+society there is not enough that is given back<,,>
+<ICE-JA:S1A-085#122:1:A> What uh do you agree with <{> <[> that</[>
+
+<$B> <ICE-JA:S1A-085#123:1:B> <[> Given</[></{> back in terms of what
+
+<$A> <ICE-JA:S1A-085#124:1:A> In terms of uhm<,> uhm<,,> uhm<,>
+<ICE-JA:S1A-085#125:1:A> Like bright ideas that are supposed to come out of the persons
+
+that come from here like uhm to help to usher uh the society into a new era
+
+uhm<,>
+<ICE-JA:S1A-085#126:1:A> You know what I mean <{> <[>
+<ICE-JA:S1A-085#127:1:A> In</[> that kind of way
+
+<$B> <ICE-JA:S1A-085#128:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-085#129:1:B> But I'm under the impression that the university does do <}>
+
+<-> this thing</-> <=> these things</=></}> cos I mean<,> <}> <-> the</-> <=>
+
+the</=></}> government funds a lot of projects over here and the university
+
+is involved in a number <}> <-> of</-><,> <=> of</=></}> projects and most of
+
+<}> <-> the the</-><,,><&>laughing-in- background</&> <=> the</=></}> issues
+
+that we deal with in the society today I'm under the
+
+impression<&>loud-background-noises</&> that <?> in this</?> university <}>
+
+<- > <.> w</.><-> <=> we've</=></}> got you know most of <?> the</?> ideas
+
+from and solutions to most of the problems that we are facing now
+
+<$A> <ICE-JA:S1A-085#130:1:A> Okay
+<ICE-JA:S1A-085#131:1:A> I'm just thinking that uhm a lot of people think that <}> <->
+
+the</-> <=> the</=></}> intellectual potential of persons that come out of
+
+this school is not really realized and <}> <-> the</-> <=> the</=></}>
+
+university functions <}> <-> as</-> <{> <[> <,> <=> as</=></}></[>
+
+<$B> <ICE-JA:S1A-085#132:1:B> <[> But are facilities</[></{> put in place <}> <-> to</->
+
+<=> to</=></}> really uhm exploit these<,,> potential
+<ICE-JA:S1A-085#133:1:B> <{> <[> I mean</[>
+
+<$A> <ICE-JA:S1A-085#134:1:A> <[> Well I</[></{> don't know
+<ICE-JA:S1A-085#135:1:A> Probably not or<,> because
+
+<$B> <ICE-JA:S1A-085#136:1:B> Right and until the government put <}> <-> <.> some</.></->
+
+<=> something</=></}> in place where<,> they can capitalize <}> <-> upon</->
+
+<=> on</=></}> the resources that are available here I don't think we'll
+
+ever<,,> really realize the true potential of university graduates<,> <{> <[>
+
+and</[> that's the reason why most of them leave the country cos there's
+
+really nothing here for them to do<,>
+
+<$A> <ICE-JA:S1A-085#137:1:A> <[> But</[></{>
+
+<$A> <ICE-JA:S1A-085#138:1:A> But do you think that <}> <-> the</-> <=> the</=></}>
+
+university encourages independent thought<,>
+
+<$B> <ICE-JA:S1A-085#139:1:B> Yes I think so
+
+<$A> <ICE-JA:S1A-085#140:1:A> <}> <-> It that is</-> <=> that is</=></}> your experience in
+
+the area that you are
+
+<$B> <ICE-JA:S1A-085#141:1:B> Yes
+<ICE-JA:S1A-085#142:1:B> I believe that <}> <-> they they</-> <=> they</=></}> encourage<,>
+
+uhm<,> individuals to explore various ideas<,> but you need to explore it <}>
+
+<-> and</-> <=> and</=></}> ensure that you have<,> you know<,> sources to
+
+back it up
+<ICE-JA:S1A-085#143:1:B> <}> <- > <.> Y</.> you can't you</-> <=> you just can't</=></}>
+
+<}> <-> be</-> <=> be</=></}> writing down things just because you believe
+
+that it's like that
+<ICE-JA:S1A-085#144:1:B> You have to have<,> your sources <{> <[> mhm</[>
+
+<$A> <ICE-JA:S1A-085#145:1:A> <[> Okay</[></{>
+<ICE-JA:S1A-085#146:1:A> Cos I've known that a lot of people think that this uhm university
+
+just functions as a way of like maintaining the status quo and not muddying
+
+the waters just keeping things as they are<,,>
+<ICE-JA:S1A-085#147:1:A> <{> <[> As there</[> hasn't been much radical thinking that has
+
+come out of this university for the past few decades
+
+<$B> <ICE-JA:S1A-085#148:1:B> <[> I mean</[></{></I>

@@ -1,0 +1,450 @@
+<I>
+
+<p> <ICE-JA:W2A-017#1:1> <h> <bold> MACROECONOMIC ADJUSTMENT IN EXTERNALLY-DEPENDENT
+
+ECONOMIES WITH PARALLEL EXCHANGE MARKETS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-017#2:1> Damien King </p>
+
+<p> <ICE-JA:W2A-017#3:1> <it> Abstract </p>
+
+<p> <ICE-JA:W2A-017#4:1> This paper <}> <-> developes </-> <+> develops </+> </}> a model
+
+of the macroeconomic response to a monetary shock in an externally-dependent
+
+economy with a black market for foreign exchange.
+<ICE-JA:W2A-017#5:1> A model of the currency substitution genre is used to describe how
+
+monetary signals may be transmitted through a black market rate and the
+
+supply side of the economy to real output.
+<ICE-JA:W2A-017#6:1> The model demonstrates that monetary contraction may have an
+
+expansionary supply-side influence, and that this effect is stronger in the
+
+more dependent economies.
+<ICE-JA:W2A-017#7:1> The model also shows that devalu <l> ation is not neutral with respect
+
+to the black market premium. </it> </p>
+
+<p> <ICE-JA:W2A-017#8:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-017#9:1> The purpose of this paper is to develop a model of macroeconomic
+
+behaviour for a structuralist economy with a black market for foreign
+
+exchange.
+<ICE-JA:W2A-017#10:1> The structuralist characteristic of interest is the dependence of the
+
+production structure in developing economies on imported intermediate inputs.
+<ICE-JA:W2A-017#11:1> The distinguishing feature of the treatment is the consideration of
+
+black markets within a complete macroeconomic framework with an independent
+
+supply side.
+<ICE-JA:W2A-017#12:1> The model demonstrates that expansionary money may exert a brief
+
+contractionary influence on output in externally dependent economies with
+
+black markets, before any long run expansionary impact is felt.
+<ICE-JA:W2A-017#13:1> This result, based on differential rates of adjustment in goods and
+
+asset markets, undercuts those of structuralist models of credit-constrained
+
+output.
+<ICE-JA:W2A-017#14:1> The model shows also that a nominal devaluation can be contractionary
+
+and is not neutral with respect to the black market premium. </p>
+
+<p> <ICE-JA:W2A-017#15:1> The focus of the analysis is the transmission of monetary signals
+
+to the real economy.
+<ICE-JA:W2A-017#16:1> Much has been written on the transmission of such signals via the
+
+unofficial credit ( or <quote> " curb" </quote> ) market. <fnr> <sp> 1 </sp>
+
+</fnr> <footnote>
+<ICE-JA:W2A-017#17:1> 1. See Bruno ( 1979), Taylor ( 1981 and 1983), Porter and Ranney (
+
+1982), van Wijnbergen ( 1983 and 1986), and Buffie ( 1984). </footnote>
+<ICE-JA:W2A-017#18:1> Because of poor state of financial intermediation in developing
+
+economies, and in particular, the inadequacy of markets for equity as well as
+
+official limits placed on commercial bank credit, firms face a credit
+
+constraint in the financing of working capital for production.
+<ICE-JA:W2A-017#19:1> Changes in the money supply can affect output via the availability of
+
+commercial credit as well as through changes in the interest rate being
+
+charged in the unorganized money market.
+<ICE-JA:W2A-017#20:1> It will be shown below that the exchange rate regime, in particular,
+
+the presence of a parallel exchange market, introduces a transmission
+
+mechanism that can act counter to this supply-side credit effect. </p>
+
+<p> <ICE-JA:W2A-017#21:1> The analytical content of this paper has a dual heritage,
+
+however.
+<ICE-JA:W2A-017#22:1> In addition to being a response to the new structuralists and their
+
+working capital constraint, in modeling the transmission of monetary signals
+
+in the presence of a black market this work is a methodological descendent of
+
+the black market literature. <fnr> <sp> 2 </sp> </fnr> <footnote>
+<ICE-JA:W2A-017#23:1> 2. For a sampling, see Macedo ( 1982), Dornbusch ( 1983), Lizondo (
+
+1987), and the articles summarised in the following paragraphs. </footnote>
+<ICE-JA:W2A-017#24:1> The specific mechanism highlighted in this chapter, via the black
+
+market and the supply side, has largely been ignored in that literature
+
+because of inadequate treatment of the real side.
+<ICE-JA:W2A-017#25:1> Aizenmann ( 1985), for example, has previ <l> ously examined
+
+adjustment to monetary shocks and devaluation under a dual exchange rate
+
+regime.
+<ICE-JA:W2A-017#26:1> He shows that a black market exchange rate will rise in response to
+
+monetary expansion.
+<ICE-JA:W2A-017#27:1> His analysis is in a partial <}> <-> equili-brium </-> <+>
+
+equilibrium </+> </}> setting, however, and his concern is with the
+
+performance of the current account and how it compares to the single fixed
+
+exchange rate case.
+<ICE-JA:W2A-017#28:1> Thus, there is no analysis of the effect on the real economy. </p>
+
+<p> <ICE-JA:W2A-017#29:1> Cumby's ( 1984) analysis of monetary policy in a black market
+
+economy is conducted in a general equilibrium context.
+<ICE-JA:W2A-017#30:1> He shows that an expansion of the domestic money supply, even if
+
+wealth does not increase initially, raises the black market rate.
+<ICE-JA:W2A-017#31:1> The depreciation of the black market rate itself creates a wealth
+
+effect and consequent increase in aggregate demand. </p>
+
+<p> <ICE-JA:W2A-017#32:1> Nowak ( 1984) uses the Kouri stock/flow portfolio balance
+
+formulation, also in a general equilibrium context, and analyses the effect
+
+of both money growth and devaluation, largely on the price level and black
+
+market exchange rate.
+<ICE-JA:W2A-017#33:1> Output is demand determined by relative prices in the devaluation
+
+exercises, but his analysis of mone <l> tary changes assumes fixed output.
+
+</p>
+
+<p> <ICE-JA:W2A-017#34:1> The analysis below explicitly addresses the issue skirted by
+
+these works - how money affects the real economy in a black market or dual
+
+exchange market regime.
+<ICE-JA:W2A-017#35:1> The framework employed is a simple general equilibrium model with a
+
+goods market and two financial assets.
+<ICE-JA:W2A-017#36:1> The financial assets ( a domestic and a foreign asset) are modeled as
+
+portfolio balances. <fnr> <sp> 3 </sp> </fnr> <footnote>
+<ICE-JA:W2A-017#37:1> 3. See Kouri ( 1976) for a general portfolio balance formulation.
+
+</footnote>
+<ICE-JA:W2A-017#38:1> The economy has an official fixed exchange rate and a second (
+
+higher) black market rate, and current transactions occur in both exchange
+
+markets.
+<ICE-JA:W2A-017#39:1> Exchange controls are used to separate the two markets. </p>
+
+<p> <ICE-JA:W2A-017#40:1> The structure of the paper is as follows.
+<ICE-JA:W2A-017#41:1> The basic model is constructed in the next section.
+<ICE-JA:W2A-017#42:1> In section 2, exercises are conducted to trace the effects of
+
+exogenous shifts in policy variables.
+<ICE-JA:W2A-017#43:1> The polices examined are a higher level of the nominal money stock
+
+and a devaluation of the official exchange rate.
+<ICE-JA:W2A-017#44:1> In the final section, it is shown that the temporary contractionary
+
+effect of monetary expansion varies positively with the degree of external
+
+dependence in the economy. </p>
+
+<p> <ICE-JA:W2A-017#45:1> <h> <bold> 1. THE MODEL </bold> </h> </p>
+
+<p> <ICE-JA:W2A-017#46:1> <h> <it> The Goods Market </it> </h> </p>
+
+<p> <ICE-JA:W2A-017#47:1> A salient feature of production in LDC's is its external
+
+dependence.
+<ICE-JA:W2A-017#48:1> Production, particularly of manufacturers, requires the use of
+
+interme <l> diate inputs not produced domestically.
+<ICE-JA:W2A-017#49:1> The elasticity of substitution with respect to these imported
+
+intermediate inputs and raw materials versus domestic inputs is low.
+<ICE-JA:W2A-017#50:1> Even in the long run, with capital and therefore the technology of
+
+production variable, the choice of produc <l> tion technique is limited
+
+because even the technology is imported, and therefore embodies the factor
+
+endowments of an industrial economy.
+<ICE-JA:W2A-017#51:1> Consequently, output is specified as a function of imported (
+
+&Ntilde;) and domestic ( L) inputs.
+<ICE-JA:W2A-017#52:1> Production is governed by a concave Leontief technology of the
+
+following form </p>
+
+<p> <ICE-JA:W2A-017#53:1> <O> formula </O> ( 1) </p>
+
+<p> <ICE-JA:W2A-017#54:1> where &delta;, &tau;, and h> 1 are positive parameters. </p>
+
+<p> <ICE-JA:W2A-017#55:1> We make the usual <quote> 'small country assumption' </quote>
+
+that the world price of imports and exports ( P &asterisk;) is given.
+<ICE-JA:W2A-017#56:1> A firm buys as much of its imported inputs as possible at the lower
+
+official rate ( e <sp> o </sp> , expressed in <quote> " pesos" </quote> per
+
+<quote> " dollar" </quote> ) , the amount determined by the prevailing rules
+
+of the central bank limiting sales of official reserves.
+<ICE-JA:W2A-017#57:1> Firms then purchase dollars on the black market ( at rate e) to
+
+procure the remainder of their imported inputs.
+<ICE-JA:W2A-017#58:1> The domestic cost of each im <l> ported input is therefore e <sp> o
+
+</sp> P &asterisk; for the share bought at the official rate and eP
+
+&asterisk; for inputs obtained with <quote> " black market dollars" </quote> .
+<ICE-JA:W2A-017#59:1> Notwith <l> standing the presence of official currency
+
+inconvertibility, firms can obtain as much foreign exchange as they need at
+
+the prevailing parallel exchange rate.
+<ICE-JA:W2A-017#60:1> Domestic inputs are bought at a nominal price of w, hereafter
+
+referred to as <quote> " wages" </quote> . </p>
+
+<p> <ICE-JA:W2A-017#61:1> Profit maximisation using the production function of equation 1,
+
+and normalisation of world prices, yields an output function on the following
+
+form. </p>
+
+<p> Y=Y(e/P,w/P) ( 2) </p>
+
+<p> <ICE-JA:W2A-017#62:1> Wages are flexible and there is no money illusion, so real wages
+
+( w/P) adjust instantly to clear the labour market.
+<ICE-JA:W2A-017#63:1> The wage rate can therefore be expressed as a function of the
+
+exchange rate, output price, and labour market conditions.
+<ICE-JA:W2A-017#64:1> For this reason, the wage term is omitted from subsequent appearances
+
+of the supply function.
+<ICE-JA:W2A-017#65:1> The supply of goods therefore varies inversely with the nominal ( and
+
+real) exchange rate, and positively with the price level. <fnr> <sp> 4 </sp>
+
+</fnr> <footnote>
+<ICE-JA:W2A-017#66:1> 4. As long as the constraint imposed by the limited availability of
+
+foreign exchange at the official rate is effective, that is, as long as the
+
+firm is forced to buy some foreign exchange at the parallel rate, then the
+
+official rate does not appear in the supply function since the marginal cost
+
+of imported inputs is the parallel rate. </footnote> </p>
+
+<p> <ICE-JA:W2A-017#67:1> Demand for the output of the economy is the sum of domestic
+
+consumption ( C) and exports ( X).
+<ICE-JA:W2A-017#68:1> Real domestic consumption is determined by real wealth ( W/P). <fnr>
+
+<sp> 5 </sp> </fnr> <footnote>
+<ICE-JA:W2A-017#69:1> 5. <quote> " Wages" </quote> includes only income from the provision
+
+of domestic inputs, and does not include discounted income from the ownership
+
+of assets. </footnote>
+<ICE-JA:W2A-017#70:1> Aggregate demand is therefore specified as follows: </p>
+
+<p> <ICE-JA:W2A-017#71:1> Y <sp> d </sp> =C(W/P)+X ( 3) </p>
+
+<p> <ICE-JA:W2A-017#72:1> <h> <it> Asset Markets </it> </h> </p>
+
+<p> <ICE-JA:W2A-017#73:1> On the monetary side, wealth-holders apportion their wealth
+
+between a foreign and a domestic asset.
+<ICE-JA:W2A-017#74:1> The foreign asset is black market hard currency, henceforth referred
+
+to as <quote> " dollars" </quote> . <fnr> <sp> 6 </sp> </fnr> <footnote>
+<ICE-JA:W2A-017#75:1> 6. Private foreign asset holdings in Latin America are indeed largely
+
+held as money.
+<ICE-JA:W2A-017#76:1> The most common holdings are U.S. currency in a local safety deposit
+
+box or a checking account in Miami. </footnote> </p>
+<ICE-JA:W2A-017#77:1> The domestic asset is a fixed-interest-bearing security,
+
+representative of and encompassing the range of domestic assets actually
+
+available, including money. </p>
+
+<p> <ICE-JA:W2A-017#78:1> The asset demands respond to the relative rates of return. <fnr>
+
+<sp> 7 </sp> </fnr> <footnote>
+<ICE-JA:W2A-017#79:1> 7. Since the focus is on the speculative portfolio, we ignore the
+
+minimum- variance portfolio by assuming that asset-holders are risk-neutral.
+
+</footnote>
+<ICE-JA:W2A-017#80:1> The portfolio mix is determined, in general, by the interest rate
+
+differential and the expected rate of depreciation of the exchange rate.
+<ICE-JA:W2A-017#81:1> The demand for a foreign asset ( valued in domestic currency, eF <sp>
+
+d </sp> ) can therefore be stated as follows. <fnr> <sp> 8 </sp> </fnr>
+
+<footnote>
+<ICE-JA:W2A-017#82:1> 8. We use the wealth identity introduced below to eliminate the
+
+<quote> " n'th" </quote> asset market equilibirium equation, so we explicitly
+
+model only the asset market for foreign currency. </footnote> </p>
+
+<p> <ICE-JA:W2A-017#83:1> <O> formula </O> ( 4) </p>
+
+<p> <ICE-JA:W2A-017#84:1> f <sp> d </sp> is the fraction of wealth ( W) that is held in the
+
+foreign asset; &pi; is the expected rate of change of the parallel exchange
+
+rate; <O> formula </O> is the foreign ( domestic) interest rate. <fnr> <sp> 9
+
+</sp> </fnr> <footnote>
+<ICE-JA:W2A-017#85:1> 9. The absence of Y from the asset demand equation requires a
+
+comment.
+<ICE-JA:W2A-017#86:1> The <quote> " domestic asset" </quote> may include demand deposits
+
+and bonds, both issued by the banking sector.
+<ICE-JA:W2A-017#87:1> Households would satisfy a change in their transactions demand for
+
+money by shifting between demand deposits and bonds.
+<ICE-JA:W2A-017#88:1> But this would not affect the distribution of their portfolio between
+
+domestic and foreign assets, which by assumption is affected only by changes
+
+in relative rates of return.
+<ICE-JA:W2A-017#89:1> For this reason, Y does not appear as an argument in the asset demand
+
+equations. </footnote>
+<ICE-JA:W2A-017#90:1> Nominal private wealth, W, is identically equal to the sum of the
+
+nominal stock of ( high-powered) money ( M) and the domestic value of private
+
+foreign exchange holdings ( e.F, where F is the privately-held stock of
+
+foreign ex <l> change).
+<ICE-JA:W2A-017#91:1> Foreign asset holdings are evaluated at the parallel rate since that
+
+is the rate on marginal transactions.
+<ICE-JA:W2A-017#92:1> Because much of foreign asset holdings are indeed held as
+
+non-interest bearing money ( all of it, by assumption here) and because we
+
+assume that domestic monetary authorities control interest rates, the
+
+interest terms become parametric and are omitted from subsequent appearances
+
+of the foreign asset demand equation.
+<ICE-JA:W2A-017#93:1> In this respect, the model is in the spirit of the currency
+
+substitution framework. <fnr> <sp> 10 </sp> </fnr> <footnote>
+<ICE-JA:W2A-017#94:1> 10. The defining characteristic of currency substitution models is
+
+that the yield on the assets in the portfolio, usually monies, are not
+
+functions of the value of the asset, as is the case with bonds.
+<ICE-JA:W2A-017#95:1> For the general theoretical treatment of currency substitution, see
+
+Girton and Roper ( 1981).
+<ICE-JA:W2A-017#96:1> For previous black market applications of the framework, see Macedo (
+
+1982) and Dornbusch et al. ( 1983). </footnote> </p>
+
+<p> <ICE-JA:W2A-017#97:1> The supply of parallel market foreign exchange, the foreign
+
+asset, is given in the short run, and its domestic value is e.F.
+<ICE-JA:W2A-017#98:1> This follows from an assumption that foreigners do not hold domestic
+
+currency for speculative purposes. <fnr> <sp> 11 </sp> </fnr> <footnote>
+
+<p> <ICE-JA:W2A-017#99:1> 11. If foreigners held domestic assets for speculative purposes,
+
+then exchange rate movements would affect portfolio holdings of the domestic
+
+asset by foreigners.
+<ICE-JA:W2A-017#100:1> Their portfolio adjustments would augment the supply of foreign
+
+currency available for domestic residents to hold. </p>
+
+<p> <ICE-JA:W2A-017#101:1> More formally, the portfolio-balance equation, <O> formula </O>
+
+, common in cur <l> rency substitution models, can be shown to be a special
+
+case of the specification in Kouri ( 1983).
+<ICE-JA:W2A-017#102:1> The exchange rate adjusts to clear stock transactions in the capital
+
+account for assets-holders in two currency areas, where each holds the
+
+other's currency. </p>
+
+<p> <ICE-JA:W2A-017#103:1> <O> formula </O> </p>
+
+<p> <ICE-JA:W2A-017#104:1> g <sp> d </sp> is the fraction of their wealth, W &asterisk;,
+
+held as domestic currency by foreigners, and G is the stock of domestic
+
+currency available to be held by foreigners.
+<ICE-JA:W2A-017#105:1> If foreigners do not hold domestic assets, the right side of the
+
+equation is zero. </p> </footnote>
+<ICE-JA:W2A-017#106:1> This is not an unrealistic assump <l> tion in the context of small,
+
+developing economies with officially inconvertible currencies. <fnr> <sp> 12
+
+</sp> </fnr> <footnote>
+<ICE-JA:W2A-017#107:1> 12. While it may indeed be a reasonable assumption in this narrow
+
+context, note that foreign direct investment, of which there is much in Latin
+
+America, is a violation of it. </footnote> </p>
+
+<p> <ICE-JA:W2A-017#108:1> <h> <it> The Black Market Current Account </it> </h> </p>
+
+<p> <ICE-JA:W2A-017#109:1> In the long run, the supply of black market dollars is
+
+incremented or decremented by imbalances in the current account for
+
+transactions conducted through the parallel market.
+<ICE-JA:W2A-017#110:1> The more depreciated the black market rate, the greater the surplus
+
+( or the smaller the deficit) in the black market trade balance.
+<ICE-JA:W2A-017#111:1> This occurs because the leakage from export earnings is greater, and
+
+because import requirements are less since output falls when the black market
+
+rate rises. </I>

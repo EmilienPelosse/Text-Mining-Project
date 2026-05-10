@@ -1,0 +1,577 @@
+<I>
+
+<$A> <ICE-JA:S1A-078#1:1:A> Hello
+
+<$B> <ICE-JA:S1A-078#2:1:B> Hi
+
+<$A> <ICE-JA:S1A-078#3:1:A> How are you doing today
+
+<$B> <ICE-JA:S1A-078#4:1:B> Well I'm okay
+
+<$A> <ICE-JA:S1A-078#5:1:A> Where're you from
+
+<$B> <ICE-JA:S1A-078#6:1:B> Well I'm from Eltham Park
+<ICE-JA:S1A-078#7:1:B> That is in Spanish Town
+
+<$A> <ICE-JA:S1A-078#8:1:A> And do you attend High School
+
+<$B> <ICE-JA:S1A-078#9:1:B> No I attend a <w> teachers'</w> college Shortwood <w>
+
+Teachers'</w> College
+
+<$A> <ICE-JA:S1A-078#10:1:A> And what is your area of specialization there
+
+<$B> <ICE-JA:S1A-078#11:1:B> Well uhm secondary education which is history and social
+
+studies
+
+<$A> <ICE-JA:S1A-078#12:1:A> And what do you do when you're not attending classes and
+
+bothered with school work
+
+<$B> <ICE-JA:S1A-078#13:1:B> Well I like to hang out with friends you know go to the club
+
+get drunk you know
+<ICE-JA:S1A-078#14:1:B> Yeah that sort of thing
+
+<$A> <ICE-JA:S1A-078#15:1:A> Tell me a little more about your friends
+
+<$B> <ICE-JA:S1A-078#16:1:B> My friends
+<ICE-JA:S1A-078#17:1:B> Well I don't have a lot of friends
+<ICE-JA:S1A-078#18:1:B> I don't keep a lot of female friends because you can't really trust
+
+them
+<ICE-JA:S1A-078#19:1:B> The other day my so-called best friend and I <}> <-> we</-> <=>
+
+we</=></}> kind of<,> came off into a little problem and stuff and some words
+
+were said and I don't think I could trust her again
+<ICE-JA:S1A-078#20:1:B> So I don't consider myself having any friends apart from my cousin
+<ICE-JA:S1A-078#21:1:B> Yeah but <}> <-> she can be a</-><,> <=> she can be very</=></}>
+
+snobbish at times
+
+<$A> <ICE-JA:S1A-078#22:1:A> Tell me more about that cousin of yours
+
+<$B> <ICE-JA:S1A-078#23:1:B> Well she's okay
+<ICE-JA:S1A-078#24:1:B> She's sort of a confused a person you know
+<ICE-JA:S1A-078#25:1:B> <&> phone- rings</&><}><->She's trying to settle</-><=>
+<ICE-JA:S1A-078#26:1:B> She's trying to settle</=></}> herself you know in terms of
+
+relationships and stuff and uhm
+<ICE-JA:S1A-078#27:1:B> She's okay she's cool
+<ICE-JA:S1A-078#28:1:B> I can tell her anything and uh I know that she won't take it and
+
+tell me as we Jamaicans would say you know yeah
+
+<$A> <ICE-JA:S1A-078#29:1:A> Okay
+<ICE-JA:S1A-078#30:1:A> Do you live alone
+
+<$B> <ICE-JA:S1A-078#31:1:B> No I live with my mom and my two brothers
+<ICE-JA:S1A-078#32:1:B> My older brother <}> <-> his</-> <=> his</=></}> name is Greg and
+
+my younger brother his name is Mark
+<ICE-JA:S1A-078#33:1:B> Uhm Mark attends<,> Kingston College and my older brother he works
+
+at Red Stripe<,> sales and promotion something like that
+<ICE-JA:S1A-078#34:1:B> I'm not sure yeah
+
+<$A> <ICE-JA:S1A-078#35:1:A> So what about your father
+
+<$B> <ICE-JA:S1A-078#36:1:B> My father died
+
+<$A> <ICE-JA:S1A-078#37:1:A> How long ago was that
+
+<$B> <ICE-JA:S1A-078#38:1:B> About six years ago
+<ICE-JA:S1A-078#39:1:B> He was a police<,> and he died a<,> <{> <[> <}> <-> natural</-
+
+></[> <=> natural</=></}> death you know
+<ICE-JA:S1A-078#40:1:B> He wasn't shot<,> as some people would think<,>
+
+<$A> <ICE-JA:S1A-078#41:1:A> <[> How <?> old is</?></[></{>
+
+<$A> <ICE-JA:S1A-078#42:1:A> So what plans do you have for the future <@> Irene</@>
+
+<$B> <ICE-JA:S1A-078#43:1:B> Well oh my gosh I have a lot of plans for the future
+<ICE-JA:S1A-078#44:1:B> I really want <}> <-> to to</-> <=> to</=></}> have money you know
+<ICE-JA:S1A-078#45:1:B> I want to be comfortable in life and all of that
+<ICE-JA:S1A-078#46:1:B> I know becoming a teacher that really don't give you<,> a amount of
+
+money that I want but <}> <- > I'm</-> <=> I</=></}> plan <}> <-> to</-> <=>
+
+to</=></}> do other stuff out of the teaching and I plan to marry a rich man
+
+so <}> <-> if</-> <=> if</=></}> there's any available man listening to this
+
+you know uhm available cute and all ambitious nice-looking and everything<,>
+
+yeah
+
+<$A> <ICE-JA:S1A-078#47:1:A> Do you have <}> <-> a boy</-><O>laughs</O> <=> a
+
+boyfriend</=></}> currently
+
+<$B> <ICE-JA:S1A-078#48:1:B> Well no I don't really have a boyfriend<,> but there are guys
+
+who I date and I talk to
+<ICE-JA:S1A-078#49:1:B> I was interested in this guy but you know he doesn't look like the
+
+type I could trust<,>
+
+<$A> <ICE-JA:S1A-078#50:1:A> What type of guy do you normally go for
+
+<$B> <ICE-JA:S1A-078#51:1:B> Well I normally go for someone who is <}> <-> kind</-><,> <=>
+
+kind</=></}> uhm who is honest you know somebody who I can talk
+
+to<{><[><,></[> you know I can rap with and stuff <?> you know</?>
+<ICE-JA:S1A-078#52:1:B> Don't have to be all that cute but it would be an asset you
+
+know<O>speaker- A-laughs</O> to have money and all of that would be an asset
+
+but it's not the main thing
+<ICE-JA:S1A-078#53:1:B> Somebody who's compatible you know<,>
+<ICE-JA:S1A-078#54:1:B> Well somebody who would spoil me cos trust me I'm very spoiled
+
+<$A> <ICE-JA:S1A-078#55:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-078#56:1:A> <}> <-> You</-> <=> your</=></}> mother spoiled you
+
+<$B> <ICE-JA:S1A-078#57:1:B> Yeah both my mummy and my daddy spoiled me
+<ICE-JA:S1A-078#58:1:B> <}> <-> But my daddy is <.> da</.></-> uh <-> my</-> <=> but my
+
+daddy is dead</=></}> so I <{> <[> kind of</[>
+
+<$A> <ICE-JA:S1A-078#59:1:A> <[> How about your</[></{> other family members<{><[><,></[>
+
+<?> there're</?> aunt uncle
+
+<$B> <ICE-JA:S1A-078#60:1:B> <[> Right</[></{>
+
+<$B> <ICE-JA:S1A-078#61:1:B> My aunt and uncles are they're okay they're cool<,> yeah
+<ICE-JA:S1A-078#62:1:B> There's this aunt that I <}> <-> really love</-> <=> really
+
+love</=></}> and get along with
+<ICE-JA:S1A-078#63:1:B> She's like <w> <?> Alix'</?></w> mother
+<ICE-JA:S1A-078#64:1:B> She's my cousin the cousin that I spoke about before<{><[><,></[>
+
+<?> is her</?> mother you know two sisters you know
+<ICE-JA:S1A-078#65:1:B> Yeah she's cool she's cool although she's miserable at times and a
+
+bit paranoid but I can live with that and my uncle they're okay they're kind
+
+and stuff like that so<,>
+<ICE-JA:S1A-078#66:1:B> So how about you
+<ICE-JA:S1A-078#67:1:B> What do you do<,,>
+
+<$A> <ICE-JA:S1A-078#68:1:A> <[> Uhu</[></{>
+
+<$A> <ICE-JA:S1A-078#69:1:A> <unclear> words</unclear>
+
+<$B> <ICE-JA:S1A-078#70:1:B> Huh<,>
+<ICE-JA:S1A-078#71:1:B> You don't want to <{> <[> talk</[>
+
+<$A> <ICE-JA:S1A-078#72:1:A> <[> I'm a</[></{> student at the University of the West Indies
+
+<$B> <ICE-JA:S1A-078#73:1:B> Okay and what do you do there
+
+<$A> <ICE-JA:S1A-078#74:1:A> Uhm media and communication specializing in television
+
+<$B> <ICE-JA:S1A-078#75:1:B> Okay so I'll see you on T V <{> <[> soon</[>
+
+<$A> <ICE-JA:S1A-078#76:1:A> <[> Perhaps</[></{>
+
+<$B> <ICE-JA:S1A-078#77:1:B> Okay
+
+<$A> <ICE-JA:S1A-078#78:1:A> I'm a shy person so I prefer to stay behind the camera and you
+
+know direct or you know other forms of <?> manager operations</?>
+
+<$B> <ICE-JA:S1A-078#79:1:B> Okay
+<ICE-JA:S1A-078#80:1:B> So that's what you want to do <{> <[> <?> eventually</?></[>
+
+<$A> <ICE-JA:S1A-078#81:1:A> <[> After</[></{> I <{1> <[1> leave</[1> school uhm I'm
+
+looking towards advertising maybe starting up a company of my own<,> then
+
+maybe doing you know directing of a movie or <{2> <[2> so</[2>
+
+<$B> <ICE-JA:S1A-078#82:1:B> <[1> Yeah</[1></{1>
+
+<$B> <ICE-JA:S1A-078#83:1:B> <[2> Yeah</[2></{2>
+<ICE-JA:S1A-078#84:1:B> I'm an actress you know so you know <?> you gotta</?>
+
+<$A> <ICE-JA:S1A-078#85:1:A> You're an actress
+
+<$B> <ICE-JA:S1A-078#86:1:B> Yes I am
+
+<$A> <ICE-JA:S1A-078#87:1:A> You have done work before
+
+<$B> <ICE-JA:S1A-078#88:1:B> Yeah
+
+<$A> <ICE-JA:S1A-078#89:1:A> Like
+<ICE-JA:S1A-078#90:1:A> <{> <[> <unclear> words</unclear> <?> seen</?></[>
+
+<$B> <ICE-JA:S1A-078#91:1:B> <[> Well<,></[></{>
+<ICE-JA:S1A-078#92:1:B> Well I've done the pantomime and all and when I was younger I used
+
+to <?> come on</?> Punchinello uhm in that
+<ICE-JA:S1A-078#93:1:B> I was in the drama club at my high school and all <?> of</?> that
+<ICE-JA:S1A-078#94:1:B> Yeah I can act girl
+<ICE-JA:S1A-078#95:1:B> I have style<,>
+
+<$A> <ICE-JA:S1A-078#96:1:A> <O> laughs-silently</O>So <}> <-> you</-> <=> you</=></}>
+
+wouldn't think of acting as a career
+
+<$B> <ICE-JA:S1A-078#97:1:B> Well no that's not what I want uhm
+<ICE-JA:S1A-078#98:1:B> I want something that<,> is meaningful
+
+<$A> <ICE-JA:S1A-078#99:1:A> And acting <{> <[> isn't</[>
+
+<$B> <ICE-JA:S1A-078#100:1:B> <[> Acting</[></{> well <.> y</.> I prefer teaching lecturing
+
+you know<{1><[1><,></[1> passing knowledge you know because education is one
+
+of the most important things right now<{2><{2><,></[2> and having an educated
+
+society <}> <-> will develop</-> <=> will cause development</=></}> in the
+
+society right
+<ICE-JA:S1A-078#101:1:B> I think that's one of the main focus right now educating <}> <->
+
+the <.> pub</.></-> <=> the public</=></}>
+
+<$A> <ICE-JA:S1A-078#102:1:A> <[1> Uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-078#103:1:A> <[2> That's true</[2></{2>
+
+<$A> <ICE-JA:S1A-078#104:1:A> <?> Can see</?> because
+<ICE-JA:S1A-078#105:1:A> Well I used to teach
+<ICE-JA:S1A-078#106:1:A> <{1> <[1> I was</[1> <w> teachers'</w> college for three years
+
+<{2> <[2> and</[2>
+
+<$B> <ICE-JA:S1A-078#107:1:B> <[1> Okay</[1></{1>
+
+<$B> <ICE-JA:S1A-078#108:1:B> <[2> Which one</[2></{2> was that
+
+<$A> <ICE-JA:S1A-078#109:1:A> Bethlehem
+
+<$B> <ICE-JA:S1A-078#110:1:B> Oh Bethlehem <w> Teachers'</w> College <{> <[> <?>
+
+okay</?></[>
+
+<$A> <ICE-JA:S1A-078#111:1:A> <[> You know</[></{> of it
+
+<$B> <ICE-JA:S1A-078#112:1:B> Yes of course I know about the Bethlehem <?> behavioural</?>
+
+College<O>laughter</O>
+
+<$A> <ICE-JA:S1A-078#113:1:A> I had some good days there<O>laughter</O>
+
+<$B> <ICE-JA:S1A-078#114:1:B> Okay
+<ICE-JA:S1A-078#115:1:B> Well I'm having some good times at Shortwood you know yeah in
+
+terms of uhm<ICE-JA:S1A-078#>You know it's fun sometimes when you break the rules you know
+
+<$A> <ICE-JA:S1A-078#116:1:A> Yeah yeah breaking the rules <{> <[> <?> can be fun</?></[>
+
+<$B> <ICE-JA:S1A-078#117:1:B> <[> Yeah<,> breaking them</[></{> can be fun sometimes you
+
+know
+<ICE-JA:S1A-078#118:1:B> Coming in late and have to sneak past the principal's gate <{1>
+
+<[1> and all of that</[1>
+<ICE-JA:S1A-078#119:1:B> Oh my yeah
+<ICE-JA:S1A-078#120:1:B> You know about <{2> <[2> it
+<ICE-JA:S1A-078#121:1:B> Okay</[2>
+
+<$A> <ICE-JA:S1A-078#122:1:A> <[1> <?> It</?> locks</[1></{1>
+
+<$A> <ICE-JA:S1A-078#123:1:A> <[2> Oh yeah yeah<O>laughs</O><,></[2></{2>
+
+<$A> <ICE-JA:S1A-078#124:1:A> <}> <-> I <.> ha</.></-> <=> I had</=></}>
+
+friend<{1><[1><,></[1> who used to <?> do that
+<ICE-JA:S1A-078#125:1:A> I didn't really</?> <{2> <[2> you know</[2> stuff like that you
+
+know<{3><[3><,></[3>
+
+<$B> <ICE-JA:S1A-078#126:1:B> <[1> Okay</[1></{1>
+
+<$B> <ICE-JA:S1A-078#127:1:B> <[2> Okay</[2></{2>
+
+<$B> <ICE-JA:S1A-078#128:1:B> <[3> Uhu</[3></{3>
+<ICE-JA:S1A-078#129:1:B> Okay<,>
+<ICE-JA:S1A-078#130:1:B> So do you have a serious relationship
+
+<$A> <ICE-JA:S1A-078#131:1:A> No I don't
+
+<$B> <ICE-JA:S1A-078#132:1:B> Okay
+<ICE-JA:S1A-078#133:1:B> Why
+
+<$A> <ICE-JA:S1A-078#134:1:A> Well at the moment uhm cos that opportunity is certainly not
+
+there
+
+<$B> <ICE-JA:S1A-078#135:1:B> Not there<,>
+<ICE-JA:S1A-078#136:1:B> Okay well you know you're young and you're beautiful <}> <-> so I
+
+guess</-><{><[><,></[> <=> so I guess</=></}> every boy would be lucky to be
+
+in a relationship with you
+
+<$A> <ICE-JA:S1A-078#137:1:A> <[> That's what my friends tell
+
+me<&>loud-background-noise</&></[></{>
+
+<$A> <ICE-JA:S1A-078#138:1:A> Well I guess yeah<,> so<,,>
+
+<$B> <ICE-JA:S1A-078#139:1:B> So uhm<,> tell me your name is <@> Chantelle</@>
+
+<$A> <ICE-JA:S1A-078#140:1:A> Yes it is
+
+<$B> <ICE-JA:S1A-078#141:1:B> Okay <@> Chantelle</@> uhm where do you see yourself five
+
+years from now
+
+<$A> <ICE-JA:S1A-078#142:1:A> Five years from now<,>
+<ICE-JA:S1A-078#143:1:A> Uhm <unclear> words</unclear> you know I should<,> be thinking
+
+about<,> opening my company as I have said before and<,,> yeah and<,,> I
+
+think in terms of career in terms of personal life <?> you
+
+know</?><{><[><,></[> <}> <-> I haven't</-> <=> I haven't</=></}> really
+
+thought about that
+<ICE-JA:S1A-078#144:1:A> How about you
+
+<$B> <ICE-JA:S1A-078#145:1:B> <[> Okay</[></{>
+
+<$B> <ICE-JA:S1A-078#146:1:B> Me
+<ICE-JA:S1A-078#147:1:B> Five years from now
+<ICE-JA:S1A-078#148:1:B> Well <}> <-> I</-> hopefully <=> I'll</=></}> be married by that
+
+time<O>$A-laughs</O> and have my children well my child because I don't want
+
+<?> to</?> have them too close so my child my son
+<ICE-JA:S1A-078#149:1:B> And uhm<,> I'm lecturing at the University of the West Indies you
+
+know have <}> <-> my</-> <=> my</=></}> husband with
+<ICE-JA:S1A-078#150:1:B> Yeah did I say that <{1> <[1> yeah yeah</[1>
+<ICE-JA:S1A-078#151:1:B> Yeah
+<ICE-JA:S1A-078#152:1:B> Just living a comfortable life having a good house and driving
+
+nice cars <{2> <[2> <,> </[2>
+<ICE-JA:S1A-078#153:1:B> Yeah yeah<,>
+<ICE-JA:S1A-078#154:1:B> That's what I want to do in five years from now
+
+<$A> <ICE-JA:S1A-078#155:1:A> <[1> Yeah you did say you would be
+
+married<O>laughter</O></[1></{1>
+
+<$A> <ICE-JA:S1A-078#156:1:A> <[2> Cars or</[2></{2>
+
+<$A> <ICE-JA:S1A-078#157:1:A> <}> <-> Five</-> <=> five</=></}> years from now isn't a long
+
+time left so you probably <{> <[> should get started</[>
+
+<$B> <ICE-JA:S1A-078#158:1:B> <[> I know</[></{>
+<ICE-JA:S1A-078#159:1:B> Well I'm working on it I'm working on it<,,>
+<ICE-JA:S1A-078#160:1:B> <?> Well</?>
+<ICE-JA:S1A-078#161:1:B> So<,> so how about music
+<ICE-JA:S1A-078#162:1:B> What type of music do you like
+
+<$A> <ICE-JA:S1A-078#163:1:A> I like all types of music<{><[><,></[> especially<,> uhm R
+
+<w> n'</w> B
+
+<$B> <ICE-JA:S1A-078#164:1:B> <[> Oh</[></{>
+
+<$B> <ICE-JA:S1A-078#165:1:B> R <w> n'</w> B <{> <[> okay</[>
+<ICE-JA:S1A-078#166:1:B> I'm into the dancehall music you know
+
+<$A> <ICE-JA:S1A-078#167:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-078#168:1:A> Tell me your favourite songs
+
+<$B> <ICE-JA:S1A-078#169:1:B> Well some of my favourite artistes<{1><[1><,></[1> are like
+
+Bounty Killer you can't leave out the Killer uhm Wayne Marshall oh my God
+
+he's so cute<O>$A-laughs</O>
+<ICE-JA:S1A-078#170:1:B> I like Elephant Man because he's so creative and stuff and<,> Baby
+
+Sham<,>
+<ICE-JA:S1A-078#171:1:B> Yeah but trust me Mister <?> Warlord</?> the Bounty
+
+Killer<{2><[2><,></[2> <}> <-> he's my</-> <=> he's the</=></}> uhm Dancehall
+
+artiste for me<{3><[3><,>
+<ICE-JA:S1A-078#172:1:B> <}> <-> It's it's it's</[3> good that</-> <=> it is good
+
+that</=></}> Bounty Killer and Beenie Man are now friends but Beenie Man is
+
+not somebody who I really rate as an artiste you know
+
+<$A> <ICE-JA:S1A-078#173:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-078#174:1:A> <[2> Uhu</[2></{2>
+
+<$A> <ICE-JA:S1A-078#175:1:A> <[3> And other type of music</[3></{3>
+
+<$A> <ICE-JA:S1A-078#176:1:A> Why is that
+
+<$B> <ICE-JA:S1A-078#177:1:B> No
+<ICE-JA:S1A-078#178:1:B> Because I guess it's because of his personality
+<ICE-JA:S1A-078#179:1:B> I have seen him in the clubs and all of that and my girlfriends
+
+are crazy over him and <}> <-> they</-> <=> she</=></}> approached him and<,>
+
+he was just there<,> not interested in her although she was in him
+<ICE-JA:S1A-078#180:1:B> What time is it<,>
+<ICE-JA:S1A-078#181:1:B> Huh
+
+<$A> <ICE-JA:S1A-078#182:1:A> Yeah
+<ICE-JA:S1A-078#183:1:A> So any other type of music
+
+<$B> <ICE-JA:S1A-078#184:1:B> Well <}> <-> I like</-> <=> I like</=></}> soul music you
+
+know
+<ICE-JA:S1A-078#185:1:B> Oh I like <unclear> name</unclear>
+<ICE-JA:S1A-078#186:1:B> I love listening to <unclear> name</unclear> and but I guess R <w>
+
+n'</w> B is the other music that I like<O>$A-yawns</O> you
+
+know<,,><&>long-pause- break-in-recording</&>
+
+<$A> <ICE-JA:S1A-078#187:1:A> Hey <@> Irene</@> what plans do you have for the summer
+
+<$B> <ICE-JA:S1A-078#188:1:B> Well I would like to go on the North coast visit uhm Ochee
+
+and Negril and MoBay
+<ICE-JA:S1A-078#189:1:B> You know <}> <-> I can't</-> <=> I cannot</=></}> wait until Fully
+
+Loaded and Stages you know
+<ICE-JA:S1A-078#190:1:B> We were there last year at Appleton promotion and trust me <}> <->
+
+it was</-> <=> it was</=></}> good
+<ICE-JA:S1A-078#191:1:B> And we were there from <}> <-> the</-> <=> the</=></}> Thursday
+
+and we left the Friday my cousin my best friend or my one<,> yeah or the
+
+person that was supposed to be my best friend and my brother his girlfriend
+<ICE-JA:S1A-078#192:1:B> Well we were just all there having a wonderful time
+<ICE-JA:S1A-078#193:1:B> We<,> went to the beginning party at Risky Business and it was
+
+wild you know<{1><[1><,><ICE-JA:S1A-078#><}><->I got</->
+<ICE-JA:S1A-078#194:1:B> Yes <-> I got</[1> I got</-> <=> I got</=></}> drunk the first
+
+night
+<ICE-JA:S1A-078#195:1:B> Yeah that's the first time I've ever gotten drunk you know<,> <{2>
+
+<[2> first time</[2>
+
+<$A> <ICE-JA:S1A-078#196:1:A> <[1> You got drunk<,>
+<ICE-JA:S1A-078#197:1:A> <?> Really</?></[1></{1>
+
+<$A> <ICE-JA:S1A-078#198:1:A> <[2> And not your</[2></{2> last <?> though</?>
+
+<$B> <ICE-JA:S1A-078#199:1:B> No it's not the <{> <[> <?> last</?>
+<ICE-JA:S1A-078#200:1:B> It won't be the last</[> no
+<ICE-JA:S1A-078#201:1:B> I'm not an alcoholic or anything but I'm just a party girl
+<ICE-JA:S1A-078#202:1:B> I like to have fun you know
+
+<$A> <ICE-JA:S1A-078#203:1:A> <[> Okay okay</[></{>
+
+<$A> <ICE-JA:S1A-078#204:1:A> That's good cos I have some friends who are alcoholics
+
+<$B> <ICE-JA:S1A-078#205:1:B> You do
+
+<$A> <ICE-JA:S1A-078#206:1:A> Yes
+
+<$B> <ICE-JA:S1A-078#207:1:B> Okay
+<ICE-JA:S1A-078#208:1:B> That's not a good thing to get hooked on stuff<{1><[1><,></[1> <?>
+
+so much</?>
+<ICE-JA:S1A-078#209:1:B> I only drink at parties and then not all the time though but I'm a
+
+bit light- headed<{2><[2><,></[2> so if I drink like three Appleton and Pepsi
+
+I'll get tipsy you know and I like being tipsy at times <{3> <[3> <O>
+
+laughs</O> yeah</[3>
+<ICE-JA:S1A-078#210:1:B> Uhm I don't know it kind of <?> brings</?> me into this different
+
+world where I just get freaky and all crazy and stuff <{4> <[4> yeah</[4>
+<ICE-JA:S1A-078#211:1:B> Yeah well you just dance and just <}> <-> have a lot have a</->
+
+<=> have a<,> lots</=></}> of fun <{5> <[5> you know</[5>
+
+<$A> <ICE-JA:S1A-078#212:1:A> <[1> Not</[1></{1>
+
+<$A> <ICE-JA:S1A-078#213:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-078#214:1:A> <[3> <O> laughs</O><?>How annoying</?></[3></{3>
+
+<$A> <ICE-JA:S1A-078#215:1:A> <[4> Freaky</[4></{4>
+
+<$A> <ICE-JA:S1A-078#216:1:A> <[5> But</[5></{5> you try to control <{> <[> yourself</[>
+
+<$B> <ICE-JA:S1A-078#217:1:B> <[> Yeah</[></{> I do control myself and I don't get drunk
+
+around people that <}> <-> I do not</-> <=> I don't</=></}> trust
+
+<$A> <ICE-JA:S1A-078#218:1:A> Cos that can be dangerous
+
+<$B> <ICE-JA:S1A-078#219:1:B> Yeah<&>break-in-recording</&> taking advantage of you you
+
+know
+
+<$A> <ICE-JA:S1A-078#220:1:A> Date rape and stuff
+
+<$B> <ICE-JA:S1A-078#221:1:B> Yeah but <}> <-> it was</-> <=> it was</=></}> very good you
+
+know
+<ICE-JA:S1A-078#222:1:B> Risky Business the party
+<ICE-JA:S1A-078#223:1:B> <}> <-> That</-> <=> that's</=></}> just <}> <-> the whole</-> <=>
+
+the whole</=></}> summer and then it was Fully Loaded
+<ICE-JA:S1A-078#224:1:B> I was a bit disappointed in Fully Loaded still because it ended
+
+after two and I was expecting it to go up until I see the sun rise you
+
+know<O>laughter</O>
+<ICE-JA:S1A-078#225:1:B> So I was <}> <-> a bit</-> <=> a bit</=></}> disappointed you know
+
+we got all dressed up and <{1> <[1> to the</[1>
+<ICE-JA:S1A-078#226:1:B> Yes we did <{2> <[2> because</[2> we thought it would end like
+
+four five o'clock right but it end at two<{3><[3><,></[3> and we were a bit
+
+disappointed and stuff
+<ICE-JA:S1A-078#227:1:B> Yeah I got to see Bounty Killer and Wayne Marshall so that made my
+
+night although there was a stampede and I had to run and leave my
+
+slippers<O>$A-laughs</O>
+<ICE-JA:S1A-078#228:1:B> Yeah and my toenails broke and<,> but it was a good <{4> <[4> one
+<ICE-JA:S1A-078#229:1:B> Went to the jungle</[4>
+<ICE-JA:S1A-078#230:1:B> No <}> <-> we found back</-> <=> I found back</=></}> my
+
+shoes<{5><[5><,></[5> thanks to my brother found back my shoes
+<ICE-JA:S1A-078#231:1:B> I went to the Jungle night club to<,> cool out after you know
+
+because the party finish uhm too early so I went to the Jungle and stuff
+
+<$A> <ICE-JA:S1A-078#232:1:A> <[1> Reached late<,> uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-078#233:1:A> <[2> Uhu</[2></{2>
+
+<$A> <ICE-JA:S1A-078#234:1:A> <[3> Uhu</[3></{3>
+
+<$A> <ICE-JA:S1A-078#235:1:A> <[4> You went home without shoes</[4></{4>
+
+<$A> <ICE-JA:S1A-078#236:1:A> <[5> Okay</[5></{5></I>

@@ -1,0 +1,786 @@
+<I>
+
+<$A> <ICE-JA:S1A-061#1:1:A> My name is Lauri
+<ICE-JA:S1A-061#2:1:A> What's your name
+
+<$B> <ICE-JA:S1A-061#3:1:B> Oh my name is <@> Sedric</@>
+
+<$A> <ICE-JA:S1A-061#4:1:A> <@> Sedric Sedric</@>what
+
+<$B> <ICE-JA:S1A-061#5:1:B> Uh it's <@> Sedric Olson</@>
+
+<$A> <ICE-JA:S1A-061#6:1:A> <@> Sedric Olson</@>
+<ICE-JA:S1A-061#7:1:A> Okay where are you from
+
+<$B> <ICE-JA:S1A-061#8:1:B> I'm from Duhaney Park
+
+<$A> <ICE-JA:S1A-061#9:1:A> Duhaney Park
+<ICE-JA:S1A-061#10:1:A> Oh what are you doing here today
+
+<$B> <ICE-JA:S1A-061#11:1:B> Okay I'm doing some spraying today<&>motorbike</&>
+
+<$A> <ICE-JA:S1A-061#12:1:A> Spraying
+
+<$B> <ICE-JA:S1A-061#13:1:B> Yeah
+<ICE-JA:S1A-061#14:1:B> I was just spraying some door and like skirting and those things
+
+<$A> <ICE-JA:S1A-061#15:1:A> Okay
+<ICE-JA:S1A-061#16:1:A> I need you to speak a little louder<{1><[1><O>laughs</O> because
+
+<?> of</?> the</[1> noise<{2><[2><,> okay</[2> uhu
+<ICE-JA:S1A-061#17:1:A> And <}> <-> where</-> <=> where</=></}> exactly are you doing that
+
+<$B> <ICE-JA:S1A-061#18:1:B> <[1> Okay<O>laughs</O> alright</[1></{1>
+
+<$B> <ICE-JA:S1A-061#19:1:B> <[2> Okay alright</[2></{2>
+
+<$B> <ICE-JA:S1A-061#20:1:B> Well I don't know the partition I don't know the name
+
+different <?> district</?> <{> <[> <,>
+<ICE-JA:S1A-061#21:1:B> I'm just</[> come like
+
+<$A> <ICE-JA:S1A-061#22:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-061#23:1:A> Right at the section here <{1> <[1> oh I guess this is</[1>
+
+Education <{2> <[2> <?> within</?></[2> uhu
+
+<$B> <ICE-JA:S1A-061#24:1:B> <[1> Yeah this section</[1></{1>
+
+<$B> <ICE-JA:S1A-061#25:1:B> <[2> Okay</[2></{2>
+
+<$B> <ICE-JA:S1A-061#26:1:B> So by one o'clock I will finish <{> <[> working</[>
+
+<$A> <ICE-JA:S1A-061#27:1:A> <[> By one</[></{> o'clock you will finish what you're doing
+
+<{> <[> and</[> then you'll be done
+<ICE-JA:S1A-061#28:1:A> The entire thing will be finished
+
+<$B> <ICE-JA:S1A-061#29:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-061#30:1:B> No my work will be done by one o'clock<{1><[1><,></[1> oh cos
+
+we're at different different places<{2><[2><,></[2> so as soon as we finish
+
+here<{3><[3><,></[3> <?> we're at</?> my workshop work at my workshop
+
+<$A> <ICE-JA:S1A-061#31:1:A> <[1> Oh okay</[1></{1>
+
+<$A> <ICE-JA:S1A-061#32:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-061#33:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-061#34:1:A> Okay where is your workshop
+
+<$B> <ICE-JA:S1A-061#35:1:B> My workshop is at Duhaney Park
+
+<$A> <ICE-JA:S1A-061#36:1:A> Oh where in Duhaney Park
+
+<$A> <ICE-JA:S1A-061#37:1:A> Sixty-three east road
+
+<$A> <ICE-JA:S1A-061#38:1:A> Oh
+<ICE-JA:S1A-061#39:1:A> You own your shop or you work with somebody
+
+<$B> <ICE-JA:S1A-061#40:1:B> No me own my shop
+
+<$A> <ICE-JA:S1A-061#41:1:A> You own your shop<{><[><,></[> and you do spraying and stuff
+
+like that
+
+<$B> <ICE-JA:S1A-061#42:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-061#43:1:B> Yeah spraying make furniture <{1> <[1> cupboard</[1> French
+
+window you <{2> <[2> name it
+<ICE-JA:S1A-061#44:1:B> Anything</[2> that board make
+
+<$A> <ICE-JA:S1A-061#45:1:A> <[1> Uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-061#46:1:A> <[2> Oh okay<,> oh</[2></{2>
+
+<$A> <ICE-JA:S1A-061#47:1:A> Oh <}> <-> that's</-> <=> that's</=></}> good<{1><[1><,>
+
+that</[1> sound like a good career<{2><[2><,></[2>
+<ICE-JA:S1A-061#48:1:A> How long <}> <-> are you</-> <=> have you</=></}> been in the
+
+business
+
+<$B> <ICE-JA:S1A-061#49:1:B> <[1> <O> laughs</O>Yeah</[1></{1>
+
+<$B> <ICE-JA:S1A-061#50:1:B> <[2> Okay</[2></{2>
+
+<$B> <ICE-JA:S1A-061#51:1:B> Well I'm in the business about fifteen years now
+
+<$A> <ICE-JA:S1A-061#52:1:A> Fifteen
+
+<$B> <ICE-JA:S1A-061#53:1:B> Yeah
+
+<$A> <ICE-JA:S1A-061#54:1:A> Oh
+<ICE-JA:S1A-061#55:1:A> <}> <-> Why</-> <=> why</=></}> you chose to go into that
+
+<$B> <ICE-JA:S1A-061#56:1:B> Well come in like I don't <?> really/need</?> choose it <?>
+
+man/well</?>
+<ICE-JA:S1A-061#57:1:B> <?> Look</?> like I a God choose it for me<O>laughs</O>
+
+<$A> <ICE-JA:S1A-061#58:1:A> Oh <?> is that</?><O>laughter</O>
+<ICE-JA:S1A-061#59:1:A> Why you say that <}> <-> you just you</-> <{> <[> <=> you
+
+just</=></}> found</[> yourself in it
+
+<$B> <ICE-JA:S1A-061#60:1:B> <[> No I</[></{>
+
+<$B> <ICE-JA:S1A-061#61:1:B> What really happens still
+<ICE-JA:S1A-061#62:1:B> I used to do machines <{1> <[1> <}> <-> like</-></[1> <=>
+
+like</=></}> make pulley repair pulley<{2><[2><,></[2> like ball joint and
+
+bolt and them thing and one day <}> <-> I</-> <=> I</=></}> working <?> an
+
+hour late</?> and the tool just broke and fly <}> <-> me just</-> say <=> me
+
+just</=></}> change my mind<{3><[3><,></[3> and I say alright me have a idea
+
+about the furniture thing<{4><[4><,></[4> so me just go ahead and did that
+<ICE-JA:S1A-061#63:1:B> I never learned no trade though<{5><[5><,></[5>
+<ICE-JA:S1A-061#64:1:B> I just go ahead until a master it
+
+<$A> <ICE-JA:S1A-061#65:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-061#66:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-061#67:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-061#68:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-061#69:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-061#70:1:A> Okay <{> <[> <,> </[> so <}> <-> you</-> <=> you</=></}> went
+
+to school
+<ICE-JA:S1A-061#71:1:A> What school you went to
+
+<$B> <ICE-JA:S1A-061#72:1:B> <[> uhu</[></{>
+
+<$B> <ICE-JA:S1A-061#73:1:B> High School
+<ICE-JA:S1A-061#74:1:B> I went to <?> Seaford</?> High School
+
+<$A> <ICE-JA:S1A-061#75:1:A> <?> Seaford</?> High School
+<ICE-JA:S1A-061#76:1:A> That's Saint Thomas<{><[><,></[>
+<ICE-JA:S1A-061#77:1:A> Oh so you're originally from Saint Thomas
+
+<$B> <ICE-JA:S1A-061#78:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-061#79:1:B> Yeah<O>laughs</O>
+
+<$A> <ICE-JA:S1A-061#80:1:A> Oh
+
+<$B> <ICE-JA:S1A-061#81:1:B> I'm from Kingston still <{> <[> but</[>
+
+<$A> <ICE-JA:S1A-061#82:1:A> <[> You're</[></{> from Kingston still
+
+<$B> <ICE-JA:S1A-061#83:1:B> Yeah but through my grandmother<{1><[1><,></[1> them put me to
+
+stay with them <{2> <[2> <?> when I</?></[2>
+
+<$A> <ICE-JA:S1A-061#84:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-061#85:1:A> <[2> Oh you were</[2></{2> probably rude <}> <-> and</-> <=>
+
+and</=></}> you parents sent you to live <{> <[> with your grandmother</[>
+
+<$B> <ICE-JA:S1A-061#86:1:B> <[> I don't <?> understand</?></[></{> but I was small at that
+
+time<{><[><,></[> so them just send me with her
+
+<$A> <ICE-JA:S1A-061#87:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-061#88:1:A> Oh you alone or all the
+
+<$B> <ICE-JA:S1A-061#89:1:B> No me alone
+
+<$A> <ICE-JA:S1A-061#90:1:A> Oh you probably were rude or something
+
+<$B> <ICE-JA:S1A-061#91:1:B> Maybe maybe me use to get enough <?> trouble</?>
+
+<$A> <ICE-JA:S1A-061#92:1:A> You don't remember
+
+<$B> <ICE-JA:S1A-061#93:1:B> I don't remember
+
+<$A> <ICE-JA:S1A-061#94:1:A> How old were you
+
+<$B> <ICE-JA:S1A-061#95:1:B> At this time
+
+<$A> <ICE-JA:S1A-061#96:1:A> At the time you went to stay with your grandmother
+
+<$B> <ICE-JA:S1A-061#97:1:B> No I was a baby at that time <{> <[> <unclear> words</unclear>
+
+yeah</[>
+
+<$A> <ICE-JA:S1A-061#98:1:A> <[> Oh you were a baby</[></{> oh okay
+
+<$B> <ICE-JA:S1A-061#99:1:B> That's why me tell you <?> so/that</?> I don't know if I was
+
+rude you know
+
+<$A> <ICE-JA:S1A-061#100:1:A> Oh okay<O>$B-laughs</O>
+<ICE-JA:S1A-061#101:1:A> So you didn't grow up with uh
+<ICE-JA:S1A-061#102:1:A> Why you over there laughing<&>background-shouting</&>
+<ICE-JA:S1A-061#103:1:A> Why<&>background- shouting</&><O>laughter</O>
+
+<$B> <ICE-JA:S1A-061#104:1:B> She interview me<O>laughs</O><&>background</&>
+
+<$A> <ICE-JA:S1A-061#105:1:A> <O> laughter</O>Okay so who do you live with <{1> <[1>
+
+now</[1>
+<ICE-JA:S1A-061#106:1:A> <}> <- > You</-> <=> you</=></}> grew up uh <}> <-> before</-> <=>
+
+before</=></}> that uhm you grew up with your grandmother from you were a
+
+baby <{2> <[2> and then</[2> <}> <-> you went</-> <=> she sent you</=></}> to
+
+High School
+<ICE-JA:S1A-061#107:1:A> That was in St Thomas you said
+
+<$B> <ICE-JA:S1A-061#108:1:B> <[1> Eh</[1></{1>
+
+<$B> <ICE-JA:S1A-061#109:1:B> <[2> Yeah</[2></{2>
+
+<$B> <ICE-JA:S1A-061#110:1:B> Yeah
+
+<$A> <ICE-JA:S1A-061#111:1:A> Oh so your parents your original parents are from
+
+Kingston<{1><[1><,></[1> cos you said they live there<{2><[2><,></[2>
+<ICE-JA:S1A-061#112:1:A> Okay so what was high school like
+<ICE-JA:S1A-061#113:1:A> You liked high school
+
+<$B> <ICE-JA:S1A-061#114:1:B> <[1> Yeah</[1></{1>
+
+<$B> <ICE-JA:S1A-061#115:1:B> <[2> Yeah</[2></{2>
+
+<$B> <ICE-JA:S1A-061#116:1:B> Yeah man me liked high school but me normally gi nuff trouble
+
+still so me don't know a that's why <?> they me</?>
+<ICE-JA:S1A-061#117:1:B> They sent me <?> from</?> early <{1> <[1> and after that</[1>
+<ICE-JA:S1A-061#118:1:B> Yeah me remember if a lot of them sent me out <?> to the country
+
+from</?> early like they couldn't sit <{2> <[2> between <?> us</?></[2> <?>
+
+and</?>
+<ICE-JA:S1A-061#119:1:B> <unclear> words</unclear> and not necessary things<{3><[3><,></[3>
+<ICE-JA:S1A-061#120:1:B> Yeah me just chat up girls and those
+
+things<{4><[4><O>laughs</O><,></[4> <}> <-> at that</-> <=> at that</=></}>
+
+time
+
+<$A> <ICE-JA:S1A-061#121:1:A> <[1> <}> <-> They</-> <=> they</=></}> sent you</[1></{1>
+
+<$A> <ICE-JA:S1A-061#122:1:A> <[2> Uhu</[2></{2>
+
+<$A> <ICE-JA:S1A-061#123:1:A> <[3> Uhu</[3></{3>
+
+<$A> <ICE-JA:S1A-061#124:1:A> <[4> Oh okay</[4></{4>
+
+<$A> <ICE-JA:S1A-061#125:1:A> At that time oh <{> <[> girls</[> okay
+<ICE-JA:S1A-061#126:1:A> You were the girls man mhm
+
+<$B> <ICE-JA:S1A-061#127:1:B> <[> No</[></{>
+
+<$B> <ICE-JA:S1A-061#128:1:B> No me just realized see so the instinct and <?> I never
+
+forgot</?> them thing or something so me just kind of behave myself and keep
+
+meself to meself<O>laughter</O>
+
+<$A> <ICE-JA:S1A-061#129:1:A> Okay so <}> <-> you you</-> <=> you</=></}> left from St
+
+Thomas and you came to Kingston at what age<,>
+
+<$B> <ICE-JA:S1A-061#130:1:B> I don't remember <?> now/you know</?> <{> <[> <unclear>
+
+word</unclear></[> maybe about nineteen twenty
+
+<$A> <ICE-JA:S1A-061#131:1:A> <[> You don't remember the age</[></{>
+
+<$A> <ICE-JA:S1A-061#132:1:A> Mhm
+<ICE-JA:S1A-061#133:1:A> By yourself
+
+<$B> <ICE-JA:S1A-061#134:1:B> No yeah by myself by myself come but me come and stay with me
+
+mother<{1><[1><,></[1> and then with my mother and then me just go on my
+
+own<{2><[2><,></[2>
+<ICE-JA:S1A-061#135:1:B> So <}> <-> from then</-> <=> from that</=></}> time until now <{3>
+
+<[3> <?> just</[3> on me own still</?><{4><[4><,></[4>
+<ICE-JA:S1A-061#136:1:B> And me still visit her and stay with her sometimes<{5><[5><,></[5>
+<ICE-JA:S1A-061#137:1:B> On the road again
+
+<$A> <ICE-JA:S1A-061#138:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-061#139:1:A> <[2> Oh okay</[2></{2>
+
+<$A> <ICE-JA:S1A-061#140:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-061#141:1:A> <[4> Oh okay</[4></{4>
+
+<$A> <ICE-JA:S1A-061#142:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-061#143:1:A> Okay
+<ICE-JA:S1A-061#144:1:A> So you live with somebody now
+
+<$B> <ICE-JA:S1A-061#145:1:B> No I don't live with
+<ICE-JA:S1A-061#146:1:B> I live by myself now
+
+<$A> <ICE-JA:S1A-061#147:1:A> You live by yourself
+
+<$B> <ICE-JA:S1A-061#148:1:B> <O> laughs</O>Yeah
+
+<$A> <ICE-JA:S1A-061#149:1:A> That's strange
+
+<$B> <ICE-JA:S1A-061#150:1:B> Mhm
+<ICE-JA:S1A-061#151:1:B> I used to
+
+<$A> <ICE-JA:S1A-061#152:1:A> Uh
+
+<$B> <ICE-JA:S1A-061#153:1:B> I used to
+
+<$A> <ICE-JA:S1A-061#154:1:A> You used to live with somebody
+<ICE-JA:S1A-061#155:1:A> The lady move out
+
+<$B> <ICE-JA:S1A-061#156:1:B> <?> Tie</?> that<O>laughter</O>
+
+<$A> <ICE-JA:S1A-061#157:1:A> I wonder why
+<ICE-JA:S1A-061#158:1:A> Hmmm I wonder why<O>laughter</O>
+
+<$B> <ICE-JA:S1A-061#159:1:B> <O> laughs</O>It's a long story
+
+<$A> <ICE-JA:S1A-061#160:1:A> It's a long story
+<ICE-JA:S1A-061#161:1:A> Oh<{><[>you need to</[> behave yourself whatever reason she moved
+
+out
+
+<$B> <ICE-JA:S1A-061#162:1:B> <[> A long story</[></{>
+
+<$B> <ICE-JA:S1A-061#163:1:B> Alright
+
+<$B> <ICE-JA:S1A-061#164:1:B> <}> <-> <{> <[> Need</[></-> <=> need</=></}> to behave
+
+meself
+
+<$A> <ICE-JA:S1A-061#165:1:A> <[> Yeah</[></{>
+
+<$A> <ICE-JA:S1A-061#166:1:A> Yeah <{> <[> mhm</[>
+
+<$B> <ICE-JA:S1A-061#167:1:B> <[> So</[></{>
+
+<$A> <ICE-JA:S1A-061#168:1:A> You have children
+
+<$B> <ICE-JA:S1A-061#169:1:B> Two<{><[><,></[>
+<ICE-JA:S1A-061#170:1:B> A boy and a girl
+
+<$A> <ICE-JA:S1A-061#171:1:A> <[> Hm</[></{>
+
+<$A> <ICE-JA:S1A-061#172:1:A> With her
+
+<$B> <ICE-JA:S1A-061#173:1:B> Yeah
+
+<$A> <ICE-JA:S1A-061#174:1:A> The girl that oh okay
+<ICE-JA:S1A-061#175:1:A> She moved out with the children
+
+<$B> <ICE-JA:S1A-061#176:1:B> No at that time she moved out <}> <-> with one of</-> <=>
+
+with the girl</=></}><{><[><,></[> but me have the two of them now
+
+<$A> <ICE-JA:S1A-061#177:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-061#178:1:A> You have the two of them now
+<ICE-JA:S1A-061#179:1:A> Oh <O> laughs</O>see a good father looking after both of <}> <->
+
+the</-> <=> the</=></}> children now
+
+<$B> <ICE-JA:S1A-061#180:1:B> Everybody say that
+
+<$A> <ICE-JA:S1A-061#181:1:A> Yeah that's really nice<O>$B-laughs</O>
+<ICE-JA:S1A-061#182:1:A> Okay so <{> <[> how you manage</[>
+
+<$B> <ICE-JA:S1A-061#183:1:B> <[> Yeah maybe a true</[></{>
+<ICE-JA:S1A-061#184:1:B> Me love them still<,>
+
+<$A> <ICE-JA:S1A-061#185:1:A> Ohh<O>laughs</O>
+
+<$B> <ICE-JA:S1A-061#186:1:B> So
+<ICE-JA:S1A-061#187:1:B> Ah yes no matter what
+<ICE-JA:S1A-061#188:1:B> I just have a time for them
+
+<$A> <ICE-JA:S1A-061#189:1:A> Okay <{> <[> so</[> <}> <-> how how you</-> <=> how
+
+you</=></}> take care of them
+<ICE-JA:S1A-061#190:1:A> Now that you're here at work where are they
+<ICE-JA:S1A-061#191:1:A> They at school
+
+<$B> <ICE-JA:S1A-061#192:1:B> <[> uhu</[></{>
+
+<$B> <ICE-JA:S1A-061#193:1:B> Yeah at school
+
+<$A> <ICE-JA:S1A-061#194:1:A> Which school they go to
+
+<$B> <ICE-JA:S1A-061#195:1:B> Ooh my son
+
+<$A> <ICE-JA:S1A-061#196:1:A> Mhm
+
+<$B> <ICE-JA:S1A-061#197:1:B> Oh it's a son and a daughter
+
+<$A> <ICE-JA:S1A-061#198:1:A> Okay which school they go to
+
+<$B> <ICE-JA:S1A-061#199:1:B> One go to New Providence at Liguinea<{><[><,></[>and one go
+
+Duhaney Park
+
+<$A> <ICE-JA:S1A-061#200:1:A> <[> Uhu</[></{>
+
+<$A> <ICE-JA:S1A-061#201:1:A> So <}> <-> why are</-> <=> why are</=></}> they so far apart
+<ICE-JA:S1A-061#202:1:A> <unclear> words</unclear>
+<ICE-JA:S1A-061#203:1:A> <{> <[> Huh</[>
+
+<$B> <ICE-JA:S1A-061#204:1:B> <[> Okay</[></{> no <?> maybe that's</?> true me lived at <?>
+
+Chisham</?> Avenue at the time
+
+<$A> <ICE-JA:S1A-061#205:1:A> Where is <?> Chisham</?> Avenue
+
+<$B> <ICE-JA:S1A-061#206:1:B> Off Waltham<{1><[1><,></[1> so he used to go at that school
+
+<{2> <[2> so</[2> we now aren't changing
+<ICE-JA:S1A-061#207:1:B> <{3> <[3> So</[3> him just still go at that school until now
+
+<$A> <ICE-JA:S1A-061#208:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-061#209:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-061#210:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-061#211:1:A> <}> <-> That</-> <=> that</=></}> Duhaney Park school
+
+<$B> <ICE-JA:S1A-061#212:1:B> No he still go at New Providence
+
+<$A> <ICE-JA:S1A-061#213:1:A> Oh what <{> <[> uh okay <?> let me make the</?></[>
+
+connection<,>
+
+<$B> <ICE-JA:S1A-061#214:1:B> <[> <}> <-> When</-><,> <=> when</=></}> me</[></{>
+
+<$B> <ICE-JA:S1A-061#215:1:B> Now when me used to live at Duhaney Park<{1><[1><,></[1>
+<ICE-JA:S1A-061#216:1:B> When me used to live at Waltham<{2><[2><,></[2> he used to go at
+
+New Providence<{3><[3><,></[3> so <}> <-> I <.> do</.></-> <=> I still
+
+don't</=></}> change him<{4><[4><,></[4> so
+
+<$A> <ICE-JA:S1A-061#217:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-061#218:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-061#219:1:A> <[3> Okay</[3></{3>
+
+<$A> <ICE-JA:S1A-061#220:1:A> <[4> Oh okay</[4></{4>
+
+<$A> <ICE-JA:S1A-061#221:1:A> How old are they
+
+<$B> <ICE-JA:S1A-061#222:1:B> One is nine and one is three
+
+<$A> <ICE-JA:S1A-061#223:1:A> Oh they're young
+
+<$B> <ICE-JA:S1A-061#224:1:B> Yeah man I am young<O>laughs</O>
+<ICE-JA:S1A-061#225:1:B> How old me look like to you
+
+<$A> <ICE-JA:S1A-061#226:1:A> Uh
+
+<$B> <ICE-JA:S1A-061#227:1:B> Uhm forty fifty <{> <[> sixty</[>
+
+<$A> <ICE-JA:S1A-061#228:1:A> <[> No</[></{> thirty-one
+
+<$B> <ICE-JA:S1A-061#229:1:B> Mhm you they close
+
+<$A> <ICE-JA:S1A-061#230:1:A> Thirty
+<ICE-JA:S1A-061#231:1:A> <{> <[> Okay<,></[>
+<ICE-JA:S1A-061#232:1:A> You had them young man
+
+<$B> <ICE-JA:S1A-061#233:1:B> <[> Uhu<O>laughs</O></[></{>
+
+<$B> <ICE-JA:S1A-061#234:1:B> Yeah man a that me tell you say I was<,>
+<ICE-JA:S1A-061#235:1:B> I don't know how to finish that part<O>laughs</O><{><[><,,></[>
+
+from nineteen years the first
+
+<$A> <ICE-JA:S1A-061#236:1:A> <[> Oh okay</[></{>
+
+<$A> <ICE-JA:S1A-061#237:1:A> Nineteen years
+
+<$B> <ICE-JA:S1A-061#238:1:B> From nineteen year old
+
+<$A> <ICE-JA:S1A-061#239:1:A> Uhu
+<ICE-JA:S1A-061#240:1:A> You had your <{> <[> first</[> child
+<ICE-JA:S1A-061#241:1:A> With the lady
+<ICE-JA:S1A-061#242:1:A> How old was she
+
+<$B> <ICE-JA:S1A-061#243:1:B> <[> The first one</[></{>
+
+<$B> <ICE-JA:S1A-061#244:1:B> At that time
+
+<$A> <ICE-JA:S1A-061#245:1:A> Yes
+
+<$B> <ICE-JA:S1A-061#246:1:B> Uh uhm sixteen fifteen I believe
+
+<$A> <ICE-JA:S1A-061#247:1:A> Fifteen
+
+<$B> <ICE-JA:S1A-061#248:1:B> Uh sixteen seventeen<,> no<,> about sixteen<{1><[1><,></[1>
+
+to be sure <{2> <[2> about sixteen</[2>
+
+<$A> <ICE-JA:S1A-061#249:1:A> <[1> Oh</[1></{1>
+
+<$A> <ICE-JA:S1A-061#250:1:A> <[2> And you moved</[2></{2> in
+<ICE-JA:S1A-061#251:1:A> You were living together at that time
+
+<$B> <ICE-JA:S1A-061#252:1:B> No<,> we just get caught up<O>laughs</O>
+
+<$A> <ICE-JA:S1A-061#253:1:A> Oh the passion and all that <.> dy</.> <.>
+
+y</.><O>giggles</O>
+
+<$B> <ICE-JA:S1A-061#254:1:B> You just get caught up at that time and<,> after that we <}>
+
+<-> lived</-> <=> lived</=></}> together<{1><[1><,></[1>
+<ICE-JA:S1A-061#255:1:B> And from that time <{2> <[2> until</[2> about thirteen years
+
+together<{3><[3><,></[3> and the relationship just break up
+
+<$A> <ICE-JA:S1A-061#256:1:A> <[1> Oh</[1></{1>
+
+<$A> <ICE-JA:S1A-061#257:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-061#258:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-061#259:1:A> You're having problems from earlier before
+
+<$B> <ICE-JA:S1A-061#260:1:B> No I never used to have any problem
+
+<$A> <ICE-JA:S1A-061#261:1:A> Never you have any problems<{><[><,></[>
+<ICE-JA:S1A-061#262:1:A> So what happened
+<ICE-JA:S1A-061#263:1:A> You find some other woman and she get upset or is she just get
+
+miserable
+
+<$B> <ICE-JA:S1A-061#264:1:B> <[> Uh-uhm</[></{>
+
+<$B> <ICE-JA:S1A-061#265:1:B> <O> laughs</O>Yeah maybe she just get miserable with me too
+<ICE-JA:S1A-061#266:1:B> Me always all about the place<,> all over the place
+
+<$A> <ICE-JA:S1A-061#267:1:A> Why all over the place
+<ICE-JA:S1A-061#268:1:A> Hey<{1><[1><,></[1> <?> Whitney</?> hold on<,>
+<ICE-JA:S1A-061#269:1:A> Oh <}> <-> she probably</-> <=> she's probably</=></}> sixteen and
+
+she probably was young and then she found out that she probably don't
+
+want<{2><[2><,></[2> a certain life
+<ICE-JA:S1A-061#270:1:A> No <}> <-> your your</-> <=> your</=></}> lady you lived with
+
+<$B> <ICE-JA:S1A-061#271:1:B> <[1> Hm</[1></{1>
+
+<$B> <ICE-JA:S1A-061#272:1:B> <[2> She</[2></{2>
+
+<$B> <ICE-JA:S1A-061#273:1:B> Okay<,> oh maybe
+
+<$A> <ICE-JA:S1A-061#274:1:A> Uhu<,> I guess but that was kind of young though sixteen and
+
+nineteen<O>$B- laughs</O> uh
+<ICE-JA:S1A-061#275:1:A> What was it like
+<ICE-JA:S1A-061#276:1:A> When <{> <[> you had your first</[> child
+
+<$B> <ICE-JA:S1A-061#277:1:B> <[> It was</[></{>
+
+<$B> <ICE-JA:S1A-061#278:1:B> It was good at that time
+
+<$A> <ICE-JA:S1A-061#279:1:A> Mhm
+
+<$B> <ICE-JA:S1A-061#280:1:B> Yeah<,>
+<ICE-JA:S1A-061#281:1:B> Maybe I'm just say I'm enjoying life<{1><[1><,></[1>
+<ICE-JA:S1A-061#282:1:B> Maybe I don't know if I'm thinking wrongfully or what <{2> <[2>
+
+right</[2
+<ICE-JA:S1A-061#283:1:B> What you think
+
+<$A> <ICE-JA:S1A-061#284:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-061#285:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-061#286:1:A> That what she want to enjoy <?> her</?> life or what you <{>
+
+<[> <?> want</?></[>
+
+<$B> <ICE-JA:S1A-061#287:1:B> <[> No</[></{> not she
+<ICE-JA:S1A-061#288:1:B> Maybe she <.> ne</.>
+<ICE-JA:S1A-061#289:1:B> We never <.> pla</.>
+<ICE-JA:S1A-061#290:1:B> It's not something that plan first you know<{1><[1><,></[1>
+<ICE-JA:S1A-061#291:1:B> It just happened<,>
+<ICE-JA:S1A-061#292:1:B> <{2> <[2> You know something</[2>
+
+<$A> <ICE-JA:S1A-061#293:1:A> <[1> Uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-061#294:1:A> <[2> Uh <}> <-> <.> y</.></-> <=> you</=></}> mean</[2></{2>
+
+you know yeah I know that there are some things just happen but why is it
+
+that it don't happen to
+<ICE-JA:S1A-061#295:1:A> Alright cancel that
+
+<$B> <ICE-JA:S1A-061#296:1:B> Oh you <{> <[> mean girls <unclear> word</unclear></[>
+
+<$A> <ICE-JA:S1A-061#297:1:A> <[> Well some people yeah girls</[></{> you know<,>
+<ICE-JA:S1A-061#298:1:A> They never <}> <- > yet</-> <=> get</=></}> caught because you
+
+know protection
+<ICE-JA:S1A-061#299:1:A> So they don't just get caught up into the moment
+
+<$B> <ICE-JA:S1A-061#300:1:B> Okay okay<,>
+<ICE-JA:S1A-061#301:1:B> Maybe we not thinking at that time<{1><[1><,></[1> that's why
+
+something like that'd happen<{2><[2><,></[2>
+<ICE-JA:S1A-061#302:1:B> <}> <-> So</-><,> <=> so</=></}> it just happen all of a
+
+sudden<{3><[3><,></[3> and we have just stick with it<O>laughs</O>
+
+<$A> <ICE-JA:S1A-061#303:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-061#304:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-061#305:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-061#306:1:A> Oh please
+<ICE-JA:S1A-061#307:1:A> <}> <-> I</-> <=> I</=></}> don't believe it was a one time and
+
+you get <?> catch</?>
+<ICE-JA:S1A-061#308:1:A> Usually is just always have sex without <{> <[> protection</[>
+
+<$B> <ICE-JA:S1A-061#309:1:B> <[> Yeah ah</[></{> yes always always but I just don't
+
+know<O>laughs</O>
+
+<$A> <ICE-JA:S1A-061#310:1:A> If you just don't know and just have sex with no protection
+
+like <{> <[> you know <unclear> words</unclear></[>
+
+<$B> <ICE-JA:S1A-061#311:1:B> <[> Yes <}> <-> sometimes</-></[></{> <-> <.> some</.></->
+
+you know <=> sometime</=></}> you have protection with you and you use it <{>
+
+<[> and</[> the next time just get caught up you don't have
+
+anything<O>laughs</O>
+
+<$A> <ICE-JA:S1A-061#312:1:A> <[> Uhu</[></{>
+
+<$A> <ICE-JA:S1A-061#313:1:A> No but me believe with your case me believe most of the time
+
+you just never use any
+
+<$B> <ICE-JA:S1A-061#314:1:B> No me use most <{> <[> <,> well</[> fifty-fifty
+
+<$A> <ICE-JA:S1A-061#315:1:A> <[> <unclear> words</unclear></[></{>
+
+<$A> <ICE-JA:S1A-061#316:1:A> Oh <?> see there</?><O>laughter</O>
+<ICE-JA:S1A-061#317:1:A> Fifty-fifty<,> just like you have sex today you use tomorrow you
+
+don't next day<{><[><,></[> but that's
+
+<$B> <ICE-JA:S1A-061#318:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-061#319:1:B> That not good enough
+
+<$A> <ICE-JA:S1A-061#320:1:A> Eh-eh<O>$B-laughs</O> and then the just <}> <-> gets</-> <=>
+
+gets</=></}> pregnant
+
+<$B> <ICE-JA:S1A-061#321:1:B> Right uh
+
+<$A> <ICE-JA:S1A-061#322:1:A> So what her parents said
+
+<$B> <ICE-JA:S1A-061#323:1:B> Well her parents <}> <-> was upset</-> <=> was upset</=></}>
+
+at the time<{1><[1><,></[1> and me my parents<,> the same<{2><[2><,></[2> but
+
+when them really look into it still it happen already so
+<ICE-JA:S1A-061#324:1:B> <{3> <[3> Yes</[3>
+
+<$A> <ICE-JA:S1A-061#325:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-061#326:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-061#327:1:A> <[3> Well <unclear> word</unclear></[3></{3> that happen <}>
+
+<-> to your</-> <=> to your</=></}> daughter now
+
+<$B> <ICE-JA:S1A-061#328:1:B> Oh man I <}> <-> <.> o</.></-> <=> one</=></}> get wiser from
+
+that time
+
+<$A> <ICE-JA:S1A-061#329:1:A> Do you mean so how you <unclear> words</unclear> she have a
+
+mind of her own
+
+<$B> <ICE-JA:S1A-061#330:1:B> Yeah but I can encourage her and tell her right from wrong
+
+which no one <}> <- > <.> u</.></-> <=> used</=></}> to tell me that
+
+<$A> <ICE-JA:S1A-061#331:1:A> Yes I understand that but a lot of children now <}> <->
+
+they</-> <=> they</=></}> people talking them <?> and</?> telling that <.>
+
+y</.> you know you know you mustn't get pregnant at this time because so and
+
+so but a child growing up or anybody they have a mind of their own
+<ICE-JA:S1A-061#332:1:A> They learn to think independently than you just <{> <[> saying</[>
+
+something or you think you gonna do that
+
+<$B> <ICE-JA:S1A-061#333:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-061#334:1:B> Sometime a how you grow your kids to you know<{1><[1><,></[1>
+
+so sometime you can't talk to them and them hear and
+
+understand<{2><[2><,></[2> and you have a next set when just can't hear or
+
+<{3> <[3> understand</[3> so <}> <-> me</-> just <=> me</=></}> have a
+
+feeling to say boy my kids can understand me you see when we talk and they
+
+will go off a what me say
+
+<$A> <ICE-JA:S1A-061#335:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-061#336:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-061#337:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-061#338:1:A> Uhu I understand
+<ICE-JA:S1A-061#339:1:A> Well uh well <?> true with that</?><,> happens <}> <-> with <.>
+
+cer</.></-> <=> with some</=></}><,> people but with my parents no it's not
+
+the point that
+<ICE-JA:S1A-061#340:1:A> I don't think it's a case where they say alright Lauri you not go
+
+don't do this and don't do that
+<ICE-JA:S1A-061#341:1:A> They never just say alright Lauri don't have sex you know
+
+<$B> <ICE-JA:S1A-061#342:1:B> No you can't say have sex but safe sex
+
+<$A> <ICE-JA:S1A-061#343:1:A> Yes that's good that's a good approach that's
+
+good<O>$B-laughs</O>
+<ICE-JA:S1A-061#344:1:A> That's what you must do because <?> it</?>
+
+<$B> <ICE-JA:S1A-061#345:1:B> Yeah<O>laughs</O><&>end-of-recording</&></I>

@@ -1,0 +1,499 @@
+<I>
+
+<p> <ICE-JA:W2A-034#1:1> <h> <bold> DEVELOPMENT OF PROCESS PARAMETERS FOR FULL SCALE
+
+PRODUCTION OF SORGHUM SYRUP </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#2:1> Sharon L. Jones and Yvette A. Jackson </p>
+
+<p> <ICE-JA:W2A-034#3:1> Department of Chemistry, University of the West Indies, Kingston,
+
+Jamaica </p>
+
+<p> <ICE-JA:W2A-034#4:1> Denise Forrest </p>
+
+<p> <ICE-JA:W2A-034#5:1> Petroleum Corporation of Jamaica, Kingston, Jamaica </p>
+
+<p> <ICE-JA:W2A-034#6:1> ABSTRACT
+<ICE-JA:W2A-034#7:1> Experiments were carried out to develop the process parameters for the
+
+production of sorghum syrup.
+<ICE-JA:W2A-034#8:1> A number of parameters including pH, temperature and acid/enzyme
+
+inversion were evaluated in order to produce a syrup with the desired market
+
+specifications.
+<ICE-JA:W2A-034#9:1> This resulted in a process flow in which the major unit operations
+
+were enzyme inversion of sucrose at 55-60 &degree; C, hot clarification and
+
+starch elimination at 95 &degree; C and pH 7.2. </p>
+
+<p> <ICE-JA:W2A-034#10:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#11:1> Sorghum, <it> Sorghum bicolor </it> , is a member of the grass
+
+family and is closely related to broomcorn, sudangrass and milo.
+<ICE-JA:W2A-034#12:1> It is more distantly related to sugarcane, <it> Saccharum officinarum
+
+</it> , which like sor <l> ghum is used to produce syrup.
+<ICE-JA:W2A-034#13:1> <quote> 'Sweet Sorghum' </quote> describes the varieties that are
+
+particularly sweet and juicy for example, Wray, Sart and Dale, and these are
+
+of particular interest in syrup production. </p>
+
+<p> <ICE-JA:W2A-034#14:1> Sweet sorghum has one of the highest photosyn <l> thetic rates
+
+among terrestrial plants and its total sugar content parallels that of
+
+sugarcane.
+<ICE-JA:W2A-034#15:1> It is cultivated principally in South Africa and in sections of the
+
+United States.
+<ICE-JA:W2A-034#16:1> Since its introduction in the United States in 1857, it has been
+
+grown for syrup produc <l> tion and eight south- eastern states are
+
+responsible for 90% of the sweet sorghum produced <fnr> <sp> 1 </sp> </fnr> .
+
+<footnote>
+<ICE-JA:W2A-034#17:1> 1. Kipps, N. <quote> " Production of Field Crops" </quote> . 6th ed.
+
+New York: McCraw-Hill, 1970. </footnote> </p>
+
+<p> <ICE-JA:W2A-034#18:1> In recent times, sorghum syrup production in the United States
+
+has declined and this syrup has become a specialty product.
+<ICE-JA:W2A-034#19:1> An economically feasible proc <l> ess for the production of sorghum
+
+syrup from locally grown sweet sorghum was identified and estab <l> lished.
+<ICE-JA:W2A-034#20:1> One important aspect of ensuring economic feasibility was the use of
+
+conventional cane sugar production facilities which were already available.
+
+</p>
+
+<p> <ICE-JA:W2A-034#21:1> <h> <bold> RESULTS AND DISCUSSION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#22:1> <h> <bold> Effect of Physical Clarification Techniques on Juice
+
+Quality </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#23:1> In order to establish the significance of chemical treatment on
+
+the clarification of sorghum juice, three samples of juice ( A, B and C) of
+
+brix density 17.2 &degree; Bx were clarified in the following manner: </p>
+
+<p> <ICE-JA:W2A-034#24:1> i) Sample A was centrifuged at 4000 rpm for 1 hour. </p>
+
+<p> <ICE-JA:W2A-034#25:1> ii) Sample B was centrifuged at 4000 rpm for one hour and the
+
+supernatant decanted through a filter. </p>
+
+<p> <ICE-JA:W2A-034#26:1> iii) Sample C was limed to pH 7.2 with milk of lime ( Ca(OH) <sb>
+
+2 </sb> aqueous), treated with 5 ppm flocculant ( Zuclar 1000) and held at a
+
+temperature of 95 &degree; C for 2 hours.
+<ICE-JA:W2A-034#27:1> The sam <l> ple was then filtered and the clarified juice collected.
+
+</p>
+
+<p> <ICE-JA:W2A-034#28:1> The colour of each sample was then determined by noting the
+
+absorbance of the juice at 525 nm as described by Cotton et al. <fnr> <sp> 2
+
+</sp> </fnr> <footnote>
+<ICE-JA:W2A-034#29:1> 2. Cotton, R.H.; Norman, L.W.; Rorabaugh, R.; Haney, H.F. <it> Ind.
+
+Eng. Chem., </it> 1951, 43(3), 628-635. </footnote> </p>
+
+<p> <ICE-JA:W2A-034#30:1> The clarity of the chemically treated sample C was far better
+
+than that of either the filtered or centrifuged samples A & B.
+<ICE-JA:W2A-034#31:1> Sample C was clear and free of sediment due to adequate flocculation
+
+and coagulation of suspended matter on treatment with lime and flocculant at
+
+an elevated temperature ( 95 &degree; C).
+<ICE-JA:W2A-034#32:1> Sample A and B however, were cloudy and contained a significant
+
+amount of suspended material.
+<ICE-JA:W2A-034#33:1> Though the colour of the centrifuged juice improved on filtration,
+
+samples A and B were infe <l> rior in quality to sample C ( Table 1). </p>
+
+<O> caption </O> <O> table </O>
+
+<p> <ICE-JA:W2A-034#34:1> <h> <bold> Effect of pH on Juice Quality </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#35:1> Four samples of sorghum juice of brix density 15.0 &degree; Bx
+
+were conventionally clarified ( as described for sample C) at pH ( i) 7.5 (
+
+ii) 8.0 ( iii) 8.5 and ( iv) 9.0.
+<ICE-JA:W2A-034#36:1> The colour of the clarified juices was monitored and sugar analyses
+
+were carried out.
+<ICE-JA:W2A-034#37:1> Table 2 shows that destruction of sugars increased with increasing
+
+pH.
+<ICE-JA:W2A-034#38:1> Both the percentage sucrose and reducing sug <l> ars decreased as the
+
+pH increased from 7.5 to 9.0.
+<ICE-JA:W2A-034#39:1> There was no direct relationship between juice col <l> our and pH.
+<ICE-JA:W2A-034#40:1> Best results however, were obtained at pH 8.5. </p> <O> caption </O>
+
+<O> table </O>
+
+<p> <ICE-JA:W2A-034#41:1> <h> <bold> Effect of Temperature on Juice Quality </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2A-034#42:1> The effect of temperature on juice clarity was investigated at pH
+
+8.5.
+<ICE-JA:W2A-034#43:1> Three samples of sorghum juice of 15.0 &degree; Bx were limed to pH
+
+8.5 and treated with 5 ppm flocculant.
+<ICE-JA:W2A-034#44:1> One of these samples was heated to 75 &degree; C, another to 85
+
+&degree; C and the third to 95 &degree; C, and these were held at their
+
+respective tem <l> peratures for two hours.
+<ICE-JA:W2A-034#45:1> The juices were then fil <l> tered and the colour of the clarified
+
+juice determined. </p>
+
+<p> <ICE-JA:W2A-034#46:1> Juice clarity increased with temperature ( Table 3).
+<ICE-JA:W2A-034#47:1> At 75 &degree; C, juice colour was poor and the clarified juice was
+
+cloudy.
+<ICE-JA:W2A-034#48:1> At 85 &degree; C, the resulting clarified juice contained only
+
+scattered fine flocs and at 95 &degree; C, the sample was free of particulate
+
+matter.
+<ICE-JA:W2A-034#49:1> Complete coagulation of suspended juice material had oc <l> curred at
+
+95 &degree; C but poor settling of the coagulated flocs was evident.
+<ICE-JA:W2A-034#50:1> Cooling this juice to about 60 &degree; C, however, resulted in ready
+
+settling.
+<ICE-JA:W2A-034#51:1> With this in <O> caption </O> <O> table </O> mind, <quote> 'cold
+
+clarification' </quote> was investigated as a pos <l> sible method of
+
+processing sorghum juice. </p>
+
+<p> <ICE-JA:W2A-034#52:1> Destruction of sugars intensified with increasing temperature.
+<ICE-JA:W2A-034#53:1> At 75 &degree; C the clarified juice contained 10.3% total sugars and
+
+at 95 &degree; C the sugar content was 9.85%. </p>
+
+<p> <ICE-JA:W2A-034#54:1> <h> <bold> <quote> 'Cold Clarification' </quote> of Sorghum Juice
+
+</bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#55:1> Three samples of sorghum juice were first screened through mesh
+
+&hash; 120 to remove coarse par <l> ticles and the pH of each sample adjusted
+
+to ( i) 7.5 ( ii) 8.0 and ( iii) 8.5 with milk of lime.
+<ICE-JA:W2A-034#56:1> Flocculant ( 5 ppm) was then added, and the juices held at a tem <l>
+
+perature of 55 &degree; C for one hour.
+<ICE-JA:W2A-034#57:1> The juices were centrifuged at 2000 rpm for 20 minutes and the
+
+supernatant decanted.
+<ICE-JA:W2A-034#58:1> The colour of the juices was then determined and the samples compared
+
+with those obtained from conventional clarification at 95 &degree; C.
+<ICE-JA:W2A-034#59:1> For each set of conditions, the juice of opti <l> mum clarity was
+
+selected for concentration to syrup.
+<ICE-JA:W2A-034#60:1> The colour of the final syrup was then determined by measuring the
+
+absorbance of a 2% w/v aqueous solution of the syrup at 560 nm ( Table 4).
+
+</p> <O> caption </O> <O> table </O>
+
+<p> <ICE-JA:W2A-034#61:1> Juices obtained from clarification at 95 &degree; C were superior
+
+to those produced at 55 &degree; C.
+<ICE-JA:W2A-034#62:1> On the other hand, settling of coarser juice particles occurred more
+
+readily at 55 &degree; C but coagulation of the sus <l> pended plant material
+
+was poor at this temperature and the <quote> 'clarified' </quote> juices
+
+remained cloudy. </p>
+
+<p> <ICE-JA:W2A-034#63:1> The colour of syrup prepared at pH 8.5 and 95 &degree; C fell
+
+within the range of the commercial standards whereas the colour of syrup
+
+produced by the cold clarification technique fell just outside this range (
+
+Table 5).
+<ICE-JA:W2A-034#64:1> It is interesting to note however, that neither of the commercial
+
+standards falls within the targeted range.
+<ICE-JA:W2A-034#65:1> Importantly, at 95 &degree; C, the syrup produced was free of
+
+sediment matter.
+<ICE-JA:W2A-034#66:1> On concen <l> tration of the clarified juice obtained at 55 &degree;
+
+C, further coagulation of suspended material occurred and the resulting syrup
+
+contained scattered flocs.
+<ICE-JA:W2A-034#67:1> This is a highly undesirable condition and emphasizes the
+
+significance of hot clarification in the production of sorghum syrup <fnr>
+
+<sp> 3,4 </sp> </fnr> . <footnote>
+<ICE-JA:W2A-034#68:1> 3. Freeman, K.C.; Broadhead, D.M.; Zummo, N. <quote> " Agricultural
+
+Handbook &hash; 441" </quote> , USDA. Washing <l> ton, D.C.: U.S. Government
+
+Printing Office, 1973. </footnote> <footnote>
+<ICE-JA:W2A-034#69:1> 4. Ross, W.M.; Wall, J.S. <quote> " Sorghum Production and
+
+Utilization" </quote> . Westport, Conn.: AVI Publishing Com <l> pany, 1970.
+
+</footnote>
+<ICE-JA:W2A-034#70:1> Juice settling improved signifi <l> cantly at 55 &degree; C.
+<ICE-JA:W2A-034#71:1> Since the rate of settling was faster at 55 &degree; C and excellent
+
+coagulation achieved at 95 &degree; C, a two step clarification process was
+
+proposed for the production of sorghum syrup. </p> <O> caption </O> <O> table
+
+</O>
+
+<p> <ICE-JA:W2A-034#72:1> <h> <bold> Utilization of Cold and Hot Clarification in
+
+Production of Sorghum Syrup </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#73:1> Sorghum juice of brix density 21.4 &degree; Bx was screened
+
+through mesh
+#120 and its pH adjusted to 8.0 with milk of lime.
+<ICE-JA:W2A-034#74:1> Flocculant ( 5 ppm) was then added and the juice allowed to settle at
+
+55 &degree; C for one hour.
+<ICE-JA:W2A-034#75:1> The mud was separated from the semi-clari <l> fied juice by
+
+centrifugation and subsequent filtration and the filtrate collected and
+
+heated to 95 &degree; C and kept at this temperature for approximately half
+
+an hour in order to completely coagulate the scattered flocs.
+<ICE-JA:W2A-034#76:1> The clarified juice was then concentrated to syrup of brix density
+
+76.7 &degree; Bx and the quality of the syrup evaluated by comparison with
+
+commercial samples and existing target values. </p>
+
+<p> <ICE-JA:W2A-034#77:1> The colour of the syrup ( 0.055) produced was better than that
+
+observed for both of the commercial samples ( 0.057 and 0.084), and fell just
+
+outside the targeted range ( Table 6).
+<ICE-JA:W2A-034#78:1> The ratio of sucrose to reducing sugars ( RS) in the final syrup
+
+should be approximately 1:1.
+<ICE-JA:W2A-034#79:1> This ensures that sucrose crys <l> tallization does not occur on
+
+storage <fnr> <sp> 5 </sp> </fnr> <footnote>
+<ICE-JA:W2A-034#80:1> 5. Andrews, A.T. <quote> " Chemical Aspects of Food Enzymes" </quote> .
+
+Proceedings of a Symposium Organized by the Food Chemistry Group of the
+
+Industrial Divi <l> sion of the Royal Society of Chemistry, University of
+
+Reading, ( Spec. Publication), Sept. 16-17, 1986. </footnote>
+<ICE-JA:W2A-034#81:1> The ratio of sucrose to reducing sugars in the syrup produced was
+
+approximately 5:1 ( RS : sucrose &approximate- sign; 0.21) which is highly
+
+undesirable.
+<ICE-JA:W2A-034#82:1> Acid inversion was therefore proposed as a means of obtaining sucrose
+
+and reduc <l> ing sugar levels in accordance with market specifi <l> cations.
+
+</p>
+
+<p> <ICE-JA:W2A-034#83:1> <h> <bold> Acid Inversion </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#84:1> In another experiment, two juice samples were treated with milk
+
+of lime and flocculant for one hour at 55 &degree; C and pH 8.0 ( as
+
+described above).
+<ICE-JA:W2A-034#85:1> The semi-clarified juices were collected and the pH of one sample
+
+adjusted to 7.0 and the other to 6.0 with dilute sulphuric acid.
+<ICE-JA:W2A-034#86:1> The juices were then heated to 95 &degree; C for1/2 hr and the
+
+clarified juices collected, concen <l> trated to syrups and the degree of
+
+inversion deter <l> mined for each pH. </p>
+
+<p> <ICE-JA:W2A-034#87:1> A reduction in the level of sucrose was observed as juice pH
+
+decreased.
+<ICE-JA:W2A-034#88:1> A more accurate picture of the relationship between the percentage
+
+sucrose and reducing sugars was obtained by calculating the ratio of RS :
+
+sucrose for each sample ( Table 7) <+> . </+> </p>
+
+<p> <ICE-JA:W2A-034#89:1> Addition of acid was successful in increasing the RS : sucrose
+
+ratio threefold that is, from 0.2:1 to 0.6:1.
+<ICE-JA:W2A-034#90:1> Similar degrees of inversion were obtained at both pH 7.0 and 6.0.
+<ICE-JA:W2A-034#91:1> Importantly, the desired RS : sucrose ratio was still not achieved
+
+even at pH 6.0.
+<ICE-JA:W2A-034#92:1> Enzymatic inversion was therefore proposed as a possible means by
+
+which the desired RS : sucrose ratio could be obtained. </p>
+
+<p> <ICE-JA:W2A-034#93:1> <h> <bold> Enzymatic Inversion of Sucrose </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#94:1> A series of experiments were conducted to es <l> tablish the
+
+effect of temperature, enzyme concentra <l> tion, pH and time on the activity
+
+of invertase. <O> caption </O> <O> table </O> <O> caption </O> <O> table </O>
+<ICE-JA:W2A-034#95:1> Sorghum juice of brix density 21.1 &degree; Bx was em <l> ployed and
+
+the following observations made: </p>
+
+<p> <ICE-JA:W2A-034#96:1> <h> <bold> Temperature </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#97:1> Inversion increased with temperature between 20 &degree; C and 60
+
+&degree; C.
+<ICE-JA:W2A-034#98:1> At 20 &degree; C only 0.53% sucrose was converted to reducing sugars
+
+whereas at 60 &degree; C, 49.5% of the sucrose was inverted.
+<ICE-JA:W2A-034#99:1> Further increases in temperature has a negative effect on enzyme ac
+
+<l> tivity and at 70 &degree; C only 18.1% of the sucrose was inverted.
+<ICE-JA:W2A-034#100:1> ( Experiments were carried out at a pH of 5.0 and enzyme dosage of 1
+
+ml ( 1:100) dilution of single strength invertase/10 g juice.
+<ICE-JA:W2A-034#101:1> A holding time of one hour was employed in each case). </p>
+
+<p> <ICE-JA:W2A-034#102:1> <h> <bold> pH </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#103:1> The pH value recommended in the literature for invertase by the
+
+Association of Official Analytical Chemists is 4.5 <fnr> <sp> 6 </sp> </fnr> .
+
+<footnote>
+<ICE-JA:W2A-034#104:1> 6. Association of Official Analytical Chemists. <quote> " Official
+
+Methods of Analysis" </quote> . 14th ed. Association of Official Analytical
+
+Chemist Inc., Virginia, 1984. </footnote>
+<ICE-JA:W2A-034#105:1> Over the pH range 4.5  6.0, as pH decreased the level of sucrose in
+
+the inverted juice also decreased.
+<ICE-JA:W2A-034#106:1> Maximum inversion ( 56.2%) was obtained at pH 4.5.
+<ICE-JA:W2A-034#107:1> This agreed excellently with literature values.
+<ICE-JA:W2A-034#108:1> Comparable results were obtained at pH 5.0 and pH 5.5 with 49.5% and
+
+48.6% respec <l> tively, of the sucrose being inverted.
+<ICE-JA:W2A-034#109:1> At pH 6.0, only 33.8% of the sucrose was converted to reducing
+
+sugars. </p>
+
+<p> <ICE-JA:W2A-034#110:1> <h> <bold> Time </bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#111:1> Inversion increased with time.
+<ICE-JA:W2A-034#112:1> When invertase was added at a level of 1 ml ( 1:100 dilution) of
+
+single strength invertase/10 g juice of brix density 21.1 &degree; Bx and pH
+
+5.0  5.5, a holding time of approximately one hour was sufficient to convert
+
+approximately 50% of the sucrose to reducing sugars.
+<ICE-JA:W2A-034#113:1> This would ensure that regardless of the initial sucrose concen <l>
+
+tration in the mixed juice, the desired ratio of RS : sucrose of
+
+approximately 1:1 could be achieved in the final syrup. </p>
+
+<p> <ICE-JA:W2A-034#114:1> Adequate inversion ( &approximate-sign; 50%) of sorghum juice of
+
+brix density 21.1 &degree; Bx could therefore be achieved if the samples were
+
+treated at pH 5.0  5.5 and 60 &degree; C for approximately one hour with
+
+invertase at a level of 1 ml ( 1:10 dilution) single-strength invertase/100 g
+
+juice. </p>
+
+<p> <ICE-JA:W2A-034#115:1> <h> <bold> Elimination of Starch  Action of Alpha Amylase
+
+</bold> </h> </p>
+
+<p> <ICE-JA:W2A-034#116:1> The levels of starch found in sorghum juices are usually higher
+
+than those detected in sugar cane.
+<ICE-JA:W2A-034#117:1> High starch levels in the final syrup give rise to cloudiness and
+
+possible gelling, a highly undesirable characteristic.
+<ICE-JA:W2A-034#118:1> Starch may be effectively eliminated by the action of certain
+
+enzymes <fnr> <sp> 7 </sp> </fnr> . <footnote>
+<ICE-JA:W2A-034#119:1> 7. Smith, Burns A. U.S. Patent &hash; 2,280.085. </footnote>
+<ICE-JA:W2A-034#120:1> One such enzyme is high- temperature &alpha;-amylase.
+<ICE-JA:W2A-034#121:1> The activity of &alpha;-amylase was therefore investigated and the
+
+effects of enzyme concentration, juice density, pH, tempera <l> ture and time
+
+on starch elimination noted.
+<ICE-JA:W2A-034#122:1> The following trends were observed. </p> <X>
+
+<p> <ICE-JA:W2A-034#X123:1> <h> <bold> Juice Density</bold></h></p>
+
+<p> <ICE-JA:W2A-034#X124:1> Starch elimination improved at low brix density.
+<ICE-JA:W2A-034#X125:1> For a dosage of 1 ml ( 1:100 dilution) of &alpha;-amy<l>lase/50 g
+
+juice of brix density 15.8 &degree; Bx at pH 7.2 and 95 &degree; C, 87.8% of
+
+the starch was eliminated.
+<ICE-JA:W2A-034#X126:1> Under similar conditions at juice density 21.1 &degree; Bx only 55%
+
+of the starch was eliminated.</p>
+
+<p> <ICE-JA:W2A-034#X127:1> <h> <bold> Enzyme Concentration</bold></h></p>
+
+<p> <ICE-JA:W2A-034#X128:1> Starch elimination increased with rising enzyme concentration.
+<ICE-JA:W2A-034#X129:1> Three enzyme dilutions were em<l>ployed and 1 ml of the preparation
+
+added to a 50 g sample of sorghum juice at 15.8 &degree; Bx, ph 7.2 and 95
+
+&degree; C.
+<ICE-JA:W2A-034#X130:1> The following dilutions of &alpha;-amylase re<l>sulted in starch
+
+elimination as shown:</p>
+
+<p> <ICE-JA:W2A-034#X131:1> dilution<space> 1:10,000<space> 60.6%</p>
+
+<p> <space> 1:500 <space> 80.3%</p>
+
+<p> <space> 1:100 <space> 87.8%</p>
+
+<p> <ICE-JA:W2A-034#X132:1> Above this enzyme concentration a levelling off in enzyme
+
+activity was observed.
+<ICE-JA:W2A-034#X133:1> The percentage starch eliminated no longer increased with rising
+
+enzyme concentration.</p></X></I>

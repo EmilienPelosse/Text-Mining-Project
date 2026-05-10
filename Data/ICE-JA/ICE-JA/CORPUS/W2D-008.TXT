@@ -1,0 +1,517 @@
+<I>
+
+<p> <ICE-JA:W2D-008#1:1> <h> <bold> FACULTY OF ARTS AND GENERAL STUDIES </p>
+
+<p> <ICE-JA:W2D-008#2:1> PART I: GENERAL INFORMATION BA DEGREE </p>
+
+<p> REGULATIONS </h> </p>
+
+<p> <ICE-JA:W2D-008#3:1> <h> QUALIFICATIONS FOR ADMISSION </bold> </h> </p>
+
+<p> <ICE-JA:W2D-008#4:1> 1. Before registration, and before beginning the courses leading
+
+to the BA degree in the Faculty, candidates must have satisfied:
+
+<p> <ICE-JA:W2D-008#5:1> ( a) the University Matriculation requirements for entry to a
+
+degree course; </p>
+
+<p> <ICE-JA:W2D-008#6:1> ( b) the entry requirements of the Faculty of Arts and General
+
+Studies; </p>
+
+<p> <ICE-JA:W2D-008#7:1> ( c) the entry requirements of the particular academic departments
+
+in which they propose to take courses. </p>
+
+<p> <ICE-JA:W2D-008#8:1> 2. These three sets of requirements are as follows: </p>
+
+<p> <ICE-JA:W2D-008#9:1> ( a) University Matriculation
+
+<p> <ICE-JA:W2D-008#10:1> See University Matriculation Requirements, </p>
+
+<p> <ICE-JA:W2D-008#11:1> <bold> UWI Calendar, </bold> Vol. II </p>
+
+<p> <ICE-JA:W2D-008#12:1> ( b) Faculty Requirements </p>
+
+<p> <ICE-JA:W2D-008#13:1> ( i) As of 1991 all students shall be required to take and pass,
+
+as part of the BA degree programme, a Level 1 one-semester reading course in
+
+Spanish or French. </p>
+
+<p> <ICE-JA:W2D-008#14:1> The following are exempt:
+
+<p> <ICE-JA:W2D-008#15:1> 1. A native speaker of either of these foreign languages. </p>
+
+<p> <ICE-JA:W2D-008#16:1> 2. Students who have at least a foreign language pass in the CXC
+
+General I or 2 or O-Level Examinations or their equivalent. </p>
+
+<p> <ICE-JA:W2D-008#17:1> 3. Students who have registered for a <w> Beginners' </w> Course
+
+in French or Spanish. </p>
+
+<p> <ICE-JA:W2D-008#18:1> ( ii) Where the University Matriculation Regulations refer to
+
+approved subjects ( Regulations 4,5,6,7), only one of the following subjects
+
+in the list may be counted towards entry in the Faculty of Arts and General
+
+Studies:
+
+<p> <ICE-JA:W2D-008#19:1> Health Science </p>
+
+<p> <ICE-JA:W2D-008#20:1> Rural Biology </p>
+
+<p> <ICE-JA:W2D-008#21:1> Human Anatomy, Hygiene and Physiology </p>
+
+<p> <ICE-JA:W2D-008#22:1> Technical Drawing </p>
+
+<p> <ICE-JA:W2D-008#23:1> ( c) Departmental Requirements </p>
+
+<p> <ICE-JA:W2D-008#24:1> The following are the minimal qualifications required of stu <l>
+
+dents registering to read Level I courses in the subjects stated: </p>
+
+<p> <ICE-JA:W2D-008#25:1> COMPUTER SCIENCE - at least a B in an A-Level Science subject
+
+</p>
+
+<p> <ICE-JA:W2D-008#26:1> ECONOMICS - no requirements </p>
+
+<p> <ICE-JA:W2D-008#27:1> ENGLISH - normally pass at Grade I or II CXC General or a good
+
+O-Level pass in English Literature. </p>
+
+<p> <ICE-JA:W2D-008#28:1> FRENCH - ( i) for entry to the <w> Beginners' </w> course, see
+
+Regulation 4 below </p>
+
+<p> ( ii) for entry to other Level I courses, either a Grade I or II CXC
+
+General or an O-Level pass in French and a departmental test, or a pass in
+
+<w> Beginners' </w> course II. </p>
+
+<p> <ICE-JA:W2D-008#29:1> GEOGRAPHY - Grade I or II CXC General or an O-Level pass in
+
+Geography. </p>
+
+<p> <ICE-JA:W2D-008#30:1> GOVERNMENT - no requirements </p>
+
+<p> <ICE-JA:W2D-008#31:1> HISTORY - normally a good O-Level pass or Grade I or II CXC
+
+General in History </p>
+
+<p> <ICE-JA:W2D-008#32:1> LAW - no requirements </p>
+
+<p> <ICE-JA:W2D-008#33:1> LIBRARY STUDIES - no requirements </p>
+
+<p> <ICE-JA:W2D-008#34:1> LINGUISTICS - no requirements </p>
+
+<p> <ICE-JA:W2D-008#35:1> MANAGEMENT STUDIES - no requirements, but preference will be
+
+given to applicants with at least O-Level or Grade I or II CXC General in
+
+Mathematics </p>
+
+<p> <ICE-JA:W2D-008#36:1> MASS COMMUNICATION - Departmental test and/or interview </p>
+
+<p> <ICE-JA:W2D-008#37:1> MATHEMATICS - M080 or GCE A-Level Mathematics or Pure Mathematics
+
+</p>
+
+<p> <ICE-JA:W2D-008#38:1> Music - no requirements: prospective stu <l> dents may be given a
+
+musical ability test to determine their aptitude for the course </p>
+
+<p> <ICE-JA:W2D-008#39:1> PHILOSOPHY - no requirements </p>
+
+<p> <ICE-JA:W2D-008#40:1> SOCIOLOGY - no requirements </p>
+
+<p> <ICE-JA:W2D-008#41:1> SPANISH - as for French </p>
+
+<p> <ICE-JA:W2D-008#42:1> THEOLOGY - no requirements </p>
+
+<p> <ICE-JA:W2D-008#43:1> <h> <bold> CATEGORIES OF COURSES/WEIGHTING </bold> </h> </p>
+
+<p> <ICE-JA:W2D-008#44:1> 3. ( a) Each course is classified either as a <bold> University
+
+course </bold> or as a <bold> Faculty course. </bold> </p>
+
+<p> <ICE-JA:W2D-008#45:1> ( b) Each course is designated as appropriate to Level I, II or
+
+III. </p>
+
+<p> <ICE-JA:W2D-008#46:1> ( c) <w> Beginners' </w> courses are sometimes offered in foreign
+
+languages ( See Para. 4 below) </p>
+
+<p> <ICE-JA:W2D-008#47:1> ( d) Courses have a normal weighting of three ( 3) credits,
+
+except the Level III University Course ( UC3XO), and a few Faculty Courses,
+
+whose weighting varies between 4 and 6. </p>
+
+<p> <ICE-JA:W2D-008#48:1> <h> <bold> <w> BEGINNERS' </w> COURSES IN LANGUAGES </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2D-008#49:1> 4. ( a) <w> Beginners' </w> courses may be offered in French,
+
+Spanish, and any other foreign language that may be added from time to time.
+
+</p>
+
+<p> <ICE-JA:W2D-008#50:1> ( b) A candidate is <bold> not </bold> permitted to offer more
+
+than <bold> six <w> Beginners' </w> credits </bold> towards the credits
+
+required for the degree. </p>
+
+<p> <ICE-JA:W2D-008#51:1> ( c) Qualifications - <w> Beginners' </w> courses are open to the
+
+following persons: </p>
+
+<p> <ICE-JA:W2D-008#52:1> ( i) those who have no previous knowledge of the language
+
+concerned; </p>
+
+<p> <ICE-JA:W2D-008#53:1> ( ii) those who have a limited knowledge of the language
+
+concerned, but no academic qualifications; </p>
+
+<p> <ICE-JA:W2D-008#54:1> ( iii) those with academic qualifications, but whose knowledge of
+
+the language is deemed by the Department concerned to be inadequate for
+
+admission to normal Level I courses. </p>
+
+<p> <ICE-JA:W2D-008#55:1> ( d) A student who has successfully completed a Semester 2 <w>
+
+Beginners' </w> course is eligible for admission to Level I courses in the
+
+language concerned, and its associated literature and culture at the
+
+discretion of the Head of the Department con <l> cerned.
+<ICE-JA:W2D-008#56:1> However, students are reminded that they can take <bold> no more than
+
+6 credits in Level I courses as part of the Level II programme </bold> ( see
+
+Regulation 6(ii) below <+> ) </+> . </p>
+
+<p> <ICE-JA:W2D-008#57:1> ( e) A <w> Beginners' </w> course cannot be offered as part of
+
+the Level II programme. </p>
+
+<p> <ICE-JA:W2D-008#58:1> <h> <bold> REQUIREMENTS FOR ENTRY TO LEVEL II AND LEVEL III
+
+COURSES </bold> </h> </p>
+
+<p> <ICE-JA:W2D-008#59:1> 5. Students are reminded that Level II and III courses often have
+
+<bold> prerequisites. </bold>
+<ICE-JA:W2D-008#60:1> The details of these prerequisites are available in the section
+
+entitled <quote> " Course Outlines" </quote> in this pamphlet, and students
+
+are advised to ensure, by forward planning, that they acquire the pre <?> -
+
+</?> requisites to the courses they intend to pursue in succeeding years.
+
+</p>
+
+<p> <ICE-JA:W2D-008#61:1> <h> <bold> REQUIREMENTS FOR THE AWARD OF THE DEGREE </bold> </h>
+
+</p>
+
+<p> <ICE-JA:W2D-008#62:1> 6. In order to qualify for a degree a student must satisfy the
+
+following requirements: </p>
+
+<p> <ICE-JA:W2D-008#63:1> I. Have completed a <bold> MINIMUM </bold> of 90 credits of which
+
+</p>
+
+<p> <ICE-JA:W2D-008#64:1> ( a) 18 credits shall be for University Courses ( 6 credits at
+
+each of the three levels) </p>
+
+<p> <ICE-JA:W2D-008#65:1> ( b) at least 72 credits in Faculty Courses shall be for Level I,
+
+II and III courses of which </p>
+
+<p> <ICE-JA:W2D-008#66:1> ( i) a maximum of 30 credits shall be for Level I courses (
+
+including University courses) of which, ( except in the case of BA Theology)
+
+at least 6 shall be from within the Arts group of subjects outside of the
+
+declared Major/Spe <l> cial. </p>
+
+<p> <ICE-JA:W2D-008#67:1> ( ii) a minimum of 18 credits shall be for Level II courses ( not
+
+including University courses). </p>
+
+<p> <ICE-JA:W2D-008#68:1> ( iii) a minimum of 9 credits shall be for courses exclusively
+
+Level III ( not including University Courses) <+> . </+> </p>
+
+<p> <ICE-JA:W2D-008#69:1> II. ( a) on entry declare a Major, or a Special, or double Major,
+
+( see 7f below), and </p>
+
+<p> ( b) satisfy the requirements for the declared Major(s). </p>
+
+<p> <ICE-JA:W2D-008#70:1> 7. ( a) A Major or Special must be declared from among the follow
+
+<l> ing subjects only: </p>
+
+<p> English, French, Geography, History, History/Archaeology, Library
+
+Studies, Linguistics, Mass Communications, Mathe <l> matics, Computer
+
+Science, Spanish. </p>
+
+<p> <ICE-JA:W2D-008#71:1> ( b) A Major is made up of a minimum of 36 credits in a single
+
+subject over the three levels.
+<ICE-JA:W2D-008#72:1> In Library Studies and Mass Communications, the Major requires a
+
+minimum of 45 credits. </p>
+
+<p> <ICE-JA:W2D-008#73:1> ( c) A Special is made up of a minimum of 54 credits in the
+
+subject over the three levels.
+<ICE-JA:W2D-008#74:1> Permission to declare a Special in any given subject must be sought
+
+from the Head of the relevant Department. </p>
+
+<p> <ICE-JA:W2D-008#75:1> ( d) Component courses in a Major or Special are determined by
+
+the Faculty Board on the recommendation of the relevant Department(s). </p>
+
+<p> <ICE-JA:W2D-008#76:1> ( e) In 1993-94 only the Departments of Geography and History
+
+will offer Specials.
+<ICE-JA:W2D-008#77:1> Double Majors are not offered at present. </p>
+
+<p> <ICE-JA:W2D-008#78:1> ( f) Throughout the entire degree programme, <bold> no more than
+
+30 credits </bold> may be selected from courses other than Arts courses,
+
+except with the special permission of the Dean. </p>
+
+<p> <ICE-JA:W2D-008#79:1> <h> <bold> Guide to Registration </bold> </h> </p>
+
+<p> <ICE-JA:W2D-008#80:1> Full-time Level I students should register according to the
+
+following order of priority: </p>
+
+<p> <ICE-JA:W2D-008#81:1> 1. University course 6 credits </p>
+
+<p> <ICE-JA:W2D-008#82:1> 2. Compulsory courses for Majors at least 6 credits </p>
+
+<p> <ICE-JA:W2D-008#83:1> 3. Non-Major Arts courses at least 6 credits </p>
+
+<p> <ICE-JA:W2D-008#84:1> 4. Other courses ( open) up to 12 credits </p>
+
+<p> <ICE-JA:W2D-008#85:1> Part-time Level I students should register for the following
+
+number of credits: </p>
+
+<p> <ICE-JA:W2D-008#86:1> Students with normal matriculation: </p>
+
+<p> up to 24 credits ( 9 credits </p>
+
+<p> maximum in Social Sciences) </p>
+
+<p> <ICE-JA:W2D-008#87:1> Students with lower level matriculation: </p>
+
+<p> - with 1 A-Level: up to 21 credits
+
+<p> ( 6 credits maximum </p>
+
+<p> in Social Sciences) </p>
+
+<p> - with no A-Levels up to 15 credits </p>
+
+<p> <ICE-JA:W2D-008#88:1> Part-time students, too, must observe the order of priority
+
+listed in 1-4 above, when choosing their courses. </p>
+
+<p> <ICE-JA:W2D-008#89:1> <bold> N.B. UC010 does not count towards the degree. </bold>
+<ICE-JA:W2D-008#90:1> Students registering for this course can taken no more than <bold> 24
+
+credits. </bold> </p>
+
+<p> <ICE-JA:W2D-008#91:1> ( f) A student may, <bold> with the permission of the Dean,
+
+change Majors. </bold>
+<ICE-JA:W2D-008#92:1> Full-time students must do this no later than the start of their
+
+third semester of registration.
+<ICE-JA:W2D-008#93:1> Part-time students who have registered in accordance with regulation
+
+9 ( b) below, must do it no later than the start of the fifth semester of
+
+registration. </p>
+
+<p> <ICE-JA:W2D-008#94:1> <h> <bold> FULL-TIME PROGRAMME </bold> </h> </p>
+
+<p> <ICE-JA:W2D-008#95:1> 8. ( a) A full-time student shall complete the degree programme
+
+in not less than six and not more than twelve semesters. </p>
+
+<p> <ICE-JA:W2D-008#96:1> ( b) A full-time student should normally register for not more
+
+than fifteen and not less than twelve credits per semester, except in the
+
+case of the final two semesters of the degree programme in which a student
+
+may seek permission to register for a maximum of 42 credits ( including the
+
+Level III University course but nor a substitute) to complete the degree.
+
+</p>
+
+<p> <ICE-JA:W2D-008#97:1> ( c) A student will be required to withdraw from the Faculty
+
+unless he or she has gained at least: </p>
+
+<p> <ICE-JA:W2D-008#98:1> Twelve credits by the end of the second semester </p>
+
+<p> <ICE-JA:W2D-008#99:1> Twenty-four credits by the end of the fourth semester </p>
+
+<p> <ICE-JA:W2D-008#100:1> Thirty-nine credits by the end of the sixth semester </p>
+
+<p> <ICE-JA:W2D-008#101:1> Fifty-seven credits by the end of the eighth semester </p>
+
+<p> <ICE-JA:W2D-008#102:1> Seventy-five credits by the end of the tenth semester </p>
+
+<p> <ICE-JA:W2D-008#103:1> Ninety credits by the end of the twelfth semester. </p>
+
+<p> <ICE-JA:W2D-008#104:1> <h> <bold> PART-TIME PROGRAMME </bold> </h> </p>
+
+<p> <ICE-JA:W2D-008#105:1> 9. ( a) A part-time student shall complete the degree in not
+
+less than eight and not more than eighteen semesters. </p>
+
+<p> <ICE-JA:W2D-008#106:1> ( b) Normally, a part-time student will be required to spread
+
+the Level I programme over four semesters.
+<ICE-JA:W2D-008#107:1> The Level I Univer <l> sity course <bold> must </bold> be done in
+
+the first semester. </p>
+
+<p> <ICE-JA:W2D-008#108:1> ( c) A part-time student will not normally be permitted to
+
+register for Level II courses unless he or she has gained at least eighteen
+
+Level I credits. </p>
+
+<p> <ICE-JA:W2D-008#109:1> ( d) A part-time student who has gained eighteen or more Level I
+
+credits must take at least 12 and not more than 24 credits in each subsequent
+
+year, except that a student who requires fewer than 12 credits to complete
+
+the requirements for the degree need take only those credits.
+<ICE-JA:W2D-008#110:1> Permission may be sought to read for up to 30 credits to complete
+
+the requirements of the degree, provided that UC3XO and not a substitute is
+
+included among these 30. </p>
+
+<p> <ICE-JA:W2D-008#111:1> ( e) A part-time student will be required to withdraw from the
+
+Faculty unless he or she has gained at least: </p>
+
+<p> Six credits by the end of the second semester </p>
+
+<p> Twelve credits by the end of the fourth semester </p>
+
+<p> Twenty-one credits by the end of the sixth semester </p>
+
+<p> Thirty credits by the end of the eighth semester </p>
+
+<p> Forty-two credits by the end of the tenth semester </p>
+
+<p> Fifty-four credits by the end of the twelfth semester </p>
+
+<p> Sixty-six credits by the end of the fourteenth semester </p>
+
+<p> Seventy-eight credits by the end of the sixteenth semester </p>
+
+<p> Ninety credits by the end of the eighteenth semester </p>
+
+<p> <ICE-JA:W2D-008#112:1> <h> <bold> TRANSFERS </bold> </h> </p>
+
+<p> <ICE-JA:W2D-008#113:1> All students wishing to transfer must fill out Transfer Forms at
+
+the Student Affairs office in the Registry by 31st March. </p>
+
+<p> <ICE-JA:W2D-008#114:1> <bold> A. </bold> Transfer from Part-time to </p>
+
+<p> Full-time Status and Vice Versa </p>
+
+<p> <ICE-JA:W2D-008#115:1> ( i) Part-Time students with one A-Level who have not passed 21
+
+credits after one year of study but who request a transfer to Full-Time
+
+status must trade the 6 credits for Matricula <l> tion purposes and will not
+
+receive these credits towards the degree. </p>
+
+<p> <ICE-JA:W2D-008#116:1> ( ii) The traded course may count as satisfying the
+
+pre-requisite for entry to another course where it is required. </p>
+
+<p> <ICE-JA:W2D-008#117:1> ( iii) Part-Time students who have passed 21 credits at Level I
+
+in their first year of study and who wish to transfer to Full-Time status
+
+will not be required to trade any of these credits. </p>
+
+<p> <ICE-JA:W2D-008#118:1> <bold> B. </bold> Transfer to the Faculty of Arts and General
+
+Studies from Other Faculties or Other Tertiary Institutions </p>
+
+<p> <ICE-JA:W2D-008#119:1> ( i) Students transferring into the Faculty may request credit
+
+for, or exemption from, courses completed in another Faculty or Institution.
+<ICE-JA:W2D-008#120:1> They should apply in writing to the Dean specifying the course(s),
+
+the period of study, and the level obtained.
+<ICE-JA:W2D-008#121:1> They may be provisionally registered pending consideration of their
+
+request. </p>
+
+<p> <ICE-JA:W2D-008#122:1> ( ii) Exemptions and credits are not normally granted in respect
+
+of Level II and Level III courses, except for the Level II University Course.
+
+</p>
+
+<p> <ICE-JA:W2D-008#123:1> ( iii) Credit will not be given to a transfer student for passes
+
+obtained for Faculty courses in the Preliminary Year in the Faculty of
+
+Natural Sciences. </p>
+
+<p> <ICE-JA:W2D-008#124:1> <h> <bold> COURSE REGISTRATION/EXAMINATIONS AND LEAVE </bold>
+
+</h> </p>
+
+<p> <ICE-JA:W2D-008#125:1> 10. ( a) A course may be examined by one or more of the
+
+following: written examination papers, oral tests, course-work, or any other
+
+method or combination of methods approved by the Senate. </p>
+
+<p> <ICE-JA:W2D-008#126:1> ( b) A student failing a course that is not compulsory may
+
+substitute another course in a subsequent semester or may repeat the failed
+
+course. </p> </I>

@@ -1,0 +1,423 @@
+<I>
+
+<p> <ICE-JA:W2A-029#1:1> <h> <bold> Effects of Flood Waters on the Planktonic Community of
+
+the Hellshire Coast, Southeast Jamaica </bold> <fnr> <sp> 1 </sp> </fnr> </h>
+
+<footnote>
+<ICE-JA:W2A-029#2:1> 1 Received 4 September 1991, revision accepted 10 November 1991.
+
+</footnote> </p>
+
+<p> <ICE-JA:W2A-029#3:1> <bold> Dale F. Webber </bold> </p>
+
+<p> <ICE-JA:W2A-029#4:1> <Department of Botany, University of the  West Indies, Mona,
+
+Kingston 7, Jamaica </p>
+
+<p> <ICE-JA:W2A-029#5:1> <bold> Mona K. Webber </bold> </p>
+
+<p> <ICE-JA:W2A-029#6:1> Department of Zoology, University of the West Indies, Mona,
+
+Kingston 7, Jamaica </p>
+
+<p> and </p>
+
+<p> <ICE-JA:W2A-029#7:1> <bold> John C. Roff </bold> </p>
+
+<p> <ICE-JA:W2A-029#8:1> Department of Zoology, University of Guelph, Guelph, Ontario N1G
+
+2W1, Canada </p>
+
+<p> <ICE-JA:W2A-029#9:1> <bold> ABSTRACT </bold> </p>
+
+<p> <ICE-JA:W2A-029#10:1> Between 24 May and 4 June 1986, the island of Jamaica experienced
+
+up to 635 mm of rainfall producing island-wide flooding.
+<ICE-JA:W2A-029#11:1> Planktonic communities along the south coast were studied before and
+
+after the flooding.
+<ICE-JA:W2A-029#12:1> Flood waters from Kingston Harbour flowed southwest along the
+
+Hellshire coast as far as Wreck Reef, but were confined within 4 km of the
+
+shore.
+<ICE-JA:W2A-029#13:1> Water in the bays along the lower Hellshire coast remained clear and
+
+unaffected by harbour water, although planktonic communities there showed
+
+marked changes.
+<ICE-JA:W2A-029#14:1> The Port Royal Cays area and much of the shelf was unaffected.
+<ICE-JA:W2A-029#15:1> During the flood, the normal gradient of decline in planktonic
+
+indices ( biomass, abundance, and community similarity) with distance from
+
+the harbour was disrupted.
+<ICE-JA:W2A-029#16:1> The extent of flooding was evident from dramatic reductions in
+
+salinity and increases in extinction coefficient; temperatures were lowered
+
+by only 1 to 2 &degree; C.
+<ICE-JA:W2A-029#17:1> Flood effects were confined to the upper water column; whereas,
+
+surface salinity and phytoplankton were dramatically changed, they remained
+
+largely unaffected at 7 m depth.
+<ICE-JA:W2A-029#18:1> In surface waters, the number of phytoplankton cells increased up to
+
+4 x 10 <sp> 6 </sp> per liter ( 5 times greater than normal) while biomass
+
+increased to 30 mg Chl. <it> a </it> / m <sp> 3 </sp> ( 10 times normal) and
+
+primary production reached 20.5 mg C/m <sp> 3 </sp> hr ( 20 times normal).
+<ICE-JA:W2A-029#19:1> These large increases in both biomass and primary production occurred
+
+primarily in the nanoplankton size fraction ( 2-20 &mu; m) which was
+
+dominated by <it> Protoperidunum </it> spp.
+<ICE-JA:W2A-029#20:1> Within a week however, the larger net plankton ( &gt; 20 &mu; m)
+
+assumed dominance.
+<ICE-JA:W2A-029#21:1> These high values were short-lived as phytoplankton communities
+
+returned to normal within two weeks of the flood.
+<ICE-JA:W2A-029#22:1> Zooplankton abundances at first decreased sharply in response to
+
+flooding ( <it> e.g. </it> , from &approximate-sign; 20,000 to 200/m <sp> 3
+
+</sp> ) , but reattained normal values within four weeks following the flood.
+<ICE-JA:W2A-029#23:1> In some areas ( <it> e.g. </it> , Harbour mouth, Great Salt Pond)
+
+there was a subsequent 10-fold increase in zooplankton abundance ( up to
+
+209,000/m <sp> 3 </sp> ) comprising mainly larval stages.
+<ICE-JA:W2A-029#24:1> Thus, return to nonflood conditions was achieved at different rates
+
+for the various physical and biological parameters. </p>
+
+<p> <ICE-JA:W2A-029#25:1> <it> Keywords: community diversity; disturbance; flooding;
+
+Jamaica; marine plankton; productivity; salinity. </it> </p>
+
+<p> <ICE-JA:W2A-029#26:1> <smallcaps> For 13 DAYS </smallcaps> , from 24 May to 5 June 1986
+
+the island of Jamaica experienced heavy rains from a stationary tropical
+
+front.
+<ICE-JA:W2A-029#27:1> Over 350 mm of rain fell in the catchment area of the Rio Cobre, 275
+
+mm of rain fell in Kingston and St. Andrew, while a maximum of 635 mm of rain
+
+was recorded at the Norman Manley International Airport.
+<ICE-JA:W2A-029#28:1> All the rivers were in spate and large volumes of silt and organic
+
+laden water poured into Hunts Bay, Kingston Har <l> bour, and out along the
+
+Hellshire coast.
+<ICE-JA:W2A-029#29:1> Smaller volumes of fresh water also poured into the Great Salt Pond
+
+and the bays along Hellshire.
+<ICE-JA:W2A-029#30:1> This oc <l> currence prompted an investigation into the effects of
+
+extreme land runoff and flood waters on the plankton populations of the area.
+<ICE-JA:W2A-029#31:1> Studies already being conducted were intensified to monitor these new
+
+conditions.
+<ICE-JA:W2A-029#32:1> A fuller account of planktonic com <l> munities of the area under
+
+normal conditions is presented elsewhere ( see Chisholm & Roff 1990a,b;
+
+Clarke & Roff 1990; Hopcroft & Roff 1990; Roff <it> et al. </it> 1990; Lindo
+
+1991). </p>
+
+<p> <ICE-JA:W2A-029#33:1> Planktonic organisms are important indicators in the marine
+
+environment due to their prominence in coastal and estuarine communities and
+
+their wide geographical distribution.
+<ICE-JA:W2A-029#34:1> In fact, planktonic com <l> munities are often the surest means of
+
+recognizing water masses of different origins ( <it> e.g. </it> , Raymont
+
+1983).
+<ICE-JA:W2A-029#35:1> In locations such as the Hellshire coast, where preliminary
+
+observations indicate rapid del <l> eterious changes in the coral reef and
+
+seagrass com <l> munities ( Head & Hendry 1985), there is a need to
+
+investigate the causes of these changes.
+<ICE-JA:W2A-029#36:1> Although rainfall and flooding of the magnitude observed in June 1986
+
+does not occur with great regularity, <O> figure </O> <O> caption </O> such
+
+occasions provide an opportunity to recognize different sources of water
+
+flowing into the marine environment which may normally be undetected but yet
+
+are significant.
+<ICE-JA:W2A-029#37:1> For example, such flood events permit the determination of the
+
+maximum extent of influence of polluted Kingston Harbour waters in the
+
+region. </p>
+
+<p> <ICE-JA:W2A-029#38:1> <h> <bold> STUDY SITE </bold> </h> </p>
+
+<p> <ICE-JA:W2A-029#39:1> The Hellshire coast ( Fig. 1) lies immediately south-east of the
+
+eutrophic Kingston Harbour ( Moore & Sander 1982).
+<ICE-JA:W2A-029#40:1> The Harbour is influenced by a num <l> ber of rivers and gullies
+
+which drain Kingston and St. Andrew.
+<ICE-JA:W2A-029#41:1> Hunts Bay, a semi-enclosed part of Kingston Harbour, receives land
+
+runoff via the Rio Cobre, which in turn drains clay/silt loam agricul <l>
+
+tural lands of St. Catherine, and via the Duhaney River and the Sandy Gully
+
+which drain a major part of Kingston and St. Andrew ( Fig. 1).
+<ICE-JA:W2A-029#42:1> The total area of Kingston Harbour and Hunts Bay is
+
+&approximate-sign; 50 km <sp> 2 </sp> . </p>
+
+<p> <ICE-JA:W2A-029#43:1> The 27 km long coastline of Hellshire consists of a number of
+
+small bays with reef systems stretch <l> ing across their entrances.
+<ICE-JA:W2A-029#44:1> The whole area is rela <l> tively shallow with depths ranging form 1
+
+to 16 m.
+<ICE-JA:W2A-029#45:1> Some of these bays receive significant inputs of fresh ground water
+
+from aquifers, and water can be observed freely percolating through the
+
+porous lime <l> stone rocks of the substratum ( which possesses little or now
+
+overburden).
+<ICE-JA:W2A-029#46:1> The land behind many of these bays supports small mangrove lagoons
+
+and salinas which become periodically inundated.
+<ICE-JA:W2A-029#47:1> Great Salt Pond ( 0.17 km <sp> 2 </sp> , Reeson 1971), the largest
+
+man <l> grove lagoon along Hellshire, is located behind Hell <l> shire Bay.
+<ICE-JA:W2A-029#48:1> Water from Great Salt Pond enters Hell <l> shire Bay only via a 12 m
+
+wide man-made channel. </p>
+
+<p> <ICE-JA:W2A-029#49:1> Temperature and salinity gradients in the region are generally
+
+weak. Temperature ranges seasonally from 27 to 29 &degree; C, and salinity
+
+from a minimum of &approximate- sign; 33 &per-thousand; at the Harbour mouth
+
+to 36 &per-thousand; towards the edge of the shelf.
+<ICE-JA:W2A-029#50:1> There is little evidence of vertical stratification ( maximum
+
+temperature profile range is &lt; 1 &degree; C).
+<ICE-JA:W2A-029#51:1> Nitrate concentrations, though highly variable, range from &lt; 0.1 (
+
+limit of detection) to &gt; 8 &mu; M ( mean 1.3 &mu; M) at the Harbour mouth,
+
+to &lt; 0.1 &mu; M to 0.81 &mu; M ( mean 0.3 &mu; M) toward the edge of the
+
+shelf ( Hopcroft & Roff 1990, B. Mor <l> rison, pers. comm.). </p>
+
+<p> <ICE-JA:W2A-029#52:1> <h> <bold> METHODS </bold> </h> </p>
+
+<p> <ICE-JA:W2A-029#53:1> <smallcaps> SAMPLING PROGRAM. </smallcaps>
+<ICE-JA:W2A-029#54:1>  A total of 23 stations was sampled throughout the study area ( Fig.
+
+1).
+<ICE-JA:W2A-029#55:1> This included one station at South East Cay ( 23), part of the Port
+
+Royal Cays system which is unaffected by Harbour outflow ( Hopcroft & Roff
+
+1990), and three stations across the mouth of Kingston harbour ( 1-3).
+<ICE-JA:W2A-029#56:1> The remaining 19 stations were grouped as bay stations: those lying
+
+within the reef barrier and close to the shore ( 4-10); <quote> " inshore"
+
+</quote> stations: those lying &approximate- sign; 500 m from shore ( 11-16);
+
+and <quote> " offshore" </quote> stations: those lying &approximate-sign; 3
+
+km from shore and outside the reef system ( 17-22).
+<ICE-JA:W2A-029#57:1> Regular sampling which had commenced in November 1985, was being
+
+conducted at monthly intervals and continued after the flood of May/June
+
+1986, until March 1987.
+<ICE-JA:W2A-029#58:1> During June 1986, commencing immediately after the flood rains,
+
+sampling was intensified to once per week at 6 stations ( 1, 2, 3, 5, 6, 7)
+
+located around the mouth of Kingston Harbour and the Great Salt Pond, because
+
+the most visible flood effects were observed in this area. </p>
+
+<p> <ICE-JA:W2A-029#59:1> Physical parameters, salinity, temperature, and extinction
+
+coefficient ( calculated from light inten <l> sities, using a Licor light
+
+meter), were measured at each station along with plankton collections. </p>
+
+<p> <ICE-JA:W2A-029#60:1> Phytoplankton was collected in 6 liter Niskin bottles from 1 m
+
+depth at all stations, and addi <l> tionally from 7 m at <quote> " inshore"
+
+</quote> and <quote> " offshore" </quote> stations.
+<ICE-JA:W2A-029#61:1> Phytoplankton biomass was determined as size fractionated chlorophyll
+
+<it> a </it> ( net plankton &gt; 20 &mu; m, nano plankton 2.7-20 &mu; m and
+
+pico plankton 0.7-2.7 &mu; m) using a Turner 111 fluorometer ( Par <l> sons
+
+<it> et al. </it> 1984).
+<ICE-JA:W2A-029#62:1> Size fractionated primary pro <l> duction was also estimated using
+
+the <sp> 14 </sp> C technique following methods of Hopcroft and Roff ( 1990).
+<ICE-JA:W2A-029#63:1> Phytoplankton identification to generic level and enumeration was
+
+performed on 500 ml Lugold pre <l> served whole water samples. </p>
+
+<p> <ICE-JA:W2A-029#64:1> Zooplankton sampling involved 5 minute sur <l> face tows with a
+
+200 &mu; m net at 16 of the 23 stations ( excluding the <quote> " inshore"
+
+</quote> group, 11-16, Fig. 1).
+<ICE-JA:W2A-029#65:1> Vertical hauls from 1 m off the bottom were also conducted at the
+
+<quote> " offshore" </quote> stations.
+<ICE-JA:W2A-029#66:1> Zooplankton samples were preserved in 10 percent formalin and later
+
+identified and enumerated.
+<ICE-JA:W2A-029#67:1> The filtering effi <l> ciency of the 200 &mu; m net ( which ranged
+
+from 50 to 80%) was applied in the calculation of total zooplankton numbers.
+<ICE-JA:W2A-029#68:1> Biomass determinations were also made using preserved material, as
+
+weight loss with preservation was found to be negligible in this area (
+
+Chisholm & Roff 1990a). </p>
+
+<p> <ICE-JA:W2A-029#69:1> In order to determine whether spatial and tem <l> poral
+
+variability of the plankton was real or due only to sampling error, sampling
+
+variability ( N = 5) of bottle casts ( phytoplankton) and net hauls (
+
+zooplankton) was examined.
+<ICE-JA:W2A-029#70:1> Counts of the total number of organisms were made and the coefficient
+
+of variation ( C. V.) was calculated.
+<ICE-JA:W2A-029#71:1> Sampling vari <l> ability ( at a station) for phytoplankton was
+
+&approximate-sign; 10 percent, while for zooplankton sampling it was
+
+&approximate-sign; 15 percent.
+<ICE-JA:W2A-029#72:1> Subsample variation was similarly calcu <l> lated on replicate
+
+subsamples ( N = 7) taken from a single sample; it was &approximate-sign; 3
+
+percent for phytoplank <l> ton and &approximate-sign; 7 percent for
+
+zooplankton.
+<ICE-JA:W2A-029#73:1> Analysis of variance tests were performed using the statistical
+
+program Statgraphics ( STSC Inc. 1986). </p>
+
+<p> <ICE-JA:W2A-029#74:1> In order to establish the levels of similarity of communities
+
+between stations, two indices were cal <l> culated for the entire plankton
+
+community from phytoplankton genera and zooplankton taxon data.
+<ICE-JA:W2A-029#75:1> These were: Jaccard Community Coefficient ( JCC) ( Clifford &
+
+Stephenson 1975) and Percent Simi <l> larity Coefficient ( PSC) ( Whittaker &
+
+Fairbanks 1958, Lee & McAlice 1979).
+<ICE-JA:W2A-029#76:1> JCC neglects conjoint absences and is based on presence and absence,
+
+therefore crediting single rare occurrences with as much weight as
+
+occurrences which are numerous or regular; in contrast, PSC neglects single
+
+rare occur <l> rences.
+<ICE-JA:W2A-029#77:1> Hence, employing both these coefficients may balance their individual
+
+weaknesses.
+<ICE-JA:W2A-029#78:1> Both coeffi <l> cients were calculated by comparing species at all
+
+other stations to stations 1 ( west of the harbour mouth) and station 6 (
+
+Great Salt Pond). </p>
+
+<p> <ICE-JA:W2A-029#79:1> <h> <bold> RESULTS AND DISCUSSION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-029#80:1> The occurrence of the flood clearly indicated the existence of a
+
+number of sources of waters to the Hellshire area, namely: Kingston harbour,
+
+the Great Salt Pond, offshore shelf waters, and runoff into the individual
+
+bays themselves. </p>
+
+<p> <ICE-JA:W2A-029#81:1> Following presentation of visual observations during the flood,
+
+we shall compare parameter means for the entire sampling period under normal
+
+con <l> ditions ( <it> i.e. </it> , from seven months before and nine months
+
+after the flood, but excluding the flood affected months, with values
+
+obtained when the flood effects were at their peak ( for physical param <l>
+
+eters and phytoplankton  6 June).
+<ICE-JA:W2A-029#82:1> Finally we will report weekly changes in parameters as physical
+
+effects of the flood dissipated. </p>
+
+<p> <ICE-JA:W2A-029#83:1> <smallcaps> VISUAL OBSERVATIONS OF FLOOD WATERS. </smallcaps>
+<ICE-JA:W2A-029#84:1>  The dis <l> tribution of the flood waters throughout the study area
+
+( Fig. 1) was observed, during one hour flights, from a light aircraft on 6
+
+and 8 June 1986 ( after cessation of rainfall) at &approximate-sign; 0900
+
+hours, and again on 15 June at &approximate-sign; 1100 hours. </p>
+
+<p> <ICE-JA:W2A-029#85:1> Conditions on 6 and 8 June were similar; Hunts Bay was full of
+
+muddy-brown water and plant debris, except for a patch of red-brown water,
+
+typical of red mangrove areas, backed up in the Dawkins Pond area.
+<ICE-JA:W2A-029#86:1> Muddy-brown water in a distinct plume flowed out of Hunts Bay and
+
+across the Harbour in the direction of the Norman Manley International
+
+Airport ( Fig. 1).
+<ICE-JA:W2A-029#87:1> The Port Royal mangal had its normal red-brown water but it was
+
+distinct from the muddy-brown water of the Hunts Bay plume which had not
+
+entered this area.
+<ICE-JA:W2A-029#88:1> Turbid waters ( but less so than the Hunts Bay plume) were observed
+
+throughout the outer Harbour ( west of the Airport) and seen to flow out of
+
+the harbour.
+<ICE-JA:W2A-029#89:1> This Harbour water was more turbid towards the western side of the
+
+Harbour mouth ( near Lazaretto Cairn). </p>
+
+<p> <ICE-JA:W2A-029#90:1> The plume of turbid water from the Harbour mouth extended east as
+
+far as Gun Cay and im <l> mediately outside of Drunkenmans Cay.
+<ICE-JA:W2A-029#91:1> Both South and South East Cays were surrounded by clear water.
+<ICE-JA:W2A-029#92:1> The turbid water from the Harbour mouth then flowed southwest along
+
+the Hellshire coast, extend <l> ing &approximate-sign; 4 km from shore as far
+
+as Wreck Reef.
+<ICE-JA:W2A-029#93:1> This water, however, remained outside the Hellshire Bays. </I>

@@ -1,0 +1,600 @@
+<I>
+
+<$A> <ICE-JA:S1A-027#1:1:A> What's your job <?> for you</?>
+<ICE-JA:S1A-027#2:1:A> What's your job description
+
+<$B> <ICE-JA:S1A-027#3:1:B> I'm a library assistant
+
+<$A> <ICE-JA:S1A-027#4:1:A> This department<,> <{> <[> is</[>
+
+<$B> <ICE-JA:S1A-027#5:1:B> <[> It's</[></{> Caribbean Food and Nutrition
+
+Institute<{1><[1><,></[1>
+<ICE-JA:S1A-027#6:1:B> So we deal with nutrition <{2> <[2> nutrition-</[2>related material
+
+and we serve like within Caribbean countries
+<ICE-JA:S1A-027#7:1:B> So with this library in the library <unclear> word</unclear>
+
+collection of nutrition <?> that people use</?> in the Caribbean
+
+region<{3><[3><,></[3>
+<ICE-JA:S1A-027#8:1:B> Uhu
+
+<$A> <ICE-JA:S1A-027#9:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-027#10:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-027#11:1:A> <[3> Okay</[3></{3>
+
+<$A> <ICE-JA:S1A-027#12:1:A> Where <{> <[> <,> else</[> do you guys uhm serve
+
+<$B> <ICE-JA:S1A-027#13:1:B> <[> But</[></{>
+
+<$B> <ICE-JA:S1A-027#14:1:B> We serve like<,> mainly people from outside the Caribbean will
+
+write to you or e- mail and ask for information
+<ICE-JA:S1A-027#15:1:B> So we will provide information to <}> <-> <.> tho</.></-> <=>
+
+those</=></}> persons also
+<ICE-JA:S1A-027#16:1:B> But our real target is the Caribbean
+<ICE-JA:S1A-027#17:1:B> People who work on the pan-American health organisation uhm W H O
+<ICE-JA:S1A-027#18:1:B> So they are for <.> tho</.> <unclear> words</unclear><{><[><,></[>
+
+per section right
+
+<$A> <ICE-JA:S1A-027#19:1:A> <[> Okay</[></{>
+
+<$A> <ICE-JA:S1A-027#20:1:A> So uhm <}> <-> is</-> <=> is</=></}> this related to any
+
+uhm<,> what <}> <- > <.> s</.></-> <=> subject</=></}> area
+
+<$B> <ICE-JA:S1A-027#21:1:B> The library has
+<ICE-JA:S1A-027#22:1:B> It's nutrition nutrition and nutrition-related
+
+<$A> <ICE-JA:S1A-027#23:1:A> No I mean students from like what faculty are<{><[> served
+
+through this <?> service</?></[>
+
+<$B> <ICE-JA:S1A-027#24:1:B> <[> Okay</[></{> we serve nutrition and dietetic students from
+
+U Tech<,> Master's in public health students from UWI<{1><[1><,></[1>
+<ICE-JA:S1A-027#25:1:B> Those doing Master's in nutrition from UWI also
+<ICE-JA:S1A-027#26:1:B> <}> <-> Sometime <.> med</.></-> <=> sometimes the medical</=></}>
+
+doctors will come in and <}> <-> they will do</-> <=> they will do</=></}>
+
+research on nutrition
+<ICE-JA:S1A-027#27:1:B> We also serve the high school
+<ICE-JA:S1A-027#28:1:B> You know they have to do S B As<{2><[2><,></[2> on nutrition
+<ICE-JA:S1A-027#29:1:B> So they come in to do their research
+<ICE-JA:S1A-027#30:1:B> And then general public
+<ICE-JA:S1A-027#31:1:B> People just walk in
+
+<$A> <ICE-JA:S1A-027#32:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-027#33:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-027#34:1:A> Oh so it's actually open to <{> <[> <,> everybody</[>
+
+<$B> <ICE-JA:S1A-027#35:1:B> <[> Mhm</[></{>
+<ICE-JA:S1A-027#36:1:B> Because we have books
+<ICE-JA:S1A-027#37:1:B> We've published books we write a whole book and publish and we sell
+<ICE-JA:S1A-027#38:1:B> So people actually come in to purchase books<{><[><,></[>
+<ICE-JA:S1A-027#39:1:B> And you know some people just need information for themselves
+<ICE-JA:S1A-027#40:1:B> And they will come in to get information
+
+<$A> <ICE-JA:S1A-027#41:1:A> <[> <?> Books</?></[></{>
+
+<$A> <ICE-JA:S1A-027#42:1:A> So uhm how long have you been working here
+
+<$B> <ICE-JA:S1A-027#43:1:B> Me
+<ICE-JA:S1A-027#44:1:B> Uhm I think it's about seven years now<{1><[1><,></[1>
+<ICE-JA:S1A-027#45:1:B> Yeah since ninety-seven
+<ICE-JA:S1A-027#46:1:B> I actually go to UWI too
+<ICE-JA:S1A-027#47:1:B> I should be in my final year and submit in September<{2><[2><,>
+<ICE-JA:S1A-027#48:1:B> Uhu</[2>
+
+<$A> <ICE-JA:S1A-027#49:1:A> <[1> Oh</[1></{1>
+
+<$A> <ICE-JA:S1A-027#50:1:A> <[2> Okay
+<ICE-JA:S1A-027#51:1:A> Okay</[2></{2>
+<ICE-JA:S1A-027#52:1:A> So how you're juggling the two
+
+<$B> <ICE-JA:S1A-027#53:1:B> <}> <-> I'm trying</-> <=> I'm trying</=></}> to survive<,>
+
+not making it though but I'm trying<O>laughs</O>
+
+<$A> <ICE-JA:S1A-027#54:1:A> Why do you say that
+
+<$B> <ICE-JA:S1A-027#55:1:B> Because I'm going to UWI for too long now
+<ICE-JA:S1A-027#56:1:B> Actually I should have finished UWI already but uhm I still have
+
+another year to go still have some credits to finish<{1><[1><,></[1> because
+
+it's only
+<ICE-JA:S1A-027#57:1:B> I signed on full-time September last year but actually I was
+
+part-time all along<{2><[2><,></[2>
+<ICE-JA:S1A-027#58:1:B> But it wasn't bad just running to class running come back to work
+
+and all of that
+<ICE-JA:S1A-027#59:1:B> Never bothered at all but you know trying to manage a <}> <->
+
+full-time</-> UWI <=> full-time</=></}> courses with full-time job is hard
+<ICE-JA:S1A-027#60:1:B> Sometimes I don't really <unclear> words</unclear> about some of
+
+<?> them</?> in the night so
+<ICE-JA:S1A-027#61:1:B> But it worked out some way
+<ICE-JA:S1A-027#62:1:B> Have to work
+<ICE-JA:S1A-027#63:1:B> Eh
+<ICE-JA:S1A-027#64:1:B> You have to work
+
+<$A> <ICE-JA:S1A-027#65:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-027#66:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-027#67:1:A> So uhm you had this is a full-time job right<{1><[1><,></[1>
+<ICE-JA:S1A-027#68:1:A> Okay so you're two <}> <-> <.> f</.></-> <=>
+
+full-time</=></}><{2><[2><,></[2><O>laughs</O> full-time school <{3> <[3> and
+
+full-time work<,></[3>
+<ICE-JA:S1A-027#69:1:A> Wow
+
+<$B> <ICE-JA:S1A-027#70:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-027#71:1:B> <[2> <O> laughs</O>Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-027#72:1:B> <[3> And full-time work
+<ICE-JA:S1A-027#73:1:B> Mhm</[3></{3>
+
+<$B> <ICE-JA:S1A-027#74:1:B> But what happened is that I could not take the full load
+
+although I'm full-time student<{><[><,></[>
+<ICE-JA:S1A-027#75:1:B> How much credits you <}> <-> <.> t</.></-> <=> take</=></}>
+<ICE-JA:S1A-027#76:1:B> Fifteen right
+
+<$A> <ICE-JA:S1A-027#77:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-027#78:1:A> If you're a first semester
+
+<$B> <ICE-JA:S1A-027#79:1:B> Yeah
+
+<$A> <ICE-JA:S1A-027#80:1:A> Mhm
+
+<$B> <ICE-JA:S1A-027#81:1:B> Okay I still carrying the full-time load then cos they were
+
+saying that I cheated myself because<,> I only took four courses this
+
+semester
+<ICE-JA:S1A-027#82:1:B> But then they still add up to the fifteen credits because one is a
+
+six-credit course<{><[><,></[>
+<ICE-JA:S1A-027#83:1:B> Mhm
+<ICE-JA:S1A-027#84:1:B> But I'm trying to finish
+<ICE-JA:S1A-027#85:1:B> I probably will
+<ICE-JA:S1A-027#86:1:B> I'm thinking of quitting the job to go finish <?> it</?> up
+<ICE-JA:S1A-027#87:1:B> I have to see how much credit I'll need though
+
+<$A> <ICE-JA:S1A-027#88:1:A> <[> Okay
+<ICE-JA:S1A-027#89:1:A> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-027#90:1:A> So <}> <-> what which </-> <{> <[> <,> </[> <=> what</=></}>
+
+area
+
+<$B> <ICE-JA:S1A-027#91:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-027#92:1:B> I do library studies<{><[><,> Yeah
+
+obviously</[><O>laughter</O>
+
+<$A> <ICE-JA:S1A-027#93:1:A> <[> Okay
+<ICE-JA:S1A-027#94:1:A> So it's</[></{>
+
+<$A> <ICE-JA:S1A-027#95:1:A> Okay
+<ICE-JA:S1A-027#96:1:A> So it's just like you know some people do a job <{1> <[1> <}> <->
+
+just</-> right</[1> <=> just</=></}> to get by <{2> <[2> but</[2> doing
+
+something else <{3> <[3> you know</[3>
+
+<$B> <ICE-JA:S1A-027#97:1:B> <[1> And they did something else</[1></{1>
+
+<$B> <ICE-JA:S1A-027#98:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-027#99:1:B> <[3> Hm library studies</[3></{3>
+<ICE-JA:S1A-027#100:1:B> They found me I didn't find it
+
+<$A> <ICE-JA:S1A-027#101:1:A> And you <{> <[> still</[> like it
+
+<$B> <ICE-JA:S1A-027#102:1:B> <[> Actually</[></{><,><O>laughter</O>
+<ICE-JA:S1A-027#103:1:B> <}> <-> <.> Actu</.></- ><+>actually</+></}> I'm learning to
+<ICE-JA:S1A-027#104:1:B> <{1> <[1> <}> <-> <.> Actua</.></- ><+>actually</+></}></[1>
+
+because the first job I went into was a library I started working <{2> <[2>
+
+with</[2> uhm Jamaica library service when I left high school
+<ICE-JA:S1A-027#105:1:B> And you know when they used to say to me <@> Sally</@> go study
+
+library I <?> said</?> no<,> not at all<O>laughter</O>
+<ICE-JA:S1A-027#106:1:B> But then this is the second job and it happened to be in a library
+
+again<{3><[3><,></[3>
+<ICE-JA:S1A-027#107:1:B> <}> <-> And then I <{4> <[4> was right on <.> ca</.></-></[4>
+<ICE-JA:S1A-027#108:1:B> Yeah
+<ICE-JA:S1A-027#109:1:B> <=> And then I was right on campus</=></}>
+<ICE-JA:S1A-027#110:1:B> And actually the first year <}> <-> I</-> <=> I</=></}> applied
+
+for UWI I applied for management studies<{5><[5><,></[5> and didn't get in
+<ICE-JA:S1A-027#111:1:B> So the second year I said
+<ICE-JA:S1A-027#112:1:B> Now I have to get in
+<ICE-JA:S1A-027#113:1:B> And I applied for library studies
+<ICE-JA:S1A-027#114:1:B> And that's how come <}> <-> I <.> s</.></-> <=> I started</=></}>
+
+doing library
+<ICE-JA:S1A-027#115:1:B> So I think I will stick with it
+<ICE-JA:S1A-027#116:1:B> Got used to it by now you know
+<ICE-JA:S1A-027#117:1:B> I getting old too so<O>laughter</O>
+
+<$A> <ICE-JA:S1A-027#118:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-027#119:1:A> <[2> Okay</[2></{2>
+
+<$A> <ICE-JA:S1A-027#120:1:A> <[3> Okay<O>laughs</O></[3></{3>
+
+<$A> <ICE-JA:S1A-027#121:1:A> <[4> That's something<O>laughs</O></[4></{4>
+
+<$A> <ICE-JA:S1A-027#122:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-027#123:1:A> Yeah sure<,><O>laughs</O> sure sure
+<ICE-JA:S1A-027#124:1:A> <?> If that's</?> because your <?> aim was</?> the library <{1>
+
+<[1> <?> at the beginning</?></[1> you know
+<ICE-JA:S1A-027#125:1:A> <{2> <[2> Well</[2>
+
+<$B> <ICE-JA:S1A-027#126:1:B> <[1> Yeah</[1></{1>
+
+<$B> <ICE-JA:S1A-027#127:1:B> <[2> So</[2></{2> <}> <-> I have to</-> <=> I have to</=></}>
+
+settle down now
+<ICE-JA:S1A-027#128:1:B> I have to settle down and find
+
+<$A> <ICE-JA:S1A-027#129:1:A> Maybe it's just <unclear> word</unclear> <}> <-> you you</->
+
+<=> you</=></}> decide you know I can do library after all because you came
+
+to UWI and see some young people
+
+<$B> <ICE-JA:S1A-027#130:1:B> Mhm<O>laughter</O>
+<ICE-JA:S1A-027#131:1:B> Doing it
+
+<$A> <ICE-JA:S1A-027#132:1:A> Yeah
+
+<$B> <ICE-JA:S1A-027#133:1:B> I don't know
+<ICE-JA:S1A-027#134:1:B> And I don't find it easy now
+<ICE-JA:S1A-027#135:1:B> I used to think that it was too easy<{1><[1><,></[1>
+<ICE-JA:S1A-027#136:1:B> I think that was my problem<{2><[2><,></[2> when<,> you know
+
+working in a library I said
+<ICE-JA:S1A-027#137:1:B> Oh why would I want to go study library nothing to know you
+
+know<,>
+<ICE-JA:S1A-027#138:1:B> But then in it now I find it hard studying it
+<ICE-JA:S1A-027#139:1:B> So I don't think it's for me
+<ICE-JA:S1A-027#140:1:B> I do better at the other courses
+
+<$A> <ICE-JA:S1A-027#141:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-027#142:1:A> <[2> Okay</[2></{2>
+
+<$A> <ICE-JA:S1A-027#143:1:A> Okay<{><[><,></[>
+<ICE-JA:S1A-027#144:1:A> So uhm what exactly why you say it's hard what exactly doesn't
+
+come <?> off</?>
+
+<$B> <ICE-JA:S1A-027#145:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-027#146:1:B> <}> <-> I'm not I'm not</-> <=> I'm not</=></}> getting it
+<ICE-JA:S1A-027#147:1:B> I don't know if this is because they use <}> <-> the <.>
+
+jarg</.></-> <=> the library jargon</=></}> there or what but<,> sometimes I
+
+don't know I'm just not getting it<,>
+<ICE-JA:S1A-027#148:1:B> Or is it that they just mark hard
+<ICE-JA:S1A-027#149:1:B> Somebody was telling me that a lecturer who's been in our
+
+department just marks hard
+<ICE-JA:S1A-027#150:1:B> I don't think so<{><[><,>
+<ICE-JA:S1A-027#151:1:B> You</[> know but I do better at other subjects
+<ICE-JA:S1A-027#152:1:B> But because then I just like sociology and all of the others I get
+
+better grades
+
+<$A> <ICE-JA:S1A-027#153:1:A> <[> Okay</[></{>
+
+<$A> <ICE-JA:S1A-027#154:1:A> So <unclear> words</unclear> <?> gave a</?> thought of
+
+transferring <?> of schools</?>
+
+<$B> <ICE-JA:S1A-027#155:1:B> Yeah but then to do all of those extra credits to catch up I
+
+couldn't bother
+<ICE-JA:S1A-027#156:1:B> And then <}> <-> I</-> <=> I've</=></}> started I was going to
+
+transfer to management studies and probably starting the management studies
+
+courses
+<ICE-JA:S1A-027#157:1:B> And then I decided that you know my grandmother got sick and I
+
+dropped out of UWI for a while
+<ICE-JA:S1A-027#158:1:B> <{1> <[1> And then when</[1> I came back I said
+<ICE-JA:S1A-027#159:1:B> Now man I have to finish something
+<ICE-JA:S1A-027#160:1:B> You know it just looked like a long process <{2> <[2> <,> to</[2>
+
+go do the management studies<{3><[3><,></[3> all over again<{4><[4><,></[4>
+<ICE-JA:S1A-027#161:1:B> And I said no
+<ICE-JA:S1A-027#162:1:B> Start library studies already let me just finish it
+<ICE-JA:S1A-027#163:1:B> And so when I came back in September I just signed up for all
+
+library courses and I'm trying to finish
+<ICE-JA:S1A-027#164:1:B> So by next year I should be out
+
+<$A> <ICE-JA:S1A-027#165:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-027#166:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-027#167:1:A> <[3> Yeah</[3></{3>
+
+<$A> <ICE-JA:S1A-027#168:1:A> <[4> Again</[4></{4>
+
+<$A> <ICE-JA:S1A-027#169:1:A> <}> <-> There're</-> <=> there are</=></}> a lot of persons
+
+doing it
+
+<$B> <ICE-JA:S1A-027#170:1:B> Mhm
+<ICE-JA:S1A-027#171:1:B> A lot of young people this year
+<ICE-JA:S1A-027#172:1:B> I was surprised
+<ICE-JA:S1A-027#173:1:B> All of them like uhm <}> <-> late <.> twen</.> late</-> you know
+
+like between <=> late teens</=></}> to<{><[><,></[> <}> <-> <.> twe</.></->
+
+<=> late twenties</=></}>
+<ICE-JA:S1A-027#174:1:B> Normally it used to be a lot of old people
+<ICE-JA:S1A-027#175:1:B> <?> <}> <-> <.> U</.></-> <=> usually</=></}></?> some fifty year
+
+old<O>speaker-A-laughs</O>
+<ICE-JA:S1A-027#176:1:B> Hello what them doing at UWI<O>laughter</O>
+
+<$A> <ICE-JA:S1A-027#177:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-027#178:1:A> You're wondering
+
+<$B> <ICE-JA:S1A-027#179:1:B> Doing first degree<,><O>laughter</O>
+
+<$A> <ICE-JA:S1A-027#180:1:A> You're being biased <{> <[> <unclear> word</unclear></[>
+
+<$B> <ICE-JA:S1A-027#181:1:B> <[> Turn off the</[></{> recorder cos she coming in here to
+
+be bad<O>laughs</O>
+
+<$A> <ICE-JA:S1A-027#182:1:A> Come and be bad
+
+<$B> <ICE-JA:S1A-027#183:1:B> <?> Shouldn't they say they</?> want to interview you coming
+
+to interview you
+
+<$C> <ICE-JA:S1A-027#184:1:C> No we haven't
+<ICE-JA:S1A-027#185:1:C> I guess <?> you have to say it loud</?><&>interruption-of-
+
+recording</&>
+
+<$A> <ICE-JA:S1A-027#186:1:A> Right uhm the C F N I right <{> <[> <,> </[> has like
+
+different sections that do different things
+
+<$B> <ICE-JA:S1A-027#187:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-027#188:1:B> We have different staff members
+<ICE-JA:S1A-027#189:1:B> It's just <}> <-> one <.> bi</.></-> <=> one institute</=></}>
+<ICE-JA:S1A-027#190:1:B> Though we have a branch in Trinidad
+<ICE-JA:S1A-027#191:1:B> So we just basically have different staff members
+<ICE-JA:S1A-027#192:1:B> We just like a one-man team for each section like we have a
+
+nutrition educator public uh nutritionist uhm medical dietician food
+
+economist you know just one person for each section
+<ICE-JA:S1A-027#193:1:B> And the secretaries they don't have their own uhm like a personal
+
+<{1> <[1> secretary</[1>
+<ICE-JA:S1A-027#194:1:B> So they will have like a project they call them project
+
+secretaries
+<ICE-JA:S1A-027#195:1:B> So like one secretary would have to work with
+
+three<{2><[2><,></[2> technical staff
+<ICE-JA:S1A-027#196:1:B> The only person who might have his own secretary is the director
+
+you know
+<ICE-JA:S1A-027#197:1:B> Basically that's it
+<ICE-JA:S1A-027#198:1:B> And<,> whatever you need like you know like some person who might
+
+want you to come in and give a talk or give a presentation they're doing that
+
+sort of a thing and they're going and they do lectures like on campus UWI
+
+wherever
+
+<$A> <ICE-JA:S1A-027#199:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-027#200:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-027#201:1:A> <unclear> words</unclear>
+
+<$B> <&> addresses-another-person</&><ICE-JA:S1A-027#>Hi<O>laughs</O>
+<ICE-JA:S1A-027#202:1:B> Hello how you're doing
+
+<$A> <ICE-JA:S1A-027#203:1:A> Uhm so <}> <-> <.> y</.></-> <=> you</=></}> do <?> have
+
+like</?> you come and you want like some<,> if you want a
+
+diet<{1><[1><,></[1> and you saw a book on diets <?> especially for
+
+you</?><{2><[2><,></[2>
+<ICE-JA:S1A-027#204:1:A> A diet or uhm you know
+<ICE-JA:S1A-027#205:1:A> Tips on how to go about creating a diet for yourself
+<ICE-JA:S1A-027#206:1:A> Do they provide that service
+
+<$B> <ICE-JA:S1A-027#207:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-027#208:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-027#209:1:B> They have a the medical dietician or the nutritionists will
+
+help you
+<ICE-JA:S1A-027#210:1:B> But sometimes they will refer you to the dietician at the
+
+hospital<{1><[1><,></[1>
+<ICE-JA:S1A-027#211:1:B> Sometimes it's lack of time and <}> <-> the</-> <=> the</=></}>
+
+hospital is mostly for the public<,> right
+<ICE-JA:S1A-027#212:1:B> So <}> <-> is the <.> pu</.></-> <=> there is <?> like</?>
+
+public</=></}> nutritionist
+<ICE-JA:S1A-027#213:1:B> So that's where the public should go<{2><[2><,></[2>
+<ICE-JA:S1A-027#214:1:B> Yeah
+
+<$A> <ICE-JA:S1A-027#215:1:A> <[1> Right</[1></{1>
+
+<$A> <ICE-JA:S1A-027#216:1:A> <[2> Okay</[2></{2>
+
+<$A> <ICE-JA:S1A-027#217:1:A> Uhm so <}> <-> if</-> <=> if</=></}> they should do uhm
+
+create a diet for you<{><[><,></[> <unclear> one-or-two-words</unclear> like
+
+<?> payment</?
+
+<$B> <ICE-JA:S1A-027#218:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-027#219:1:B> Mm
+<ICE-JA:S1A-027#220:1:B> No
+<ICE-JA:S1A-027#221:1:B> But that's not really their work you see<{1><[1><,></[1>
+<ICE-JA:S1A-027#222:1:B> <}> <-> They're</-> <=> they're</=></}> busy doing other
+
+things<{2><[2><,></[2>
+<ICE-JA:S1A-027#223:1:B> They're trying to create you know like they do bigger
+
+stuff<{3><[3><,></[3> so to do one for you on a personal like an individual
+
+level most time they don't have the time to do it
+<ICE-JA:S1A-027#224:1:B> But they will facilitate to you <{4> <[4> <,> if they have the
+
+time</[4>
+<ICE-JA:S1A-027#225:1:B> Yeah
+<ICE-JA:S1A-027#226:1:B> Most of the time <?> staying</?> out travelling to different
+
+countries <?> gotta</?> remember we serve the Caribbean<{5><[5><,></[5> and
+
+it's like eighteen Caribbean countries in the region that we serve
+<ICE-JA:S1A-027#227:1:B> So most of their days are spent in other countries
+<ICE-JA:S1A-027#228:1:B> You hardly find that
+<ICE-JA:S1A-027#229:1:B> The only reason you see most of them on staff this week because we
+
+had a lot of <unclear> words</unclear> during last week and we had some
+
+students coming from <unclear> place-name</unclear>
+<ICE-JA:S1A-027#230:1:B> There's a <?> course that we run</?> <unclear> one-or-
+
+two-words</unclear> <unclear> place-name</unclear> university
+<ICE-JA:S1A-027#231:1:B> And students are here for two weeks
+<ICE-JA:S1A-027#232:1:B> So most of them have to be here<{6><[6><,></[6>
+<ICE-JA:S1A-027#233:1:B> Okay
+<ICE-JA:S1A-027#234:1:B> But <?> there are</?> a lot of time you might come and you can't
+
+find anyone <?> near it</?>
+<ICE-JA:S1A-027#235:1:B> You know they have to run workshops all over the place and suppose
+
+the government like you know in Jamaica with our School Feeding Programme
+
+that the ministry will ask us to assist with the School Feeding Programme
+<ICE-JA:S1A-027#236:1:B> <?> Now we've</?> to create that project <unclear> words</unclear>
+
+food that people should eat
+<ICE-JA:S1A-027#237:1:B> <unclear> words</unclear>
+<ICE-JA:S1A-027#238:1:B> Like <unclear> words</unclear> country needs some help or some
+
+assistance with some kind of project they'll ask us to assist
+<ICE-JA:S1A-027#239:1:B> And once they fund it you know so the staff <unclear>
+
+words</unclear> <?> busy</?> basically
+
+<$A> <ICE-JA:S1A-027#240:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-027#241:1:A> <[2> Okay</[2></{2> <?>
+
+<$A> <ICE-JA:S1A-027#242:1:A> <[3> Mhm
+<ICE-JA:S1A-027#243:1:A> Oh</[3></{3></?>
+
+<$A> <ICE-JA:S1A-027#244:1:A> <[4> Oh like trouble <unclear> words</unclear></[4></{4>
+
+<$A> <ICE-JA:S1A-027#245:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-027#246:1:A> <[6> Now</[6></{6>
+
+<$A> <ICE-JA:S1A-027#247:1:A> So basically the only well part really open to the public I
+
+see <{1> <[1> the library</[1>
+<ICE-JA:S1A-027#248:1:A> Okay
+<ICE-JA:S1A-027#249:1:A> <{2> <[2> And</[2> you have books on
+
+<$B> <ICE-JA:S1A-027#250:1:B> <[1> Is the library</[1></{1>
+
+<$B> <ICE-JA:S1A-027#251:1:B> <[2> So</[2></{2>
+
+<$B> <ICE-JA:S1A-027#252:1:B> We have <{1> <[1> books on</[1> almost anything
+<ICE-JA:S1A-027#253:1:B> So if you want to create a diet plan for yourself <{2> <[2> <}>
+
+<-> you</-></[2> <=> you</=></}> can always come and <unclear> word</unclear>
+
+<?> around</?> and do your own research
+<ICE-JA:S1A-027#254:1:B> And books are available you know the <unclear> words</unclear> are
+
+very good
+<ICE-JA:S1A-027#255:1:B> So <}> <-> you'll</-> most time <=> you'll</=></}> find a
+
+book<{3><[3><,></[3> <}> <-> you'll need</-> <=> that you'll need</=></}> and
+
+I order it for you <{4> <[4> <,> </[4>
+<ICE-JA:S1A-027#256:1:B> <?> Mhm</?>
+
+<$A> <ICE-JA:S1A-027#257:1:A> <[1> <?> Yeah
+<ICE-JA:S1A-027#258:1:A> Okay</?></[1></{1>
+
+<$A> <ICE-JA:S1A-027#259:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-027#260:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-027#261:1:A> <[4> Okay</[4></{4>
+
+<$A> <ICE-JA:S1A-027#262:1:A> Do you have the books that say uhm like show you steps like
+
+in preparing uhm <}> <-> a diet</-> <=> a <{> <[> diet</[></=></}>
+
+<$B> <ICE-JA:S1A-027#263:1:B> <[> Uhu</[></{>
+<ICE-JA:S1A-027#264:1:B> Well I guess <?> a</?> diet but that'll be <?> special</?> <&>
+
+telephone-rings</&>diet for<,> somebody who have diabetes and so forth
+<ICE-JA:S1A-027#265:1:B>
+
+Hello<&>short-interruption-tape-immediately-continued</&><&>unintelligible-
+
+speech</&>
+
+<$A> <ICE-JA:S1A-027#266:1:A> Cos basically I don't eat vegetarian so I mean <{> <[>
+
+yes</[>
+<ICE-JA:S1A-027#267:1:A> And<,> but the thing is every time I saying alright<,> I need to
+
+go on a diet what I try to do really is just reduce the amount that I eat
+
+<$B> <ICE-JA:S1A-027#268:1:B> <[> So</[></{></I>

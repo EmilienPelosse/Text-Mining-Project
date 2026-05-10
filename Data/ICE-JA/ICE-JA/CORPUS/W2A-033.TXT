@@ -1,0 +1,378 @@
+<I>
+
+<p> <ICE-JA:W2A-033#1:1> <h> <bold> THE SCIENTIFIC BASIS FOR SOLAR DRYING OF RED MUD
+
+</bold> </h> </p>
+
+<p> <ICE-JA:W2A-033#2:1> John L. Chandler </p>
+
+<p> <ICE-JA:W2A-033#3:1> Senior Technical Consultant, Alcan Jamaica Company </p>
+
+<p> <ICE-JA:W2A-033#4:1> ABSTRACT
+<ICE-JA:W2A-033#5:1> The solar drying of red mud, as is now practised at the Ewarton
+
+alumina plant of Alcan Jamaica Company, is basically a very simple process.
+<ICE-JA:W2A-033#6:1> The mud is spread out and allowed to dry under the hot tropical sun.
+<ICE-JA:W2A-033#7:1> Though simple, the process had to be neither over nor underdesigned in
+
+terms of the size of drying area necessary to treat the volume of mud
+
+effluent from the plant.
+<ICE-JA:W2A-033#8:1> The principles underlying the spread <l> ing and drying of the mud had
+
+to be well understood and quantified to avoid mistakes in design which could
+
+be costly and harmful to the environment. </p>
+
+<p> <ICE-JA:W2A-033#9:1> Of the many scientific aspects of this project, which had to be
+
+studied, two are dealt with in some detail in this paper  the rate of
+
+evaporation and the influence the rheology of the mud has on its pumping to
+
+the drying site and its spreading thereon. </p>
+
+<p> <ICE-JA:W2A-033#10:1> <h> <bold> INTRODUCTION </bold> </h> </p>
+
+<p> <ICE-JA:W2A-033#11:1> Red mud is the common name for the major waste material from
+
+alumina plants.
+<ICE-JA:W2A-033#12:1> It is the part of bauxite which is insoluble in the caustic soda used
+
+in alumina plants to extract the valuable part, alumina hydrate, from the
+
+bauxite. </p>
+
+<p> <ICE-JA:W2A-033#13:1> The main constituents of red mud are the oxides of iron, silicon,
+
+titanium, and aluminium.
+<ICE-JA:W2A-033#14:1> Nearly all of it is of very small particle size.
+<ICE-JA:W2A-033#15:1> As it comes from the alumina plant it is in the form of a slurry,
+
+i.e. the particles are suspended in water.
+<ICE-JA:W2A-033#16:1> The water contains a small concentration of the caustic soda used in
+
+the plant, together with a smaller concentration of sodium carbonate and
+
+sodium aluminate.
+<ICE-JA:W2A-033#17:1> It is these solutes which, though only slightly toxic, are a threat
+
+to water supplies and make the handling of the waste an important part of the
+
+process.
+<ICE-JA:W2A-033#18:1> Without them, the solids in the red mud slurry would ( after drying)
+
+be very similar in properties to the bauxite from which it came. </p>
+
+<p> <ICE-JA:W2A-033#19:1> Extensive efforts made, worldwide, to utilize red mud as a raw
+
+material for a useful product have not yet yielded a process which can absorb
+
+a significant proportion of its vast output.
+<ICE-JA:W2A-033#20:1> Consequently, safe dis <l> posal of the major part of the red mud
+
+produced is now, and is likely to be for some time, a major con <l>
+
+sideration in the process. </p>
+
+<p> <ICE-JA:W2A-033#21:1> In earlier systems of red mud disposal the red mud slurry came
+
+direct from the last stage of mud washing thickeners in the alumina plant,
+
+and conse <l> quently was a fairly fluid slurry.
+<ICE-JA:W2A-033#22:1> On reaching the <quote> " mud pond" </quote> this slurry would
+
+separate quickly into two phases  the liquid phase, which was a dilute
+
+solution of the caustic liquor circulating in the alumina plant, and a
+
+semi-solid phase, which was a much more viscous slurry than that coming from
+
+the plant.
+<ICE-JA:W2A-033#23:1> If the mud pond was sealed, the liquor phase could be recycled to the
+
+alumina plant, thereby saving the chemical content of the liquor ( sodium
+
+hydroxide, sodium carbonate, sodium aluminate, and traces of other chemicals)
+
+and eliminating the chance of these chemicals contaminating the en <l>
+
+vironment  particularly its water supplies.
+<ICE-JA:W2A-033#24:1> If the pond was not sealed, either naturally or by a manufactured
+
+seal, most of the liquor would seep into the ground and possibly contaminate
+
+water sup <l> plies if local conditions allowed.
+<ICE-JA:W2A-033#25:1> The chemicals in <l> volved are not very toxic, especially when
+
+highly diluted by rain water as they often are, but they can give the water
+
+an unpleasant taste and put it beyond the sodium concentration limits
+
+normally regarded as acceptable for potable water supplies. </p>
+
+<p> <ICE-JA:W2A-033#26:1> Whether or not the pond is sealed, the semi-solid phase continues
+
+to lose liquid at an ever decreasing rate over several years, and so becomes
+
+more and more solid with time.
+<ICE-JA:W2A-033#27:1> In the case of Jamaican red mud ( which is very much finer in
+
+particle size than red mud from other bauxites) the mud slurry comes from the
+
+plant at around 20% solids concentration, then quickly loses liquid until it
+
+is about 35% solids.
+<ICE-JA:W2A-033#28:1> Thereafter, it loses liquid slower and slower until it reaches around
+
+50% solids.
+<ICE-JA:W2A-033#29:1> This process is shown diagramatically in Figure 1.
+<ICE-JA:W2A-033#30:1> A useful study of the dynamics of these red mud ponds was carried out
+
+by Yong and Ludwig. <sp> 1 </sp> </p> <O> figure </O> <O> caption </O>
+
+<p> <ICE-JA:W2A-033#31:1> The earlier mud disposal system suffered from loss of chemicals
+
+and risk of environmental pollu <l> tion if the pond was not sealed, and
+
+suffered from very high mud disposal cost if it was sealed ( the high cost
+
+being due to the cost of sealing and the frequen <l> cy of having to build
+
+new sealed ponds as each one lasted only a few years before becoming
+
+completely filled). </p>
+
+<p> <ICE-JA:W2A-033#32:1> An improvement on the mud disposal system described above was the
+
+so-called <quote> " dry stacking" </quote> method which originated in Germany
+
+and was described by Schepers and Haerter. <sp> 2 </sp>
+<ICE-JA:W2A-033#33:1> More recently Pohland and Tielens <sp> 3 </sp> reviewed the method.
+<ICE-JA:W2A-033#34:1> It was adopted by several alumina plants in the 1960s and 1970s.
+<ICE-JA:W2A-033#35:1> A similar method for other mineral tailings was first reported by
+
+Robinsky. <sp> 4,5 </sp>
+<ICE-JA:W2A-033#36:1> The essence of this method is that red mud slurry would be dewatered
+
+( i.e. solids concentration increased) suf <l> ficiently before leaving the
+
+alumina plant that it would not immediately separate into two phases.
+<ICE-JA:W2A-033#37:1> This is usually done by vacuum filtering the washed mud slurry in the
+
+plant.
+<ICE-JA:W2A-033#38:1> This produced a filter <quote> " cake" </quote> which can be pumped
+
+to mud ponds by high pressure pumps ( usually the cake has to be liquified by
+
+violent agitation and addition of a small amount of water before it can be
+
+pumped). </p>
+
+<p> <ICE-JA:W2A-033#39:1> Besides having less liquid to lose ( and thereby reducing
+
+pollution risk if the pond is not sealed), dewatering and thickening red mud
+
+slurry to the ex <l> tent that high pressure pumps are needed to transport it
+
+gives it the additional advantage that it does not flow readily.
+<ICE-JA:W2A-033#40:1> It therefore piles up to form a low angle <quote> " stack" </quote>
+
+having a gradient, after it comes to rest, of between 2% and 10% ( between 2
+
+and 10 units verti <l> cally to 100 units horizontally) depending on how
+
+<quote> " thick" </quote> the mud slurry has been made.
+<ICE-JA:W2A-033#41:1> The ad <l> vantage of this stack angle is that rain water runs
+
+readily off the stack rather than re-wetting the mud as happens with the
+
+earlier method.
+<ICE-JA:W2A-033#42:1> Though it takes a long time, red mud stacks will dry out and become
+
+hard, whereas most mud ponds will never dry out. </p>
+
+<p> <ICE-JA:W2A-033#43:1> The advantages of drying red mud as part of its scheme for
+
+disposal make the cost and effort of doing so worthwhile.
+<ICE-JA:W2A-033#44:1> Dried red mud takes up much less space.
+<ICE-JA:W2A-033#45:1> A 75% by weight slurry occupies a little less than half the volume
+
+occupied by a 50% by weight slurry.
+<ICE-JA:W2A-033#46:1> Figure 2 shows the shrinkage of red mud, starting at 23% solids and
+
+drying to zero mois <l> ture.
+<ICE-JA:W2A-033#47:1> Note that very little shrinkage occurs after 75% solids. </p> <O>
+
+figure </O> <O> caption </O>
+
+<p> <ICE-JA:W2A-033#48:1> <h> <bold> STACKING AND SOLAR DRYING </bold> </h> </p>
+
+<p> <ICE-JA:W2A-033#49:1> Though a stack of red mud will dry out eventual <l> ly, reaching
+
+dryness can take a long time, especially if the initial water content is as
+
+high, as it is bound to be if the mud comes from Jamaican bauxite. (
+<ICE-JA:W2A-033#50:1> Jamaican red mud which is fluid enough to be pumped, has a moisture
+
+content of 70-75% whereas pumpable muds from other bauxites typically con <l>
+
+tain around 50% of water.
+<ICE-JA:W2A-033#51:1> The water content of Jamaican mud, per tonne of dry solids, can
+
+therefore be three times that of other red muds). </p>
+
+<p> <ICE-JA:W2A-033#52:1> Solar evaporation rate in Jamaica is high com <l> pared with most
+
+other countries where red mud is produced but the high tonnage of water to be
+
+evaporated ( around 4500 tonnes/day for each Alcan alumina plant) meant that
+
+evaporation rate had to be optimized in order to keep the land area used
+
+reasonable.
+<ICE-JA:W2A-033#53:1> The scientific part of the mud disposal project therefore had to do
+
+with finding and optimiz <l> ing the factors which affect the relationship
+
+between areas used for drying and the quantity of mud dried thereon. </p>
+
+<p> <ICE-JA:W2A-033#54:1> This paper is concerned mainly with the scien <l> tific aspects
+
+of solar drying of red mud slurry.
+<ICE-JA:W2A-033#55:1> Never <l> theless, in an operation carried out on a scale dictated by
+
+the red mud output of a modern day alumina plant ( 1000-2000 tonnes/day solid
+
+basis, 4000-10000 ton <l> nes/day wet basis), scientific aspects could not be
+
+en <l> tirely divorced from economic considerations i.e. cost of disposal had
+
+to lie within the range affordable in relation to the market price for the
+
+end product  aluminium.
+<ICE-JA:W2A-033#56:1> Hence elegant methods of intensifica <l> tion of solar radiation such
+
+as lens or mirror con <l> centration of radiation falling on a larger area,
+
+or automatic angling of the receiving surface to keep it perpendicular to the
+
+sun's rays, had to be excluded.
+<ICE-JA:W2A-033#57:1> Likewise, double handling of the mud would have been uneconomic;
+
+consequently, the mud had to be dried in the same location it was to remain
+
+after drying.
+<ICE-JA:W2A-033#58:1> Economic factors limited the number of vari <l> ables which could be
+
+manipulated in striving towards the best solution for disposal of the red
+
+mud. </p>
+
+<p> <ICE-JA:W2A-033#59:1> The two major scientific aspects of solar drying dealt with in
+
+this paper are:- </p>
+
+<p> <ICE-JA:W2A-033#60:1> a) How drying rate is affected by evaporation rate and </p>
+
+<p> <ICE-JA:W2A-033#61:1> b) How the rheology of the mud affects the evaporation rate via
+
+the depth of mud layer being dried. </p>
+
+<p> <ICE-JA:W2A-033#62:1> <h> <bold> DRYING RATE </bold> </h> </p>
+
+<p> <ICE-JA:W2A-033#63:1> The solar drying of any wet, solid material in <l> volves
+
+exposing a large area of the material to direct solar radiation in order to
+
+provide latent heat for evaporation of surface water.
+<ICE-JA:W2A-033#64:1> As the surface water evaporates into the surrounding air, it is
+
+replaced by more water from the interior of the mass. </p>
+
+<p> <ICE-JA:W2A-033#65:1> It is possible to estimate evaporation rates by an <quote> "
+
+energy balance" </quote> method which assumes that all radiation, less a
+
+proportion calculated to be lost by convection, conduction and re-radiation,
+
+results in evaporation.
+<ICE-JA:W2A-033#66:1> Such a method is the one proposd by Penman. <sp> 6 </sp>
+<ICE-JA:W2A-033#67:1> As this method needs a lot of equipment, and more direct measurements
+
+of evaporation rate were available, it was not used in the present study.
+<ICE-JA:W2A-033#68:1> It was interesting, however, to check whether the magnitude of solar
+
+radiation in Jamaica was suffi <l> cient to provide the latent heat. </p>
+
+<p> <ICE-JA:W2A-033#69:1> For mud at a concentration of 25% solids, 2.67 tonnes have to be
+
+evaporated from every tonne of solid to dry it to 75% solids.
+<ICE-JA:W2A-033#70:1> Consequently, to dry 1500 tonnes/day, dry basis ( the mud output of
+
+the Ewarton plant at full production), on the 200 acres ( 80 hectares) site
+
+available near the plant, would re <l> quire an average evaporation rate of
+
+5mm/day. </p>
+
+<p> <ICE-JA:W2A-033#71:1> If we assume an evaporation rate of 5mm/day, 5kg of water will be
+
+evaporated off each square meter.
+<ICE-JA:W2A-033#72:1> The latent heat needed for this evaporation would be 2850 kg.
+
+cals/day.
+<ICE-JA:W2A-033#73:1> This converts to 138 watts average over the 24 hours, but as most of
+
+this comes from solar radiation, the average during 10 sunshine hours needs
+
+to be 331 watt/m <sp> 2 </sp> . </p>
+
+<p> <ICE-JA:W2A-033#74:1> When compared with the measured <quote> " mean net incoming
+
+radiation" </quote> of 420 watts/m <sp> 2 </sp> at Kirkvine, reported by Wagh
+
+<sp> 7 </sp> , it appears that there is more than sufficient solar radiation
+
+to provide for 5 mm/day evaporation.
+<ICE-JA:W2A-033#75:1> Wagh's average was taken from read <l> ings taken hourly between 0730
+
+and 1730 at Batter <l> sea Pond, near Kirkvine Works, and they showed that
+
+there is very little insolation outside these hours. </p>
+
+<p> <ICE-JA:W2A-033#76:1> Extrapolation from the data of Langhaar ( 1953) to Jamaica's
+
+latitude of 18 &degree; N gives maximum 24 hour averages ( i.e. for perfectly
+
+clear skies) of 130 BTU/(hr) ( sp.ft) in mid summer to 90 BTU in mid winter.
+<ICE-JA:W2A-033#77:1> These convert to 410 and 284 watts/m <sp> 2 </sp> over 24 hours, or
+
+984 and 687 over 10 sunshine hours.
+<ICE-JA:W2A-033#78:1> As these figures are for cloudless skies, and the averages due to
+
+cloud and rain are 50-60% ( say 55%) of the cloudless averages in the Eastern
+
+United States <sp> 8 </sp> we could expect actual monthly 10- hour averages
+
+in Jamaica to be from 540 watt/m <sp> 2 </sp> ( mid summer) to 375 watts in
+
+mid winter.
+<ICE-JA:W2A-033#79:1> These figures agree well with the 420 watts reported by Wagh.
+<ICE-JA:W2A-033#80:1> The conclusion reached is that solar radiation in Jamaica is
+
+sufficient to provide the evaporation required, providing it im <l> pinges on
+
+a wet mud surface. </p>
+
+<p> <ICE-JA:W2A-033#81:1> <h> <bold> Mass Transport Theory </bold> </h> </p>
+
+<p> <ICE-JA:W2A-033#82:1> The alternative to Energy Balance treatment of evaporation is the
+
+mass transport approach.
+<ICE-JA:W2A-033#83:1> This pos <l> tulates a DRIVING FORCE for evaporation and a RESISTANCE
+
+to it.
+<ICE-JA:W2A-033#84:1> The relationship between these two factors controls the evaporation
+
+rate. </p> </I>

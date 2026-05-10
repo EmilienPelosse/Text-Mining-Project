@@ -179,7 +179,6 @@ def train_model(variety_name, train_files, valid_files):
     trainer.save_model(output_dir)
     tokenizer.save_pretrained(output_dir)
 
-    print(f"Finished training {variety_name} model.")
     print(f"Model saved to: {output_dir}")
 
 # Train one model for each English variety

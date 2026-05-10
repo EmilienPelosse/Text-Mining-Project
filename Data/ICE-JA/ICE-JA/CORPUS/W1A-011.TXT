@@ -1,0 +1,518 @@
+<I>
+
+<p> <ICE-JA:W1A-011#1:1> Some words are phrases <del> but</del> only <del> not</del> when
+
+it can stand alone in the case of <del> iof</del> <mention> <ul> Sally</ul>
+
+walked down the street.</mention></p>
+
+<p> <ICE-JA:W1A-011#2:1> <mention> Sally</mention> is a noun phrase and be clefted for
+
+example <mention> It was <ul> Sally</ul> who walked down the
+
+street.</mention></p>
+
+<p> <ICE-JA:W1A-011#3:1> Phrases are string of words dominated by <}> <->
+
+an</-><+>a</+></}> head.
+<ICE-JA:W1A-011#4:1> For example</p>
+
+<p> <ICE-JA:W1A-011#5:1> <mention> She [ is [ a very pretty <ul> girl</ul>]]</mention></p>
+
+<p> <ICE-JA:W1A-011#6:1> The head is the noun so it is called a noun phrase.
+<ICE-JA:W1A-011#7:1> This phrase consists of a modifier and an adjective P.
+<ICE-JA:W1A-011#8:1> To cleft this noun phrase <}> <-> it would</-> <=> it would</=></}> be
+
+ungrammatical to say:</p>
+
+<p> <ICE-JA:W1A-011#9:1> <mention> *girl very a pretty <del> girl</del> she
+
+is.</mention></p>
+
+<p> <ICE-JA:W1A-011#10:1> Here the modifier is attributing to meaning.
+<ICE-JA:W1A-011#11:1> Phrases are clefted to the meaning it contributes.</p>
+
+<p> <ICE-JA:W1A-011#12:1> Likewise in the given data the possessive marker is attached to
+
+the noun phrase and not the noun.
+<ICE-JA:W1A-011#13:1> Although the head of the phrase in the <}> <-> jamaican</-
+
+><+>Jamaican</+></}> data is a noun, the significant entity is the noun
+
+phrase.
+<ICE-JA:W1A-011#14:1> <mention> Fi</mention> has to be clefted with the entire phrase:
+
+<mention> [ fi yu maaga  fut fren]</mention> for it to be grammatical
+
+because if attached to the noun it makes it ungrammatical.</p>
+
+<p> <ICE-JA:W1A-011#15:1> In the English data, the entire phrase is a noun phrase dominated
+
+by a noun entity.
+<ICE-JA:W1A-011#16:1> It is not the woman's, the noun in the phrase, <del> the</del> hat
+
+but [ the woman in the blue coat's] hat.
+<ICE-JA:W1A-011#17:1> Therefore it would be ungrammatical to attach the possessive marker
+
+with the noun since <del> the</del> it is attached to noun phrases.
+<ICE-JA:W1A-011#18:1> <}> <-> An other</- ><+>Another</+></}> example to justify this
+
+notion is:</p>
+
+<p> <ICE-JA:W1A-011#19:1> ( i) <mention> [ Jack's book] is on the table.</mention></p>
+
+<p> <ICE-JA:W1A-011#20:1> ( ii) <mention> On the table is where [ Jack's book]
+
+is.</mention></p>
+
+<p> <ICE-JA:W1A-011#21:1> The noun phrase <mention> [ Jack's book]</mention> is clefted
+
+grammatically and not for example</p>
+
+<p> <ICE-JA:W1A-011#22:1> <mention> *Jack's on the table book is.</mention>
+<ICE-JA:W1A-011#23:1> Therefore <mention> Jack's</mention> is a word and not a phrase so
+
+only phrases are clefted.
+<ICE-JA:W1A-011#24:1> Words sometimes have to make up phrases and not stand by themselves
+
+as a phrase to carry meaning.
+<ICE-JA:W1A-011#25:1> The word <mention> very</mention> are modifiers and therefore has to
+
+be combined with adjectives and noun in noun phrases therefore conveying
+
+meaning.</p>
+
+<p> <ICE-JA:W1A-011#26:1> <space> II</p>
+
+<p> <ICE-JA:W1A-011#27:1> [ A yu fren] mi sii</p>
+
+<p> <ICE-JA:W1A-011#28:1> Mi sii [ yu fren]</p>
+
+<p> <ICE-JA:W1A-011#29:1> A pan [ di tiebl] di kii de.</p>
+
+<p> <ICE-JA:W1A-011#30:1> [ Di kii] de pan di tiebl.</p>
+
+<p> <ICE-JA:W1A-011#31:1> Your friend is who I saw.</p>
+
+<p> <ICE-JA:W1A-011#32:1> I saw your friend.</p>
+
+<p> <ICE-JA:W1A-011#33:1> On the table is where the keys are.</p>
+
+<p> <ICE-JA:W1A-011#34:1> The keys are on the table.</p>
+
+<p> <ICE-JA:W1A-011#35:1> Subjects and direct objects can be tested for in several ways.
+<ICE-JA:W1A-011#36:1> To show the syntactic properties of subject examine the following
+
+sentences.</p>
+
+<p> <ICE-JA:W1A-011#37:1> <space> ( 1) Penguins have inhabited Antarctica for centuries,
+
+haven't they?</p>
+
+<p> <ICE-JA:W1A-011#38:1> <space> ( 2) Antarctica has been inhabited by penguins for
+
+centuries, hasn't it?</p>
+
+<p> <ICE-JA:W1A-011#39:1> Both sentences are tag questions and are grammatical.
+<ICE-JA:W1A-011#40:1> The subject of sentence 1, is <mention> Penguins</mention> so the
+
+pronoun used in the second clause <}> <-> referres</- ><+>refers</+></}> back
+
+to the subject in agreement.
+<ICE-JA:W1A-011#41:1> <mention> Penguins</mention> <del> are</del> is plural therefore the
+
+pronoun there is plural.
+<ICE-JA:W1A-011#42:1> Also it is polarize.
+<ICE-JA:W1A-011#43:1> That is the main clause is positive so the second clause becomes
+
+negative and vice versa.
+<ICE-JA:W1A-011#44:1> Also in sentence 2, the pronoun is agreeing with the subject
+
+<mention> Antarctica</mention>.
+<ICE-JA:W1A-011#45:1> It is also polarize.
+<ICE-JA:W1A-011#46:1> But this can be disputed with the subject verb agreement as in the
+
+case of the dummy subject <mention> " there"</mention>.
+<ICE-JA:W1A-011#47:1> For example</p>
+
+<p> <ICE-JA:W1A-011#48:1> <space> There are two books.</p>
+
+<p> <ICE-JA:W1A-011#49:1> <space> There is a book.</p>
+
+<p> <ICE-JA:W1A-011#50:1> In both sentences <mention> " there"</mention> does <del> no
+
+sub</del> not trigger off the verb agreement.
+<ICE-JA:W1A-011#51:1> It is the non-verbal <del> entitys</del> entities the noun phrases,
+
+<mention> <ul> two books</ul></mention> and <mention> <ul> a
+
+book</ul></mention> <del> that</del> which determine the use of <mention> "
+
+is"</mention> or <mention> " are"</mention>.
+<ICE-JA:W1A-011#52:1> Even though this provides us with evidences to tell the subject of a
+
+sentence it can be inadequate.</p>
+
+<p> <ICE-JA:W1A-011#53:1> The morphological properties can be used to test subjects.
+<ICE-JA:W1A-011#54:1> This states that subject appears in tensed or finite clause.</p>
+
+<p> <ICE-JA:W1A-011#55:1> <space> ( 1) <del> She will be</del> Sally is at the party.</p>
+
+<p> <ICE-JA:W1A-011#56:1> <space> ( 2) I believe <ul> her</ul> being at the party ruined
+
+it</p>
+
+<p> <ICE-JA:W1A-011#57:1> In sentence ( 1), <mention> Sally</mention> can be substituted
+
+with a pronoun in the subjective case and therefore is the subject of the
+
+sentence.
+<ICE-JA:W1A-011#58:1> But in sentence ( 2) <mention> <ul> her</ul></mention> is the subject
+
+but it is in an objective case <del> or</del> in a tenseless clause.
+<ICE-JA:W1A-011#59:1> So this theory is also inadequate although some truth of subject is
+
+shown.</p>
+
+<p> <ICE-JA:W1A-011#60:1> The morphological test of <del> <.> obj</.></del> direct objects
+
+states that direct objects are in the objective case.
+<ICE-JA:W1A-011#61:1> For example</p>
+
+<p> <ICE-JA:W1A-011#62:1> ( 1) The boy eats <del> icecream</del> sweets.</p>
+
+<p> <ICE-JA:W1A-011#63:1> ( 2) The boy eats <ul> them</ul>.</p>
+
+<p> <ICE-JA:W1A-011#64:1> ( 3) Mary ran into [ <ul> the <sp> NP</sp>house</ul>.]<p>
+
+<p> <ICE-JA:W1A-011#65:1> In sentence ( 2) it shows the substitution for <mention>
+
+sweets</mention>, the direct object, as <mention> them</mention>.
+<ICE-JA:W1A-011#66:1> But in sentence ( 3), the theory is counteracted by the noun phrase
+
+<mention> " the house"</mention> an object to the preposition <mention> "
+
+into"</mention> is <del> not</del> in the <del> subjective</del> objective
+
+case.
+<ICE-JA:W1A-011#67:1> This again is <}> <-> a</-><+>an</+></}> inadequate assumption.</p>
+
+<p> <ICE-JA:W1A-011#68:1> The syntactic theory to direct object can also be inadequate.
+<ICE-JA:W1A-011#69:1> For example</p>
+
+<p> <ICE-JA:W1A-011#70:1> <space> <mention> She loves icecream.</mention></p>
+
+<p> <ICE-JA:W1A-011#71:1> Here the direct object is optional and is not doing anything to
+
+the verb.
+<ICE-JA:W1A-011#72:1> The verb is optionally transitive.
+<ICE-JA:W1A-011#73:1> To say the</p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1A-011#74:2> Phrases are syntactic categories consisting of a head word and
+
+other items.
+<ICE-JA:W1A-011#75:2> The head word of the phrase gives the phrase its label; <del>
+
+that</del> only major category words may head phrases.
+<ICE-JA:W1A-011#76:2> The head and the other items must stick together and <del> <unclear>
+
+word></unclear></del> have a coherent meaning.
+<ICE-JA:W1A-011#77:2> The head of the phrase may be of any of the major categories, N, V, P
+
+or A.
+<ICE-JA:W1A-011#78:2> In some cases a phrase may consist of only one word but it must be
+
+the head word.
+<ICE-JA:W1A-011#79:2> For example <mention> " the dog"</mention> here this is <}> <->
+
+an</-><+>a</+></}> NP consisting of <del> only</del> a noun <mention>
+
+dog</mention>, the other item in the phrase is the indefinite article
+
+<mention> " the"</mention> which helps to give reference only if the phrase
+
+is part of earlier discourse that mentions a dog.</p>
+
+<p> <ICE-JA:W1A-011#80:2> The heads do not give reference, it is the combination of the
+
+head and the other items that give reference; that is, phrases are important
+
+in pointing out the particular entity that is <}> <->
+
+beign</-><+>being</+></}> talked about.
+<ICE-JA:W1A-011#81:2> In <mention> fi yu maaga fut fren</mention>, <mention> fi</mention>
+
+the <}> <-> possesive</-><+>possessive</+></}> marker <del> is parted</del>
+
+attaches to the phrase, as is seen in the ungrammatical sentences when it is
+
+separated from the rest of the items in the phrase. <O> bad quality
+
+text</O></p>
+
+<p> <ICE-JA:W1A-011#82:2> In the NP <mention> the woman in the blue coat's hat</mention>
+
+<mention> the hat</mention> does belong to the woman, but the <}> <->
+
+genetive</-><+>genitive</+></}> marker does not attach to the word <mention>
+
+woman</mention>.
+<ICE-JA:W1A-011#83:2> The suffix is attached to the NP.
+<ICE-JA:W1A-011#84:2> The entire phrase has a reference <mention> a woman in a blue
+
+coat</mention>, this is shown by looking at the entire phrase not <mention>
+
+woman</mention> in isolation, therefore the significance of phrases is shown
+
+by the <}> <-> genetive</-><+>genitive</+></}> marker being attached to the
+
+end of the NP and not to the head word.
+<ICE-JA:W1A-011#85:2> Note that ungrammaticality results when the suffix is attached to the
+
+noun.</p>
+
+<p> <ICE-JA:W1A-011#86:2> Clefting is a method of distinguishing whether a group of words
+
+constitute a phrase or not.
+<ICE-JA:W1A-011#87:2> If a group of words may <del> be <unclear> word</unclear></del> be
+
+clefted <O> bad quality text</O> that group of words is a phrase.
+<ICE-JA:W1A-011#88:2> Consider, <mention> A yu fren mi sii</mention>, and the ungrammatical
+
+<mention> *A fren mi sii yu</mention>, here <mention> yu fren</mention> is a
+
+phrasal unit, hence separation results in ungrammaticality.
+<ICE-JA:W1A-011#89:2> The difference is apparent when the sentence is seen in its original
+
+state <mention> mi sii yu fren</mention>.
+<ICE-JA:W1A-011#90:2> <mention> Yu fren</mention> constitutes <}> <-> an</- ><+>a</+></}>
+
+NP. <O> bad quality text</O></p>
+
+<p> <ICE-JA:W1A-011#91:2> In <mention> A pan di tiebl di kii de</mention>, the PP <mention>
+
+pan di tiebl</mention> must be <del> <unclear> two words</unclear></del>
+
+clefted as an entire phrase  hence ungrammaticality results.
+<ICE-JA:W1A-011#92:2> <mention> Pan</mention> by itself does not constitute a PP  the PP
+
+consists of the P <del> on</del> <mention> pan</mention> and the NP <del> the
+
+table</del> <mention> di tiebl</mention>  hence the ungrammatical <mention>
+
+*A pan di kii de di tiebl</mention>.
+<ICE-JA:W1A-011#93:2> The grammatical cleft sentence supports this: <mention> Di kii de pan
+
+di tiebl.</mention>
+<ICE-JA:W1A-011#94:2> Also, the original sentence: <mention> Di kii de pan di
+
+tiebl</mention>, shows us that <mention> de pan</mention> is a phrasal
+
+unit.</p>
+
+<p> <ICE-JA:W1A-011#95:2> Combining words into phrases, allows for better understanding of
+
+discourse.
+<ICE-JA:W1A-011#96:2> Heads and <del> the <unclear> two words</unclear></del> the units
+
+they co-occur with to form phrases, give not only sense to discourse but also
+
+reference.
+<ICE-JA:W1A-011#97:2> Phrases help to point out exactly what is <del> <unclear>
+
+word</unclear></del> being talked about, and the meaningful <del> <unclear>
+
+word</unclear></del> roles that these entities play in discourse.
+
+<p> <ICE-JA:W1A-011#98:2> The notions of subject and direct objects are fundamental to
+
+syntactic analysis.
+<ICE-JA:W1A-011#99:2> In order to explain the relationships that exist among the items in a
+
+sentence we need to know <del> exactly</del> how to identify subjects and
+
+direct objects.
+<ICE-JA:W1A-011#100:2> <del> In order to do so we do diagnostics for these</del> Subjects
+
+and direct objects <del> play</del> have structural functions in sentences,
+
+these functions are grammatical functions.</p>
+
+<p> <ICE-JA:W1A-011#101:2> One <del> <unclear> word</unclear></del> test for subject is
+
+case, subjects have subjective case.
+<ICE-JA:W1A-011#102:2> English marks its subject pronouns morphologically, <del> as
+
+see</del> the subject pronouns are <mention> she</mention>, <mention>
+
+he</mention>, <mention> they</mention>, <mention> you</mention>, <mention>
+
+I</mention>.
+<ICE-JA:W1A-011#103:2> These pronouns can appear only in subject position of a tensed
+
+clause.
+<ICE-JA:W1A-011#104:2> Contrast with the object pronouns <mention> her</mention>, <mention>
+
+him</mention>, </mention> them</mention>.
+<ICE-JA:W1A-011#105:2> The ungrammaticality of <mention> *Them disliked they</mention>
+
+supports this.</p>
+
+<p> <ICE-JA:W1A-011#106:2> <del> A</del> Syntactic test for subject has to do with tag
+
+questions, in a tag the subject NP determines the NP that appears in the
+
+tag.</p>
+
+<p> <ICE-JA:W1A-011#107:2> <del> If the</del> To test <del> <unclear> word</unclear>
+
+subject</del> to see whether <mention> penguins</mention> have subjective
+
+case we substitute a pronoun, in this case  <mention> they</mention>.
+<ICE-JA:W1A-011#108:2> <mention> They</mention> is therefore the subject and it reappears
+
+in the tag.
+<ICE-JA:W1A-011#109:2> Likewise in <del> <unclear> word</unclear></del> ( ii) if we
+
+substitute the pronoun <mention> it</mention> for <mention>
+
+Antarctica</mention>, it also reappears in the tag.
+<ICE-JA:W1A-011#110:2> It is <del> <unclear> word</unclear></del> regarded as a dummy
+
+subject.
+<ICE-JA:W1A-011#111:2> We could have also substituted another pronominal to check if
+
+<mention> Antarctica</mention> had subjective case, as <mention> "
+
+it"</mention> is not morphologically marked in subjective or objective
+
+case.</p>
+
+<p> <ICE-JA:W1A-011#112:2> Only subjects and their verbs agree.
+<ICE-JA:W1A-011#113:2> If the subject is singular the verb is marked morphologically by the
+
+suffix s.
+<ICE-JA:W1A-011#114:2> ( As seen in ( IV)).</p>
+
+<p> <ICE-JA:W1A-011#115:2> <del> The direct object always follows the verb</del> The direct
+
+object is usually local to the verb.
+<ICE-JA:W1A-011#116:2> DO's are usually participants in the activity denoted by the verb.
+<ICE-JA:W1A-011#117:2> This would lead us to say that syntactically the DO must be local or
+
+near to the verb.
+<ICE-JA:W1A-011#118:2> In ( VI) <mention> the penguins</mention> are the entities being
+
+watched ( ie they are the D.O. of the V), when it is separated from the V
+
+ungrammaticality results.
+<ICE-JA:W1A-011#119:2> The phrase with <del> D.O.s may also be in <.> i</.></del> <mention>
+
+her binoculars</mention> serves as a modifier, a D.O is the NP that follows
+
+the verb and is a participant in the activity denoted by the verb and must
+
+not be a modifier.</p></I>
+
+
+<I>
+
+<p> <ICE-JA:W1A-011#120:3> <del> In morphological tests for direct objects</del>
+<ICE-JA:W1A-011#121:3> In English, sentences are made up of subjects and verbs.
+<ICE-JA:W1A-011#122:3> The verbs selects its participants which are the arguments.
+<ICE-JA:W1A-011#123:3> Verbs are intransitive and transitive.
+<ICE-JA:W1A-011#124:3> Transitive verbs take a direct object whether optionally or
+
+purposefully.</p>
+
+<p> <ICE-JA:W1A-011#125:3> The morphological test for direct objects is that they are in
+
+objective case or accusative case.
+<ICE-JA:W1A-011#126:3> The direct object in English must be a noun phrase that immediately
+
+follows the transitive verb.</p>
+
+<p> <ICE-JA:W1A-011#127:3> The <del> syntactic</del> semantic test on the other hand shows
+
+that the direct object is the entity that the action is being done to.
+<ICE-JA:W1A-011#128:3> Let us examine the following data and see if the results are what is
+
+stated about the direct objects.</p>
+
+<p> <ICE-JA:W1A-011#129:3> In question ( i) the sentences are:</p>
+
+<p> <ICE-JA:W1A-011#130:3> ( a) Fred served <ul> lunch</ul> to the students</p>
+
+<p> <ICE-JA:W1A-011#131:3> ( b) Fred served <ul> the students</ul> lunch.</p>
+
+<p> <ICE-JA:W1A-011#132:3> In sentence ( i) ( a) the verb <mention> 'served'</mention> has
+
+an inherent meaning, that is, you have to <del> served</del> serve something.
+<ICE-JA:W1A-011#133:3> The item that was served is <mention> 'lunch'</mention> which
+
+immediately follows the verb and it is in the objective case.
+<ICE-JA:W1A-011#134:3> Sentence i ( b) on the other hand is what we refer to a dative
+
+alternative whereby the direct object changes place with the indirect object
+
+and the preposition <mention> 'to'</mention> is deleted.
+<ICE-JA:W1A-011#135:3> In this case <mention> 'the students'</mention> that follow the verb
+
+is not a direct object because a preposition can be inserted.
+<ICE-JA:W1A-011#136:3> This means that <mention> " the students'</mention> is the object of
+
+the preposition and not the verb <mention> 'served'</mention>.</p>
+
+<p> <ICE-JA:W1A-011#137:3> In sentence ( iii), they are as follows</p>
+
+<p> <ICE-JA:W1A-011#138:3> ( a) They turned <ul> circles</ul> on the ice.</p>
+
+<p> <ICE-JA:W1A-011#139:3> ( b) They turned on <ul> the ice-maker</ul>.</p>
+
+<p> <ICE-JA:W1A-011#140:3> Again from this data sentence ( iii) ( a) has a direct object
+
+<mention> 'circles'</mention> as it is a noun phrase and it immediately
+
+follows the verb <mention> 'turned'</mention>.
+<ICE-JA:W1A-011#141:3> <del> However, in sentence ( b) the preposition <mention> 'on'</mention>
+
+comes between the verb and the noun phrase <mention> 'the ice-
+
+maker'</mention> and where there is an insertion the noun phrase is an object
+
+of the preposition and not the verb.</del></p>
+
+<p> <ICE-JA:W1A-011#142:3> In sentence ( iii) ( b) the noun phrase <mention> 'the
+
+ice-maker'</mention> is the direct object of the complex verb <mention> 'turned
+
+on'</mention> because it immediately follows the verb.
+<ICE-JA:W1A-011#143:3> The word <mention> 'on'</mention> is not a preposition but a part of
+
+the verb <mention> 'turned'</mention>.</p>
+
+<p> <ICE-JA:W1A-011#144:3> In sentence ( v), they</del> the data is as follows:</p>
+
+<p> <ICE-JA:W1A-011#145:3> ( a) They know <ul> the story<ul>.</p>
+
+<p> <ICE-JA:W1A-011#146:3> ( b) They know <ul> him to be a good story-teller</ul>.</p>
+
+<p> <ICE-JA:W1A-011#147:3> In the sentence v ( a), the noun phrase, <mention> 'the
+
+story'</mention> is also a direct object of the verb <mention> 'know'</mention>
+
+because it immediately follows it and it is in objective case.
+<ICE-JA:W1A-011#148:3> However in sentence ( v) ( b) the phrase that follows the verb is
+
+not a direct object.
+<ICE-JA:W1A-011#149:3> The sentence consists of two clauses, that is, the main clause and
+
+an embedded clause.
+<ICE-JA:W1A-011#150:3> Although the pronoun <mention> 'him'</mention> that follows the verb
+
+is in objective case, it is the subject in the embedded clause of the
+
+infinitive verb <mention> 'to be'</mention>.</p></I>

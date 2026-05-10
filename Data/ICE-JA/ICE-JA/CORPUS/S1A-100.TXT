@@ -1,0 +1,676 @@
+<I>
+
+<$A> <ICE-JA:S1A-100#1:1:A> Hello
+
+<$B> <ICE-JA:S1A-100#2:1:B> Good evening doctor
+
+<$A> <ICE-JA:S1A-100#3:1:A> Good evening
+<ICE-JA:S1A-100#4:1:A> Welcome to our show
+
+<$B> <ICE-JA:S1A-100#5:1:B> Uhm two questions
+
+<$A> <ICE-JA:S1A-100#6:1:A> Sure go right ahead
+
+<$B> <ICE-JA:S1A-100#7:1:B> Can a person's fingernail reflect one's state of health and if
+
+so what for example would be a warning sign
+
+<$A> <ICE-JA:S1A-100#8:1:A> Haha
+<ICE-JA:S1A-100#9:1:A> Uhm that's a very interesting question because in what's known as
+
+traditional Chinese <{1> <[1> medicine</[1> if you went to <}> <-> a</-> <=>
+
+a</=></}> doctor in China<{2><[2><,></[2> his examination might involve
+
+taking a history that's asking about your complaints<{3><[3><,></[3> looking
+
+at your tongue and looking at your fingernails<{4><[4><,></[4> and feeling
+
+your pulse<{5><[5><,></[5> and just from doing those things he often is able
+
+to make a very accurate analysis of your state of health<{6><[6><,></[6>
+<ICE-JA:S1A-100#10:1:A> Even in conventional medicine<,> examining the fingernails can tell
+
+a lot about things like the circulation about whether you are anaemic or
+
+not<{7><[7><,></[7> about whether your body might be lacking in certain
+
+minerals about what potential problems with your hormones
+<ICE-JA:S1A-100#11:1:A> There's a tremendous amount of information that can come from
+
+examining the fingernails
+<ICE-JA:S1A-100#12:1:A> <{8> <[8> Sure</[8>
+
+<$B> <ICE-JA:S1A-100#13:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-100#14:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-100#15:1:B> <[3> Yes</[3></{3>
+
+<$B> <ICE-JA:S1A-100#16:1:B> <[4> Yes</[4></{4>
+
+<$B> <ICE-JA:S1A-100#17:1:B> <[5> Yes</[5></{5>
+
+<$B> <ICE-JA:S1A-100#18:1:B> <[6> Yes</[6></{6>
+
+<$B> <ICE-JA:S1A-100#19:1:B> <[7> Yes</[7></{7>
+
+<$B> <ICE-JA:S1A-100#20:1:B> <[8> <}> <-> You</-></[8></{8> <=> you</=></}> know actually
+
+tell-tale signs I mean looking at the nails I mean it's the lines on it uh
+
+and so on and so on
+
+<$A> <ICE-JA:S1A-100#21:1:A> Sure sure
+<ICE-JA:S1A-100#22:1:A> Many many tell-tale signs <}> <-> for <.> o</.></-> <=> for
+
+one</=></}> thing the colour of your nailbed<{1><[1><,></[1>
+<ICE-JA:S1A-100#23:1:A> Okay
+<ICE-JA:S1A-100#24:1:A> Brittleness of the nail whether the nails break
+
+easily<{2><[2><,></{2> ridges discoloration or marks on the
+
+nail<{3><[3><,></[3> are all the kinds of things that the doctor will be
+
+looking for<{4><[4><,></[4>
+<ICE-JA:S1A-100#25:1:A> <}> <-> <.> S</.></-> <=> and</=></}> of course those signs in the
+
+fingernails wouldn't be taken in isolation
+<ICE-JA:S1A-100#26:1:A> He would then look at the whole picture the other aspects of
+
+you<{5><[5><,></[5> okay to use that in conjunction what he finds from
+
+looking at the nails to come up with potential diagnosis or close towards
+
+diagnosis<{6><[6><,></[6>
+<ICE-JA:S1A-100#27:1:A> So your fingernails <?> <}> <-> they don't</-></?> <=> are
+
+not</=></}> necessarily the be all and the end all but they would look at
+
+that in conjunction with all the other symptoms <{7> <[7> or signs</[7>
+
+<$B> <ICE-JA:S1A-100#28:1:B> <[1> Yes</[1></{1>
+
+<$B> <ICE-JA:S1A-100#29:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-100#30:1:B> <[3> Mhm</[3></{3>
+
+<$B> <ICE-JA:S1A-100#31:1:B> <[4> Yes</[4></{4>
+
+<$B> <ICE-JA:S1A-100#32:1:B> <[5> Yes</[5></{5>
+
+<$B> <ICE-JA:S1A-100#33:1:B> <[6> Yes</[6></{6>
+
+<$B> <ICE-JA:S1A-100#34:1:B> <[7> So that means</[7></{7> that one would have to see a
+
+practitioner
+
+<$A> <ICE-JA:S1A-100#35:1:A> Yes
+<ICE-JA:S1A-100#36:1:A> I would not recommend that you just have someone look at your nails
+
+or you look at your nails<{1><[1><,></[1> and try to diagnose the
+
+problem<{2><[2><,></[2>
+<ICE-JA:S1A-100#37:1:A> For example suppose your nails were breaking a lot<{3><[3><,></[3>
+<ICE-JA:S1A-100#38:1:A> That definitely could suggest a number of things
+<ICE-JA:S1A-100#39:1:A> Certainly deficiency in <?> things like</?> calcium but it could
+
+also so there's an uh imbalance in some of your hormones
+<ICE-JA:S1A-100#40:1:A> So it would be wise to go and have that checked out <{4> <[4> with
+
+your doctor</[4>
+
+<$B> <ICE-JA:S1A-100#41:1:B> <[1> Aha</[1></{1>
+
+<$B> <ICE-JA:S1A-100#42:1:B> <[2> <O> laughter</O>Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-100#43:1:B> <[3> Yes</[3></{3>
+
+<$B> <ICE-JA:S1A-100#44:1:B> <[4> Yes</[4></{4>
+
+<$B> <ICE-JA:S1A-100#45:1:B> Next question doc
+<ICE-JA:S1A-100#46:1:B> A ringing ear<{1><[1><,></[1>
+<ICE-JA:S1A-100#47:1:B> I think it's called tinnitus or something like <{2> <[2> that and
+
+uhm</[2>
+
+<$A> <ICE-JA:S1A-100#48:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1A-100#49:1:A> <[2> That's correct
+<ICE-JA:S1A-100#50:1:A> Tinnitus is</[2></{2> the medical term for ringing in the ears
+
+<$B> <ICE-JA:S1A-100#51:1:B> Yes now uhm it can be caused from uhm the impact of <?>
+
+vaccineers</?>
+
+<$A> <ICE-JA:S1A-100#52:1:A> It can be caused from anything that's irritating or disturbing
+
+the ear<{1><[1><,></[1> okay
+<ICE-JA:S1A-100#53:1:A> Now the tinnitus is usually coming because of some disturbance in
+
+the middle and the inner part of the ear<{2><[2><,> not</[2> from the outer
+
+ear
+<ICE-JA:S1A-100#54:1:A> But many things disturbance in the circulation disturbances in
+
+nerve conduction<{3><[3><,></[3> very very trauma from things like<,> high<,>
+
+pitched noises<{4><[4><,></[4> are all the different kinds of things that can
+
+actually produce <}> <- > tinntus</-><+>tinnitus</+></}> <{5> <[5>
+<ICE-JA:S1A-100#55:1:A> You know that tinnitus</[5>
+
+<$B> <ICE-JA:S1A-100#56:1:B> <[1> Yes</[1></{1>
+
+<$B> <ICE-JA:S1A-100#57:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-100#58:1:B> <[3> Yeah</[3></{3>
+
+<$B> <ICE-JA:S1A-100#59:1:B> <[4> Yes</[4></{4>
+
+<$B> <ICE-JA:S1A-100#60:1:B> <[5> In fact <}> <-> you</-></[5></{5> <=> you</=></}> suggest
+
+that uhm it would be wiser one see an E N T specialist
+
+<$A> <ICE-JA:S1A-100#61:1:A> Yes <}> <-> in</-> <=> if</=></}> it persists you'd certainly
+
+want to have an evaluation<{1><[1><,></[1> okay and it might also be
+
+necessary to have your hearing tested to see if there's any hearing loss
+
+associated with <{2> <[2> the tinnitus</[2> okay
+
+<$B> <ICE-JA:S1A-100#62:1:B> <[1> Yes</[1></{1>
+
+<$B> <ICE-JA:S1A-100#63:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-100#64:1:B> <}> <-> That</-> <=> that's</=></}> all for now <{> <[> doctor
+<ICE-JA:S1A-100#65:1:B> Thanks</[>
+
+<$A> <ICE-JA:S1A-100#66:1:A> <[> Well
+<ICE-JA:S1A-100#67:1:A> <}> <-> <.> O</.></-> <=> one</=></}> little thing <?> I'd</?>
+
+mentioned to you
+<ICE-JA:S1A-100#68:1:A> You might try drinking or <?> drink</?> a little
+
+ginger<{1><[1><,></[1>
+<ICE-JA:S1A-100#69:1:A> Yeah
+<ICE-JA:S1A-100#70:1:A> As a home remedy that might be useful in very mild cases of
+
+tinnitus<{2><[2><,></[2>
+<ICE-JA:S1A-100#71:1:A> Alright
+
+<$B> <ICE-JA:S1A-100#72:1:B> <[1> Ginger</[1></{1>
+
+<$B> <ICE-JA:S1A-100#73:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-100#74:1:B> Right you doc <{> <[>
+<ICE-JA:S1A-100#75:1:B> Thank you</[>
+
+<$A> <ICE-JA:S1A-100#76:1:A> <[> Thank you so much for calling ey</[></{>
+
+<$B> <ICE-JA:S1A-100#77:1:B> Well thank you very much
+
+<$A> <ICE-JA:S1A-100#78:1:A> Alright bye now
+
+<$B> <ICE-JA:S1A-100#79:1:B> Bye-bye
+
+<$A> <ICE-JA:S1A-100#80:1:A> Hello
+
+<$C> <ICE-JA:S1A-100#81:1:C> Hello Good
+
+<$A> <ICE-JA:S1A-100#82:1:A> Good evening
+
+<$C> <ICE-JA:S1A-100#83:1:C> Good evening
+
+<$A> <ICE-JA:S1A-100#84:1:A> How you're doing this evening
+
+<$C> <ICE-JA:S1A-100#85:1:C> Okay uhm
+
+<$A> <ICE-JA:S1A-100#86:1:A> You don't sound okay
+<ICE-JA:S1A-100#87:1:A> You say okay
+<ICE-JA:S1A-100#88:1:A> You sound low
+<ICE-JA:S1A-100#89:1:A> What's wrong
+
+<$C> <ICE-JA:S1A-100#90:1:C> Uhm really it's <?> my first time</?> on the programme
+
+<$A> <ICE-JA:S1A-100#91:1:A> Mhm
+<ICE-JA:S1A-100#92:1:A> Welcome
+
+<$C> <ICE-JA:S1A-100#93:1:C> Uhm but I early talk about a very interesting topic since <?>
+
+night</?> stress<{><[><,></[>
+<ICE-JA:S1A-100#94:1:C> I seems to be having that problem
+
+<$A> <ICE-JA:S1A-100#95:1:A> <[> Yop</[></{>
+
+<$A> <ICE-JA:S1A-100#96:1:A> You're sounding that way to me<{><[><,></[>
+<ICE-JA:S1A-100#97:1:A> And it <unclear> word</unclear> doesn't sound good
+<ICE-JA:S1A-100#98:1:A> What's wrong
+
+<$C> <ICE-JA:S1A-100#99:1:C> <[> Mhm
+<ICE-JA:S1A-100#100:1:C> Yeah</[></{>
+
+<$C> <ICE-JA:S1A-100#101:1:C> Uhm <}> <-> I have</-> uh <=> I have</=></}>
+
+hyperthyroidism<{1><[1><,></[1>
+<ICE-JA:S1A-100#102:1:C> <{2> <[2> the <unclear> word</unclear></[2>
+
+<$A> <ICE-JA:S1A-100#103:1:A> <[1> Hold on</[1></{1>
+
+<$A> <ICE-JA:S1A-100#104:1:A> <[2> <}> <-> <.> Hy</.></-></}>
+<ICE-JA:S1A-100#105:1:A> <}> <-> <.> Hol</.></-> <=> Hold</=></}> on</[2></{2>
+
+<$A> <ICE-JA:S1A-100#106:1:A> Hyper or hypo
+<ICE-JA:S1A-100#107:1:A> <{> <[> Which one</[>
+
+<$C> <ICE-JA:S1A-100#108:1:C> <[> <}> <-> <.> Hy</.></-></}></[></{> Hyperthyroid
+
+<$A> <ICE-JA:S1A-100#109:1:A> Overactive</{><{><[><,></[>
+<ICE-JA:S1A-100#110:1:A> I see aha
+
+<$C> <ICE-JA:S1A-100#111:1:C> <[> Yeah</[></{>
+
+<$C> <ICE-JA:S1A-100#112:1:C> And I have hypertension
+
+<$A> <ICE-JA:S1A-100#113:1:A> An high blood presure as well<{><[><,></[>
+<ICE-JA:S1A-100#114:1:A> And how long have these things been affecting you
+
+<$C> <ICE-JA:S1A-100#115:1:C> <[> Yeah <?> oh dear</?></[></{>
+
+<$C> <ICE-JA:S1A-100#116:1:C> Uhm about five years now
+
+<$A> <ICE-JA:S1A-100#117:1:A> Five years
+
+<$C> <ICE-JA:S1A-100#118:1:C> Yeah
+
+<$A> <ICE-JA:S1A-100#119:1:A> And how is it being managed
+<ICE-JA:S1A-100#120:1:A> What's being done about it
+
+<$C> <ICE-JA:S1A-100#121:1:C> Uhm
+<ICE-JA:S1A-100#122:1:C> Well I'm on medication for the thyroid and uh
+
+hypertension<{1><[1><,></[1> but the problem is this
+<ICE-JA:S1A-100#123:1:C> Uhm you know since I have this constant headache and sometime when
+
+I <?> <}> <-> I thought</-></?> <=> I think</=></}> it is the pressure
+<ICE-JA:S1A-100#124:1:C> The doctor says isn't the pressure
+<ICE-JA:S1A-100#125:1:C> I keep going to the doctors over and over because you know I
+
+cannot get this feelings<O>child-speaking-in-background</O> <{2> <[2>
+
+and</[2> all kind of different kind of feelings like
+
+<$A> <ICE-JA:S1A-100#126:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-100#127:1:A> <[2> Yes</[2></{2>
+
+<$A> <ICE-JA:S1A-100#128:1:A> <}> <-> Let</-> <=> let</=></}> me ask you
+
+something<{1><[1><,></[1>
+<ICE-JA:S1A-100#129:1:A> Apart from the medication for the thyroid<{2><[2><,></[2> and the
+
+medication for the blood pressure<{3><[3><,></[3> <{4> <[4> has there been
+
+any recommendations given to you</[4> about your diet or about taking any
+
+kind of nutritional supplements
+
+<$C> <ICE-JA:S1A-100#130:1:C> <[1> Mhm</[1></{1>
+
+<$C> <ICE-JA:S1A-100#131:1:C> <[2> Yeah</[2></{2>
+
+<$C> <ICE-JA:S1A-100#132:1:C> <[3> Yeah</[3></{3> <[4> <O>
+
+child-speaking-in-background</O></[4></{4>
+
+<$C> <ICE-JA:S1A-100#133:1:C> No
+
+<$A> <ICE-JA:S1A-100#134:1:A> Okay
+<ICE-JA:S1A-100#135:1:A> See now what is happening is that you're having drugs prescribed
+
+to treat your symptoms<{1><[1><,> which</[1> may be necessary<{2><[2><,></[2>
+<ICE-JA:S1A-100#136:1:A> But my contention is that you also need to do a number of other
+
+things to assist your body heal to assist your body correct the imbalances
+
+that's developing
+<ICE-JA:S1A-100#137:1:A> So even if you are taking the medication you might well need to
+
+<unclear> word</unclear> the medication I find that you feel a lot better
+
+that your body will react a lot better if in addition to that you were taking
+
+the appropriate nutritional supplements
+<ICE-JA:S1A-100#138:1:A> There're some vitamins some minerals some supplements that I think
+
+is absolutely essential for you to be on in addition to the medicine you take
+
+because very often I have found that when you do that you need less and less
+
+medicine<{3><[3><,></[3> because your body is now be able to work at
+
+correcting the imbalances that's there<{4><[4><,></[4>
+<ICE-JA:S1A-100#139:1:A> You see what I'm saying to you<{5><[5><,></[5>
+<ICE-JA:S1A-100#140:1:A> So my recommendation would be that in addition to what you're
+
+doing you need some help with your nutrition
+
+<$C> <ICE-JA:S1A-100#141:1:C> <[1> Yeah</[1></{1>
+
+<$C> <ICE-JA:S1A-100#142:1:C> <[2> Yeah</[2></{2>
+
+<$C> <ICE-JA:S1A-100#143:1:C> <[3> Aha</[3></{3>
+
+<$C> <ICE-JA:S1A-100#144:1:C> <[4> Yeah</[4></{4>
+
+<$C> <ICE-JA:S1A-100#145:1:C> <[5> Yeah</[5></{5>
+
+<$C> <ICE-JA:S1A-100#146:1:C> Yeah
+<ICE-JA:S1A-100#147:1:C> Because I find myself <}> <-> I</-> you know <-> I can't</-> <=> I
+
+cannot</=></}> sleep <{> <[> <}> <-> in</-> <=> at</=></}> night</[>
+
+<$A> <ICE-JA:S1A-100#148:1:A> <[> I</[></{> I hear it in your voice
+<ICE-JA:S1A-100#149:1:A> You don't sound good to me
+
+<$C> <ICE-JA:S1A-100#150:1:C> Yeah
+
+<$C> <ICE-JA:S1A-100#151:1:C> Where you're calling from
+
+<$C> <ICE-JA:S1A-100#152:1:C> Uhm Kingston
+
+<$A> <ICE-JA:S1A-100#153:1:A> Kingston
+<ICE-JA:S1A-100#154:1:A> What I wanna suggest to you that you hold on<{1><[1><,></[1>
+<ICE-JA:S1A-100#155:1:A> I'm going to give you a number off the air<{2><[2><,></[2> for you
+
+to call tomorrow for us to give you some advice some information about how
+
+you can start nourishing your body<{3><[3><,></[3> in a particular kind of
+
+way<{4><[4><,></[4> to help correct these problems for you<{5><[5><,></[5>
+<ICE-JA:S1A-100#156:1:A> Alright<{6><[6><,></[6>
+<ICE-JA:S1A-100#157:1:A> So don't <?> go yet</?> hold on I'm gonna give you some numbers
+
+for you to call<{7><[7><,></[7>
+<ICE-JA:S1A-100#158:1:A> Alright</{8><[8><,></[8>
+<ICE-JA:S1A-100#159:1:A> Alright
+<ICE-JA:S1A-100#160:1:A> God bless now<,,>
+<ICE-JA:S1A-100#161:1:A> Let's go to the break and then we come back
+<ICE-JA:S1A-100#162:1:A> We talk to some more of you
+
+<$C> <ICE-JA:S1A-100#163:1:C> <[1> Yes</[1></{1>
+
+<$C> <ICE-JA:S1A-100#164:1:C> <[2> Yeah</[2></{2>
+
+<$C> <ICE-JA:S1A-100#165:1:C> <[3> Yeah</[3></{3>
+
+<$C> <ICE-JA:S1A-100#166:1:C> <[4> Mhm</[4></{4>
+
+<$C> <ICE-JA:S1A-100#167:1:C> <[5> Yeah</[5></{5>
+
+<$C> <ICE-JA:S1A-100#168:1:C> <[6> Yeah</[6></{6>
+
+<$C> <ICE-JA:S1A-100#169:1:C> <[7> Yeah</[7></{7>
+
+<$C> <ICE-JA:S1A-100#170:1:C> <[8> Yeah</[8></{8> <&> commercial-break</&>
+
+<$A> <ICE-JA:S1A-100#171:1:A> Okay
+<ICE-JA:S1A-100#172:1:A> So let's go on to<,> our next caller
+<ICE-JA:S1A-100#173:1:A> Hello
+
+<$D> <ICE-JA:S1A-100#174:1:D> Yeah doctor
+
+<$A> <ICE-JA:S1A-100#175:1:A> Hi there
+
+<$D> <ICE-JA:S1A-100#176:1:D> Good night Sir
+
+<$A> <ICE-JA:S1A-100#177:1:A> Night Night
+
+<$D> <ICE-JA:S1A-100#178:1:D> Uhm I was listening to the lady talking about the<,> thing
+
+that she took for the sinus problem and the asthmatic problem for her
+
+children<{><[><,></[>
+<ICE-JA:S1A-100#179:1:D> But I didn't get the name of the <?> thing is it a</?> tablet
+
+<$A> <ICE-JA:S1A-100#180:1:A> <[> Yes</[></{>
+
+<$A> <ICE-JA:S1A-100#181:1:A> Yes she was talking about some particular<,> herbal
+
+supplements in tablet form<{1><[1><,></[1> that we use very frequently for
+
+people with allergies and sinus problems and those kinds of things like
+
+asthma<{2><[2><,></[2> because they're actually<,> powerful<,> herbal<,>
+
+antioxidants<{3><[3><,></[3> things that help to deal with inflammation and
+
+congestion and so on
+<ICE-JA:S1A-100#182:1:A> The two she was referring to was a Chinese herb called <mention>
+
+Schizendre</mention><{4><[4><,></[4> S C H I Z E N D R E it comes in a tablet
+
+form<{5><[5><,></[5> and the other one was <}> <-> a a herb</-> uhm <=> a
+
+herbal- based</=></}> tablet that's made from the herbal rosemary
+<ICE-JA:S1A-100#183:1:A> You know rosemary<{6><[6><,></[6>
+<ICE-JA:S1A-100#184:1:A> <{7> <[7> Well the ingredients of rosemary</[7>
+<ICE-JA:S1A-100#185:1:A> Yes<{8><[8><,></[8> uhm are combined in this tablet that's called
+
+<mention> Rosox</mention><{9><[9><,></[9> R O S O X<{10><[10><,></[10>
+<ICE-JA:S1A-100#186:1:A> So we often use the combination of this Schizendre Plus
+<ICE-JA:S1A-100#187:1:A> Schizendre is <}> <-> a</-> <=> a</=></}> berry found in
+
+China<{11><[11><,></[11> and it's combined with some other herbs and vitamins
+
+in that tablet called <mention> Schizendre Plus</mention>
+<ICE-JA:S1A-100#188:1:A> And we combined with this rosemary extract called <mention>
+
+Rosox</mention><{12><[12><,></[12> and it's been incredibly useful in helping
+
+people with those kinds of problems
+<ICE-JA:S1A-100#189:1:A> In addition to that we encourage them very strongly to change
+
+their diet<{13><[13><,></[13> particularly to eliminate
+
+dairy<{14><[14><,></[14>
+<ICE-JA:S1A-100#190:1:A> Researchers say that dairy products are the commonest food
+
+allergies that we face
+<ICE-JA:S1A-100#191:1:A> So dairy not only causes allergic reactions but it also causes an
+
+excess production of <unclear> word<unclear> in the body
+<ICE-JA:S1A-100#192:1:A> So taking out<}><->a dairy <.> hal</.></-> <=> a dairy
+
+break</=></}> from the diet and going on <}> <-> these</-> <=> these</=></}>
+
+supplements have been very very helpful for people with that kind of problem
+
+<$D> <ICE-JA:S1A-100#193:1:D> <[1> Aha</[1></{1>
+
+<$D> <ICE-JA:S1A-100#194:1:D> <[2> Yeah</[2></{2>
+
+<$D> <ICE-JA:S1A-100#195:1:D> <[3> Aha</[3></{3>
+
+<$D> <ICE-JA:S1A-100#196:1:D> <[4> Aha</[4></{4>
+
+<$D> <ICE-JA:S1A-100#197:1:D> <[5> Aha</[5></{5>
+
+<$D> <ICE-JA:S1A-100#198:1:D> <[6> Yes</[6></{6>
+
+<$D> <ICE-JA:S1A-100#199:1:D> <[7> <}> <-> That's</-> <=> that's</=></}> <unclear>
+
+word</unclear>
+<ICE-JA:S1A-100#200:1:D> Aha</[7></{7>
+
+<$D> <ICE-JA:S1A-100#201:1:D> <[8> Aha</[8></{8>
+
+<$D> <ICE-JA:S1A-100#202:1:D> <[9> Rosox</[9></{9>
+
+<$D> <ICE-JA:S1A-100#203:1:D> <[10> Aha</[10></{10>
+
+<$D> <ICE-JA:S1A-100#204:1:D> <[11> Yes</[11></{11>
+
+<$D> <ICE-JA:S1A-100#205:1:D> <[12> Ah</[12></{12>
+
+<$D> <ICE-JA:S1A-100#206:1:D> <[13> Okay</[13></{13>
+
+<$D> <ICE-JA:S1A-100#207:1:D> <[14> Yes</[14></{14>
+
+<$D> <ICE-JA:S1A-100#208:1:D> Aha
+
+<$A> <ICE-JA:S1A-100#209:1:A> Alright
+
+<$D> <ICE-JA:S1A-100#210:1:D> So you say they didn't one <}> <-> <.> i</.></-> <=>
+
+it</=></}> combined <unclear> word</unclear> one tablet
+
+<$A> <ICE-JA:S1A-100#211:1:A> Now there are two separate <{1> <[1> tablets one</[1> with
+
+the rosemary and the other one with the Schizendre<{2><[2><,></[2>
+<ICE-JA:S1A-100#212:1:A> And they will tell how you would use them
+
+<$D> <ICE-JA:S1A-100#213:1:D> <[1> Oh</[1></{1>
+
+<$D> <ICE-JA:S1A-100#214:1:D> <[2> Okay</[2></{2>
+
+<$D> <ICE-JA:S1A-100#215:1:D> Okay
+<ICE-JA:S1A-100#216:1:D> So uhm another question doctor<{1><[1><,></[1>
+<ICE-JA:S1A-100#217:1:D> Uhm for a man who <?> have</?> uhm problem with the
+
+prostate<{2><[2><,></[2> and you go to the doctor and do the examination and
+
+the doctor say that you have uhm what's <unclear> words</unclear>
+
+enlarge<{3><[3><,> large</[3> Yes and that the doctor say me to do test like
+
+urine test and blood test
+<ICE-JA:S1A-100#218:1:D> What's normally <?> them test for after that</?>
+
+<$A> <ICE-JA:S1A-100#219:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1A-100#220:1:A> <[2> Aha</[2></{2>
+
+<$A> <ICE-JA:S1A-100#221:1:A> <[3> enlarged prostate</[3></{3>
+
+<$A> <ICE-JA:S1A-100#222:1:A> Well<,> the doctor will do if he examines and he finds that
+
+your prostate is enlarged<{1><[1><,></[1> the enlargement can be due to a
+
+number of different things and the test he does on you is designed to help
+
+him decide what is the underlying problem<{2><[2><,></[2>
+<ICE-JA:S1A-100#223:1:A> For example there can be an infection or a inflammation in the
+
+prostate<{3><[3><,>/[3> that's called <mention> prostatitis</mention> an
+
+inflammation of the prostate gland<{4><[4><,></[4>
+<ICE-JA:S1A-100#224:1:A> Secondly there can be an enlargement of the prostate that can
+
+be<,> non<,>-cancerous
+<ICE-JA:S1A-100#225:1:A> Not due to cancer just a general enlargement that we call
+
+<mention> B P H</mention> or <mention> benign<,> prostatic<,>
+
+hypertrophy</mention>
+<ICE-JA:S1A-100#226:1:A> <}> <-> A</-> <=> that's a</=></}> long medical name but it means
+
+that the prostate is <}> <-> <.> enla</.></-> <+> enlarged<+></}> but it's
+
+not cancered and thirdly<{5><[5><,></[5> it could be enlarged because of
+
+cancer <{6> <[6> <,>
+<ICE-JA:S1A-100#227:1:A> It is</[6> very very important for the doctor to decide what's the
+
+problem in your case
+<ICE-JA:S1A-100#228:1:A> So all the tests he does the urine test the blood test sometimes
+
+the ultra-sound are all designed to help him decide what really is the
+
+underlying problem
+
+<$D> <ICE-JA:S1A-100#229:1:D> <[1> Yes</[1></{1>
+
+<$D> <ICE-JA:S1A-100#230:1:D> <[2> Aha</[2></{2>
+
+<$D> <ICE-JA:S1A-100#231:1:D> <[3> Aha</[3></{3>
+
+<$D> <ICE-JA:S1A-100#232:1:D> <[4> Okay</[4></{4>
+
+<$D> <ICE-JA:S1A-100#233:1:D> <[5> Aha</[5></{5>
+
+<$D> <ICE-JA:S1A-100#234:1:D> <[6> Okay</[6></{6>
+
+<$D> <ICE-JA:S1A-100#235:1:D> Okay
+
+<$A> <ICE-JA:S1A-100#236:1:A> Okay
+
+<$D> <ICE-JA:S1A-100#237:1:D> Okay doctor
+
+<$A> <ICE-JA:S1A-100#238:1:A> But whatever the underlying problem is there're a number of
+
+general things that you should be doing to keep your prostate healthy
+
+<$D> <ICE-JA:S1A-100#239:1:D> Like
+
+<$A> <ICE-JA:S1A-100#240:1:A> Like your diet
+
+<$D> <ICE-JA:S1A-100#241:1:D> Okay
+
+<$A> <ICE-JA:S1A-100#242:1:A> You must dramatically reduce your intake of animal
+
+fats<{1><[1><,></[1>
+<ICE-JA:S1A-100#243:1:A> You must increase your intake of a food called <mention>
+
+soy</mention>
+<ICE-JA:S1A-100#244:1:A> S O Y
+<ICE-JA:S1A-100#245:1:A> And I recommend people's diet having daily soy-based shakes
+<ICE-JA:S1A-100#246:1:A> You must increase your intake of a vegetable extract called
+
+<mention> Lycopene</mention> that's found in tomatoes<{2><[2><,></[2>
+<ICE-JA:S1A-100#247:1:A> And then there're other herbs that are helpful for the prostate
+<ICE-JA:S1A-100#248:1:A> Things like saw palmetto and stinging-nettle and pygeum and
+
+pumpkin seed and zinc
+<ICE-JA:S1A-100#249:1:A> There a whole host of nutrients that are good for the prostate
+<ICE-JA:S1A-100#250:1:A> So there's a little programme that I recommend for people to help
+
+keep the prostate healthy
+<ICE-JA:S1A-100#251:1:A> And I recommend men should go on to it even before any problems<,>
+
+occur
+<ICE-JA:S1A-100#252:1:A> Here's a product call <mention> Ultimate Prostate</mention> that I
+
+recommend to all men particuarly if you're over fourty to protect your
+
+prostate gland
+<ICE-JA:S1A-100#253:1:A> We recommend the protein shakes I recommend certain vitamins
+<ICE-JA:S1A-100#254:1:A> A programme to keep your prostate healthy don't wait until it
+
+get's sick
+
+<$D> <ICE-JA:S1A-100#255:1:D> <[1> Yeah</[1></{1>
+
+<$D> <ICE-JA:S1A-100#256:1:D> <[2> Right</[2></{2>
+
+<$D> <ICE-JA:S1A-100#257:1:D> Yes
+
+<$A> <ICE-JA:S1A-100#258:1:A> Alright
+
+<$D> <ICE-JA:S1A-100#259:1:D> Okay
+
+<$A> <ICE-JA:S1A-100#260:1:A> So you can always call our centre if you hold on we'll give
+
+you some telephone numbers where you can get some advice about how to begin
+
+to take nutrition to protect your prostate
+
+<$D> <ICE-JA:S1A-100#261:1:D> Okay doc
+
+<$A> <ICE-JA:S1A-100#262:1:A> Alright <{1> <[1> <,> / [ 1><ICE-JA:S1A-100#>God bless ey<{2><[2><,></[2>
+<ICE-JA:S1A-100#263:1:A> Alrighty
+
+<$D> <ICE-JA:S1A-100#264:1:D> <[1> Okay</[1></{1>
+
+<$D> <ICE-JA:S1A-100#265:1:D> <[2> Thank you</[2></{2></I>

@@ -1,0 +1,868 @@
+<I>
+
+<$A> <ICE-JA:S1A-025#1:1:A> Uhuh<O>speaker-B-laughs</O>
+<ICE-JA:S1A-025#2:1:A> <?> Alright</?>
+<ICE-JA:S1A-025#3:1:A> <}> <-> What</-> <=> what</=></}> you're doing in here
+
+<$B> <ICE-JA:S1A-025#4:1:B> I'm looking for a card for <@> Robert</@> birthday
+
+<$A> <ICE-JA:S1A-025#5:1:A> For who
+
+<$B> <ICE-JA:S1A-025#6:1:B> <@> Robert</@> birthday
+
+<$A> <ICE-JA:S1A-025#7:1:A> <@> Robert</@>
+<ICE-JA:S1A-025#8:1:A> Oh
+<ICE-JA:S1A-025#9:1:A> <{1> <[1> How old is he</[1> <{2> <[2> <,>
+<ICE-JA:S1A-025#10:1:A> Hm</[2>
+<ICE-JA:S1A-025#11:1:A> <{3> <[3> <@> Robert</@></[3>
+<ICE-JA:S1A-025#12:1:A> How old he gonna be
+
+<$B> <ICE-JA:S1A-025#13:1:B> <[1> <?> <@> Robert</@></?></[1></{1>
+
+<$B> <ICE-JA:S1A-025#14:1:B> <[2> <?> Right</?></[2></{2>
+
+<$B> <ICE-JA:S1A-025#15:1:B> <[3> <?> Huh</?></[3></{3>
+
+<$B> <ICE-JA:S1A-025#16:1:B> Nineteen<O>laughter</O>
+
+<$A> <ICE-JA:S1A-025#17:1:A> He <?> goes</?> oh
+<ICE-JA:S1A-025#18:1:A> He's still young
+
+<$B> <ICE-JA:S1A-025#19:1:B> Yeah
+<ICE-JA:S1A-025#20:1:B> <{1> <[1> <,> </[1>
+<ICE-JA:S1A-025#21:1:B> I want find anything you know<{2><[2><,></[2> really nice and
+
+thoughtful
+<ICE-JA:S1A-025#22:1:B> Actually I came in here to buy a phone card
+
+<$A> <ICE-JA:S1A-025#23:1:A> <[1> Hm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#24:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#25:1:A> Mhm
+<ICE-JA:S1A-025#26:1:A> So <unclear> word</unclear> when is his birthday
+
+<$B> <ICE-JA:S1A-025#27:1:B> The sixth of june
+
+<$A> <ICE-JA:S1A-025#28:1:A> Mhm
+<ICE-JA:S1A-025#29:1:A> That no far
+
+<$B> <ICE-JA:S1A-025#30:1:B> No
+<ICE-JA:S1A-025#31:1:B> <}> <-> <.> T</.></-> <=> two</=></}> weeks <?> and a couple
+
+day</?>
+
+<$A> <ICE-JA:S1A-025#32:1:A> Yeah but we come in here for buy one card that no kind of
+
+early you move off you move off
+
+<$B> <ICE-JA:S1A-025#33:1:B> Huh
+
+<$A> <ICE-JA:S1A-025#34:1:A> You're moving off hall
+
+<$B> <ICE-JA:S1A-025#35:1:B> No
+<ICE-JA:S1A-025#36:1:B> I think I staying for the summer
+<ICE-JA:S1A-025#37:1:B> I want to go to summer school
+
+<$A> <ICE-JA:S1A-025#38:1:A> Okay
+<ICE-JA:S1A-025#39:1:A> That's why you're here still<{><[><,></[>
+<ICE-JA:S1A-025#40:1:A> How much it cost
+<ICE-JA:S1A-025#41:1:A> Yet you pay by what
+<ICE-JA:S1A-025#42:1:A> What you pay by
+
+<$B> <ICE-JA:S1A-025#43:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-025#44:1:B> Month
+
+<$A> <ICE-JA:S1A-025#45:1:A> Month
+<ICE-JA:S1A-025#46:1:A> <{> <[> Does that</[> happen during your regular school year too
+
+<$B> <ICE-JA:S1A-025#47:1:B> <[> <?> So it's</?></[></{>
+
+<$B> <ICE-JA:S1A-025#48:1:B> Yeah man seven thousand dollars a month<{1><[1><,></[1>
+<ICE-JA:S1A-025#49:1:B> But because my grandmother worked there<{2><[2><,></[2> six
+
+thousand
+
+<$A> <ICE-JA:S1A-025#50:1:A> <[1> Mm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#51:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#52:1:A> Oh
+<ICE-JA:S1A-025#53:1:A> <}> <-> You get it</-> <=> you get</=></}> bonus<{><[><,></[>
+<ICE-JA:S1A-025#54:1:A> So even when it work out it cheaper than living in a regular hall
+
+<$B> <ICE-JA:S1A-025#55:1:B> <[> <?> For</?> your school</[></{>
+
+<$B> <ICE-JA:S1A-025#56:1:B> Uh not really
+<ICE-JA:S1A-025#57:1:B> I heard people who uh got it rather a little
+
+cheaper<{1><[1><,></[1> but because I'm part-time I <{2> <[2> <unclear>
+
+words</unclear></[2>
+
+<$A> <ICE-JA:S1A-025#58:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#59:1:A> <[2> How</[2></{2> <}> <-> you</-> <=> you</=></}> still
+
+part-time why you never change over
+
+<$B> <ICE-JA:S1A-025#60:1:B> Because remember that
+<ICE-JA:S1A-025#61:1:B> Alright for the first period<{1><[1><,></[1> I was only here for
+
+one semester basically<{2><[2><,></[2>
+<ICE-JA:S1A-025#62:1:B> I was here for like half of the second semester I finished the exam
+
+<$A> <ICE-JA:S1A-025#63:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#64:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#65:1:A> Why
+
+<$B> <ICE-JA:S1A-025#66:1:B> Because I was working and going to school
+
+<$A> <ICE-JA:S1A-025#67:1:A> So you never do no exam <}> <-> <.> l</.></-> <=> last</=></}>
+
+semester gone
+
+<$B> <ICE-JA:S1A-025#68:1:B> No I talking about two thousand one
+
+<$A> <ICE-JA:S1A-025#69:1:A> Oh oh them long time they
+<ICE-JA:S1A-025#70:1:A> Mhm
+
+<$B> <ICE-JA:S1A-025#71:1:B> And then I never came back until this period<{1><[1><,></[1>
+<ICE-JA:S1A-025#72:1:B> Right so<,> I just <{2> <[2> came</[2> back part-time but still had
+
+intentions of working <{3> <[3> <,> </[3> but I don't know how that will work
+
+out<{4><[4><,></[4>
+<ICE-JA:S1A-025#73:1:B> I don't think I can handle that
+
+<$A> <ICE-JA:S1A-025#74:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#75:1:A> <[2> Oh</[2></{2>
+
+<$A> <ICE-JA:S1A-025#76:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-025#77:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-025#78:1:A> Okay
+<ICE-JA:S1A-025#79:1:A> <@> Mary</@> come up here today
+
+<$B> <ICE-JA:S1A-025#80:1:B> She says she has <?> free</?> time but I don't know
+
+<$A> <ICE-JA:S1A-025#81:1:A> Not like <@> Cindy</@> <}> <-> she</-> <=> she</=></}> was
+
+supposed to come but the rain fell
+
+<$B> <ICE-JA:S1A-025#82:1:B> Oh
+
+<$A> <ICE-JA:S1A-025#83:1:A> Mhm
+<ICE-JA:S1A-025#84:1:A> Alright<&>tape-interrupts-then-continues</&>
+<ICE-JA:S1A-025#85:1:A> Yes<O>laughter</O>
+
+<$B> <ICE-JA:S1A-025#86:1:B> Is it
+<ICE-JA:S1A-025#87:1:B> I want to carry him somewhere take him to a hotel<{><[><,></[>
+<ICE-JA:S1A-025#88:1:B> And I want to take him to a play the night before
+
+<$A> <ICE-JA:S1A-025#89:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-025#90:1:A> Which play
+
+<$B> <ICE-JA:S1A-025#91:1:B> Uhm <}> <-> I don't remember I saw it on <.> T</.></-> <=> I
+
+don't remember I saw it on T V</=></}> this morning<{><[><,></[> but uhm
+
+<quote> things a gone</quote>
+
+<$A> <ICE-JA:S1A-025#92:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-025#93:1:A> Oh
+<ICE-JA:S1A-025#94:1:A> I don't know about that one
+<ICE-JA:S1A-025#95:1:A> But what happened to the one like <?> Oliver</?> <unclear>
+
+several-words</unclear> really <?> very</?> nice
+
+<$B> <ICE-JA:S1A-025#96:1:B> I think that's finished for <{> <[> <unclear> word</unclear>
+
+probably finished</[>
+
+<$A> <ICE-JA:S1A-025#97:1:A> <[> <unclear> word</unclear></[></{>
+
+<$B> <ICE-JA:S1A-025#98:1:B> Yeah
+<ICE-JA:S1A-025#99:1:B> No one <unclear> several-words</unclear>
+<ICE-JA:S1A-025#100:1:B> <{> <[> Uh
+<ICE-JA:S1A-025#101:1:B> Yeah</[>
+
+<$A> <ICE-JA:S1A-025#102:1:A> <[> How</[></{> much you <?> go to</?> those
+
+<$B> <ICE-JA:S1A-025#103:1:B> Seven hundred<{1><[1><,></[1> six or seven hundred I think
+
+it's seven hundred <?> though</?><{2><[2><,></[2>
+<ICE-JA:S1A-025#104:1:B> But his birthday is Sunday<{3><[3><,></[3> I can't take him out
+
+for the whole day cos you know him have to see him family and stuff <{4> <[4>
+
+<,> </[4>
+<ICE-JA:S1A-025#105:1:B> So Saturday night I want to take him to a play<{5><[5><,></[5> let
+
+it run <?> over</?> until midnight you know<{6><[6><,></[6> and then
+
+uhm<{7><[7><,></[7> him can go home and<{8><[8><,></[8> visit him
+
+family<{9><[9><,></[9> kind of <unclear> words</unclear> till Sunday evening
+
+<$A> <ICE-JA:S1A-025#106:1:A> <[1> Uh</[1></{1>
+
+<$A> <ICE-JA:S1A-025#107:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#108:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-025#109:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-025#110:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-025#111:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-025#112:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1A-025#113:1:A> <[8> Mhm</[8></{8>
+
+<$A> <ICE-JA:S1A-025#114:1:A> <[9> Mhm</[9></{9>
+
+<$A> <ICE-JA:S1A-025#115:1:A> Oh which hotel which hotel <indig> unu</indig> a go
+
+<$B> <ICE-JA:S1A-025#116:1:B> I don't know but want to carry him to ochi
+
+<$A> <ICE-JA:S1A-025#117:1:A> Oh <?> you really a</?> spend enough money <?> me tell
+
+you</?>
+
+<$B> <ICE-JA:S1A-025#118:1:B> Of course Lord Jesus on my last birthday <unclear>
+
+word</unclear> Lauri<{1><[1><,></[1>
+<ICE-JA:S1A-025#119:1:B> My last birthday<{2><[2><,> <unclear> word</unclear></[2>
+
+<$A> <ICE-JA:S1A-025#120:1:A> <[1> Hm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#121:1:A> <[2> Aha
+<ICE-JA:S1A-025#122:1:A> It</[2></{2> was nice
+<ICE-JA:S1A-025#123:1:A> What you did
+
+<$B> <ICE-JA:S1A-025#124:1:B> <?> Some</?> <O> laughs</O><{1><[1><,></[1>Him carry me out
+
+and everything<{2><[2><,></[2> <?> go out</?> to eat and I chose to watch a
+
+movie<{3><[3><,></[3> and<,> but he got me some roses imported from
+
+Germany<{4><[4><,></[4> twenty-four roses<{5><[5><,></[5>
+<ICE-JA:S1A-025#125:1:B> Oh God it was so nice long stem and everything<{6><[6><,>
+
+<unclear> word</unclear></[6>
+
+<$A> <ICE-JA:S1A-025#126:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#127:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#128:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-025#129:1:A> <[4> Hm</[4></{4>
+
+<$A> <ICE-JA:S1A-025#130:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-025#131:1:A> <[6> Mhm
+<ICE-JA:S1A-025#132:1:A> You</[6></{6> know this tape going to Germany though
+
+<$B> <ICE-JA:S1A-025#133:1:B> It going to Germany<{1><[1><,></[1>
+<ICE-JA:S1A-025#134:1:B> Oh yes I liked them roses<O>laughter</O><{2><[2><,></[2>
+<ICE-JA:S1A-025#135:1:B> <?> Can I go there</?>
+<ICE-JA:S1A-025#136:1:B> It was so wonderful I can't even tell you<,>
+<ICE-JA:S1A-025#137:1:B> I almost fainted off <{3> <[3> <,> <unclear> word</unclear></[3>
+
+<$A> <ICE-JA:S1A-025#138:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#139:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#140:1:A> <[3> But really</[3></{3> like how many
+
+<$B> <ICE-JA:S1A-025#141:1:B> Twenty-four roses
+
+<$A> <ICE-JA:S1A-025#142:1:A> Oh that's <{> <[> so nice</[>
+
+<$B> <ICE-JA:S1A-025#143:1:B> <[> And then I <?> went</?> to</[></{> like five days before
+
+that they broke into our house and stuff<{><[><,></[>
+<ICE-JA:S1A-025#144:1:B> So you know me did still kinda shaken up plus upset <unclear>
+
+words</unclear>
+
+<$A> <ICE-JA:S1A-025#145:1:A> <[> Aha</[></{>
+
+<$A> <ICE-JA:S1A-025#146:1:A> Them take the rose
+
+<$B> <ICE-JA:S1A-025#147:1:B> No that was five days before my birthday<{1><[1><,></[1> and
+
+then we had <?> uh</?> security<{2><[2><,></[2> at the house<{3><[3><,></[3>
+
+and him just carry the roses
+<ICE-JA:S1A-025#148:1:B> Everybody was there Oh God I nearly passed out<O>laughter</O>
+
+<$A> <ICE-JA:S1A-025#149:1:A> <[1> Oh mhm mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#150:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#151:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-025#152:1:A> That's so sweet
+
+<$B> <ICE-JA:S1A-025#153:1:B> Yes my dear
+
+<$A> <ICE-JA:S1A-025#154:1:A> That's really nice
+<ICE-JA:S1A-025#155:1:A> That's really really nice
+<ICE-JA:S1A-025#156:1:A> <{> <[> The roses</[>
+<ICE-JA:S1A-025#157:1:A> That's really really nice
+
+<$B> <ICE-JA:S1A-025#158:1:B> <[> Terrific</[></{>
+
+<$B> <ICE-JA:S1A-025#159:1:B> I still have some of the petals<{1><[1><,> as they don't
+
+preserve the roses</[1>
+<ICE-JA:S1A-025#160:1:B> Yeah but it was so sweet
+<ICE-JA:S1A-025#161:1:B> So <}> <-> <.> deci</.></-> I <=> decide</=></}> I can't bring
+
+roses
+<ICE-JA:S1A-025#162:1:B> I can't get a boy roses<{2><[2><,></[2>
+<ICE-JA:S1A-025#163:1:B> I get an equivalent for <}> <-> a boy get</-><{3><[3><,></[3> <=>
+
+a boy giving</=></}> you roses is <?> natural</?> for me<O>laughter</O>
+<ICE-JA:S1A-025#164:1:B> Ooh so I <?> go <{4> <[4> shopping</?></[4>
+
+<$A> <ICE-JA:S1A-025#165:1:A> <[1> Mhm oh<,> mhm mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#166:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#167:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-025#168:1:A> <[4> <}> <-> Maybe</-> <=> maybe</=></}></[4></{4> I can do
+
+that too
+<ICE-JA:S1A-025#169:1:A> Yeah
+
+<$B> <ICE-JA:S1A-025#170:1:B> That's really our first <{> <[> <?> night</?> <unclear>
+
+word</unclear> <?> shopping</?></[>
+
+<$A> <ICE-JA:S1A-025#171:1:A> <[> Oh that's so nice</[></{><unclear>several-words</unclear>
+
+and just <}> <- > they</-> <=> they're</=></}> sending their roses
+<ICE-JA:S1A-025#172:1:A> Oh God I just buy some for myself
+
+<$B> <ICE-JA:S1A-025#173:1:B> Oh you can <{1> <[1> <unclear> words</unclear></[1>
+<ICE-JA:S1A-025#174:1:B> When we're rich then we can <{2> <[2> decorate the hall</[2> then
+
+there's <indig> nutten</indig> to come out <unclear> words</unclear> <{3>
+
+<[3> <unclear> word</unclear></[3>
+<ICE-JA:S1A-025#175:1:B> But it was so nice him actually go to a place called T G something
+
+another in new Kingston <{4> <[4> <,> </[4> and got them imported months
+
+before my birthday<{5><[5><,></[5> so they were grown and
+
+then<{6><[6><,></[6> shipped<{7><[7><,></[7>
+<ICE-JA:S1A-025#176:1:B> Oh God Lauri<{8><[8><,>that was so nice</[8> with the thorns and
+
+everything<{9><[9><,></[9>
+<ICE-JA:S1A-025#177:1:B> <?> It was really nice and sweet</?>
+
+<$A> <ICE-JA:S1A-025#178:1:A> <[1> <?> It is so nice</?>
+<ICE-JA:S1A-025#179:1:A> Hm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#180:1:A> <[2> Mhm mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#181:1:A> <[3> Twenty roses</[3></{3>
+
+<$A> <ICE-JA:S1A-025#182:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-025#183:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-025#184:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-025#185:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1A-025#186:1:A> <[8> Ooooooohhhh that's so sweet</[8></{8>
+
+<$A> <ICE-JA:S1A-025#187:1:A> <[9> Mhm</[9></{9>
+
+<$A> <ICE-JA:S1A-025#188:1:A> Oh I guess you can look for the best card too
+
+<$B> <ICE-JA:S1A-025#189:1:B> Yes <unclear> word</unclear><{1><[1><,></[1>
+<ICE-JA:S1A-025#190:1:B> On my first birthday him did give me this really really nice card
+
+and afterward at him birthday I gave him my card
+<ICE-JA:S1A-025#191:1:B> I was trying to hurry so I bought him this card saying <quote>
+
+friend</quote><O>laughter</O><{2><[2><,></[2> just <quote>
+
+friend</quote><{3><[3><,></[3> some little <indig> pikni</indig> <?> looking
+
+thing</?> and it was sweet but it wasn't<,> <unclear> words</unclear> you
+
+know<{4><[4><,></[4>
+<ICE-JA:S1A-025#192:1:B> I keep telling myself
+<ICE-JA:S1A-025#193:1:B> But <}> <-> <.> wh</.></-> <=> what</=></}> <{5> <[5> else</[5>
+
+you think I can <?> get</?> for him
+
+<$A> <ICE-JA:S1A-025#194:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#195:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#196:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-025#197:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-025#198:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-025#199:1:A> Uhm since you already have the <unclear> word</unclear> thing
+
+and the lingerie thing and
+
+<$B> <ICE-JA:S1A-025#200:1:B> Me not get it yet but me have it in mind like for a gift
+
+<$A> <ICE-JA:S1A-025#201:1:A> Oh for a gift<,>
+<ICE-JA:S1A-025#202:1:A> Mhm
+<ICE-JA:S1A-025#203:1:A> Well I don't know about no gift but the only gift me know for guys
+
+are like cars or anything gadgets stuff like this they like
+
+<$B> <ICE-JA:S1A-025#204:1:B> Yeah but I understand that <unclear> words</unclear> <{> <[>
+
+<unclear> words</unclear></[>
+
+<$A> <ICE-JA:S1A-025#205:1:A> <[> Yeah me know but then</[></{> because you already have
+
+the ochi thing in mind and the lingerie thing
+<ICE-JA:S1A-025#206:1:A> I mean there's no what else
+
+<$B> <ICE-JA:S1A-025#207:1:B> I want to give him something that him can keep
+<ICE-JA:S1A-025#208:1:B> So when him turn ninety- nine<{1><[1><,></[1> and then have it
+<ICE-JA:S1A-025#209:1:B> There's this photography thing<{2><[2><,></[2> uhm <?> the
+
+lady</?> operate from home <?> with that</?> she make uhm <unclear>
+
+word</unclear> and <?> this</?><,> and<,> <unclear> word</unclear> <{3> <[3>
+
+<unclear> several-words</unclear></[3> <{4> <[4> <?> like that</?></[4>
+<ICE-JA:S1A-025#210:1:B> So and she can put your picture on it and stuff like
+
+that<{5><[5><,></[5>
+<ICE-JA:S1A-025#211:1:B> So I was going to carry a picture of us to her and make her like
+
+personalize it <{6> <[6> <unclear> words</unclear></[6> write like a poem on
+
+the back <{7> <[7> or something</[7>
+<ICE-JA:S1A-025#212:1:B> Or when that break what happens
+
+<$A> <ICE-JA:S1A-025#213:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#214:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#215:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-025#216:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-025#217:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-025#218:1:A> <[6> Yeah oh okay okay
+<ICE-JA:S1A-025#219:1:A> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-025#220:1:A> <[7> Aha</[7></{7>
+
+<$A> <ICE-JA:S1A-025#221:1:A> It's gone
+
+<$B> <ICE-JA:S1A-025#222:1:B> Exactly me no want that
+
+<$A> <ICE-JA:S1A-025#223:1:A> Actually I don't know cos I don't really buy gift for guy
+
+probably cheap or mean<O>speaker-B-laughs</O>
+<ICE-JA:S1A-025#224:1:A> Or nobody not really doing anything that special import roses from
+
+Germany for me <{> <[> for me </[> to buy them something else so
+
+<$B> <ICE-JA:S1A-025#225:1:B> <[> <unclear> word(s)</unclear></[></{>
+
+<$B> <ICE-JA:S1A-025#226:1:B> Yeah but<{><[><,></[><?>even if he get that</?> I just want
+
+something that I think is special
+
+<$A> <ICE-JA:S1A-025#227:1:A> <[> Hm</[></{>
+
+<$A> <ICE-JA:S1A-025#228:1:A> Mhm
+<ICE-JA:S1A-025#229:1:A> So when was your birthday last year <}> <-> when</-> <=>
+
+when</=></}> was your birthday
+
+<$B> <ICE-JA:S1A-025#230:1:B> Who for birthday <{> <[> <unclear> word(s)</unclear></[>
+<ICE-JA:S1A-025#231:1:B> No August
+
+<$A> <ICE-JA:S1A-025#232:1:A> <[> Yours</[></{>
+
+<$A> <ICE-JA:S1A-025#233:1:A> Oh
+<ICE-JA:S1A-025#234:1:A> Oh so yours is coming up too
+
+<$B> <ICE-JA:S1A-025#235:1:B> Yeah<{><[><,></[> it was last year when I turned twenty
+
+<$A> <ICE-JA:S1A-025#236:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-025#237:1:A> Oh uh you're just twenty-one this year
+
+<$B> <ICE-JA:S1A-025#238:1:B> Mhm
+<ICE-JA:S1A-025#239:1:B> I met him on your birthday you know
+
+<$A> <ICE-JA:S1A-025#240:1:A> Oh you did
+
+<$B> <ICE-JA:S1A-025#241:1:B> Yeah<O>laughter</O>
+<ICE-JA:S1A-025#242:1:B> And the next day was my little brother's birthday
+
+<$A> <ICE-JA:S1A-025#243:1:A> <?> Little</?> who
+
+<$B> <ICE-JA:S1A-025#244:1:B> My little brother's
+
+<$A> <ICE-JA:S1A-025#245:1:A> Oh
+<ICE-JA:S1A-025#246:1:A> How so many persons born in April<,>
+<ICE-JA:S1A-025#247:1:A> Mm
+<ICE-JA:S1A-025#248:1:A> In April
+<ICE-JA:S1A-025#249:1:A> You know everybody in my room born April though
+
+<$B> <ICE-JA:S1A-025#250:1:B> Everybody what
+
+<$A> <ICE-JA:S1A-025#251:1:A> <}> <-> In the room</-> <=> in my room</=></}> <{1> <[1> <@>
+
+Sylvia</@></[1> and everybody <{2> <[2> <,> all born April</[2>
+
+<$B> <ICE-JA:S1A-025#252:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-025#253:1:B> <[2> Oh</[2></{2>
+
+<$B> <ICE-JA:S1A-025#254:1:B> <@> Mary</@> and <@> Susanna</@> <{> <[> September</[>
+
+<$A> <ICE-JA:S1A-025#255:1:A> <[> September</[></{>
+<ICE-JA:S1A-025#256:1:A> Mhm
+<ICE-JA:S1A-025#257:1:A> Oh
+
+<$B> <ICE-JA:S1A-025#258:1:B> <@> Mary</@> went on a hunt for your birthday present
+<ICE-JA:S1A-025#259:1:B> <unclear> word</unclear><{><[><unclear>word(s)</unclear></[>
+
+<unclear> words</unclear>
+
+<$A> <ICE-JA:S1A-025#260:1:A> <[> Oh she did </[> </{>
+
+<$A> <ICE-JA:S1A-025#261:1:A> Oh oh you went <{> <[> with her</[>
+
+<$B> <ICE-JA:S1A-025#262:1:B> <{> <[> <?> Oh my</?> <unclear> word(s)</unclear></[></{>
+<ICE-JA:S1A-025#263:1:B> <unclear> name</unclear> and <@> Sylvia</@> went to was <unclear>
+
+word</unclear> <unclear> words</unclear><{1><[1><,></[1>
+<ICE-JA:S1A-025#264:1:B> <{2> <[2> Mhm</[2>
+
+<$A> <ICE-JA:S1A-025#265:1:A> <[1> Aha</[1></{1>
+
+<$A> <ICE-JA:S1A-025#266:1:A> <[2> <O> laughter</O></[2></{2>
+<ICE-JA:S1A-025#267:1:A> <?> That was so nice</?>
+<ICE-JA:S1A-025#268:1:A> <}> <-> She</- > <=> she</=></}> <unclear> words</unclear> places
+
+<}> <-> to buy</-> <{> <[> <,> <=> to buy</=></}></[> stuff<O>laughter</O>
+<ICE-JA:S1A-025#269:1:A> So nice
+
+<$B> <ICE-JA:S1A-025#270:1:B> <[> <?> I swear</?></[></{>
+
+<$B> <ICE-JA:S1A-025#271:1:B> No she no want this
+<ICE-JA:S1A-025#272:1:B> She no want this <{> <[> you know</[>
+
+<$A> <ICE-JA:S1A-025#273:1:A> <[> <}> <-> What</-></[></{> <=> what</=></}> she was looking
+
+at
+
+<$B> <ICE-JA:S1A-025#274:1:B> Jewellery she wanted it to be jewellery<{1><[1><,></[1>
+<ICE-JA:S1A-025#275:1:B> I said where I get <}> <-> something <.> ni</.><+>nice</+> <.>
+
+some</.></-> <=> something</=></}> else you know what I mean<{2><[2><,></[2>
+<ICE-JA:S1A-025#276:1:B> So she was saying no and you like jewellery
+
+<$A> <ICE-JA:S1A-025#277:1:A> <[1> Oh mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#278:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#279:1:A> Yeah I like jewellery yeah
+<ICE-JA:S1A-025#280:1:A> I told her that I wanted to start my jewellery
+
+collection<{1><[1><,></[1> my little stuff even though some time I just wear
+
+them and just put them up to look on them cos I wear the same earring every
+
+single day till they start <{2> <[2> rust</[2>
+
+<$B> <ICE-JA:S1A-025#281:1:B> <[1> Okay</[1></{1>
+
+<$B> <ICE-JA:S1A-025#282:1:B> <[2> Yeah</[2></{2><O>laughter</O>
+<ICE-JA:S1A-025#283:1:B> Now you want some diamond<{><[><,></[>
+<ICE-JA:S1A-025#284:1:B> Tell me about it<O>laughter</O>
+
+<$A> <ICE-JA:S1A-025#285:1:A> <[> Yes</[></{>
+
+<$A> <ICE-JA:S1A-025#286:1:A> You know who a go buy me <?> no</?> diamond
+
+<$B> <ICE-JA:S1A-025#287:1:B> Mm I <?> do</?> want some myself<O>laughter</O>
+<ICE-JA:S1A-025#288:1:B> Yeah I read <}> <- > they're making</-> <=> they're using</=></}>
+
+some machine of some sort<{1><[1><,></[1> to make real
+
+diamonds<{2><[2><,></[2>
+<ICE-JA:S1A-025#289:1:B> You heard about it<{3><[3><,></[3>
+<ICE-JA:S1A-025#290:1:B> They actually make <?> it</?> real as in <unclear> several-
+
+words</unclear> <?> stuff like that</?><{4><[4><,></[4>
+<ICE-JA:S1A-025#291:1:B> There's nothing to say that it's fake<{5><[5><,></[5>
+<ICE-JA:S1A-025#292:1:B> They put it in a machine and it's in there for like three
+
+days<{6><[6><,></[6> but only thing it comes out yellow<{7><[7><,></[7>
+<ICE-JA:S1A-025#293:1:B> There's other man who kind of <}> <-> makes it</-> <=> make
+
+it</=></}> white<{8><[8><,></[8> but me no know
+
+<$A> <ICE-JA:S1A-025#294:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#295:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#296:1:A> <[3> Uhuh</[3></{3>
+
+<$A> <ICE-JA:S1A-025#297:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-025#298:1:A> <[5> Oh</[5></{5>
+
+<$A> <ICE-JA:S1A-025#299:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-025#300:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1A-025#301:1:A> <[8> Mhm</[8></{8>
+
+<$A> <ICE-JA:S1A-025#302:1:A> Wow
+<ICE-JA:S1A-025#303:1:A> Imagine <}> <-> I I heard</-> well <=> I saw</=></}> it in the
+
+newspaper <?> though</?> uh some long time about your body when <}> <-> they
+
+you burn</-> <=> they burn</=></}> your body when you die and <}> <-> they
+
+they</-> <=> they</=></}> burn it but they get <{1> <[1> ashes they</[1> can
+
+turn into diamonds or something turn into some <{2> <[2> form of
+
+something</[2>
+
+<$B> <ICE-JA:S1A-025#304:1:B> <[1> Oh <unclear> word</unclear></[1></{1>
+
+<$B> <ICE-JA:S1A-025#305:1:B> <[2> I know what you're talking about</[2></{2>
+<ICE-JA:S1A-025#306:1:B> A man him daughter did die<{1><[1><,></[1> right
+<ICE-JA:S1A-025#307:1:B> <{2> <[2> <unclear> words</unclear></[2>
+
+<$A> <ICE-JA:S1A-025#308:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#309:1:A> <[2> You saw it
+<ICE-JA:S1A-025#310:1:A> It was diamonds</[2></{2>
+
+<$A> <ICE-JA:S1A-025#311:1:A> It was <{> <[> diamonds</[> what they did
+<ICE-JA:S1A-025#312:1:A> How they did it
+
+<$B> <ICE-JA:S1A-025#313:1:B> <[> Yeah</[></{>
+
+<$B> <ICE-JA:S1A-025#314:1:B> <?> Me no know me dear</?>
+<ICE-JA:S1A-025#315:1:B> I wondered but I don't know
+
+<$A> <ICE-JA:S1A-025#316:1:A> They burn them and get rich and all <?> they bought</?> rings
+
+for the <?> dogs</?> and stuff
+
+<$B> <ICE-JA:S1A-025#317:1:B> <unclear> several-words</unclear><O>laughter</O>
+
+<$A> <ICE-JA:S1A-025#318:1:A> Oh
+<ICE-JA:S1A-025#319:1:A> <?> How crazy</?> Hm
+
+<$B> <ICE-JA:S1A-025#320:1:B> I guess that's all I need to get on my birthday some real
+
+diamond<{1><[1><,></[1>
+<ICE-JA:S1A-025#321:1:B> They're so expensive
+<ICE-JA:S1A-025#322:1:B> <unclear> words</unclear><{2><[2><,></[2>
+<ICE-JA:S1A-025#323:1:B> Uh you see that woman<,>
+<ICE-JA:S1A-025#324:1:B> <unclear> words</unclear> that they expect you to do anything for
+
+yourself<,><O>laughter</O><,,>
+<ICE-JA:S1A-025#325:1:B> <}> <-> I <.> wo</.></-> <=> I don't</=></}> think the bookshop
+
+<?> will have anything</?><{3><[3><,></[3> too elaborate
+<ICE-JA:S1A-025#326:1:B> They believe they <?> are catering</?> to young people so<,,>
+<ICE-JA:S1A-025#327:1:B> Yeah<,,>
+<ICE-JA:S1A-025#328:1:B> <@> Sally</@> finish UWI now
+<ICE-JA:S1A-025#329:1:B> <}> <.> <@> Sal</@></.><+><@>Sally</@></+></}>
+
+<$A> <ICE-JA:S1A-025#330:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#331:1:A> <[2> Hm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#332:1:A> <[3> Uhuh</[3></{3>
+
+<$A> <ICE-JA:S1A-025#333:1:A> Yeah yeah yeah
+<ICE-JA:S1A-025#334:1:A> I think <?> she have</?> summer school
+
+<$B> <ICE-JA:S1A-025#335:1:B> Mhm
+<ICE-JA:S1A-025#336:1:B> I <unclear> words</unclear> <@> Mary</@> and <@> Sylvia</@> <{>
+
+<[> and</[> <@> Lisa</@> too
+
+<$A> <ICE-JA:S1A-025#337:1:A> <[> <}> <.> <@> Ma</@></.><+><@>Mary</@></+></}></[></{>
+
+<$A> <ICE-JA:S1A-025#338:1:A> Mhm
+<ICE-JA:S1A-025#339:1:A> Oh <@> Mary</@> and who
+
+<$B> <ICE-JA:S1A-025#340:1:B> <@> Sylvia</@>
+
+<$A> <ICE-JA:S1A-025#341:1:A> <@> Sylvia</@> come in summer school
+
+<$B> <ICE-JA:S1A-025#342:1:B> No man
+<ICE-JA:S1A-025#343:1:B> I'm talking next year
+
+<$A> <ICE-JA:S1A-025#344:1:A> Oh oh to stay oh yes uhm <@> Lilly</@> <?> is going to be</?>
+
+here too<{><[><,></[>
+<ICE-JA:S1A-025#345:1:A> <@> Lilly</@> and
+<ICE-JA:S1A-025#346:1:A> Oh <@> Lilly</@> <@> Sylvia</@> <@> Mary</@> you
+<ICE-JA:S1A-025#347:1:A> Guess everybody else gone
+<ICE-JA:S1A-025#348:1:A> No <@> Catherine</@> <?> is off</?>
+
+<$B> <ICE-JA:S1A-025#349:1:B> <[> Okay</[></{>
+
+<$B> <ICE-JA:S1A-025#350:1:B> <unclear> words(names?)</unclear><{><[><,></[>
+<ICE-JA:S1A-025#351:1:B> <unclear> words(names?)</unclear>
+
+<$A> <ICE-JA:S1A-025#352:1:A> <[> Hm</[></{>
+
+<$A> <ICE-JA:S1A-025#353:1:A> And <@> Sue</@>
+<ICE-JA:S1A-025#354:1:A> <@> Sue</@> I think <}> <-> she</-> if <=> she</=></}> don't
+
+finish all of it this semester<{><[><,></[>
+<ICE-JA:S1A-025#355:1:A> <}> <-> she gonna uhm she gonna come to <.> s</.></-> <=> she
+
+gonna go do one more semester</=></}>
+<ICE-JA:S1A-025#356:1:A> And then <unclear> word(name?)</unclear>
+
+<$B> <ICE-JA:S1A-025#357:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-025#358:1:B> Good good <{> <[> <?> and I think</?> <unclear>
+
+words</unclear></[>
+
+<$A> <ICE-JA:S1A-025#359:1:A> <[> Hm everybody</[></{> deh ya
+<ICE-JA:S1A-025#360:1:A> Just me and <?> <@> Sally</@></?> will <}> <-> <?> leave
+
+for</?></-> <=> leave</=></}> and the boys
+
+<$B> <ICE-JA:S1A-025#361:1:B> I <?> was gonna</?> wish I was leaving
+<ICE-JA:S1A-025#362:1:B> <?> Me just have come</?>
+
+<$A> <ICE-JA:S1A-025#363:1:A> Why
+
+<$B> <ICE-JA:S1A-025#364:1:B> <{> <[> Why</[>
+
+<$A> <ICE-JA:S1A-025#365:1:A> <[> <?> You got</?></[></{> no rush
+
+<$B> <ICE-JA:S1A-025#366:1:B> No <unclear> words</unclear> I guess
+<ICE-JA:S1A-025#367:1:B> <}> <-> I'm tired of the</-> uhm <=> I'm tired of</=></}> tired of
+
+UWI<,> tired of the school life
+<ICE-JA:S1A-025#368:1:B> I need to relax now
+<ICE-JA:S1A-025#369:1:B> I need to retire<,> collect me pension and thing<O>laughter</O>
+
+<$A> <ICE-JA:S1A-025#370:1:A> You reach far collect pension
+<ICE-JA:S1A-025#371:1:A> You reach too far
+
+<$B> <ICE-JA:S1A-025#372:1:B> And I think <?> is a work thing too
+<ICE-JA:S1A-025#373:1:B> <{> <[> Me no want</?> work <unclear> words</unclear></[>
+
+<$A> <ICE-JA:S1A-025#374:1:A> <[> <?> Me know</?> <unclear> words</unclear></[></{>
+<ICE-JA:S1A-025#375:1:A> <?> Me know</?> <unclear> words</unclear>
+<ICE-JA:S1A-025#376:1:A> This is a boring job
+<ICE-JA:S1A-025#377:1:A> Just the only thing I <unclear> word</unclear> is I'm probably <?>
+
+going to sleep some of the time</?> I do the <{> <[> interview</[>
+
+<$B> <ICE-JA:S1A-025#378:1:B> <[> What kind of job</[>
+
+<$A> <ICE-JA:S1A-025#379:1:A> This that I'm taping you right now
+
+<$B> <ICE-JA:S1A-025#380:1:B> This is a job
+
+<$A> <ICE-JA:S1A-025#381:1:A> For now for this week
+
+<$B> <ICE-JA:S1A-025#382:1:B> Oh you get paid for it<{1><[1><,></[1> to
+
+tape<{2><[2><,></[2>
+<ICE-JA:S1A-025#383:1:B> Where you get the job from
+
+<$A> <ICE-JA:S1A-025#384:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-025#385:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-025#386:1:A> Linguistics<,,>
+
+<$B> <ICE-JA:S1A-025#387:1:B> Oh<,,>
+
+<$A> <ICE-JA:S1A-025#388:1:A> Mhm
+
+<$B> <ICE-JA:S1A-025#389:1:B> That's good
+
+<$A> <ICE-JA:S1A-025#390:1:A> Yeah the professor hearing me on the tape saying that I
+
+sleeping during the job <unclear> two-words</unclear><O>laughter</O>
+<ICE-JA:S1A-025#391:1:A> Hope he ain't listening
+<ICE-JA:S1A-025#392:1:A> Uh
+
+<$B> <ICE-JA:S1A-025#393:1:B> Is he going to listen to the tape
+
+<$A> <ICE-JA:S1A-025#394:1:A> I don't think <}> <-> I</-> <=> I'm</=></}> not sure about
+
+that<{1><[1><,></[1>
+<ICE-JA:S1A-025#395:1:A> Other people probably suppose uh he just listen to one <{2> <[2>
+
+to</[2> hear one on it and then it happens that this is the one he listens to
+
+<$B> <ICE-JA:S1A-025#396:1:B> <[1> I don't think so</[1></{1>
+
+<$B> <ICE-JA:S1A-025#397:1:B> <[2> <?> That</?></[2></{2>
+
+<$B> <ICE-JA:S1A-025#398:1:B> Oh
+<ICE-JA:S1A-025#399:1:B> Well at least you're being honest <O> laughter</O>
+
+<$A> <ICE-JA:S1A-025#400:1:A> Okay
+<ICE-JA:S1A-025#401:1:A> Mhm
+<ICE-JA:S1A-025#402:1:A> Because you can't get the interviews <.> p</.> people you know
+
+people you don't know
+<ICE-JA:S1A-025#403:1:A> <{> <[> You can't just have a fun time</[>
+<ICE-JA:S1A-025#404:1:A> Yes sometimes
+<ICE-JA:S1A-025#405:1:A> Uh I did that a while ago and this guy came from <}> <-> he</->
+
+<=> he</=></}> went to Germany
+<ICE-JA:S1A-025#406:1:A> He was telling about his experience and how when he reach the
+
+airport the taxis were Benzes
+
+<$B> <ICE-JA:S1A-025#407:1:B> <[> So you walk up to people</[></{>
+
+<$B> <ICE-JA:S1A-025#408:1:B> Are you serious<{><[><,></[>
+<ICE-JA:S1A-025#409:1:B> You mean like a Benz bus
+
+<$A> <ICE-JA:S1A-025#410:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-025#411:1:A> No taxi<O>speaker-B-laughs</O> as in Benz Mercedes Benz <}>
+
+<-> for the</-> <=> for the</=></}> taxi from the airport</I>

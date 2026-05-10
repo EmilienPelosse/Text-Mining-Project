@@ -1,0 +1,440 @@
+<I>
+
+<p> <ICE-JA:W2B-038#1:1> <h> <bold> Information Technology impact on business and maritime
+
+communities </bold> </h> </p>
+
+<p> <ICE-JA:W2B-038#2:1> Paul Taylor, Contributor </h> </p> <O> photograph </O>
+
+<p> <ICE-JA:W2B-038#3:1> <it> As we approach the close of the twentieth century, now is an
+
+opportune time to examine how information technology ( IT) has impacted our
+
+world.
+<ICE-JA:W2B-038#4:1> This is the first in a series that traces some of the major IT
+
+developments over the last three years, in which Port Computer Services has
+
+played a pivotal role. </it> </p>
+
+<p> <ICE-JA:W2B-038#5:1> <bold> UNDOUBTEDLY, THE </bold> world has entered an era of
+
+tremendous change with concepts such as globalisation, right-sizing and
+
+business processes re-engineering being today's clichés.
+<ICE-JA:W2B-038#6:1> Equally, talk of information technology and what is now termed the
+
+information age have become common-place. </p>
+
+<p> <ICE-JA:W2B-038#7:1> To be sure, information technology ( IT), in the form of computers
+
+and telecommunications, is creating an environment in which information moves
+
+at rapid speed, and this can have positive spin-offs for the businesses
+
+operating in a competitive environment.
+<ICE-JA:W2B-038#8:1> Indeed, the changing realities of the global marketplace have resulted
+
+in a paradigm shift in the ways businesses function and have largely hastened
+
+the adoption of appropriate technologies to ensure survival in the short,
+
+medium and long term. </p>
+
+<p> <ICE-JA:W2B-038#9:1> In a real sense, the information revolution is fundamentally
+
+changing the way we do business, communicate with clients, market products,
+
+source supplies and find buyers.
+<ICE-JA:W2B-038#10:1> Additionally, new <quote> " virtual industries" </quote> ( industries
+
+that exist electronically but do not have any physical premises) such as
+
+virtual shopping malls and banks have sprung up in the past few years that
+
+were not even dreamt of previously. </p>
+
+<p> <ICE-JA:W2B-038#11:1> In the Jamaican maritime sector, Port Computer Services Ltd. (
+
+PCS), the Shipping Association of Jamaica's wholly owned computer subsidiary,
+
+has being charged with the responsibility to spearhead IT developments on the
+
+Port of Kingston and the maritime sector in general. </p>
+
+<p> <ICE-JA:W2B-038#12:1> PCS has led the way in the development of the locally shipping
+
+industry's web site: <quote> " seaportsofjamaica.com" </quote> web site.
+<ICE-JA:W2B-038#13:1> The only interactive web site of its kind in the Caribbean basin,
+
+this site showcases Jamaica's shipping industry to the world. </p>
+
+<p> <ICE-JA:W2B-038#14:1> Interest in the site, which features Jamaica's port facilities,
+
+shipping companies and related agencies has continued to grow with positive
+
+feedback being received from Internet surfers locally and abroad. </p>
+
+<p> <ICE-JA:W2B-038#15:1> Port Computer Services Ltd. in a pioneering role used the
+
+intranet technology in conceiving, developing and implementing a one of a
+
+kind shipping industry's Wide Area Network ( WAN).
+<ICE-JA:W2B-038#16:1> In 1995 PCS embarked on this develo <space> pment to revolutionise
+
+the process of information dissemination within the shipping industry, thus
+
+making it more flexible and accessible to others who wish to share in the
+
+transfer of information. </p>
+
+<p> <ICE-JA:W2B-038#17:1> <h> <bold> Objective </bold> </h> </p>
+
+<p> <ICE-JA:W2B-038#18:1> The objectives that drove the project have been concerned with
+
+linking all existing local area networks ( LANs) within the shipping industry
+
+to facilitate information sharing among members of the shipping fraternity.
+
+</p>
+
+<p> <ICE-JA:W2B-038#19:1> Some of the benefits that WAN provides to connect users include:
+
+</p>
+
+<p> <ICE-JA:W2B-038#20:1> &dot; The ability to send and retrieve electronic mail and
+
+associated documents to and from other users of the network, which has
+
+contributed to the reduction in the number of faxed transmissions between
+
+companies and the timely delivery of information to users. </p>
+
+<p> <ICE-JA:W2B-038#21:1> &dot; All companies connected to the WAN can access port
+
+statistical information and other data in order to assist in the effective
+
+management of organisational resources. </p>
+
+<p> <ICE-JA:W2B-038#22:1> &dot; Through the introduction of the WAN the door has been
+
+opened for the utilisation of more Client/Server oriented software.
+<ICE-JA:W2B-038#23:1> This has resulted in less waiting time during the running of
+
+interactive jobs, thus speeding-up the rate at which information is processed
+
+and produced. </p>
+
+<p> <ICE-JA:W2B-038#24:1> &dot; The WAN has facilitated a more centralised and secured
+
+database, while significant improvements in systems response time have also
+
+been witnessed. </p>
+
+<p> <ICE-JA:W2B-038#25:1> Given the competitive environment in which businesses must
+
+operate, these and other benefits provided by the WAN can only augur well for
+
+the internal and external customers of the shipping companies who utilise the
+
+network. </p>
+
+<p> <ICE-JA:W2B-038#26:1> Indeed, the competitive nature of the business environment today
+
+and the increased focus on customer care and satisfaction have played an
+
+intrinsic role in the push to introduce and adopt emerging technologies to
+
+improve the efficacy of businesses, as has been demonstrated by PCS and its
+
+work in the local Shipping Industry. </p>
+
+<p> <ICE-JA:W2B-038#27:1> While computerisation has been mostly concerned with automating
+
+existing business function, we are now moving away from thinking about
+
+managing data towards managing information.
+<ICE-JA:W2B-038#28:1> By that it is meant, what information do we have about our customers
+
+and can we use it to help us manage our organisations better while at the
+
+same time effectively meeting the needs of our customers. </p>
+
+<p> <ICE-JA:W2B-038#29:1> The electronic manifest transfer initiative now underway in the
+
+local Shipping Industry has been geared at just that, improving customer
+
+service.
+<ICE-JA:W2B-038#30:1> This initiative will result in major improvements in efficiency in
+
+the cargo clearance process on the Port of Kingston. </p>
+
+<p> <ICE-JA:W2B-038#31:1> The plan is to have shipping manifest information sent
+
+electronically 24 hours before vessel arrival in the required format to
+
+Jamaican Customs.
+<ICE-JA:W2B-038#32:1> Customs will then issue authorisation in the form of a certificate
+
+within 24 hours of the vessel's arrival.
+<ICE-JA:W2B-038#33:1> The whole process will result in a significant reduction in the time
+
+it takes to clear cargo, as data will now be received and processed even
+
+while the ship is on the high seas. </p>
+
+<p> <ICE-JA:W2B-038#34:1> This means that a process which traditionally required numerous
+
+copies of documents that was hand written at considerable clerical cost, with
+
+goods taking several weeks to be cleared <-> ; </-> will be replaced by a
+
+system that allows for clearance within a day.
+<ICE-JA:W2B-038#35:1> Additionally, the system will result in substantial savings to the
+
+importer with less money spent on storage which will translate into savings
+
+for customers. </p>
+
+<p> <ICE-JA:W2B-038#36:1> The electronic checking of customs entries will also
+
+substantially reduce the high rate of errors and double entries in submitted
+
+manifests.
+<ICE-JA:W2B-038#37:1> With goods being cleared in 24 hours there will be considerably
+
+improved inventory management and less money tied up in goods.
+<ICE-JA:W2B-038#38:1> The process will also eliminate the arduous pre-clearance of
+
+documents.
+<ICE-JA:W2B-038#39:1> ( to be continued) </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-038#40:2> <h> Impact on the business and maritime communities  <it>
+
+Information Technology </it> </h> </p> <O> text </O>
+
+<p> <ICE-JA:W2B-038#41:2> <bold> THE USE </bold> of technological systems to promote
+
+internationally acceptable standards of productivity and efficiency has
+
+caused ports in the developing world to have a level of equipment capability
+
+that far exceeds other industries.
+<ICE-JA:W2B-038#42:2> This is particularly true of ports such as the Port of Kingston,
+
+which handles a large volume of transhipment cargo. </p>
+
+<p> <ICE-JA:W2B-038#43:2> The Internet and other emerging technologies are also impacting
+
+all functional areas of today's organisations, chiefly the marketing
+
+function.
+<ICE-JA:W2B-038#44:2> Highly targeted marketing campaigns, for example, are becoming
+
+commonplace. </p>
+
+<p> <ICE-JA:W2B-038#45:2> With information available more quickly, at much lower cost, and
+
+with much less need for large and cumbersome administrative structures, the
+
+whole concept of centralised and hierarchical management is now coming under
+
+scrutiny. </p>
+
+<p> <ICE-JA:W2B-038#46:2> <h> <bold> Interests </bold> </h> </p>
+
+<p> <ICE-JA:W2B-038#47:2> More and more shipping interests are discovering that in the
+
+future, the most successful companies will be made up of people who have
+
+quick and easy access to the information that they require to make informed
+
+choices about the best way to meet their <w> customers' </w> needs and,
+
+crucially, will be given the responsibility and authority to act to guarantee
+
+customer satisfaction in a timely manner. </p>
+
+<p> <ICE-JA:W2B-038#48:2> As Fred Luthans so ably articulated in his book, Organisational
+
+Behaviour, " it is the knowledge worker, armed with the requisite skills to
+
+master the demands of the organisation of the future, who stands the greatest
+
+chance of succeeding and prospering in tomorrow's world". </p>
+
+<p> <ICE-JA:W2B-038#49:2> According to Luthans, for organisations to grow and develop they
+
+will have to embrace what he refers to as the philosophy of the Learning
+
+Organisation, where the organisation's internal customers are continually
+
+learning and are empowered to bring acquired skills and knowledge to improve
+
+and enhance the productivity and profitability of the organisation. </p>
+
+<p> <ICE-JA:W2B-038#50:2> Here, information technology will define how authority and
+
+responsibility are delegated and how persons in functional areas of the
+
+organisation interact to enhance organisational value. </p>
+
+<p> <ICE-JA:W2B-038#51:2> If there is one vital word that provides a focus on what is being
+
+said here, the word is <quote> 'relationship' </quote> .
+<ICE-JA:W2B-038#52:2> For relationships within organisations will change-- between the
+
+people at the centre and those closest to the customer in this information
+
+age.
+<ICE-JA:W2B-038#53:2> Relationships across organisations will also change--partnerships and
+
+alliances will become increasingly necessary to meet rapidly changing
+
+circumstances, as evidenced in the moves by shipping lines in the global
+
+shipping arena to form a number of alliances and consortia to benefit from
+
+the attendant economies of scales provided.
+<ICE-JA:W2B-038#54:2> Most important of all, it should be noted that relationships between
+
+organisations and their customers will change. </p>
+
+<p> <ICE-JA:W2B-038#55:2> <h> <bold> Revolution </bold> </h> </p>
+
+<p> <ICE-JA:W2B-038#56:2> The information revolution presents us with many challenges,
+
+whether we are in shipping or some other industry, but it also provides us
+
+with the tools and the means to meet them.
+<ICE-JA:W2B-038#57:2> Every individual should get him/herself prepared through training and
+
+hands on experience in order to have a good chance of succeeding. </p>
+
+<p> <ICE-JA:W2B-038#58:2> To be sure, information technology is revolutionising, and will
+
+continue to revolutionise, the way we work, and the next few years will see
+
+major changes in the way organisations in the maritime industry and elsewhere
+
+are structured and managed.
+<ICE-JA:W2B-038#59:2> These changes will be demanded by customers, made possible by new
+
+technology, and will be embraced by those organisations that want to survive,
+
+and moreover, succeed. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-038#60:3> <h> <bold> The challenges of communication technology </bold>
+
+</h> </p>
+
+<p> <ICE-JA:W2B-038#61:3> <bold> THERE IS </bold> hardly an office today that is not
+
+computerised.
+<ICE-JA:W2B-038#62:3> The change has been swift and adaptation equally quick.
+<ICE-JA:W2B-038#63:3> The use of fax machines, and the technology, which enables
+
+teleconferences and videoconferences, has rapidly increased the speed of
+
+messages and reduced the need to travel to meet face to face. </p>
+
+<p> <ICE-JA:W2B-038#64:3> Word-processing, graphics and desktop publishing have helped in
+
+the quick production of polished presentations and enable quick revisions as
+
+well as the easy personalisation of business letters and other documents.
+
+</p>
+
+<p> <ICE-JA:W2B-038#65:3> It is difficult to remember what we used to do before the
+
+computer. </p>
+
+<p> <ICE-JA:W2B-038#66:3> Yet, when IBM introduced its first personal computer in 1981, it
+
+hoped to sell only 250,000 machines over the life of the product.
+<ICE-JA:W2B-038#67:3> Ten years later, they had sold more than 55 million personal
+
+computers in the United States alone. </p>
+
+<p> <ICE-JA:W2B-038#68:3> However, there are those who believe that computerisation in all
+
+its forms has been embraced in too wholesale a fashion by some businesses at
+
+the expense of the personal touch. </p>
+
+<p> <ICE-JA:W2B-038#69:3> Many would-be customers are turned away from businesses,
+
+intimidated by the numerous options of voicemail messages that they use.
+<ICE-JA:W2B-038#70:3> It is now a matter of debate, whether businesses that offer a
+
+service, like banks, or airlines, should embrace this technological
+
+application in such a wholesale manner.
+<ICE-JA:W2B-038#71:3> In fact, there are an increasing number of businesses in the United
+
+States that are going back to the old way of doing business, with the
+
+emphasis being on the personal touch. </p>
+
+<p> <ICE-JA:W2B-038#72:3> The promised " paperless environment" of the new computerised
+
+age, has also not been realised.
+<ICE-JA:W2B-038#73:3> In fact, there are those who can show evidence that their dependency
+
+on the filing cabinet has dramatically increased, since the computer. </p>
+
+<p> <ICE-JA:W2B-038#74:3> Yet, as we adapt to the various nuances of this new technological
+
+age, there are still many challenges to be faced, and still much to be
+
+learned about the hundreds of applications of computer technology.
+<ICE-JA:W2B-038#75:3> Perhaps no industry is more affected than the communication industry.
+
+</p>
+
+<p> <ICE-JA:W2B-038#76:3> Many are still wrestling with the mysteries and potential of
+
+communicating on-line, as well as interfacing computer to computer with the
+
+print and electronic media - still the principal channels of public
+
+communication. </p>
+
+<p> <ICE-JA:W2B-038#77:3> It is against this background that the local arm of the
+
+International Association of Business Communicators ( IABC) will be mounting
+
+a one-day Seminar on Friday November 5, at the Jamaica Pegasus Hotel.
+<ICE-JA:W2B-038#78:3> Principal speaker, Charles Pizzo, who is IABC Vice Chairman and
+
+Principal of a New Orleans- based Public Relations Agency, PR Inc, states
+
+that Information Technology for Communicators, ( one of the topics he will be
+
+presenting), is a practical response to concerns surrounding the issues of
+
+emerging technology and the need for these to be presented in a practical and
+
+concise way.
+<ICE-JA:W2B-038#79:3> His presentation on <quote> " Strategies for Online Communicators"
+
+</quote> , is also aimed particularly at the communicator who is expected to
+
+provide information to management instantly. </p>
+
+<p> <ICE-JA:W2B-038#80:3> <quote> " We will" </quote> , he explains, <quote> " examine
+
+strategic solutions that augment existing communications programmes with best
+
+practices for the online era including research, media relations, crisis
+
+communication, investor relations and marketing communications." </quote>
+
+</p> </I>

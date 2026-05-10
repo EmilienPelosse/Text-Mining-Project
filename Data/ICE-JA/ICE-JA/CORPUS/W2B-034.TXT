@@ -1,0 +1,431 @@
+<I>
+
+<p> <ICE-JA:W2B-034#1:1> <h> <bold> Engine's lubrication system </bold> </h> </p>
+
+<p> <ICE-JA:W2B-034#2:1> <bold> by PAUL MESSAM </bold> </p>
+
+<p> <ICE-JA:W2B-034#3:1> THE oil pan has no mechanical function, but serves as the reser
+
+<l> voir for the engine oil. </p>
+
+<p> <ICE-JA:W2B-034#4:1> As simple as this pan may seem, sharp stones and other debris can
+
+easily tear a hole in it large enough to cause the oil to leak out in a very
+
+short time.
+<ICE-JA:W2B-034#5:1> The oil pan gasket, which is between the pan and the block can also
+
+leak, thus leading to major worries. </p>
+
+<p> <ICE-JA:W2B-034#6:1> Some of the reasons for an oil leak from a vehicle with stan <l>
+
+dard transmission are: worn oil seals; defective gaskets; a loose drain plug;
+
+damaged threads on drain plugs; a too high oil level; the incorrect fitting
+
+of an oil pan gasket; a cracked transmission case; a missing drain plug
+
+gasket; loose transmission bolts, and <-> ; </-> defective transmission compo
+
+<l> nents, such as the front and rear bearings. </p>
+
+<p> <ICE-JA:W2B-034#7:1> If a vehicle has been involved in a front-end collision, it is
+
+more than likely that the oil pan will be damaged.
+<ICE-JA:W2B-034#8:1> This pan must then be removed, strightened and reinstalled.
+<ICE-JA:W2B-034#9:1> When replaced, there must be no spaces to allow the oil to seep past
+
+the pan gasket. </p>
+
+<p> <ICE-JA:W2B-034#10:1> <h> bold> Leak </bold> </h> </p>
+
+<p> <ICE-JA:W2B-034#11:1> There are times when gaskets are not aligned properly during
+
+installation.
+<ICE-JA:W2B-034#12:1> Oil running from an oil pan will usually find itself elsewhere before
+
+dripping onto the ground, giving absolutely no idea as to the location of the
+
+leak. </p>
+
+<p> <ICE-JA:W2B-034#13:1> The proper method of trac <l> ing an oil leak is to first clean
+
+the engine from top to bottom.
+<ICE-JA:W2B-034#14:1> After the engine is dry, place it on a ramp and run it for a while.
+<ICE-JA:W2B-034#15:1> The source of the leak can then be correctly located. </p>
+
+<p> <ICE-JA:W2B-034#16:1> <h> <bold> Oil pump </bold> </h> </p>
+
+<p> <ICE-JA:W2B-034#17:1> The oil pump does not usual <l> ly break down mechanically, as it
+
+is gear-driven from the cam <l> shaft.
+<ICE-JA:W2B-034#18:1> But how do you detect a defective oil pump?
+<ICE-JA:W2B-034#19:1> When the oil light stays on after the engine is in motion or if the
+
+oil pressure guage does not show the correct pressure.
+<ICE-JA:W2B-034#20:1> Remember, too, these are the signs the car gives when it is running
+
+out of oil. </p>
+
+<p> <ICE-JA:W2B-034#21:1> Trouble with the oil pump can step in when a plugged oil-pump
+
+screen, designed to keep debris out of the teeth of the pump, becomes
+
+clogged.
+<ICE-JA:W2B-034#22:1> Have your mechanic check the oil pump thoroughly if there is any
+
+doubt of its efficiency. </p>
+
+<p> <ICE-JA:W2B-034#23:1> If low oil pressure is detected it could also be a result of a
+
+worn camshaft or crankcase bearings, a sticking pressure-re <l> lief valve or
+
+broken valve spring in the oil pump.
+<ICE-JA:W2B-034#24:1> It could also be the result of a cracked or loose pipe inside the oil
+
+pan that feeds the lubricant to various engine components. </p>
+
+<p> <ICE-JA:W2B-034#25:1> <h> <bold> Flywheel </bold> </h> </p>
+
+<p> <ICE-JA:W2B-034#26:1> The flywheel is a large, round, heavy piece of metal that makes
+
+it possible for the engine to idle smoothly at low speeds.
+<ICE-JA:W2B-034#27:1> The flywheel is attached to the rear of the crankshaft.
+<ICE-JA:W2B-034#28:1> Its weight and shape helps to provide con <l> tinuous movement of the
+
+crank <l> shaft.
+<ICE-JA:W2B-034#29:1> The flywheel helps in moving the pistons in the engine to the top of
+
+the compression stroke without the use of the engine's power.
+<ICE-JA:W2B-034#30:1> The pistons are actually operated by the internal combustion of the
+
+engine with the help of the continuous movement of the flywheel and
+
+crankshaft. </p>
+
+<p> <ICE-JA:W2B-034#31:1> Without the inertia of the flywheel, it would be impossible to
+
+smooth out the firing im <l> pulses as the fuel / air mixture is ignited in
+
+each cylinder.
+<ICE-JA:W2B-034#32:1> A ring gear is attached to it, fitted along its outer circumference.
+
+</p>
+
+<p> <ICE-JA:W2B-034#33:1> <h> <bold> Crankshaft </bold> </h> </p>
+
+<p> <ICE-JA:W2B-034#34:1> A smaller gear located at the rear of the starter motor en <l>
+
+gages the flywheel ring gear to rotate the crankshaft and start the engine
+
+when the ignition switch is operated.
+<ICE-JA:W2B-034#35:1> If the igni <l> tion-timing marks are not on the front crankshaft
+
+pulley, they will be on the flywheel. </p>
+
+<p> <ICE-JA:W2B-034#36:1> In a car with automatic trans <l> mission, the engine has no flyw
+
+<l> heel.
+<ICE-JA:W2B-034#37:1> Instead, a unit known as the driveplate is attached to the rear of
+
+the crankshaft.
+<ICE-JA:W2B-034#38:1> The tor <l> que converter is attached to the driveplate, with their
+
+combined weight acting as a <quote> 'flywheel' </quote> .
+<ICE-JA:W2B-034#39:1> In an automatic vehicle, the ring gear is attached to the drive
+
+plate. </p>
+
+<p> <ICE-JA:W2B-034#40:1> Vehicles with standard trans <l> mission have a clutch assembly
+
+which is bolted to the flywheel to transmit the engine's power to the
+
+transmission. </p>
+
+<p> <ICE-JA:W2B-034#41:1> <bold> Paul Messam is a teacher and freelance writer. </bold>
+
+</p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-034#42:2> <h> How to reduce cracking in walls </h> </p>
+
+<p> <ICE-JA:W2B-034#43:2> <bold> by HURBUN WILLIAMS </bold> </p>
+
+<p> <ICE-JA:W2B-034#44:2> IT continues unabated  the manufacturing of substandard concrete
+
+blocks by both estab <l> lished and backyard manufactur <l> ers alike.
+<ICE-JA:W2B-034#45:2> This practice could have disastrous effect on our building industry
+
+if tighter con <l> trols and more vigilance is not exercised in determining
+
+the sort of materials that go into construction. </p>
+
+<p> <ICE-JA:W2B-034#46:2> It is not uncommon to see newly-purchased concrete blocks
+
+disintegrating without much force being applied to them.
+<ICE-JA:W2B-034#47:2> Sometimes just simply picking up a block causes it to fall apart.
+
+</p>
+
+<p> <ICE-JA:W2B-034#48:2> Poor construction materials in our buildings offer poor resis <l>
+
+tance to persistent rains and occasional earth tremours. </p>
+
+<p> <ICE-JA:W2B-034#49:2> To turn a blind eye to how we put materials together for
+
+construction purposes could make Jamaica a prime target for repeated
+
+disasters during earth <l> quake and rainy seasons. </p>
+
+<p> <ICE-JA:W2B-034#50:2> Concrete blocks and ill-con <l> structed slabs can develop irre
+
+<l> versible uneven shrinkages which would create very serious dimensional
+
+changes in building structures.
+<ICE-JA:W2B-034#51:2> This problem of the uncertain quality of building materials is partly
+
+economic and partly ignorance of the require <l> ments for producing an
+
+accepta <l> ble unit. </p>
+
+<p> <ICE-JA:W2B-034#52:2> The Jamaica Building Code allows minimum strength of a concrete
+
+block to be 1000 pounds per square inch.
+<ICE-JA:W2B-034#53:2> A re <l> cent check has shown that de <l> spite the continued
+
+vigilance of the Jamaica Bureau of Stan <l> dards, concrete blocks still fall
+
+woefully short of the required standards. </p>
+
+<p> <ICE-JA:W2B-034#54:2> <h> <bold> Cement costs </bold> </h> </p>
+
+<p> <ICE-JA:W2B-034#55:2> The high cost of cement could cause even the established
+
+manufacturers to use economical formulations.
+<ICE-JA:W2B-034#56:2> Fine aggregate can replace cement.
+<ICE-JA:W2B-034#57:2> The back-yard producer may not only cut back on cement but water
+
+content may lack consistency.
+<ICE-JA:W2B-034#58:2> Different moisture content in different units would create
+
+differential shrinkage.
+<ICE-JA:W2B-034#59:2> Another serious problem is that in trying to make a unit strong
+
+without proper laboratory facilities, too rich a mix could create progressive
+
+shrinking in the finished unit. </p>
+
+<p> <ICE-JA:W2B-034#60:2> While corrugated steel plays an important part as support,
+
+structure cracks in buildings must be avoided.
+<ICE-JA:W2B-034#61:2> For, apart from the unwholesome appear <l> ance they give the
+
+building, cracks set up stresses in the most unlikely areas.
+<ICE-JA:W2B-034#62:2> The building with a crack is structurally weaker. </p>
+
+<p> <ICE-JA:W2B-034#63:2> Certain some applications which can help reduce shrinkage of
+
+concrete blocks and slabs so that cracking of walls built with these
+
+materials is eliminated. </p>
+
+<p> <ICE-JA:W2B-034#64:2> Cement-bonded material show two kinds of dimensional change.
+<ICE-JA:W2B-034#65:2> First, a progressive shrinkage taking place at a grad <l> ually
+
+reducing rate and next, shrinkage and expansion, due respectively to drying
+
+and wet <l> ting.
+<ICE-JA:W2B-034#66:2> The progressive shrinkage is greater the richer the mix.
+<ICE-JA:W2B-034#67:2> It is much affected by curing con <l> ditions and if thorough
+
+moist-curing takes place before the units are built, subsequent shrinkage
+
+will be less. </p> </I>
+
+
+<I>
+
+<p> <ICE-JA:W2B-034#68:3> Eugene Shepherd </p>
+
+<p> <ICE-JA:W2B-034#69:3> <h> <bold> Machines and pants  his tickets to business </bold>
+
+</h> </p>
+
+<p> <ICE-JA:W2B-034#70:3> <bold> BY MAIA CHUNG </bold> </p>
+
+<p> <ICE-JA:W2B-034#71:3> Until quite recently, Fitzgerald jeans were manufactured
+
+exclusively for a North American clientele.
+<ICE-JA:W2B-034#72:3> But marketing problems there, have forced the company to go local.
+
+</p>
+
+<p> <ICE-JA:W2B-034#73:3> Eugene Shepherd, 25 year old owner of the Fitzgerald label found
+
+that he had to go in search of local markets as he simply could not find a
+
+way of effectively, getting his product to his overseas market.
+<ICE-JA:W2B-034#74:3> Jamaica has now become the main focus of his garment manufacturing
+
+operation <quote> " Cool Creations". </quote> </p>
+
+<p> <ICE-JA:W2B-034#75:3> Born and raised in <quote> " Southside" </quote> Kingston, Eugene
+
+is one of <quote> " 11 brothers and sisters that I know of, I've heard of
+
+about twenty- odd more", </quote> he said with a laugh.
+<ICE-JA:W2B-034#76:3> A past student of the Holy Family Primary and Meadowbrook High
+
+schools, Eugene told <bold> The Business Herald </bold> that while still a
+
+student in high school, his career interest was cen <l> tred on <quote> "
+
+woodworking" </quote> .
+<ICE-JA:W2B-034#77:3> Little did young Eugene guess that sewing and not woodworking, would
+
+be his destiny. </p>
+
+<p> <ICE-JA:W2B-034#78:3> It was through his brother's involvement in garment manufac <l>
+
+turing, that Eugene realised its potential as a good business opportunity.
+<ICE-JA:W2B-034#79:3> A fact which appealed great <l> ly to the young school leaver he was
+
+then.
+<ICE-JA:W2B-034#80:3> It was also an area, to which Eugene had been previously exposed, not
+
+only through his broth <l> er, but <quote> " my mother was a dress-maker".
+
+</quote>
+<ICE-JA:W2B-034#81:3> So picking up the skill of sewing was no problem. </p>
+
+<p> <ICE-JA:W2B-034#82:3> <h> <bold> How it started </bold> </h> </p>
+
+<p> <ICE-JA:W2B-034#83:3> Highlighting the events which led up to him owning his own
+
+business, Eugene said <quote> " my brother, Neville was in the business of
+
+manufactur <l> ing khaki uniforms for students". </quote>
+<ICE-JA:W2B-034#84:3> It was in this way that Eugene found himself involved in the garment
+
+manufacturing industry, having been employed to his brother's operation as
+
+<quote> " the pressman, I used to press the uniforms" </quote> .
+<ICE-JA:W2B-034#85:3> At that time Eugene could not sew. </p>
+
+<p> <ICE-JA:W2B-034#86:3> But for Neville the garment manufacturing business was not to be
+
+a life time affair.
+<ICE-JA:W2B-034#87:3> <quote> " Neville got a visa" </quote> , which signified the end of
+
+his entrepreneurial pursuits.
+<ICE-JA:W2B-034#88:3> <quote> " Him ( Neville) fly out as soon as him get it" </quote> .
+<ICE-JA:W2B-034#89:3> However what appeared to be the end of the road as far as Jamaica was
+
+concerned for Neville, was only the beginning for Eugene. </p>
+
+<p> <ICE-JA:W2B-034#90:3> Telling of his other responsibil <l> ities in his brother's
+
+business he said, <quote> " I used to take the uniforms my brother made to
+
+the market" </quote> it was in this way that Eugene was exposed to the
+
+lucrativeness of the business.
+<ICE-JA:W2B-034#91:3> This he said was largely responsible for his decision to take up
+
+where his brother left off.
+<ICE-JA:W2B-034#92:3> He was 18 at the time.
+<ICE-JA:W2B-034#93:3> <quote> " When my brother left he left his machines and some pants"
+
+</quote> these were to be Eugene's tickets into the world of business. </p>
+
+<p> <ICE-JA:W2B-034#94:3> <quote> " I took one of the pants apart" </quote> and with the
+
+aid of his older sister Janet <quote> " mek it back" </quote> .
+<ICE-JA:W2B-034#95:3> This was how he learned to sew, though he proudly stated he was
+
+mostly self taught in this area. </p>
+
+<p> <ICE-JA:W2B-034#96:3> It was by <quote> " selling off the pants" </quote> , which his
+
+brother had left behind, that he was able to get fund <l> ing to buy more
+
+material to contin <l> ue the business.
+<ICE-JA:W2B-034#97:3> Continuing, Eugene said his approach to a local small business
+
+lending agency, had proved futile as they demanded col <l> lateral.
+<ICE-JA:W2B-034#98:3> <quote> " I was just leaving school, whey me did fi get collateral?"
+
+</quote> </p>
+
+<p> <ICE-JA:W2B-034#99:3> <h> <bold> Perseverance </bold> </h> </p>
+
+<p> <ICE-JA:W2B-034#100:3> But Eugene persevered.
+<ICE-JA:W2B-034#101:3> Aided in his manufacturing mission by his sister Janet, Eugene named
+
+his busi <l> ness Cool Creations.
+<ICE-JA:W2B-034#102:3> Producing khaki school uniforms remained Eugene's angle until
+
+<quote> " a little brother" </quote> living in his neighbourhood, came up
+
+with the idea of designing and making jeans of different hues and fancy
+
+designs.
+<ICE-JA:W2B-034#103:3> Eugene was sold on the idea.
+<ICE-JA:W2B-034#104:3> And combining his efforts with those of the young man, jeans
+
+manufacturing became a part of Cool <w> Creations' </w> agenda. </p>
+
+<p> <ICE-JA:W2B-034#105:3> <quote> " The guy didn't have any machines, he just had the idea
+
+and the know how", </quote> Eugene informed <bold> The Business Herald
+
+</bold> , so it was up to Eugene to provide the working equipment, while
+
+<quote> " the guy" </quote> provid <l> ed the expertise.
+<ICE-JA:W2B-034#106:3> However the part <l> nership went belly up after three months, as a
+
+result of a disagree <lment on work ethics between  the 
+two y oung men. </p>
+
+<p> <ICE-JA:W2B-034#107:3> Disagreement notwithstanding, Eugene remained in the business of
+
+jeans manufacturing.
+<ICE-JA:W2B-034#108:3> In April of this year he actually went into the jeans manufacturing
+
+business for himself.
+<ICE-JA:W2B-034#109:3> Eugene said that despite the loss of his <quote> 'jeans expert'
+
+</quote> , he had not been left high and dry.
+<ICE-JA:W2B-034#110:3> <quote> " While the guy was working here, I watched what he did and
+
+learned how to make the jeans he produced". </quote> </p>
+
+<p> <ICE-JA:W2B-034#111:3> Since the start of business, for the Fitzgerald jeans label,
+
+which is the name Eugene gave his product  it has been himself, his sister
+
+and a friend John, who have been the force behind production.
+<ICE-JA:W2B-034#112:3> Targeting the North American market, Eugene explained that this was
+
+a holdover from the days when he worked with his friend.
+<ICE-JA:W2B-034#113:3> <quote> " When he just came up with the idea for the jeans, he made
+
+one for my brother who wore it when he went away to the States". </quote>
+<ICE-JA:W2B-034#114:3> The <quote> 'yankees' </quote> loved it and the idea to market the
+
+jeans abroad, was born. </p>
+
+<p> <ICE-JA:W2B-034#115:3> <quote> " When we know somebody going up, we would make some and
+
+send up with them". </quote>
+<ICE-JA:W2B-034#116:3> These were sent to his brother, who <quote> " have a store abroad"
+
+</quote> .
+<ICE-JA:W2B-034#117:3> This became the main and only market for Fitzgerald's jeans.
+<ICE-JA:W2B-034#118:3> But the irregulari <l> ty of this type of export method, which
+
+depended heavily <quote> " on when somebody going up" </quote> - proved too
+
+inconsistent a sales technique. </p> </I>

@@ -1,0 +1,502 @@
+<I>
+
+<$A> <ICE-JA:S1A-099#1:1:A> Hello
+<ICE-JA:S1A-099#2:1:A> Hotline
+
+<$B> <ICE-JA:S1A-099#3:1:B> Hello Mrs Haughton
+
+<$A> <ICE-JA:S1A-099#4:1:A> Yes good morning
+<ICE-JA:S1A-099#5:1:A> <{> <[> How are you</[>
+
+<$B> <ICE-JA:S1A-099#6:1:B> <[> Morning</[></{>
+<ICE-JA:S1A-099#7:1:B> I have a problem
+<ICE-JA:S1A-099#8:1:B> I like you to<,,> solve it for me <{1> <[1> <,>
+<ICE-JA:S1A-099#9:1:B> I'm living</[1> with this man for thirteen years
+
+right<{2><[2><,,></[2> and<,> all my earning is in the house right
+<ICE-JA:S1A-099#10:1:B> Is his house but you know I helped him to pay the mortgage on so
+
+<$A> <ICE-JA:S1A-099#11:1:A> <[1> I like to try</[1></{1>
+
+<$A> <ICE-JA:S1A-099#12:1:A> <[2> Yes ma'am</[2></{2>
+
+<$A> <ICE-JA:S1A-099#13:1:A> So it's not his house alone
+<ICE-JA:S1A-099#14:1:A> That's the first thing you need to understand
+
+<$B> <ICE-JA:S1A-099#15:1:B> Yes but you know <?> to</?> my name is not on the
+
+<$A> <ICE-JA:S1A-099#16:1:A> Right but we <}> <-> in in</-> <=> in</=></}> law
+
+ma'am<{1><[1><,>
+<ICE-JA:S1A-099#17:1:A> The</[1> the lawyer is not an ass you know<,,>
+<ICE-JA:S1A-099#18:1:A> There is something known to law as what we lawyers would call an
+
+equitable interest in property
+<ICE-JA:S1A-099#19:1:A> <{2> <[2> Now <,> </[2> if for example there it happens in many
+
+ways but for example I give you the extreme example
+<ICE-JA:S1A-099#20:1:A> I give you some money to buy something for me<{3><[3><,></[3>
+<ICE-JA:S1A-099#21:1:A> You buy it in your name<,>
+<ICE-JA:S1A-099#22:1:A> Technically you're the legal owner but in fact I am the equitable
+
+and beneficial owner<{4><[4><,></[4> because my money was what bought the
+
+property and if you refuse to give me that property I can take you to
+
+court<{5><[5><,></[5> and as long as I can prove to the court that it is my
+
+money that bought the property the court will say that I am the
+
+owner<{6><[6><,></[6>
+<ICE-JA:S1A-099#23:1:A> It's called an equitable owner
+<ICE-JA:S1A-099#24:1:A> Well as between men and women what does that mean
+
+<$B> <ICE-JA:S1A-099#25:1:B> <[1> Yes ma'am</[1></{1>
+
+<$B> <ICE-JA:S1A-099#26:1:B> <[2> Yes ma'am</[2></{2>
+
+<$B> <ICE-JA:S1A-099#27:1:B> <[3> Yes ma'am</[3></{3>
+
+<$B> <ICE-JA:S1A-099#28:1:B> <[4> Yes</[4></{4>
+
+<$B> <ICE-JA:S1A-099#29:1:B> <[5> Yes</[5></{5>
+
+<$B> <ICE-JA:S1A-099#30:1:B> <[6> Yes</[6></{6>
+
+<$B> <ICE-JA:S1A-099#31:1:B> Hm
+
+<$A> <ICE-JA:S1A-099#32:1:A> You're not married<{1><[1><,,></[1> but it doesn't change the
+
+issue<{2><[2><,></[2>
+<ICE-JA:S1A-099#33:1:A> Now married people have something called a <?> married woman's</?>
+
+property act<{3><[3><,></[3> whereby under that law at this time if a woman
+
+works and contributes to the acquiring of property even if the man puts his
+
+name alone on it <{4> <[4> she</[4> can take an action on the <?> married
+
+woman's</?> property act to have the court declare you're entitled to a half
+
+a third or whatever it is that <}> <-> she</-> <=> you know the court</=></}>
+
+uhm works out what you say your contribution is<{5><[5><,></[5> and on that
+
+basis make a ruling as to what your interest in that property is even though
+
+your name is not on it
+<ICE-JA:S1A-099#34:1:A> Now you are not married <{6> <[6> but</[6> you have the same rights
+<ICE-JA:S1A-099#35:1:A> You go by a different <?> route</?>
+<ICE-JA:S1A-099#36:1:A> You just go by the ordinary common law<{7><[7><,></[7>
+<ICE-JA:S1A-099#37:1:A> And you go to an attorney<{8><[8><,> and</[8> you tell them
+
+that<,,> the <}> <-> <.> na</.></-> <=> the house</=></}> is in this man who
+
+I lived with for thirteen years name<{9><[9><,></[9>
+<ICE-JA:S1A-099#38:1:A> <}> <-> I</-> <=> do you</=></}> have children
+
+<$B> <ICE-JA:S1A-099#39:1:B> <[1> No</[1></{1>
+
+<$B> <ICE-JA:S1A-099#40:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-099#41:1:B> <[3> Yes</[3></{3>
+
+<$B> <ICE-JA:S1A-099#42:1:B> <[4> Yes</[4></{4>
+
+<$B> <ICE-JA:S1A-099#43:1:B> <[5> Yes</[5></{5>
+
+<$B> <ICE-JA:S1A-099#44:1:B> <[6> No</[6></{6>
+
+<$B> <ICE-JA:S1A-099#45:1:B> <[7> Yes</[7></{7>
+
+<$B> <ICE-JA:S1A-099#46:1:B> <[8> Yes</[8></{8>
+
+<$B> <ICE-JA:S1A-099#47:1:B> <[9> Yes</[9></{9>
+
+<$B> <ICE-JA:S1A-099#48:1:B> No ma'am
+
+<$A> <ICE-JA:S1A-099#49:1:A> You have no children
+
+<$B> <ICE-JA:S1A-099#50:1:B> No
+
+<$A> <ICE-JA:S1A-099#51:1:A> I have helped him to pay the mortgage<{><[><,></[>
+<ICE-JA:S1A-099#52:1:A> While he lived there I've helped to buy the food
+
+<$B> <ICE-JA:S1A-099#53:1:B> <[> Yes</[></{>
+
+<$B> <ICE-JA:S1A-099#54:1:B> Huh
+
+<$A> <ICE-JA:S1A-099#55:1:A> While he lived there I've helped to by the food for both of us
+
+<$B> <ICE-JA:S1A-099#56:1:B> Yes
+
+<$A> <ICE-JA:S1A-099#57:1:A> Do you have your radio on
+
+<$B> <ICE-JA:S1A-099#58:1:B> It's a <?> lawn-mover</?>
+<ICE-JA:S1A-099#59:1:B> Let me tell the <?> gardener</?> to turn it off
+
+<$A> <ICE-JA:S1A-099#60:1:A> I am uhm you know uh uh as I was saying cos this is very very
+
+important that women should know this<{1><[1><,></[1> about their
+
+rights<{2><[2><,></[2>
+<ICE-JA:S1A-099#61:1:A> Now<,> you will say<,> to<,> the court
+<ICE-JA:S1A-099#62:1:A> One I helped to buy the food<{3><[3><,></[3> while we lived
+
+together or I bought the food all the time or I paid the electricity all the
+
+time
+<ICE-JA:S1A-099#63:1:A> <{4> <[4> I</[4> paid the water rate I helped him to pay the
+
+mortgage<{5><[5><,></[5>
+<ICE-JA:S1A-099#64:1:A> <}> <-> I</-> <=> I</=></}> worked at X place I used to make X
+
+amount a month
+<ICE-JA:S1A-099#65:1:A> He worked at X place he used to make X amount a month and that<,> I
+
+assisted in the acquiring of this property even though my name is not on the
+
+title
+<ICE-JA:S1A-099#66:1:A> I am asking you to make a declaration as to what my interest in
+
+that property is<{6><[6><,></[6>
+<ICE-JA:S1A-099#67:1:A> So ma'am believe me<{7><[7><,></[7> you have an
+
+entitlement<{8><[8><,></[8> you need just to go to an
+
+attorney<{9><[9><,,></[9> and brief them to take action in the Supreme Court
+
+on your behalf to have the court declare that you have an interest in that
+
+property
+
+<$B> <ICE-JA:S1A-099#68:1:B> <[1> Yes</[1></{1>
+
+<$B> <ICE-JA:S1A-099#69:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-099#70:1:B> <[3> Yes</[3></{3>
+
+<$B> <ICE-JA:S1A-099#71:1:B> <[4> Yes</[4></{4>
+
+<$B> <ICE-JA:S1A-099#72:1:B> <[5> Mhm</[5></{5>
+
+<$B> <ICE-JA:S1A-099#73:1:B> <[6> Yes ma'am</[6></{6>
+
+<$B> <ICE-JA:S1A-099#74:1:B> <[7> Yes</[7></{7>
+
+<$B> <ICE-JA:S1A-099#75:1:B> <[8> Yes ma'am</[8></{8>
+
+<$B> <ICE-JA:S1A-099#76:1:B> <[9> Yes ma'am</[9></{9>
+
+<$B> <ICE-JA:S1A-099#77:1:B> Yes ma'am
+<ICE-JA:S1A-099#78:1:B> And there's another little problem you see ma'am
+
+<$A> <ICE-JA:S1A-099#79:1:A> Yes
+
+<$B> <ICE-JA:S1A-099#80:1:B> I was at work right and<,> he rented one of the
+
+room<{1><[1>to</[1> a lady<{2><[2><,></[2>
+<ICE-JA:S1A-099#81:1:B> She has two daughters<{3><[3><,,></[3>
+<ICE-JA:S1A-099#82:1:B> And Miss Haughton <?> me tell you</?> <unclear> word</unclear> both
+
+the mother and the two daughter they act like<,,> I'm not human
+
+being<{4><[4><,,>
+<ICE-JA:S1A-099#83:1:B> They even</[4> put fight to me <{5> <[5> and</[5> let me know that
+
+I don't rent them anyway so I cannot put them out
+
+<$A> <ICE-JA:S1A-099#84:1:A> <[1> Yes</[1></{1>
+
+<$A> <ICE-JA:S1A-099#85:1:A> <[2> Yes</[2></{2>
+
+<$A> <ICE-JA:S1A-099#86:1:A> <[3> Yes</[3></{3>
+
+<$A> <ICE-JA:S1A-099#87:1:A> <[4> Well I am saying to you</[4></{4>
+
+<$A> <ICE-JA:S1A-099#88:1:A> <[5> But</[5></{5>
+
+<$A> <ICE-JA:S1A-099#89:1:A> Ma'am <}> <-> you really need</-> <=> you really need</=></}>
+
+to seek the services of an attorney
+
+<$B> <ICE-JA:S1A-099#90:1:B> Yes ma'am
+
+<$A> <ICE-JA:S1A-099#91:1:A> Believe me uhm and put all of those issues to
+
+them<{1><[1><,></[1> because there are ways in which you can deal with this
+
+and you really need to let this gentleman understand <{2> <[2> that</[2>
+
+those days where you put your name on property and then take my money and pay
+
+the mortgage and pay the light bill and eat my food and <?> can't</?>
+
+<unclear> word(s)</unclear> <?> me help by </?> and then turn around and tell
+
+me that is not mine are over<,>
+<ICE-JA:S1A-099#92:1:A> You understand what I'm saying to you
+
+<$B> <ICE-JA:S1A-099#93:1:B> <[1> Okay</[1></{1>
+
+<$B> <ICE-JA:S1A-099#94:1:B> <[2> Yes</[2></{2>
+
+<$B> <ICE-JA:S1A-099#95:1:B> Yes ma'am
+
+<$A> <ICE-JA:S1A-099#96:1:A> And I'm going to say something to you ma'am as we walk into
+
+the elections I'm hoping that women will start to ask of the politicians what
+
+do you intend to do about making sure that if I live with somebody for
+
+eighteen years I'm entitled to maintenance because I did all the housework
+
+and that is work and that deserves recognition
+<ICE-JA:S1A-099#97:1:A> These are the kind of things I want women to be asking the people
+
+who are coming to them <}> <-> to vote</-> <=> to ask</=></}> them for a vote
+
+<{1> <[1> because</[1> the laws need a lot of improvement
+<ICE-JA:S1A-099#98:1:A> <{2> <[2> Although</[2> we still have rights there're still many
+
+many things
+<ICE-JA:S1A-099#99:1:A> For example a woman <}> <-> who gives up for example</-> <=> who
+
+might marry</=></}> a man or live with a man and get children and then find
+
+herself not being able to further her education
+<ICE-JA:S1A-099#100:1:A> When it comes to maintenance that must be taken as a part of the
+
+consideration<{3><[3><,,></[3>
+<ICE-JA:S1A-099#101:1:A> <}> <-> And</-> <=> and</=></}> these are the things that we women
+
+really need to continue to fight for in our legislation so that we will not
+
+be taken advantage of<{4><[4><,,></[4>
+<ICE-JA:S1A-099#102:1:A> Alright <}> <-> when</-> <=> when</=></}> relationships break up
+
+but believe me ma'am you do have a case and you do need to go and get the
+
+services of an attorney so that you can vindicate your rights
+
+<$B> <ICE-JA:S1A-099#103:1:B> <[1> Yes ma'am</[1></{1>
+
+<$B> <ICE-JA:S1A-099#104:1:B> <[2> Yes ma'am</[2></{2>
+
+<$B> <ICE-JA:S1A-099#105:1:B> <[3> Oh yes ma'am</[3></{3>
+
+<$B> <ICE-JA:S1A-099#106:1:B> <[4> Yes ma'am</[4></{4>
+
+<$B> <ICE-JA:S1A-099#107:1:B> Okay ma'am
+
+<$A> <ICE-JA:S1A-099#108:1:A> Alright
+
+<$B> <ICE-JA:S1A-099#109:1:B> Yes ma'am and have a good day
+
+<$A> <ICE-JA:S1A-099#110:1:A> And the same to you ma'am
+<ICE-JA:S1A-099#111:1:A> <{1> <[1> It's wonderful to be able</[1> to help you in this way
+<ICE-JA:S1A-099#112:1:A> <{2> <[2> Bye-bye</[2>
+
+<$B> <ICE-JA:S1A-099#113:1:B> <[1> Yes ma'am thank you</[1></{1>
+
+<$B> <ICE-JA:S1A-099#114:1:B> <[2> Okay</[2></{2></I>
+
+
+<I>
+
+<$A> <ICE-JA:S1A-099#115:2:A> Hello
+<ICE-JA:S1A-099#116:2:A> Hotline
+
+<$C> <ICE-JA:S1A-099#117:2:C> Hello Mrs Haughton
+<ICE-JA:S1A-099#118:2:C> Good morning
+
+<$A> <ICE-JA:S1A-099#119:2:A> Good morning
+<ICE-JA:S1A-099#120:2:A> How are you
+
+<$C> <ICE-JA:S1A-099#121:2:C> Not bad Mrs Haughton
+<ICE-JA:S1A-099#122:2:C> You see I have a similar problem to that lady<{1><[1><,>
+<ICE-JA:S1A-099#123:2:C> I've been <?> living</?> with this</[1> man for the past six years
+<ICE-JA:S1A-099#124:2:C> <{2> <[2> I have</[2> one child with him<{3><[3><,></[3>
+<ICE-JA:S1A-099#125:2:C> And you see I don't know what happened but all of a sudden<,> I'm
+
+being told to get out of the house
+<ICE-JA:S1A-099#126:2:C> I know <}> <-> it's not my</-> <=> it's not my own</=></}> <}> <->
+
+it's belongs</-> <=> he was married first</=></}><{4><[4><,></[4>
+<ICE-JA:S1A-099#127:2:C> <unclear> word(s)</unclear> married they <?> were</?>
+
+divorce<{5><[5><,></[5> and then<,> you know we made it even <unclear>
+
+word(s)</unclear> that he was married<{6><[6><,> and</[6> we live together
+
+and we have one child<{7><[7><,></[7> and now he's throwing out on the street
+
+with a child
+<ICE-JA:S1A-099#128:2:C> You see with <}> <-> <.> no</.> <=> nothing</=></}> at all
+<ICE-JA:S1A-099#129:2:C> I give him my whole life just to stay with this man
+
+<$A> <ICE-JA:S1A-099#130:2:A> <[1> Tell me about it</[1></{1>
+
+<$A> <ICE-JA:S1A-099#131:2:A> <[2> Yes</[2</{2
+
+<$A> <ICE-JA:S1A-099#132:2:A> <[3> Yes</[3></{3>
+
+<$A> <ICE-JA:S1A-099#133:2:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-099#134:2:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-099#135:2:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-099#136:2:A> <[7> Yes</[7></{7>
+
+<$A> <ICE-JA:S1A-099#137:2:A> What did you do during the relationship with him
+<ICE-JA:S1A-099#138:2:A> Did you work<,>
+
+<$C> <ICE-JA:S1A-099#139:2:C> No
+
+<$A> <ICE-JA:S1A-099#140:2:A> I know
+<ICE-JA:S1A-099#141:2:A> You see ma'am this is
+
+<$C> <ICE-JA:S1A-099#142:2:C> I couldn't because you see he
+
+<$A> <ICE-JA:S1A-099#143:2:A> <unclear> word</unclear> I understand
+<ICE-JA:S1A-099#144:2:A> I mean you had a small child and maybe it was difficult to work
+
+but you see ma'am this is why we as women have to continue to struggle for
+
+the improvement in the laws
+<ICE-JA:S1A-099#145:2:A> Right now I can't tell you what I told the other
+
+lady<{1><[1><,></[1> because to this date household work is not treated by
+
+the law as if it was work<,> because I suspect men made the law quite frankly
+<ICE-JA:S1A-099#146:2:A> I mean I have to be quite honest with you because you know that
+
+housework is very hard work raising children is tremendously hard
+
+work<{2><[2><,></[2> and for the law to tell you that that is not
+
+contribution and that does not give you any entitlement is very sad
+<ICE-JA:S1A-099#147:2:A> But I must tell you<,> that there is draft legislation on the way
+
+to improve the situation but we still need even more improvement because we
+
+need a maintenance law that recognizes that people who live together have
+
+maintenance rights as between them<,>
+<ICE-JA:S1A-099#148:2:A> In other words you don't have to be formally married to ask a
+
+maintenance right
+<ICE-JA:S1A-099#149:2:A> Maintenance rights depend upon living together providing certain
+
+household services contributing to a family to a family situation
+<ICE-JA:S1A-099#150:2:A> It is not based on the formality of being married
+<ICE-JA:S1A-099#151:2:A> And uhm <unclear> word(s)</unclear> as a piece of draft
+
+legislation and maintenance legislation that does that
+<ICE-JA:S1A-099#152:2:A> But we as women as we go into the international woman's day by the
+
+eight of march we must continue to struggle to protect ourselves
+<ICE-JA:S1A-099#153:2:A> Look at you
+<ICE-JA:S1A-099#154:2:A> You have a child with this man
+
+<$C> <ICE-JA:S1A-099#155:2:C> <[1> Yes ma'am</[1></{1>
+
+<$C> <ICE-JA:S1A-099#156:2:C> <[2> Yes</[2></{2>
+
+<$C> <ICE-JA:S1A-099#157:2:C> Yes ma'am
+
+<$A> <ICE-JA:S1A-099#158:2:A> Uhm you have lived with him for six years <{> <[> and</[>
+
+tomorrow he comes and tosses you<,> out maybe so that he can keep the
+
+child<,>
+<ICE-JA:S1A-099#159:2:A> You never know
+
+<$C> <ICE-JA:S1A-099#160:2:C> <[> Yes</[></{>
+
+<$C> <ICE-JA:S1A-099#161:2:C> <}> <-> Mrs</-> <=> Mrs Haughton</=></}> you see the thing is
+
+this <}> <-> he</-> <=> he</=></}> cannot if I go to work I'll you see <}>
+
+<-> I'm</-> <=> I'm</=></}> only going out there to look
+<ICE-JA:S1A-099#162:2:C> Somebody will <{> <[> <unclear> several-words</unclear></[>
+
+<$A> <ICE-JA:S1A-099#163:2:A> <[> So he</[></{> don't want you work
+
+<$C> <ICE-JA:S1A-099#164:2:C> No <{> <[> he doesn't want me to</[>
+
+<$A> <ICE-JA:S1A-099#165:2:A> <[> That's what I'm</[></{> telling you
+<ICE-JA:S1A-099#166:2:A> And the law don't recognize when a man doesn't want a woman to
+
+work to say well therefore as a natural corollary of this you uh become
+
+entitled to maintenance by virtue of the fact that <}> <-> this person</->
+
+<=> you and this person</=></}> have entered into an arrangement whereby you
+
+don't work for whatever reason
+<ICE-JA:S1A-099#167:2:A> But uh <}> <-> you you they</-> <=> they</=></}> can't have it
+<ICE-JA:S1A-099#168:2:A> They don't want you to work and at the same time
+
+<$C> <ICE-JA:S1A-099#169:2:C> Don't want me to talk to anybody
+<ICE-JA:S1A-099#170:2:C> Don't want me to go nowhere
+<ICE-JA:S1A-099#171:2:C> I must <}> <-> not uh uh not</-> <=> not</=></}> even the gate
+
+<$A> <ICE-JA:S1A-099#172:2:A> But you're a child ma'am
+<ICE-JA:S1A-099#173:2:A> This man has made you into a child
+<ICE-JA:S1A-099#174:2:A> You need to make up your mind whether you want to be a grown
+
+person or somebodys child because only my child I can tell not to go to the
+
+gate
+
+<$C> <ICE-JA:S1A-099#175:2:C> You see if I'm <}> <-> go to</-> <=> go to</=></}> the
+
+<unclear> word(s)</unclear> for my mother it's a problem because <}> <->
+
+he</-> <=> he's</=></}> saying that I'm going back <}> <-> to a</-> <=> to
+
+a</=></}> man you know or something <{> <[> of that</[>
+
+<$A> <ICE-JA:S1A-099#176:2:A> <[> I'm</[></{> very sorry for that gentleman you know
+
+because if a lady has decided to see somebody else there nothing you can do
+
+short of being her blouse<{><[><,></[> to stop her
+<ICE-JA:S1A-099#177:2:A> So these men who uh uh women too and there're women like that too
+
+who become very silly about this and believe that they can walk and follow
+
+people and watch and make people's life miserable by <}> <-> a</-> <=>
+
+a</=></}> sort of unnatural jealousy as far as I'm concerned
+<ICE-JA:S1A-099#178:2:A> Is just being ridiculous ma'am because quite frankly if a human
+
+being has made up <?> their</?> mind to do something that is out of line with
+
+the relationship they will do it
+
+<$C> <ICE-JA:S1A-099#179:2:C> <[> <O> laughs</O></[></{>
+
+<$C> <ICE-JA:S1A-099#180:2:C> But Miss Haughton you see the thing is this
+<ICE-JA:S1A-099#181:2:C> I have never had another man <unclear> word</unclear>
+<ICE-JA:S1A-099#182:2:C> I uh you see I don't even see the reason why I should
+
+<$A> <ICE-JA:S1A-099#183:2:A> That is the point I'm trying to make to you ma'am
+<ICE-JA:S1A-099#184:2:A> But if people have fears<,>
+<ICE-JA:S1A-099#185:2:A> Listen what I'm saying the whole business is based on trust<,>
+<ICE-JA:S1A-099#186:2:A> It must be based on trust
+<ICE-JA:S1A-099#187:2:A> So in other words if you don't trust somebody you can't watch
+
+them<,> and you can't make them into a prisoner<,,>
+<ICE-JA:S1A-099#188:2:A> A relationship is something that must operate on the basis of
+
+trust you know
+<ICE-JA:S1A-099#189:2:A> And you have to make up your mind whether you are prepared to be
+
+this gentleman's child or prisoner because it really sounds very unhealthy to
+
+me ma'am
+<ICE-JA:S1A-099#190:2:A> I'm telling you the truth
+<ICE-JA:S1A-099#191:2:A> It really don't sound healthy to me</I>

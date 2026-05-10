@@ -1,0 +1,528 @@
+<I>
+
+<$A> <ICE-JA:S1A-069#1:1:A> Okay uhm could you tell me about your discipline<,,>
+
+<$B> <ICE-JA:S1A-069#2:1:B> My discipline is uhm<,> physics oriented<{><[><,></[>
+<ICE-JA:S1A-069#3:1:B> Uhm<,> it entails<,,><&>noise-in-background</&> micro and macro<,,>
+
+uh what should I call it the uhm aspects of<,,> electronics<,,>
+<ICE-JA:S1A-069#4:1:B> Uh<,> so<,> broad range I<,> would look at uhm<,> transmission<,>
+
+uh<,><O>clicks-tongue</O> atomic structure of particles I mean<,,> what
+
+should I say<,> materials that aid in uhm<,,> construction of electronic
+
+components such as<,> circuit boards et cetera et cetera<,,>
+<ICE-JA:S1A-069#5:1:B> Shall I continue
+
+<$A> <ICE-JA:S1A-069#6:1:A> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1A-069#7:1:A> Yes you can if there is anything that is uhm left out<,>
+
+<$B> <ICE-JA:S1A-069#8:1:B> Yeah so<,,> uhm<,> it's a discipline<,,> uhm
+<ICE-JA:S1A-069#9:1:B> It has<,> applications<,> in many different areas<,>
+<ICE-JA:S1A-069#10:1:B> Uhm I would say electronics is the underlying or backbone of
+
+today's modern-day phenomena namely computers
+
+<$A> <ICE-JA:S1A-069#11:1:A> Mhm
+<ICE-JA:S1A-069#12:1:A> Tell me how does it tie in with uhm<,> computers
+
+<$B> <ICE-JA:S1A-069#13:1:B> Well basically<,,> I mean<,> the screen you look at<,> is
+
+uhm<,> basically a<,,> a<,> electronic equipment<,>
+<ICE-JA:S1A-069#14:1:B> All of the computer you look at is a electronic uhm equipment
+<ICE-JA:S1A-069#15:1:B> The principles uhm that govern the operation of the computer<,> in
+
+the World Wide Web<{1><[1><,></[1> they're physics-based<{2><[2><,></[2>
+<ICE-JA:S1A-069#16:1:B> So<,> I would say the computer and the dawn of the computer age is
+
+uhm<,,> the word is not adaptation<,> but it is as a result<,> of physics
+
+itself and to be more specific electronics <,,>
+
+<$A> <ICE-JA:S1A-069#17:1:A> <[1> Uhu</[1></{1>
+
+<$A> <ICE-JA:S1A-069#18:1:A> <[2> Uhu</[2></{2>
+
+<$A> <ICE-JA:S1A-069#19:1:A> Okay<,>
+<ICE-JA:S1A-069#20:1:A> So uhm could you give me a brief demonstration on uhm how<,>
+
+the<,,> C P U<,> well the computer on a whole works uhm in relation to
+
+electronics<,><O>$B-clears-throat</O> and how does it tie in with uhm<,,>
+
+your discipline<,,>
+
+<$B> <ICE-JA:S1A-069#21:1:B> Alright
+<ICE-JA:S1A-069#22:1:B> Uhm<,> basically everything works<,,> according to some system<,,>
+
+whether chaotic or a non-chaotic but for the most part we try to <?> mould it
+
+<.> o</.> off</?> <}> <-> <.> cha</.></-><+>chaotic</+></}>
+
+uhm<O>clears-throat</O> sorry non-chaotic system<,>
+<ICE-JA:S1A-069#23:1:B> Uh the computer<,> is like<,,> a<,> artificial<,> organism so to
+
+speak<{1><[1><,></[1>
+<ICE-JA:S1A-069#24:1:B> It takes in information<,> whether by the keyboard<,,> or
+
+information takes in information
+<ICE-JA:S1A-069#25:1:B> We call that input<{2><[2><,></[2>
+<ICE-JA:S1A-069#26:1:B> So when I'm talking to you now and you are listening that's
+
+input<{3><[3><,></[3>
+<ICE-JA:S1A-069#27:1:B> Alright
+<ICE-JA:S1A-069#28:1:B> So your ears and your eyes are sources of input right<,>
+<ICE-JA:S1A-069#29:1:B> It gonna get more<{4><[4><,></[4> technical<O>laughs</O>
+
+<$A> <ICE-JA:S1A-069#30:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-069#31:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-069#32:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-069#33:1:A> <[4> Technical</[4></{4>
+
+<$A> <ICE-JA:S1A-069#34:1:A> And I wouldn't understand <{> <[> <,>
+<ICE-JA:S1A-069#35:1:A> So please leave that out</[>
+
+<$B> <ICE-JA:S1A-069#36:1:B> <[> Yeah yeah yeah</[></{> you can put some <?> senses</?>
+
+into it <?> and that works</?> <unclear> word</unclear>
+<ICE-JA:S1A-069#37:1:B> <?> Well at least</?><O>laughs</O> keep it <{1> <[1> you have to
+
+keep it</[1> simple and not too jiggy
+<ICE-JA:S1A-069#38:1:B> Uhm<,><O>$A-laughs</O>
+<ICE-JA:S1A-069#39:1:B> Yeah so<,> takes it in just like a human being takes in input
+<ICE-JA:S1A-069#40:1:B> It process it which is in the processing unit or the heart of
+
+it<{2><[2><,></[2>
+<ICE-JA:S1A-069#41:1:B> Right now<O>clears-throat</O> we <?> consider</?> uhm your heart is
+
+<}> <-> like</-> uhm <=> like</=></}> <?> just a flowing</?> through the
+
+computer<,> alright<,,>
+<ICE-JA:S1A-069#42:1:B> Uhm<{3><[3><,></[3> or a blood line uhm
+<ICE-JA:S1A-069#43:1:B> Next we look at the brain<{4><[4><,></[4> which is uhm the chips or
+
+C P U
+<ICE-JA:S1A-069#44:1:B> Then we look at uhm<,,> <}> <-> the</-><,,> <=> the</=></}>
+
+transformation or internal uhm transportation of information <{5> <[5>
+
+the</[5> external information within the computer so can be <}> <-> the the
+
+the the</-> <=> the</=></}> nerve endings or should I say<,,> your
+
+cerebellum<,,> right uhm<,,>
+<ICE-JA:S1A-069#45:1:B> It contains moving parts<,> such as the hard disc<,,> which could
+
+be like the beating of your heart could be associated with the beating of
+
+your heart and uhm<,> let me see<,>
+<ICE-JA:S1A-069#46:1:B> Well it emit sounds<,> which is like you speaking or<,,> let's go
+
+back to the front <}> <-> <.> i</.></-> <=> initial</=></}>
+<ICE-JA:S1A-069#47:1:B> We say it takes in input and process it and it gives you output
+<ICE-JA:S1A-069#48:1:B> So based on what you input and based on<,> uhm<,> uhm<,,>
+<ICE-JA:S1A-069#49:1:B> It's a programme that <?> our professor need</?> and <?> one of you
+
+alright preset</?> programmes then you get the desired output<,,>
+<ICE-JA:S1A-069#50:1:B> So<,> I would say and the output is uhm<,> can be output on the
+
+screen or can be output <}> <-> in the sound of</-> <=> in the form
+
+of</=></}> uhm<,> uh sound<,>
+<ICE-JA:S1A-069#51:1:B> So for example if I asked you what's your name Catilda<,,> or
+
+should I say what's your name <?> like</?>
+<ICE-JA:S1A-069#52:1:B> Then you say my name is Catilda<,>
+<ICE-JA:S1A-069#53:1:B> Similarly I would<,>
+<ICE-JA:S1A-069#54:1:B> If the computer<O>$A-clears- throat</O> can tell you what it is you
+
+can just<,> ask the computer to say<,> uhm how fast is their clock speed
+<ICE-JA:S1A-069#55:1:B> It tells you X amount of megahertz eight hundred
+
+megahertz<{5><[5><,></[5> uhm
+<ICE-JA:S1A-069#56:1:B> How much memory do you have
+<ICE-JA:S1A-069#57:1:B> It tells you X amount of RAM or gigabytes of ROM<{6><[6><,></[6>
+<ICE-JA:S1A-069#58:1:B> <}> <-> Similarly</-> or megabytes <=> similarly</=></}><,> you and
+
+I we can say
+<ICE-JA:S1A-069#59:1:B> Can I ask you uhm<,> what's your name and how old are you what's
+
+your education so to <{7> <[7> speak<,></[7>
+<ICE-JA:S1A-069#60:1:B> It shows your uhm<,> how<,> your attainment of uhm<,,> or it shows
+
+you<,> your proficiency to some level<{8><[8><,></[8> similarly computer a
+
+lot of memory<O>$A-clears- throat</O>
+<ICE-JA:S1A-069#61:1:B> So uh <}> <-> it can be</-><,> <=> it can be</=></}> uhm compared
+
+to like a human-being
+<ICE-JA:S1A-069#62:1:B> I'm <unclear> words</unclear> should be because we even have
+
+artificial intelligence<,,> which is basically computers that are uhm
+
+programmed to<,> programme themself or self-learn<,>
+<ICE-JA:S1A-069#63:1:B> So in effect those are<,> sort of like<,,> uhm<,,> <}> <-> a
+
+child</-><,,> uhm<,,> <=> a child</=></}> in itself<,>
+<ICE-JA:S1A-069#64:1:B> So in effect it learns<,> based on uhm different
+
+situations<,><{9><[9><,></[9> yeah
+
+<$A> <ICE-JA:S1A-069#65:1:A> <[1> Simple</[1></{1>
+
+<$A> <ICE-JA:S1A-069#66:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-069#67:1:A> <[3> Probably</[3></{3>
+
+<$A> <ICE-JA:S1A-069#68:1:A> <[4> Mhm</[4></{4>
+
+<$A> <ICE-JA:S1A-069#69:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-069#70:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-069#71:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1A-069#72:1:A> <[8> Mhm</[8></{8>
+
+<$A> <ICE-JA:S1A-069#73:1:A> <[9> Okay</[9></{9>
+
+<$A> <ICE-JA:S1A-069#74:1:A> Uhm in well<O>clears-throat</O> <,,> from<,> your<,> well
+
+advanced uh knowledge of computers and physics and electronics uhm do you
+
+find that you have to draw upon that uhm source of information <}> <-> in<,>
+
+in in in in</-> <=> in</=></}> your<,> daily activities<,>
+<ICE-JA:S1A-069#75:1:A> Do you
+
+<$B> <ICE-JA:S1A-069#76:1:B> Uhm<,,> I would say<,> why yes<,> whether consciously or
+
+subconsciously<,> every action you do<,> uhm is based on your prior knowledge
+
+of something<,>
+<ICE-JA:S1A-069#77:1:B> So<,> I mean<,> you reach a stage that I've reached for example uhm
+
+tertiary level<,>
+<ICE-JA:S1A-069#78:1:B> You know you're taught one two three four<,> third
+<ICE-JA:S1A-069#79:1:B> You're taught uhm phonics uh <?> what's</?> that thing in common
+
+entrance<,> <}> <-> social <.> stu</.></-> uhm <=> mental
+
+ability</=></}><{1><[1><,></[1>
+<ICE-JA:S1A-069#80:1:B> I think that's a very very good subject<,>
+<ICE-JA:S1A-069#81:1:B> So you're taught association
+<ICE-JA:S1A-069#82:1:B> You're taught shapes objects<,> how to <}> <-> <.> associ</.></- >
+
+<=> associate</=></}> things how to find which one is odd which one is<,> not
+
+so odd you know what I'm saying<{2><[2><,></[2>
+<ICE-JA:S1A-069#83:1:B> So<,> basically<,> uhm it's basically a reasoning<,> <?> we</?> and
+
+computers <{3> <[3> <,> or</[3> anything in general then you <?> need</?> to
+
+have a <?> proper</?> reasoning ability and<,> uhm computers are based on
+
+like logical<,> uhm<,> operations<,>
+<ICE-JA:S1A-069#84:1:B> So to really trouble-shoot these machines<,> you just need to think
+
+logically and you can solve basically any problem on a computer
+
+<$A> <ICE-JA:S1A-069#85:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-069#86:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-069#87:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-069#88:1:A> <}> <-> Could you</-> uhm well you just used that<,>
+
+terminology <=> could you</=></}> <?> expound</?> on
+
+it<{><[>trouble-shoot</[><,>
+
+<$B> <ICE-JA:S1A-069#89:1:B> <[> Yes</[></{>
+
+<$B> <ICE-JA:S1A-069#90:1:B> Trouble-shoot
+<ICE-JA:S1A-069#91:1:B> I said trouble-shoot<{1><[1><,></[1>
+<ICE-JA:S1A-069#92:1:B> Okay<,>
+<ICE-JA:S1A-069#93:1:B> Alright the word trouble-shooting basically<,> is for example say
+
+for example<,> this is a computer
+<ICE-JA:S1A-069#94:1:B> <}> <-> You</-> <=> somebody</=></}> says their computer is not
+
+working<,> <{2> <[2> alright</[2><,>
+<ICE-JA:S1A-069#95:1:B> They call you<,>
+<ICE-JA:S1A-069#96:1:B> <?> Get it right</?>
+<ICE-JA:S1A-069#97:1:B> Alright
+<ICE-JA:S1A-069#98:1:B> So you're like<,>
+<ICE-JA:S1A-069#99:1:B> What you calling me for<,>
+<ICE-JA:S1A-069#100:1:B> <}> <-> I</-> <=> I'm</=></}> not a compu technician<,>
+<ICE-JA:S1A-069#101:1:B> But basically you just want to find out why this thing is not
+
+turning on<,,>
+<ICE-JA:S1A-069#102:1:B> Press the power button<,>
+<ICE-JA:S1A-069#103:1:B> It's not coming on<,>
+<ICE-JA:S1A-069#104:1:B> Alright uhm what else do you do then<,>
+<ICE-JA:S1A-069#105:1:B> <}> <-> You</-><,> <=> you</=></}> check the cable<,>
+<ICE-JA:S1A-069#106:1:B> Uhm okay fine
+<ICE-JA:S1A-069#107:1:B> It's plugged into the power <?> guard</?>
+<ICE-JA:S1A-069#108:1:B> The power <?> guard</?> is plugged into the wall
+<ICE-JA:S1A-069#109:1:B> Why is it not on<,><&>interruption-recording</&>
+
+<$A> <ICE-JA:S1A-069#110:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1A-069#111:1:A> <[2> Mhm</[2></{2> <&> recording-continues</&><$B><ICE-JA:S1A-069#>Yes why
+
+is the computer not on<,>
+<ICE-JA:S1A-069#112:1:A> It could be a case where<,> the cable that is attached to the C P
+
+U is not properly plugged in<{1><[1><,></[1> at the back
+<ICE-JA:S1A-069#113:1:A> Or<,> the power <?> guard</?> has not been turned on or there
+
+might be a blown fuse<{2><[2><,></[2> or the programme is just<,> blown not
+
+working<,>
+<ICE-JA:S1A-069#114:1:A> I mean<,> trouble-shooting <}> <-> you need to<,> you need to uhm
+
+have like</-><,> <=> you need to</=></}> know that something is<,> working<,>
+
+or uh <}> <-> if you <.> l</.> it</-> <=> you</=></}> need to have for sure
+<ICE-JA:S1A-069#115:1:A> For example<,> you need to have a what's called a reference
+<ICE-JA:S1A-069#116:1:A> So you say okay
+<ICE-JA:S1A-069#117:1:A> It definitely isn't
+<ICE-JA:S1A-069#118:1:A> This is not the problem<,>
+<ICE-JA:S1A-069#119:1:A> What are the other factors that<{3><[3><,></[3>
+<ICE-JA:S1A-069#120:1:A> Right<{4><[4><,></[4>
+<ICE-JA:S1A-069#121:1:A> And then you just it break down step by step by <{5> <[5> step
+
+and</[5> narrow<,> in<,> right<{6><[6><,></[6>
+<ICE-JA:S1A-069#122:1:A> Right so basically<,> that's basically it
+
+<$A> <ICE-JA:S1A-069#123:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-069#124:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-069#125:1:A> <[3> Could cause the problem</[3></{3>
+
+<$A> <ICE-JA:S1A-069#126:1:A> <[4> Okay</[4></{4>
+
+<$A> <ICE-JA:S1A-069#127:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-069#128:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-069#129:1:A> So I mean<,> well<,> without having uhm your level of
+
+knowledge about these things and people would be like trouble-shooting every
+
+day and don't even realizing it
+
+<$B> <ICE-JA:S1A-069#130:1:B> Uhm<,> well<,> based on the situation uhm trouble-shooting is
+
+a general<,,> <}> <- > it it is</-> even <=> is</=></}> a subject<,>
+<ICE-JA:S1A-069#131:1:B> Basically there are just general things <}> <-> you</-> <=>
+
+you</=></}> need to do
+<ICE-JA:S1A-069#132:1:B> Uhm<,> based on<,> equipment you have<,> uhm you might need a more
+
+uhm specialized person someone who's trained <{1> <[1> <,> for that</[1>
+
+particular machine but like in general like your normal home P
+
+C<{2><[2><,></[2> I mean to find out<,,> like most P Cs<,,> uhm <}> <-> you
+
+cannot</-> <=> you can</=></}><,> <}> <-> a person</-> <=> a normal
+
+person</=></}> <}> <-> can</-> <=> can</=></}> usually find out what's wrong
+
+with it<,> or have a general idea <}> <-> of</- > <=> of</=></}> what's wrong
+
+with it<{3><[3><,></[3> uhm
+<ICE-JA:S1A-069#133:1:B> If it's a software problem well <}> <-> the the</-> <=>
+
+the</=></}> machine usually tells you<{4><[4><,></[4>
+<ICE-JA:S1A-069#134:1:B> Yeah cos it usually if it's not doing a lot of things and you know
+
+that definitely that's the problem
+<ICE-JA:S1A-069#135:1:B> So <}> <-> in a</-> <=> in a</=></}> sense not having something<,>
+
+<}> <-> is a is is</-> <=> is</=></}> in effect having something because you
+
+know that if you not getting this that means that this must be the
+
+problem<{5><[5><,>that that's not</[5> working
+
+<$A> <ICE-JA:S1A-069#136:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-069#137:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-069#138:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-069#139:1:A> <[4> What it is</[4></{4>
+
+<$A> <ICE-JA:S1A-069#140:1:A> <[5> Okay</[5></{5>
+
+<$A> <ICE-JA:S1A-069#141:1:A> Okay
+<ICE-JA:S1A-069#142:1:A> So therefore uhm lack of information is <{> <[> information
+<ICE-JA:S1A-069#143:1:A> Mhm</[>
+
+<$B> <ICE-JA:S1A-069#144:1:B> <[> Is information</[></{> itself<,>
+<ICE-JA:S1A-069#145:1:B> Yes<{><[><,></[>
+<ICE-JA:S1A-069#146:1:B> So like you're saying <}> <-> <?> it not</?></-> <=> there's
+
+no</=></}> such thing as bad publicity
+
+<$A> <ICE-JA:S1A-069#147:1:A> <[> Okay</[></{>
+
+<$A> <ICE-JA:S1A-069#148:1:A> <?> As I was saying</?>
+<ICE-JA:S1A-069#149:1:A> Okay
+<ICE-JA:S1A-069#150:1:A> Uhm<,,> what are some of the stuff that you can do <}> <->
+
+with</-> this<,,>
+
+<$B> <ICE-JA:S1A-069#151:1:B> Hm
+<ICE-JA:S1A-069#152:1:B> With what
+
+<$A> <ICE-JA:S1A-069#153:1:A> With your discipline
+
+<$B> <ICE-JA:S1A-069#154:1:B> My discipline<,>
+<ICE-JA:S1A-069#155:1:B> Well<,> you can work<,> uhm in the computer the uhm I T solution
+
+uhm field which I'm presently working in<,>
+<ICE-JA:S1A-069#156:1:B> Uh basically you work like with uhm networking<,> like setting up
+
+uhm local area networks broad area networks uhm<,><O>clicks-tongue</O>
+
+installing uhm<,> or setting up<,> computer<,> networking or systems in<,> uh
+
+different organizations and to meet specifications<,>
+<ICE-JA:S1A-069#157:1:B> You can work in say for example<O>$A-clears-throat</O><,> uh
+
+communication such as uh for example you work with Digicell<,>
+
+uhm<O>clears-throat</O> which<,> will have an I T<{1><[1><,></[1> section<,>
+
+uhm
+<ICE-JA:S1A-069#158:1:B> But mainly with Digicell <{2> <[2> basically<,> computer uhm <?>
+
+reverse</?></[2>
+<ICE-JA:S1A-069#159:1:B> I wouldn't say advance but <}> <-> that</-> <=> that</=></}>
+
+totally uhm computer <?> reverse</?>
+<ICE-JA:S1A-069#160:1:B> It's more like a<,> transmission and uhm<,> uh<{3><[3><,></[3>
+
+reception and uhm <.> d</.><,> just the analysis that uhm entails keeping
+
+that transmission and reception going that's basically what Digicell
+
+does<{4><[4><,></[4> which uhm<,> it can get very detailed when it come round
+
+to<,> different<O>$A-clears-throat</O> aspects of it
+<ICE-JA:S1A-069#161:1:B> But it's still basically you're sending a signal receiving<,> and
+
+it want to ensure that the signal is<,> uhm what is transmitted is
+
+received<{5><[5><,></[5> and basically that uhm <}> <-> you</-> <=>
+
+your</=></}> handsets or<,> mobile phones help keep ability to receive them
+
+and<,> uhm<,> the handsets themselves<,> uhm<,> have the<,> capacity to give
+
+performance as prescribed or as needed
+<ICE-JA:S1A-069#162:1:B> That's basically that<,>
+<ICE-JA:S1A-069#163:1:B> Uh what <}> <-> other</-> <=> other</=></}> media we can look at
+<ICE-JA:S1A-069#164:1:B> We can look at uhm<,> the instrumentation section of
+
+it<{6><[6><,></[6> instrumentation<{7><[7><,></[7> which is basically uhm the
+
+measuring of uhm quantity<{8><[8><,></[8> uhm via uhm instruments
+<ICE-JA:S1A-069#165:1:B> So we can look at measuring temperature pressure and those stuff
+
+originally like say for example<,> uhm <}> <-> most</-> <=> best</=></}>
+
+example is for example<O>$A-clears-throat</O> in a<,> processing such as
+
+uhm<,> bauxite uh chemicals which has bauxite any bauxite plants<,> as the
+
+manufacturing industry on a whole<,> uhm you also have uhm machinery uhm<,,>
+
+measuring machinery and<,> for example like in air planes you have <O>
+
+$A-clears- throat</O>instrumentation there<,>
+<ICE-JA:S1A-069#166:1:B> Basically just instruments instruments that measure stuff whether
+
+electrical<,> or <.> ana</.> uhm<,> or<,> natural stuff<,> which has the wind
+
+the temperature the atmospheric<,>
+<ICE-JA:S1A-069#167:1:B> You're just measuring stuff just measuring
+
+<$A> <ICE-JA:S1A-069#168:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-069#169:1:A> <[2> Isn't as uh <.> in</.> well<,> advance as</[2></{2>
+
+<$A> <ICE-JA:S1A-069#170:1:A> <[3> Reception</[3></{3>
+
+<$A> <ICE-JA:S1A-069#171:1:A> <[4> Okay</[4></{4>
+
+<$A> <ICE-JA:S1A-069#172:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-069#173:1:A> <[6> The what</[6></{6>
+
+<$A> <ICE-JA:S1A-069#174:1:A> <[7> Okay</[7></{7>
+
+<$A> <ICE-JA:S1A-069#175:1:A> <[8> Mhm</[8></{8>
+
+<$A> <ICE-JA:S1A-069#176:1:A> Get your point <{1> <[1> measuring
+<ICE-JA:S1A-069#177:1:A> Okay
+<ICE-JA:S1A-069#178:1:A> Uhm</[1> do you your discipline
+<ICE-JA:S1A-069#179:1:A> Do you like it
+<ICE-JA:S1A-069#180:1:A> I mean this is all boring to me<{2><[2><,>
+<ICE-JA:S1A-069#181:1:A> Do you</[2> have fun
+
+<$B> <ICE-JA:S1A-069#182:1:B> <[1> Yeah instrumentation that's it
+<ICE-JA:S1A-069#183:1:B> Just measuring stuff</[1></{1>
+
+<$B> <ICE-JA:S1A-069#184:1:B> <[2> It's boring</[2></{2>
+
+<$B> <ICE-JA:S1A-069#185:1:B> Uh to me you know it is
+
+<$A> <ICE-JA:S1A-069#186:1:A> I mean after all you're a guy so I guess you're going to you
+
+know love computers and physics and all that crap but<O>laughs</O>
+
+<$B> <ICE-JA:S1A-069#187:1:B> <}> <-> I I would say</-> <=> I would say</=></}> I'm not the
+
+ordinary male you know what I'm saying
+
+<$A> <ICE-JA:S1A-069#188:1:A> You aren't
+
+<$B> <ICE-JA:S1A-069#189:1:B> Yeah I like saying <}> <-> I'm</-> <=> I'm</=></}>
+
+spectacular<O>laughs</O>
+<ICE-JA:S1A-069#190:1:B> Let me tell you why
+<ICE-JA:S1A-069#191:1:B> Uhm<O>$A-laughs</O> my outlook on things right
+<ICE-JA:S1A-069#192:1:B> Now
+
+<$A> <ICE-JA:S1A-069#193:1:A> <O> laughs</O>I'm sorry but I had to do that
+
+<$B> <ICE-JA:S1A-069#194:1:B> It's okay
+<ICE-JA:S1A-069#195:1:B> <}> <-> That's that's that's your that's your</-> <=> that's
+
+your</=></}> take on things
+
+<$A> <ICE-JA:S1A-069#196:1:A> Okay continue<O>laughs</O>
+
+<$B> <ICE-JA:S1A-069#197:1:B> Now uhm you see my fascination with physics
+
+right<{1><[1><,></[1> began at an <{2> <[2> early age
+<ICE-JA:S1A-069#198:1:B> Mhm</[2>
+
+<$A> <ICE-JA:S1A-069#199:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-069#200:1:A> <[2> I think it's an</[2></[2> obsession not a fascination
+
+<$B> <ICE-JA:S1A-069#201:1:B> Well well<,>
+<ICE-JA:S1A-069#202:1:B> So let it be</I>

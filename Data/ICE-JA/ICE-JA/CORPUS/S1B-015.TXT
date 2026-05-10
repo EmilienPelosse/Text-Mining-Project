@@ -1,0 +1,1300 @@
+<I>
+
+<$A> <ICE-JA:S1B-015#1:1:A> Miss uhm
+
+<$S> <ICE-JA:S1B-015#2:1:S> The <{> <[> option</[>
+
+<$S> <ICE-JA:S1B-015#3:1:S> <[> <?> Didn't</?></[></{> <unclear> word</unclear>
+
+<$A> <ICE-JA:S1B-015#4:1:A> Oh
+
+<$S> <ICE-JA:S1B-015#5:1:S> <{> <[> <}> <-> I</-> <=> I</=></}> didn't <unclear>
+
+word</unclear></[>
+
+<$S> <ICE-JA:S1B-015#6:1:S> <[> <unclear> words</unclear></[></{>
+
+<$S> <ICE-JA:S1B-015#7:1:S> The option <{> <[> yeah<,,></[>
+
+<$S> <ICE-JA:S1B-015#8:1:S> <[> They guess that's <?> inclarity</?></[>
+
+<$S> <ICE-JA:S1B-015#9:1:S> <[> <?> Almost there</?></[></{>
+
+<$S> <ICE-JA:S1B-015#10:1:S> No not <?> me not</?> care if he stayed at home but sheer
+
+<unclear> words</unclear><O>giggles</O>
+
+<$B> <ICE-JA:S1B-015#11:1:B> It has to be according to the sentence itself or the
+
+functioning in the sentence<O>someone-coughs</O><,> <{> <[> <}> <-> as a
+
+verb</-> <=> as a verb</=></}></[>
+
+<$C> <ICE-JA:S1B-015#12:1:C> <[> You mean in this particular<,></[></{>
+<ICE-JA:S1B-015#13:1:C> Well you have some general properties for verbs<,>
+<ICE-JA:S1B-015#14:1:C> I gave you those on Monday<,> and you can look at this particular
+
+example to help you with the general properties that I gave you<,> on
+
+Monday<O>murmurs- from-students</O>
+
+<$B> <ICE-JA:S1B-015#15:1:B> But that's about what it's doing in the sentence
+<ICE-JA:S1B-015#16:1:B> <}> <-> It</-> <=> it</=></}> has E D on <{1> <[1> it that
+
+signifies</[1><,> that it's in <{2> <[2> the past tense</[2>
+
+<$S> <ICE-JA:S1B-015#17:1:S> <[1> <?> Modified that signifies</?></[1></{1>
+
+<$C> <ICE-JA:S1B-015#18:1:C> <[2> The form<,> this is</[2></{2> the form
+
+<$B> <ICE-JA:S1B-015#19:1:B> Yes<,,>
+
+<$C> <ICE-JA:S1B-015#20:1:C> <{> <[> So what <?> about this to be shown</?></[>
+
+<$B> <ICE-JA:S1B-015#21:1:B> <[> Do you want to say</[></{> anything else about
+
+it<{1><[1><,></[1>
+<ICE-JA:S1B-015#22:1:B> Uh well I know it <{2> <[2> comes</[2>
+
+<$C> <ICE-JA:S1B-015#23:1:C> <[1> Mhm</[1></{1>
+
+<$C> <ICE-JA:S1B-015#24:1:C> <[2> Don't let me</[2></{2> call <?> on</?> Garey though you
+
+know it
+
+<$B> <ICE-JA:S1B-015#25:1:B> <{> <[> Please</[>
+
+<$C> <ICE-JA:S1B-015#26:1:C> <[> <?> Don't</?></[></{><O>someone-giggles</O> let me call on
+
+Garey <{> <[> yeah</[>
+
+<$B> <ICE-JA:S1B-015#27:1:B> <[> Yeah</[></{>
+
+<$A> <ICE-JA:S1B-015#28:1:A> Let's calm down
+
+<$B> <ICE-JA:S1B-015#29:1:B> <}> <-> It it come<O>laughter</O><,,> <=> it comes</=></}>
+
+after <{1> <[1> the subject</[1> <?> which is <{2> <[2> the</?> word</[2>
+
+<$C> <ICE-JA:S1B-015#30:1:C> <[1> What about</[1></{1>
+
+<$C> <ICE-JA:S1B-015#31:1:C> <[2> Mhm</[2></{2> <{> <[>
+<ICE-JA:S1B-015#32:1:C> Mhm</[>
+
+<$S> <ICE-JA:S1B-015#33:1:S> <[> <?> Which</?> word</[></{>
+
+<$B> <ICE-JA:S1B-015#34:1:B> <O> someone-laughs</O>What else it
+
+<$S> <ICE-JA:S1B-015#35:1:S> <?> Okay if I don't</?>
+
+<$C> <ICE-JA:S1B-015#36:1:C> Williams<,,> Yvette<,,>
+
+<$S> <ICE-JA:S1B-015#37:1:S> <?> Based on</?> <unclear> word</unclear> it can be done
+
+<$B> <ICE-JA:S1B-015#38:1:B> It comes before E D
+
+<$S> <ICE-JA:S1B-015#39:1:S> Yeah<,>
+
+<$S> <ICE-JA:S1B-015#40:1:S> It was <unclear> word</unclear> in the past <{1> <[1> tense
+
+<?>
+<ICE-JA:S1B-015#41:1:S> If you can do <}> <-> it</-></[1> <=> it</=></}></?> <}> <->
+
+the</-> <=> the</=></}> inflection <{2> <[2> or something you cannot
+
+<unclear> word</unclear> here</[2
+
+<$A> <ICE-JA:S1B-015#42:1:A> <[1> Auxiliary</[1></{1>
+
+<$S> <ICE-JA:S1B-015#43:1:S> <[2> <unclear> word</unclear> <?> else</?> you don't need <?>
+
+the criteria</?></2></{2>
+
+<$S> <ICE-JA:S1B-015#44:1:S> <?> You don't want to</?> feel it feel it
+
+<$S> <ICE-JA:S1B-015#45:1:S> <?> You want your</?> <unclear>
+
+word</unclear><O>someone-laughs</O>
+
+<$S> <ICE-JA:S1B-015#46:1:S> You know ought to be <{> <[> <unclear> word</unclear></[>
+
+<$C> <ICE-JA:S1B-015#47:1:C> <[> <?> Wants a craven</?></[> <{> <[> <,>
+<ICE-JA:S1B-015#48:1:C> Or you want to be a</[> <unclear> word</unclear>
+
+<$S> <ICE-JA:S1B-015#49:1:S> <[> Him <unclear> word(s)</unclear></[></{>
+
+<$S> <ICE-JA:S1B-015#50:1:S> <{> <[> <?> Yeah not very</[> cos</?><O>laughter</O>
+
+<$S> <ICE-JA:S1B-015#51:1:S> <[> Yeah</[></{>
+
+<$students> <ICE-JA:S1B-015#52:1:s> <unclear> words</unclear> <{1> <[1> <unclear>
+
+words</unclear></[1> <{2> <[2> <unclear> words</unclear><O>giggles</O></[2>
+
+<$S> <ICE-JA:S1B-015#53:1:S> <[1> We can't have a conversation</[1></{1>
+
+<$C> <ICE-JA:S1B-015#54:1:C> <[2> Okay okay okay calm down</[2></{2><,,>
+<ICE-JA:S1B-015#55:1:C> You're saying <?> Neil</?> Yvette<,>
+
+<$S> <ICE-JA:S1B-015#56:1:S> Because others in the class said you know<{1><[1><,></[1> you
+
+don't need the uhm <{2> <[2> infinitive for that</[2><,,>
+<ICE-JA:S1B-015#57:1:S> That's the only thing <?> I can remember</?> <{3> <[3> <unclear>
+
+word</unclear></[3> can go here
+
+<$C> <ICE-JA:S1B-015#58:1:C> <[1> Mhm</[1></{1>
+
+<$S> <ICE-JA:S1B-015#59:1:S> <[2> So<,> <?> I thought</?></2></{2>
+
+<$S> <ICE-JA:S1B-015#60:1:S> <[3> <?> Modified by</?></[3></{3>
+
+<$S> <ICE-JA:S1B-015#61:1:S> What is <{> <[> this<,></[>
+<ICE-JA:S1B-015#62:1:S> <unclear> words</unclear>
+
+<$S> <ICE-JA:S1B-015#63:1:S> <[> Looks like a noun</[></{>
+
+<$C> <ICE-JA:S1B-015#64:1:C> <{1> <[1> Now I want uhm</[1> some distributional evidence
+
+for<{2><[2><,> the word</[2> class for you<&>knocks-on-blackboard</&>
+
+deciding that this word <mention> produce</mention> is a verb<,,>
+
+<$S> <ICE-JA:S1B-015#65:1:S> <[1> <?> That's nice</?></[1></{1>
+
+<$S> <ICE-JA:S1B-015#66:1:S> <[2> <?> <mention> Produced</mention></?></[2></{2>
+
+<$S> <ICE-JA:S1B-015#67:1:S> Ah
+<ICE-JA:S1B-015#68:1:S> Is it
+
+<$S> <ICE-JA:S1B-015#69:1:S> <?> Which is</?> <unclear> word</unclear> <?> there</?>
+
+<$S> <ICE-JA:S1B-015#70:1:S> <?> That's right</?><,,>
+
+<$S> <ICE-JA:S1B-015#71:1:S> <{> <[> <unclear> word</unclear> <?> in there</?></[>
+
+<$S> <ICE-JA:S1B-015#72:1:S> <[> Some action word</[></{><O>laughter</O>
+
+<$A> <ICE-JA:S1B-015#73:1:A> <{1> <[1> Don't do it <unclear> word(s)</unclear><,></[1>
+<ICE-JA:S1B-015#74:1:A> It's a doing- word<{2><[2><O>laughs</O>
+<ICE-JA:S1B-015#75:1:A> <unclear> word(s)</unclear></[2>
+
+<$S> <ICE-JA:S1B-015#76:1:S> <[1> <O> laughter</O></[1></{1>
+
+<$S> <ICE-JA:S1B-015#77:1:S> <[2> It's modified by</[2></{2> <{> <[> <unclear>
+
+word</unclear></[>
+
+<$S> <ICE-JA:S1B-015#78:1:S> <[> <}> <-> <.> spec</.></-> <=> specifying</=></}></[></{>
+
+<$C> <ICE-JA:S1B-015#79:1:C> <{1> <[1> <?> It</?> can be modified</[1> by <{2> <[2> <,>
+<ICE-JA:S1B-015#80:1:C> In this</[2> particular case<,,>
+
+<$S> <ICE-JA:S1B-015#81:1:S> <[1> <?> Also</?></[1></{1>
+
+<$S> <ICE-JA:S1B-015#82:1:S> <[2> <unclear> word(s)</unclear></[2></{2>
+
+<$S> <ICE-JA:S1B-015#83:1:S> Miss<,> <?>
+
+<$C> </?>
+<ICE-JA:S1B-015#84:1:C> You don't have one but
+
+<$D> <ICE-JA:S1B-015#85:1:D> That's why <?> I'm</?> <{1> <[1> <unclear> word(s)</unclear>
+<ICE-JA:S1B-015#86:1:D> If you wanted</[1> <?> something else that doesn't <{2> <[2> really
+
+change anything</?> <}> <- > in</-> <=> in</=></}> the sentence</[2>
+
+<$S> <ICE-JA:S1B-015#87:1:S> <[1> Oh <unclear> words</unclear></[1></{1>
+
+<$S> <ICE-JA:S1B-015#88:1:S> <[2> <unclear> words</unclear></[2></{2>
+
+<$C> <ICE-JA:S1B-015#89:1:C> No but I'm saying <{1> <[1> <,> up here</[1>
+
+<$D> <ICE-JA:S1B-015#90:1:D> <[1> <unclear> words</unclear></[1></{1> <?> comes to be</?>
+
+in the sentence
+
+<$C> <ICE-JA:S1B-015#91:1:C> You've<,> lost yourself a bit up here uhm Simone because up
+
+here we also look at what is possible<,> see
+<ICE-JA:S1B-015#92:1:C> In this <{1> <[1> particular sentence</[1> we have <mention>
+
+report</mention><,,>
+<ICE-JA:S1B-015#93:1:C> It doesn't have<,> a plural <{2> <[2> marker<,></[2> but that's a
+
+possibility<,,>
+
+<$D> <ICE-JA:S1B-015#94:1:D> <[1> Okay</[1></{1>
+
+<$S> <ICE-JA:S1B-015#95:1:S> <[2> <unclear> words</unclear></[2></{2>
+
+<$D> <ICE-JA:S1B-015#96:1:D> So if I said that <}> <-> <mention> produced</mention></-> <=>
+
+<mention> produce</mention></=></}> <?> can align here</?> it will be
+
+<unclear> words</unclear><,,>
+
+<$C> <ICE-JA:S1B-015#97:1:C> And what would I N G be
+<ICE-JA:S1B-015#98:1:C> <{1> <[1> Also another form of
+
+tense<,></[1><,><{2><[2><,><ICE-JA:S1B-015#>Inflection</[2>
+
+<$D> <ICE-JA:S1B-015#99:1:D> <[1> <unclear> several-words</unclear> <?> a
+
+tense</?></[1></{1>
+
+<$S> <ICE-JA:S1B-015#100:1:S> <[2> That's <}> <-> <.>
+
+inflec</.><+>inflection</+></}></[2></{2>
+
+<$D> <ICE-JA:S1B-015#101:1:D> Then <?> there's</?> <}> <-> one</-> <=> one</=></}> of each
+
+you want
+
+<$C> <ICE-JA:S1B-015#102:1:C> No <?> no I'm saying that I won't</?> one of each I'm saying
+
+what is possible<,>
+
+<$S> <ICE-JA:S1B-015#103:1:S> Oh
+
+<$D> <ICE-JA:S1B-015#104:1:D> <{> <[> In this</[>
+
+<$E> <ICE-JA:S1B-015#105:1:E> <[> Well I was</[></{> confused but I thought you just wanted
+
+to know <{> <[> <unclear> words</unclear></[>
+
+<$S> <ICE-JA:S1B-015#106:1:S> <[> <}> <-> What</-> <=> what</=></}> was possible</[></{>
+
+<{> <[> <?> thank you very much</?><,> <unclear> word</unclear></[>
+
+<$C> <ICE-JA:S1B-015#107:1:C> <[> I've basically given you a sentence</[></{> so that you
+
+can look at it<,>
+<ICE-JA:S1B-015#108:1:C> Immediately <}> <-> you can</-> <=> you can</=></}> tell from some
+
+of the words<,> uhm the morphological evidence because immediately <}> <->
+
+<.> y</.> can</-> <=> you can</=></}> look at <mention> produce</mention> and
+
+see E D<,> so that helps you in determining what and what is possible
+
+<$S> <ICE-JA:S1B-015#109:1:S> What's an <unclear> word</unclear><,,>
+
+<$C> <ICE-JA:S1B-015#110:1:C> <{> <[> Help her out</[> <unclear> name</unclear><,,>
+
+<$S> <ICE-JA:S1B-015#111:1:S> <[> Mhm</[></{>
+
+<$S> <ICE-JA:S1B-015#112:1:S> It can <{> <[> <unclear> words</unclear></[>
+
+<$S> <ICE-JA:S1B-015#113:1:S> <[> <unclear> word</unclear> <?> <mention>
+
+possibly</mention></?></[></{><,>
+
+<$S> <ICE-JA:S1B-015#114:1:S> <?> Like <mention> will</mention> <mention> can</mention>
+
+<mention> may</mention></?><,>
+
+<$A> <ICE-JA:S1B-015#115:1:A> Mhm <{> <[> mhm</[> <?>
+
+<$D> </?>
+<ICE-JA:S1B-015#116:1:D> <[> Yeah <unclear> word</unclear> can <unclear> three-
+
+words</unclear></[></{><,,><O>murmurs-from-students</O>
+
+<$S> <ICE-JA:S1B-015#117:1:S> <mention> Can <?> do</?></mention> <mention> can <?>
+
+beat</?></mention><,,>
+
+<$S> <ICE-JA:S1B-015#118:1:S> <unclear> word(s)</unclear><,,>
+
+<$C> <ICE-JA:S1B-015#119:1:C> What about<,,> head of<,,> a V P<,>
+<ICE-JA:S1B-015#120:1:C> In this particular case it's the predicate<,>
+<ICE-JA:S1B-015#121:1:C> Or it's heading the predicate<,> of the sentence<,>
+<ICE-JA:S1B-015#122:1:C> No<{><[><,></[><,,>
+<ICE-JA:S1B-015#123:1:C> No
+<ICE-JA:S1B-015#124:1:C> Yes no
+
+<$A> <ICE-JA:S1B-015#125:1:A> <[> Mhm</[></{>
+
+<$S> <ICE-JA:S1B-015#126:1:S> <unclear> three-words</unclear> <?> it up</?>
+
+<$S> <ICE-JA:S1B-015#127:1:S> <{> <[> <?> How come</?></[>
+
+<$S> <ICE-JA:S1B-015#128:1:S> <[> <?> You don't</?> <unclear> word</unclear></[></{>
+
+<$S> <ICE-JA:S1B-015#129:1:S> Mhm
+
+<$S> <ICE-JA:S1B-015#130:1:S> Okay
+
+<$S> <ICE-JA:S1B-015#131:1:S> <mention> Produced</mention> uhm <mention> produce</mention>
+
+<{> <[> <,>
+<ICE-JA:S1B-015#132:1:S> <?> Alright</?></[>
+
+<$C> <ICE-JA:S1B-015#133:1:C> <[> Did you give me an example</[></{> of<,,> modified by an
+
+auxiliary
+<ICE-JA:S1B-015#134:1:C> I don't remember if anybody give me an example of that<,,>
+<ICE-JA:S1B-015#135:1:C> We kind of shift from that one very quickly<{><[><,><ICE-JA:S1B-015#>An
+
+example</[>
+
+<$S> <ICE-JA:S1B-015#136:1:S> <[> Yeah <unclear> word</unclear></[></{>
+
+<$D> <ICE-JA:S1B-015#137:1:D> Because <unclear> word</unclear> <{> <[> doesn't <?> take</?>
+
+a <unclear> word</unclear></[><,>
+
+<$S> <ICE-JA:S1B-015#138:1:S> <[> That so</[></{>
+
+<$C> <ICE-JA:S1B-015#139:1:C> Mhm<,>
+
+<$D> <ICE-JA:S1B-015#140:1:D> <{1> <[1> Uhm the sentence <?> where</?>
+
+uh<,><{2><[2><ICE-JA:S1B-015#><quote>The</[2> reports will produce a highly</[1> <{3> <[3>
+
+emotional <unclear> word</unclear></quote></[3>
+
+<$S> <ICE-JA:S1B-015#141:1:S> <[1> <unclear> several-words</unclear> <mention>
+
+produce</mention> <unclear> words</unclear></[1></{1>
+
+<$A> <ICE-JA:S1B-015#142:1:A> <[2> The</[2></{2>
+
+<$S> <ICE-JA:S1B-015#143:1:S> <[3> Okay tense</[3></{3>
+
+<$S> <ICE-JA:S1B-015#144:1:S> Mhm
+
+<$C> <ICE-JA:S1B-015#145:1:C> Okay head of the V P
+
+<$S> <ICE-JA:S1B-015#146:1:S> <unclear> word</unclear> of V P
+
+<$S> <ICE-JA:S1B-015#147:1:S> Mhm<{><[><O>laughter</O></[>
+
+<$C> <ICE-JA:S1B-015#148:1:C> <{> <[> <,> <?> Almost</?></[></{> equally shared <{1> <[1>
+
+<,> by</[1> several persons<{2><[2><,></[2>
+<ICE-JA:S1B-015#149:1:C> <{3> <[3> Article<,,> determiner in this particular</[3> case <{4>
+
+</[4> and you can basically use the <}> <-> same</-></[4><,,><&>knocks-on-
+
+blackboard</&> <=> same</=></}> <{5> <[5> evidences that you have on</[5>
+
+top<,>
+<ICE-JA:S1B-015#150:1:C> <mention> Highly</mention> Nelson<,> I promised you that one<,,>
+
+<$S> <ICE-JA:S1B-015#151:1:S> <[1> Yes <unclear> word</unclear></[1></{1>
+
+<$S> <ICE-JA:S1B-015#152:1:S> <[2> <O> student-laughs</O></[2></{2>
+
+<$S> <ICE-JA:S1B-015#153:1:S> <[3> <O> student-giggles</O></[3></{3>
+
+<$S> <ICE-JA:S1B-015#154:1:S> <[4> <unclear> words</unclear></[4></{4>
+
+<$S> <ICE-JA:S1B-015#155:1:S> <[5> <O> student-giggles</O></[5></{5>
+
+<$S> <ICE-JA:S1B-015#156:1:S> <{> <[> <?> <mention> You</mention> could be a noun</?></[>
+
+<$S> <ICE-JA:S1B-015#157:1:S> <[> <O> murmurs</O></[></{> mhm
+
+<$S> <ICE-JA:S1B-015#158:1:S> Excuse me <?> A</?> is <?> function</?>
+
+<$C> <ICE-JA:S1B-015#159:1:C> Yes because I'm saying that you can basically use the same
+
+evidence for the V<,,> for A
+
+<$S> <ICE-JA:S1B-015#160:1:S> <?> That would just be wrong</?>
+
+<$S> <ICE-JA:S1B-015#161:1:S> A <{> <[> <unclear> words</unclear></[>
+
+<$S> <ICE-JA:S1B-015#162:1:S> <[> Yes it's right</[>
+
+<$C> <ICE-JA:S1B-015#163:1:C> <[> <,> Why is that so</[></{>
+
+<$S> <ICE-JA:S1B-015#164:1:S> <?> Here because the object</?> <unclear> word</unclear>
+
+<$C> <ICE-JA:S1B-015#165:1:C> <{> <[> Is it an</[> article
+
+<$S> <ICE-JA:S1B-015#166:1:S> <[> <mention> Highly</mention></[></{>
+
+<$S> <ICE-JA:S1B-015#167:1:S> Mhm
+
+<$S> <ICE-JA:S1B-015#168:1:S> I think it <{> <[> <?> is</?></[>
+
+<$S> <ICE-JA:S1B-015#169:1:S> <[> <Mhm/[> </{>
+
+<$C> <ICE-JA:S1B-015#170:1:C> <{> <[> Simone<,,> isn't it</[>
+
+<$S> <ICE-JA:S1B-015#171:1:S> <[> <?> Mhm<,> I don't know<,></[></{>
+<ICE-JA:S1B-015#172:1:S> In what you <{> <[> have to</?></[>
+
+<$D> <ICE-JA:S1B-015#173:1:D> <[> <?> Yes it is</[></{> <{1> <[1> modified but</[1> it also
+
+<{2> <[2> is</?></[2>
+
+<$A> <ICE-JA:S1B-015#174:1:A> <[1> Mhm</[1></{1>
+
+<$S> <ICE-JA:S1B-015#175:1:S> <[2> <?> But care</?> what I'm saying</[2></{2> <{> <[>
+
+<unclear> word(s)</unclear></[>
+
+<$C> <ICE-JA:S1B-015#176:1:C> <[> No I'm saying you are</[></{> taking <mention>
+
+highly</mention>
+
+<$S> <ICE-JA:S1B-015#177:1:S> <?> <mention> Emotional</mention> everything isn't</?> <{>
+
+<[> <unclear> words</unclear></[>
+
+<$A> <ICE-JA:S1B-015#178:1:A> <&> sings</&><[>Highly highly</[></{> <{> <[> highly
+
+highly</[> highly highly
+
+<$S> <ICE-JA:S1B-015#179:1:S> <[> <?> No that's okay</?></[></{>
+
+<$D> <ICE-JA:S1B-015#180:1:D> Okay <{1> <[1> <unclear> word</unclear></[1> that's a
+
+specific <unclear> word</unclear>
+<ICE-JA:S1B-015#181:1:D> Alright
+<ICE-JA:S1B-015#182:1:D> It's an <{2> <[2> adverb<,>
+<ICE-JA:S1B-015#183:1:D> Word class is</[2> adverb
+
+<$A> <ICE-JA:S1B-015#184:1:A> <[1> <unclear> word(s)</unclear></[1></{1>
+
+<$A> <ICE-JA:S1B-015#185:1:A> <[2> <unclear> words</unclear></[2></{2>
+
+<$A> <ICE-JA:S1B-015#186:1:A> <{> <[> Oh</[>
+
+<$S> <ICE-JA:S1B-015#187:1:S> <[> <?> Uh Ma'am</?></[></{><,,>
+<ICE-JA:S1B-015#188:1:S> What <{> <[> is <unclear> word(s)</unclear></[>
+
+<$A> <ICE-JA:S1B-015#189:1:A> <[> <unclear> word(s)</unclear></[></{>
+
+<$S> <ICE-JA:S1B-015#190:1:S> <unclear> words</unclear>
+
+<$D> <ICE-JA:S1B-015#191:1:D> Morphological evidence is<,,><{1><[1><,,> it comes after</[1>
+
+a<{2><[2><,,></[2><{3><[3><,></[3> <{4> <[4> determiner</[4>
+
+<$S> <ICE-JA:S1B-015#192:1:S> <[1> <?> Oh you can't say</?> <unclear>
+
+words</unclear></[1></{1>
+
+<$S> <ICE-JA:S1B-015#193:1:S> <[2> <?> I'm tired</?></[2>
+
+<$A> <ICE-JA:S1B-015#194:1:A> <[2> Mhm</[2></{2>
+
+<$S> <ICE-JA:S1B-015#195:1:S> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1B-015#196:1:A> <[4> <?> Yeah</?></[4></{4>
+
+<$S> <ICE-JA:S1B-015#197:1:S> Mhm
+
+<$C> <ICE-JA:S1B-015#198:1:C> <?> Why do</?> you tell me that
+<ICE-JA:S1B-015#199:1:C> <{> <[> That cannot</[> be the morphological evidence
+<ICE-JA:S1B-015#200:1:C> Why not
+
+<$S> <ICE-JA:S1B-015#201:1:S> <[> Mhm</[></{>
+
+<$S> <ICE-JA:S1B-015#202:1:S> <?> <mention> Emotional</mention> I can't</?> </unclear>
+
+words</unclear>
+
+<$S> <ICE-JA:S1B-015#203:1:S> <?> It comes</?> <unclear>
+
+words</unclear><O>someone-clears-throat</O>
+
+<$C> <ICE-JA:S1B-015#204:1:C> Why not Sarah<,,>
+
+<$S> <ICE-JA:S1B-015#205:1:S> Mhm<,>
+
+<$S> <ICE-JA:S1B-015#206:1:S> Can you repeat the questions
+
+<$C> <ICE-JA:S1B-015#207:1:C> She said that <}> <-> the<,> it</-> <=> the</=></}><,> adverb
+
+comes after something<,,> <?>
+
+<$D> </?>
+<ICE-JA:S1B-015#208:1:D> <?> No it <{> <[> doesn't work that</[> way</?>
+
+<$S> <ICE-JA:S1B-015#209:1:S> <[> It comes before</[></{>
+
+<$D> <ICE-JA:S1B-015#210:1:D> <{> <[> That's</[> determiner
+
+<$S> <ICE-JA:S1B-015#211:1:S> <[> Mhm</[></{>
+
+<$S> <ICE-JA:S1B-015#212:1:S> It's in <{> <[> <unclear> words</unclear></[>
+
+<$A> <ICE-JA:S1B-015#213:1:A> <[> <}> <-> That's</[></{> <{> <[> in</-> <=> <?> that's</?>
+
+distribution</=></}></[></{>
+
+<$S> <ICE-JA:S1B-015#214:1:S> <[> <unclear> words</unclear></[></{>
+
+<$S> <ICE-JA:S1B-015#215:1:S> Oh <[1> you mean <unclear> words</unclear></[1></{1> <{2>
+
+<[2> <unclear> words</unclear></[2>
+
+<$D> <ICE-JA:S1B-015#216:1:D> <[1> Oh that's <unclear> word</unclear></[1></{1>
+
+<$S> <ICE-JA:S1B-015#217:1:S> <[2> <unclear> words</unclear></[2></{2> <unclear>
+
+words<unclear><O>giggling</O><,>
+
+<$S> <ICE-JA:S1B-015#218:1:S> Okay
+
+<$S> <ICE-JA:S1B-015#219:1:S> <?> Miss</?>
+
+<$D> <ICE-JA:S1B-015#220:1:D> Alright I'm <?> stuck up</?>
+
+<$S> <ICE-JA:S1B-015#221:1:S> <?> Haven't you</?> <unclear> word(s)</unclear> <?> the
+
+morphological evidence</?> <{> <[> <unclear>
+
+word(s)</unclear></[><O>murmurs</O>
+
+<$C> <ICE-JA:S1B-015#222:1:C> <[> Uhu</[></{>
+<ICE-JA:S1B-015#223:1:C> Where did you go wrong uhm Simone<,,>
+
+<$D> <ICE-JA:S1B-015#224:1:D> <}> <-> I</-> <=> I</=></}> agree with <}> <-> the the</->
+
+<=> the</=></}><O>laughter</O>
+
+<$C> <ICE-JA:S1B-015#225:1:C> Apart from that<,>
+
+<$A> <ICE-JA:S1B-015#226:1:A> <}> <-> The</-> <=> <?> it's in</?> the</=></}> wrong
+
+category
+
+<$C> <ICE-JA:S1B-015#227:1:C> The wrong category
+<ICE-JA:S1B-015#228:1:C> We're dealing with morphological evidence
+<ICE-JA:S1B-015#229:1:C> <{> <[> Now and that's</[> distributional evidence and that just
+
+<?> it</?>
+
+<$D> <ICE-JA:S1B-015#230:1:D> <[> Mhm</[></{>
+
+<$D> <ICE-JA:S1B-015#231:1:D> Okay
+<ICE-JA:S1B-015#232:1:D> Okay<,,><O>students-murmuring</O>
+<ICE-JA:S1B-015#233:1:D> Uhm<O>clears-throat</O> morphological evidence let me see<,,>
+
+<$S> <ICE-JA:S1B-015#234:1:S> <&> very-softly</&><unclear>word</unclear> <?> inflection</?>
+
+uhm<,,>
+
+<$D> <ICE-JA:S1B-015#235:1:D> Takes
+
+<$S> <ICE-JA:S1B-015#236:1:S> Don't tell <{> <[> her</[>
+
+<$D> <ICE-JA:S1B-015#237:1:D> <[> It takes</[></{> <&>
+
+begins-laughing</&>inflections<&>ends-laughing</&>
+
+<$S> <ICE-JA:S1B-015#238:1:S> <?> Not inflection</?>
+
+<$S> <ICE-JA:S1B-015#239:1:S> Mhm<,> <?>
+
+<$C> </?>
+<ICE-JA:S1B-015#240:1:C> <?> Like</?>
+
+<$S> <ICE-JA:S1B-015#241:1:S> <{> <[> Inflection</[>
+
+<$S> <ICE-JA:S1B-015#242:1:S> <[> Mhm</[></{>
+
+<$A> <ICE-JA:S1B-015#243:1:A> <{1> <[1> <}> <-> But</-></[1> <=> but</=></}> <{2> <[2> it
+
+makes no sense</[2><O>laughter</O>
+
+<$C> <ICE-JA:S1B-015#244:1:C> <[1> Uhu</[1>
+
+<$S> <ICE-JA:S1B-015#245:1:S> <[1> <?> I see so</?></[1></{1>
+
+<$S> <ICE-JA:S1B-015#246:1:S> <[2> <?> I don't know since</?></[2></{2>
+
+<$S> <ICE-JA:S1B-015#247:1:S> <?> Poor</?> <unclear> name?</unclear>
+
+<$S> <ICE-JA:S1B-015#248:1:S> <{> <[> <unclear> words</unclear</unclear></[>
+
+<$S> <ICE-JA:S1B-015#249:1:S> <[> <,> <unclear> words</unclear</unclear></[>
+
+<$C> <ICE-JA:S1B-015#250:1:C> <[> <,> No wait <?> a bit</?> one
+
+second</[></{><O>someone-coughs</O> but base on the floor <{> <[> <unclear>
+
+words</unclear> floor uhm</[>
+
+<$D> <ICE-JA:S1B-015#251:1:D> <[> Like <mention> <.> ly</.></mention> <mention> <.>
+
+ly</.></mention></[></{> <{> <[> L Y <unclear> word</unclear></[>
+
+<$S> <ICE-JA:S1B-015#252:1:S> <[> <unclear> words</unclear></[></{> <?> going to given</?>
+
+<$S> <ICE-JA:S1B-015#253:1:S> <?> You see ahhhh</?><,>
+
+<$S> <ICE-JA:S1B-015#254:1:S> Mhm
+
+<$S> <ICE-JA:S1B-015#255:1:S> <unclear> words</unclear>
+
+<$C> <ICE-JA:S1B-015#256:1:C> <{1> <[1> Okay
+<ICE-JA:S1B-015#257:1:C> Go ahead</[1> with your <{2> <[2> distributional evidence</[2>
+
+<$A> <ICE-JA:S1B-015#258:1:A> <[1> Dzzz</[1></{1>
+
+<$S> <ICE-JA:S1B-015#259:1:S> <[2> <}> <-> <.> All</.> <=> almost</=></}></[2></{2>
+
+<$S> <ICE-JA:S1B-015#260:1:S> <{> <[> <unclear> words</unclear></[>
+
+<$A> <ICE-JA:S1B-015#261:1:A> <[> <?> As and it seems to be</?> <unclear>
+
+word(s)</unclear></[>
+
+<$D> <ICE-JA:S1B-015#262:1:D> <[> <,,> I have to make really sure</[></{>
+<ICE-JA:S1B-015#263:1:D> Almost <unclear> word</unclear> <?> call</?> inflections
+
+<$S> <ICE-JA:S1B-015#264:1:S> Okay <{> <[> <unclear> word(s)</unclear></[>
+
+<$C> <ICE-JA:S1B-015#265:1:C> <[> Remember what we</[></{> did in morphology a couple of<,>
+
+weeks ago
+
+<$S> <ICE-JA:S1B-015#266:1:S> <unclear> word(s)</unclear>
+<ICE-JA:S1B-015#267:1:S> Miss isn't it that inflection do not change the meaning<,>
+
+<$S> <ICE-JA:S1B-015#268:1:S> I was asking<,,>
+
+<$C> <ICE-JA:S1B-015#269:1:C> No uhm I don't get your question
+
+<$S> <ICE-JA:S1B-015#270:1:S> I'm asking <{1> <[1> <}> <-> if</-></[1> <=> if</=></}> it is
+
+that inflections do not <{2> <[2> change<,> the meaning</[2><ICE-JA:S1B-015#>Yes Miss <}>
+
+<-> I</-> <=> I</=></}> don't <{3> <[3> know <unclear> words</unclear></[3>
+
+<$C> <ICE-JA:S1B-015#271:1:C> <[1> Aha</[1></{1>
+
+<$C> <ICE-JA:S1B-015#272:1:C> <[2> You weren't here on Monday</[2></{2>
+
+<$C> <ICE-JA:S1B-015#273:1:C> <[3> Look back through your notes
+<ICE-JA:S1B-015#274:1:C> Look</[3></{3> back through your notes from Monday<,> from
+
+Monday's class
+
+<$S> <ICE-JA:S1B-015#275:1:S> Alright
+
+<$D> <ICE-JA:S1B-015#276:1:D> Yes for the distribution
+
+<$C> <ICE-JA:S1B-015#277:1:C> I was assuming that you had read it<,> through since
+
+Monday<,>
+
+<$S> <ICE-JA:S1B-015#278:1:S> I had something else
+
+<$D> <ICE-JA:S1B-015#279:1:D> Distributional evidence
+
+<$C> <ICE-JA:S1B-015#280:1:C> Mhm
+
+<$D> <ICE-JA:S1B-015#281:1:D> Uhm
+<ICE-JA:S1B-015#282:1:D> It comes after determiner<,>
+
+<$C> <ICE-JA:S1B-015#283:1:C> In this particular case what's the determiner
+
+<$D> <ICE-JA:S1B-015#284:1:D> <mention> A</mention>
+
+<$C> <ICE-JA:S1B-015#285:1:C> Mhm
+
+<$D> <ICE-JA:S1B-015#286:1:D> Uhm<,,>
+<ICE-JA:S1B-015#287:1:D> <?> This</?>
+<ICE-JA:S1B-015#288:1:D> What else<,,>
+
+<$S> <ICE-JA:S1B-015#289:1:S> Can you say that it'd been assumed<,,>
+
+<$D> <ICE-JA:S1B-015#290:1:D> <{> <[> Alright</[>
+
+<$S> <ICE-JA:S1B-015#291:1:S> <[> <unclear> word</unclear></[></{> wrong here
+
+<$S> <ICE-JA:S1B-015#292:1:S> Can you say that <{> <[> <?> it may assume</?></[> <?>
+
+other</?> inflections I don't know
+
+<$C> <ICE-JA:S1B-015#293:1:C> <[> Go ahead <unclear> word</unclear></[></{>
+
+<$S> <ICE-JA:S1B-015#294:1:S> Meaning meaning <&>
+
+students-murmuring</&><unclear>words</unclear>
+
+<$S> <ICE-JA:S1B-015#295:1:S> Miss I don't see any <unclear>
+
+words</unclear><&>unintelligible-students</&>
+
+<$S> <ICE-JA:S1B-015#296:1:S> <mention> Higher</mention> <mention>
+
+highly</mention><{><[><,></[> <mention> highest</mention>
+
+<$C> <ICE-JA:S1B-015#297:1:C> <[> Mhm</[></{>
+
+<$S> <ICE-JA:S1B-015#298:1:S> No yes
+
+<$C> <ICE-JA:S1B-015#299:1:C> <mention> Highly</mention>
+
+<$S> <ICE-JA:S1B-015#300:1:S> Yes<,>
+
+<$C> <ICE-JA:S1B-015#301:1:C> What's the relationship between <?> that and</?> what you
+
+said
+
+<$A> <ICE-JA:S1B-015#302:1:A> No I <unclear> words</unclear>
+
+<$C> <ICE-JA:S1B-015#303:1:C> Okay uhu
+
+<$S> <ICE-JA:S1B-015#304:1:S> Uhm <unclear> words</unclear><,,> comes before
+
+<$S> <ICE-JA:S1B-015#305:1:S> Modifying adjective
+<ICE-JA:S1B-015#306:1:S> Did somebody try adjective
+
+<$C> <ICE-JA:S1B-015#307:1:C> Thank you very much
+<ICE-JA:S1B-015#308:1:C> So <}> <-> we won't we won't <.> partic</.></-> <=> we
+
+won't</=></}> share anything that's similar
+
+<$S> <ICE-JA:S1B-015#309:1:S> <unclear> word(s)</unclear> supposed to be <{> <[> <?>
+
+mentioned</?></[>
+
+<$D> <ICE-JA:S1B-015#310:1:D> <[> No and</[></{> that's <}> <-> I was</-> <=> I was</=></}>
+
+saying it comes before and <}> <-> she's</-> <=> she's</=></}>
+
+<$C> <ICE-JA:S1B-015#311:1:C> Before what
+
+<$A> <ICE-JA:S1B-015#312:1:A> <{> <[> Modifying adjective</[>
+
+<$S> <ICE-JA:S1B-015#313:1:S> <[> <unclear> words</unclear> verbs</[>
+
+<$C> <ICE-JA:S1B-015#314:1:C> <[> In this particular case<,></[></{><{1><[1><,></[1> in
+
+this particular case<{2><[2><,></[2> what does it modify
+
+<$S> <ICE-JA:S1B-015#315:1:S> <[1> <mention> Emotional</mention></[1></{1>
+
+<$S> <ICE-JA:S1B-015#316:1:S> <[2> <mention> Emotional</mention></[2></{2>
+
+<$D> <ICE-JA:S1B-015#317:1:D> It modifies the word uhm<,> <mention>
+
+emotional</mention><{><[><,></[> showing degree
+
+<$C> <ICE-JA:S1B-015#318:1:C> <[> Thank you <?> good job</?></[></{>
+
+<$A> <ICE-JA:S1B-015#319:1:A> What
+
+<$S> <ICE-JA:S1B-015#320:1:S> No
+<ICE-JA:S1B-015#321:1:S> Modifying adjective
+
+<$S> <ICE-JA:S1B-015#322:1:S> <{> <[> Doesn't it</[>
+
+<$C> <ICE-JA:S1B-015#323:1:C> <[> It modifies</[></{> the adjective <{> <[> <mention>
+
+emotional</mention></[>
+
+<$D> <ICE-JA:S1B-015#324:1:D> <[> If it modifies</[></{> it means wanted highly emotional
+
+<unclear> words</unclear> very emotional
+
+<$C> <ICE-JA:S1B-015#325:1:C> How
+<ICE-JA:S1B-015#326:1:C> <?> You remember</?> for traditional grammar if <?>
+
+you're/your</?>
+<ICE-JA:S1B-015#327:1:C> When you're <?> reading</?> adverbs you're told uhm it relates how
+
+when and where
+
+<$D> <ICE-JA:S1B-015#328:1:D> Yeah
+
+<$C> <ICE-JA:S1B-015#329:1:C> Okay
+<ICE-JA:S1B-015#330:1:C> So in this particular case<,> it'd be how <{> <[> <,> </[> how
+
+emotional
+
+<$D> <ICE-JA:S1B-015#331:1:D> <[> How</[></{>
+
+<$D> <ICE-JA:S1B-015#332:1:D> So degree isn't that uhm
+
+<$C> <ICE-JA:S1B-015#333:1:C> No I'm saying in this particular case this is the best way
+
+to<,> describe what I think you're trying to get across<,,>
+<ICE-JA:S1B-015#334:1:C> You're okay with that
+
+<$D> <ICE-JA:S1B-015#335:1:D> <?> I don't know</?>
+
+<$C> <ICE-JA:S1B-015#336:1:C> Okay
+<ICE-JA:S1B-015#337:1:C> Are we okay so far
+
+<$E> <ICE-JA:S1B-015#338:1:E> Miss
+
+<$C> <ICE-JA:S1B-015#339:1:C> Uhu
+
+<$E> <ICE-JA:S1B-015#340:1:E> <mention> Highly</mention> is a degree modifier
+
+<$D> <ICE-JA:S1B-015#341:1:D> That's what I was asking
+
+<$C> <ICE-JA:S1B-015#342:1:C> No I'm saying uhm<,> it's not the same as the ones that I
+
+gave you on Monday<,>
+<ICE-JA:S1B-015#343:1:C> And I don't want you to get confused in terms of categories<,,>
+<ICE-JA:S1B-015#344:1:C> Why is it not the same<O>students-murmuring-unintelligibly</O>
+
+<$C> <ICE-JA:S1B-015#345:1:C> Not necessarily so
+<ICE-JA:S1B-015#346:1:C> Look at the examples that I gave you on
+
+Monday<O>unintelligible-students</O><&>break-in-recording</&>
+
+<$A> <ICE-JA:S1B-015#347:1:A> Basically that one the uhm degree modifiers <}> <-> are</->
+
+<=> are</=></}> basically to show uhm
+
+comparison<,><&>unintelligible-students</&>
+
+<$S> <ICE-JA:S1B-015#348:1:S> The degree modifiers are <unclear> word(s)</unclear> that
+
+have a relation
+
+<$A> <ICE-JA:S1B-015#349:1:A> What
+
+<$S> <ICE-JA:S1B-015#350:1:S> I mean that if you like <mention> very</mention> <{> <[> <?>
+
+you can't <unclear> word</unclear> you can say <mention> highly</mention> in
+
+a sentence like</?></[>
+
+<$S> <ICE-JA:S1B-015#351:1:S> <[> Very high influence<,,>
+
+mhm</[></{><O>students-unintelligible</O>
+
+<$S> <ICE-JA:S1B-015#352:1:S> No I was saying that degree modifiers <unclear>
+
+words</unclear>
+<ICE-JA:S1B-015#353:1:S> You're saying that well <?> it's a part of the specifiers rule</?>
+
+and they don't have any lexical meaning
+
+<$S> <ICE-JA:S1B-015#354:1:S> Hmm that's because they're using adjectives
+
+<$S> <ICE-JA:S1B-015#355:1:S> But I have adverbs I have
+
+<$C> <ICE-JA:S1B-015#356:1:C> You agree with what she's saying<,>
+
+<$S> <ICE-JA:S1B-015#357:1:S> No <{> <[> Miss <unclear> words</unclear></[>
+
+<$D> <ICE-JA:S1B-015#358:1:D> <[> I don't understand what</[></{> she's saying
+<ICE-JA:S1B-015#359:1:D> I don't <{> <[> understand</[>
+
+<$C> <ICE-JA:S1B-015#360:1:C> <[> She's not</[></{> <}> <-> <.> u</.></-> <=>
+
+understanding</=></}> <{> <[> what you're saying <unclear>
+
+words</unclear></[>
+
+<$A> <ICE-JA:S1B-015#361:1:A> <[> <?> I don't understand that the question</?></[></{>
+
+<$D> <ICE-JA:S1B-015#362:1:D> I don't understand why it's not a degree modifier
+
+<$C> <ICE-JA:S1B-015#363:1:C> And <?> Danny</?> was explaining that
+
+<$E> <ICE-JA:S1B-015#364:1:E> And I was saying that degree modifiers don't have any lexical
+
+meaning an adverb would though<,>
+
+<$C> <ICE-JA:S1B-015#365:1:C> In what particular sense<O>unintelligible-students</O>
+
+<$S> <ICE-JA:S1B-015#366:1:S> Miss you said degree <}> <-> <.> modif</.></-> <=>
+
+modifiers</=></}> are used as adjectives <?> in that ways</?>
+
+<$C> <ICE-JA:S1B-015#367:1:C> Yes but we've also shown that this particular adverb modifies
+
+the adjective <mention> emotional</mention><,,>
+<ICE-JA:S1B-015#368:1:C> Uhm what else<,>
+
+<$S> <ICE-JA:S1B-015#369:1:S> And adverbs can also be modified by a degree modifier
+
+<$C> <ICE-JA:S1B-015#370:1:C> Mhm
+
+<$A> <ICE-JA:S1B-015#371:1:A> Mhm<,>
+
+<$S> <ICE-JA:S1B-015#372:1:S> Adverbs can also be modified <{> <[> by degree modifiers</[>
+
+<$S> <ICE-JA:S1B-015#373:1:S> <[> By degree modifiers</[></{>
+
+<$C> <ICE-JA:S1B-015#374:1:C> So what does that tell you<O>unintelligible-students</O>
+
+<$S> <ICE-JA:S1B-015#375:1:S> So you can say <mention> very very</mention><,>
+
+<$C> <ICE-JA:S1B-015#376:1:C> No <{> <[> that's a different thing</[>
+
+<$S> <ICE-JA:S1B-015#377:1:S> <[> <unclear> words</unclear></[></{>
+
+<$S> <ICE-JA:S1B-015#378:1:S> <mention> Very very</mention>
+
+<$C> <ICE-JA:S1B-015#379:1:C> That's a different thing uhm<,,><O>student-unintelligible</O>
+
+Simone<,>
+
+<$D> <ICE-JA:S1B-015#380:1:D> So if it's a very very <unclear> word</unclear> thing
+
+<$C> <ICE-JA:S1B-015#381:1:C> Well basically repetition <}> <-> that</-> <=> that's</=></}>
+
+what you're talking about repetition uhu
+
+<$D> <ICE-JA:S1B-015#382:1:D> Yeah
+
+<$S> <ICE-JA:S1B-015#383:1:S> Uhum
+
+<$D> <ICE-JA:S1B-015#384:1:D> She <{> <[> said you can't <,> </[>
+<ICE-JA:S1B-015#385:1:D> She said you can say <mention> very highly</mention> right
+<ICE-JA:S1B-015#386:1:D> Degree modifiers can be modified by adverbs and that
+
+<$S> <ICE-JA:S1B-015#387:1:S> <[> But what has that to do with actual</[></{>
+
+<$S> <ICE-JA:S1B-015#388:1:S> Adverbs can be <{> <[> modified by</[>
+
+<$D> <ICE-JA:S1B-015#389:1:D> <[> Adverbs can be<O>laugh</O> modified</[></{> by a degree
+
+modifier right<,> and that's why<,> you can say <mention> very
+
+highly</mention> right
+
+<$C> <ICE-JA:S1B-015#390:1:C> Mhm
+
+<$D> <ICE-JA:S1B-015#391:1:D> And that's why they are not the same<,> right<,>
+<ICE-JA:S1B-015#392:1:D> So you can say <mention> very very</mention>
+<ICE-JA:S1B-015#393:1:D> It doesn't mean that <{> <[> <mention> very</mention>
+<ICE-JA:S1B-015#394:1:D> One <mention> very</mention> is different from the other</[>
+
+<$S> <ICE-JA:S1B-015#395:1:S> <[> <mention> Very very</mention> doesn't have a
+
+meaning</[></{>
+<ICE-JA:S1B-015#396:1:S> Or <mention> very very</mention> on its own doesn't have a meaning
+<ICE-JA:S1B-015#397:1:S> It'd have to be followed by<,,>
+
+<$D> <ICE-JA:S1B-015#398:1:D> Yeah but <mention> very highly</mention> has to be followed
+
+by <?> some sort of</?>
+
+<$C> <ICE-JA:S1B-015#399:1:C> Uhm I <?> rate</?> class very highly
+
+<$D> <ICE-JA:S1B-015#400:1:D> Alright but on its own it don't mean anything else<,>
+
+<$C> <ICE-JA:S1B-015#401:1:C> Why not <?> Simone</?>
+
+<$D> <ICE-JA:S1B-015#402:1:D> Oh
+
+<$S> <ICE-JA:S1B-015#403:1:S> It's okay
+
+<$C> <ICE-JA:S1B-015#404:1:C> You give up so easily Simone<,>
+<ICE-JA:S1B-015#405:1:C> Why why
+
+<$D> <ICE-JA:S1B-015#406:1:D> <}> <-> <.> Becau</.></-><+>because</+></}>
+
+<$A> <ICE-JA:S1B-015#407:1:A> Miss uhm
+
+<$D> <ICE-JA:S1B-015#408:1:D> Nothing on its own<O>laughing</O> means anything I don't
+
+know<ICE-JA:S1B-015#>What you talking<{><[><,,></[> <unclear> words</unclear>
+
+<$A> <ICE-JA:S1B-015#409:1:A> <[> Complete <unclear> word</unclear></[></{>
+<ICE-JA:S1B-015#410:1:A> Because
+
+<$C> <ICE-JA:S1B-015#411:1:C> You still haven't grasped the concept of lexical versus
+
+grammatical meanings<{><[><,></[> and that's the
+
+problem<O>student-murmuring-unintelligibly</O>
+
+<$A> <ICE-JA:S1B-015#412:1:A> <[> Uhm</[></{>
+
+<$A> <ICE-JA:S1B-015#413:1:A> <?> Sorry Madam</?> but I realize that for the example of
+
+degree modifiers <?> we read that</?> degree modifiers <}> <-> can <.>
+
+mod</.></-> <=> can modify</=></}> a adverb right
+
+<$C> <ICE-JA:S1B-015#414:1:C> Uhu
+
+<$A> <ICE-JA:S1B-015#415:1:A> But and adverbs can modify a adverb <unclear> words</unclear>
+
+right <{> <[> <,> </[> but not all adverbs can modify adverbs<,>
+
+<$C> <ICE-JA:S1B-015#416:1:C> <[> Uhu</[></{>
+
+<$C> <ICE-JA:S1B-015#417:1:C> Not all no
+
+<$A> <ICE-JA:S1B-015#418:1:A> So what all degree modifiers <}> <-> can</-> <=>
+
+can't</=></}> modify all adverbs
+
+<$C> <ICE-JA:S1B-015#419:1:C> And that's also dependent on the adverb itself
+
+<$A> <ICE-JA:S1B-015#420:1:A> Yeah so that <?> would mean</?>
+
+<$C> <ICE-JA:S1B-015#421:1:C> The problem Simone is having is that uhm the <}> <-> <.>
+
+de</.></-> <=> degree</=></}> modifier is as you say a modifier and the
+
+adverb's also <}> <-> a</-> <=> a</=></}> form of <?> a</?>
+
+modifier<{><[><,,></[> but they're different types Simone and you also still
+
+have to go back and revisit your notes about lexical versus grammatical
+
+meaning<,,>
+<ICE-JA:S1B-015#422:1:C> Uh in the same way <?> Brown</?> has to go back and revisit her
+
+notes from Monday's class<,> dealing with<,>
+
+<$A> <ICE-JA:S1B-015#423:1:A> <[> Mhm</[></{>
+
+<$S> <ICE-JA:S1B-015#424:1:S> The inflection
+
+thing<O>laughter</O><O>unintelligible-students</O>
+
+<$C> <ICE-JA:S1B-015#425:1:C> So <?> Brown</?> do you want to take <mention>
+
+emotional</mention> and <{> <[> don't be very emotional about it</[>
+
+<$D> <ICE-JA:S1B-015#426:1:D> <[> No<,> <unclear> word</unclear> <}> <-> there is no
+
+more</-></[></{> <=> there is no more</=></}> distributional evidence
+
+<$C> <ICE-JA:S1B-015#427:1:C> Uhm not that no
+
+<$D> <ICE-JA:S1B-015#428:1:D> But can I have my C D
+
+<$C> <ICE-JA:S1B-015#429:1:C> No you heard so much else <unclear> words</unclear> emotional
+
+and reactionist <unclear> words</unclear><O>unintelligible-students</O>
+
+<$S> <ICE-JA:S1B-015#430:1:S> The word class is adjective <unclear> words</unclear>
+
+<$C> <ICE-JA:S1B-015#431:1:C> Word class adjective okay<O>unintelligible-students</O>
+
+<$S> <ICE-JA:S1B-015#432:1:S> Is modified by uhm<O>unintelligible-students</O>
+
+<$C> <ICE-JA:S1B-015#433:1:C> Thank you
+<ICE-JA:S1B-015#434:1:C> <}> <-> That</-> <=> that</=></}> was good<O>unintelligible-
+
+students</O>
+<ICE-JA:S1B-015#435:1:C> Uh I tell you what
+<ICE-JA:S1B-015#436:1:C> She's working overtime<O>unintelligible- students</O>
+
+<$C> <ICE-JA:S1B-015#437:1:C> After a couple of right ones
+<ICE-JA:S1B-015#438:1:C> Okay who remembers the floor<,> morphological evidence
+<ICE-JA:S1B-015#439:1:C> No more help
+<ICE-JA:S1B-015#440:1:C> No more help<,,><&>long-pause-students-murmuring</&>
+
+<$A> <ICE-JA:S1B-015#441:1:A> Miss oh alright<,>
+
+<$C> <ICE-JA:S1B-015#442:1:C> You want to go on to distribution small properties until
+<ICE-JA:S1B-015#443:1:C> Aha<O>unintelligible- students</O>
+
+<$S> <ICE-JA:S1B-015#444:1:S> Is modified by <}> <-> the</-><,> uhm<,> <=> the</=></}>
+
+distributional evidence
+
+<$C> <ICE-JA:S1B-015#445:1:C> Mhm
+
+<$S> <ICE-JA:S1B-015#446:1:S> Is modified by<,>
+
+<$C> <ICE-JA:S1B-015#447:1:C> Aha<,>
+
+<$S> <ICE-JA:S1B-015#448:1:S> Modified by <unclear> word</unclear><,,>
+<ICE-JA:S1B-015#449:1:S> Modified by<,,> <mention> highly</mention> is specified <unclear>
+
+word</unclear> specifying <mention> highly</mention><,>
+
+<$C> <ICE-JA:S1B-015#450:1:C> Well by an adverb<{><[><,></[>
+<ICE-JA:S1B-015#451:1:C> The adverb in this particular case would be
+
+<$A> <ICE-JA:S1B-015#452:1:A> <[> It's an adverb</[></{>
+
+<$S> <ICE-JA:S1B-015#453:1:S> <mention> Highly</mention>
+
+<$C> <ICE-JA:S1B-015#454:1:C> What else<O>unintelligible-students</O>
+
+<$C> <ICE-JA:S1B-015#455:1:C> <?> Randall</?>
+
+<$S> <ICE-JA:S1B-015#456:1:S> Simone was saying it
+
+<$C> <ICE-JA:S1B-015#457:1:C> No no I don't want to hear it from Simone that's alright
+<ICE-JA:S1B-015#458:1:C> Not right enough not in this one
+<ICE-JA:S1B-015#459:1:C> Simone had her turn<O>unintelligible-discussion</O>
+
+<$C> <ICE-JA:S1B-015#460:1:C> Look at the <unclear> word</unclear>
+<ICE-JA:S1B-015#461:1:C> Look at the sentence itself where<,,>
+<ICE-JA:S1B-015#462:1:C> Look at the sentence<O>unintelligible-discussion</O>
+
+<$C> <ICE-JA:S1B-015#463:1:C> It modifies <mention> A</mention>
+<ICE-JA:S1B-015#464:1:C> Precedes <mention> A</mention><,> in this particular case<,>
+
+precedes modifies a noun that's what you're saying<{1><[1><,></[1>
+<ICE-JA:S1B-015#465:1:C> Noun being<{2><[2><,></[2> <{3> <[3> <mention>
+
+reaction</mention></[3>
+<ICE-JA:S1B-015#466:1:C> What else
+<ICE-JA:S1B-015#467:1:C> What else is possible<,,><&>mumbling</&>
+<ICE-JA:S1B-015#468:1:C> Precedes modifies a noun in this particular case <mention>
+
+reaction</mention>
+<ICE-JA:S1B-015#469:1:C> What else Graham<O>unintelligible- students</O>
+
+<$S> <ICE-JA:S1B-015#470:1:S> <[1> Yes</[1></{1>
+
+<$S> <ICE-JA:S1B-015#471:1:S> <[2> <mention> Reaction</mention></[2></{2>
+
+<$S> <ICE-JA:S1B-015#472:1:S> <[3> <mention> Reaction</mention></[3></{3>
+
+<$A> <ICE-JA:S1B-015#473:1:A> <unclear> words</unclear> uhm <.> morpho</.> at this time
+
+<$C> <ICE-JA:S1B-015#474:1:C> <}> <-> You want to</-> <=> you want to</=></}> give it up
+
+<$A> <ICE-JA:S1B-015#475:1:A> Uhm if you use the comparative thing <mention> more</mention>
+
+<$C> <ICE-JA:S1B-015#476:1:C> <}> <-> Would that</-> <=> would that</=></}> be a
+
+morphological<{1><[1><,></[1> property would it<{2><[2><,>
+<ICE-JA:S1B-015#477:1:C> Let me help me out here</[2>
+<ICE-JA:S1B-015#478:1:C> You're saying <{3> <[3> that</[3> <}> <-> you would put</-> <=>
+
+you would put</=></}> <mention> emotional</mention> uhm in <mention>
+
+emotionaler</mention> on this<O>students-discussing</O>
+
+<$A> <ICE-JA:S1B-015#479:1:A> <[1> Yeah</[1></{1>
+
+<$A> <ICE-JA:S1B-015#480:1:A> <[2> Yeah <.> y</.> <unclear> words</unclear></[2></{2>
+
+<$A> <ICE-JA:S1B-015#481:1:A> <[3> Inflection</[3></{3><O>unintelligible-students</O>
+
+<$C> <ICE-JA:S1B-015#482:1:C> Okay we're dealing with one particular issue here
+<ICE-JA:S1B-015#483:1:C> Uhm
+<ICE-JA:S1B-015#484:1:C> Simone
+<ICE-JA:S1B-015#485:1:C> Allen said that <}> <-> we</-> <=> it</=></}> takes uh<,>
+
+comparative or can take a comparative superlative<{1><[1><,></[1>
+<ICE-JA:S1B-015#486:1:C> But does this <{2> <[2> work in this particular case</[2>
+
+<$A> <ICE-JA:S1B-015#487:1:A> <[1> What makes</[1></{1>
+
+<$A> <ICE-JA:S1B-015#488:1:A> <[2> <}> <-> What what</-> <=> what</=></}></[2></{2> makes
+
+then our comparatives <}> <-> as</-> <=> as</=></}> <unclear> word</unclear>
+
+Miss
+
+<$C> <ICE-JA:S1B-015#489:1:C> Okay and you're saying that it would <{> <[> not be this</[>
+
+<$A> <ICE-JA:S1B-015#490:1:A> <[> You can say <mention> more</mention> something</[></{>
+
+and yes
+
+<$S> <ICE-JA:S1B-015#491:1:S> <{> <[> <mention> Most</mention>
+<ICE-JA:S1B-015#492:1:S> <}> <-> It would be</-></[> <=> it would be</=></}> <mention>
+
+most</mention>
+
+<$C> <ICE-JA:S1B-015#493:1:C> <[> But if you're saying <mention> more</mention> and
+
+<mention> most</mention></[></{> would I put this under morphological or
+
+distributional evidence
+
+<$A> <ICE-JA:S1B-015#494:1:A> <}> <-> What</-> <=> what</=></}> makes <}> <-> what</-> <=>
+
+what</=></}> knows <unclear> words</unclear> comparative and <?> quality</?>
+
+<$C> <ICE-JA:S1B-015#495:1:C> But does it affect the form of the
+
+word<O>students-mumbling</O>
+
+<$C> <ICE-JA:S1B-015#496:1:C> We're dealing with <mention> more</mention> and <mention>
+
+most</mention><,> and uhm Garey is saying that for this particular word <}>
+
+<-> it can take it can be modified by</-> <=> it can take</=></}> uh
+
+comparative <mention> more</mention> or superlative <mention> most</mention>
+<ICE-JA:S1B-015#497:1:C> What I'm saying is that a morphological or distributional evidence
+
+<$S> <ICE-JA:S1B-015#498:1:S> That's more distributional
+
+<$S> <ICE-JA:S1B-015#499:1:S> Just distributional
+
+<$C> <ICE-JA:S1B-015#500:1:C> Why do you say that Yvette
+<ICE-JA:S1B-015#501:1:C> Yvette is helping you out Garey<O>unintelligible- students</O>
+
+<$S> <ICE-JA:S1B-015#502:1:S> It's <?> what you do call</?> <mention> more</mention> as you
+
+would call because
+
+<$C> <ICE-JA:S1B-015#503:1:C> Look at all your other morphological evidences <{> <[> and
+
+see what is affected
+<ICE-JA:S1B-015#504:1:C> You're affected the form you are basically looking</[> at the form
+
+of the word in this particular case
+<ICE-JA:S1B-015#505:1:C> <}> <-> Is that</-> <=> is that</=></}> the case <}> <-> in
+
+with</-> <=> with</=></}> <mention> more</mention> <mention> most</mention>
+
+<$S> <ICE-JA:S1B-015#506:1:S> <[> Oh oh <}> <-> that</-> <=> that</=></}> seem like with
+
+determiners</[></{>
+
+<$A> <ICE-JA:S1B-015#507:1:A> No<,,>
+<ICE-JA:S1B-015#508:1:A> No
+
+<$C> <ICE-JA:S1B-015#509:1:C> So where would you place that
+<ICE-JA:S1B-015#510:1:C> I mean you're correct in saying that but where would you place <}>
+
+<-> that</-> <=> your</=></}> evidence
+
+<$A> <ICE-JA:S1B-015#511:1:A> I think that's <?> inflectional</?>
+
+<$C> <ICE-JA:S1B-015#512:1:C> Okay distributional
+<ICE-JA:S1B-015#513:1:C> You can take<,>
+<ICE-JA:S1B-015#514:1:C> Comparative <mention> more</mention><,,><&>long-pause</&>
+
+morphological evidence <unclear> name</unclear>
+<ICE-JA:S1B-015#515:1:C> There is yet
+<ICE-JA:S1B-015#516:1:C> You still haven't <unclear>
+
+words</unclear><O>unintelligible-students</O>
+
+<$S> <ICE-JA:S1B-015#517:1:S> Can really take lots
+<ICE-JA:S1B-015#518:1:S> Uh <mention> most emotional</mention><ICE-JA:S1B-015#>Miss I'm not understanding
+
+this
+
+<$C> <ICE-JA:S1B-015#519:1:C> Okay what
+<ICE-JA:S1B-015#520:1:C> One second calm down
+<ICE-JA:S1B-015#521:1:C> <unclear> name</unclear> has a question
+
+<$S> <ICE-JA:S1B-015#522:1:S> How can it be <mention> most
+
+emotional</mention><,,><O>unintelligible- students</O>
+
+<$C> <ICE-JA:S1B-015#523:1:C> Reaction to something somebody
+
+<$A> <ICE-JA:S1B-015#524:1:A> It's possible
+<ICE-JA:S1B-015#525:1:A> <?> Might not be better</?><&>unintelligible-students</&>
+
+<$C> <ICE-JA:S1B-015#526:1:C> Okay<,,>
+<ICE-JA:S1B-015#527:1:C> Why why is so<O>unintelligible-students</O>
+<ICE-JA:S1B-015#528:1:C> Why is so<O>unintelligible-students</O>
+
+<$C> <ICE-JA:S1B-015#529:1:C> But the same way you can posit this for adverbs<,>
+<ICE-JA:S1B-015#530:1:C> But if you see that
+
+<$E> <ICE-JA:S1B-015#531:1:E> No I'm feeling that would help me
+<ICE-JA:S1B-015#532:1:E> <?> What I think is missing out a way to get</?> an adverb if the
+
+L Y isn't already there
+<ICE-JA:S1B-015#533:1:E> So I wouldn't say that the adverb can take the L Y inflection</I>

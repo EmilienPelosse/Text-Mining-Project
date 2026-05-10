@@ -1,0 +1,495 @@
+<I>
+
+<$A> <ICE-JA:S1A-081#1:1:A> Hi Cathy
+<ICE-JA:S1A-081#2:1:A> How you're doing
+
+<$B> <ICE-JA:S1A-081#3:1:B> I'm alright
+<ICE-JA:S1A-081#4:1:B> How are you
+
+<$A> <ICE-JA:S1A-081#5:1:A> I'm good uhm
+<ICE-JA:S1A-081#6:1:A> I have explained to you already what this interview is all
+
+about<{1><[1><,></[1> so
+<ICE-JA:S1A-081#7:1:A> You look comfortable
+<ICE-JA:S1A-081#8:1:A> You're already playing a game on the computer so
+
+let's<O>chuckles</O> yeah go into the interview now
+<ICE-JA:S1A-081#9:1:A> Who would you say has been the person who has inspired you person
+
+who has <}> <-> <.> mot</.></- ><+>motivated</+></}> or persons if you wish
+
+has or have motivated you<{2><[2><,></[2> in your life from you were a child
+
+up to this day
+
+<$B> <ICE-JA:S1A-081#10:1:B> <[1> Sure</[1></{1>
+
+<$B> <ICE-JA:S1A-081#11:1:B> <[2> Mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-081#12:1:B> Well I must say my father and my grandmother<,> yeah
+<ICE-JA:S1A-081#13:1:B> My father and my grandmother
+<ICE-JA:S1A-081#14:1:B> Okay
+<ICE-JA:S1A-081#15:1:B> Uhm growing up we weren't like the middle class family you know as
+
+would be described of majority of the family structures in Jamaica but we had
+
+a little thing <?> right there</?>
+<ICE-JA:S1A-081#16:1:B> However my father used to work with uhm some people and the
+
+majority of their children were at the university and in the evenings when my
+
+father used to you know come home<,> he used to talk about how uhm his boss
+
+daughter called from the university and I would hear that you know desire in
+
+his voice just hoping and you know praying that one day <}> <-> he he</-> can
+
+you know <=> he</=></}> will be able to talk about you know the <}> <->
+
+success of his children</-><,> <=> successes of his children</=></}> so
+<ICE-JA:S1A-081#17:1:B> So uhm you know I normally say to myself alright you know this is
+
+something that I want to do<{><[><,>
+<ICE-JA:S1A-081#18:1:B> <}> <-> I want</-><,></[> <=> I wanted</=></}> to please him
+<ICE-JA:S1A-081#19:1:B> <?> Also</?> my grandmother she was always the one who you know
+
+keeps on telling me that you know you have to do well because right now <}>
+
+<-> in in in in in time in</-> <=> in a time</=></}> like this you cannot sit
+
+down and depend on handouts and stuff like that so you definitely have to
+
+take your book as they would say in the country and<,> strive for the best
+<ICE-JA:S1A-081#20:1:B> So and <}> <-> she</-> <=> she</=></}> wasn't as explicit as my
+
+father where she
+<ICE-JA:S1A-081#21:1:B> In her own little way<&>someone-sneezes</&> she used to<&>someone-
+
+sneezes</&> you know help me along
+
+<$A> <ICE-JA:S1A-081#22:1:A> <[> So you wanted to please your father</[></{>
+
+<$A> <ICE-JA:S1A-081#23:1:A> Okay
+<ICE-JA:S1A-081#24:1:A> Uhm so tell me some of the things
+<ICE-JA:S1A-081#25:1:A> So you said that you recognised that you had to do something
+<ICE-JA:S1A-081#26:1:A> Is your responsibility now to make your father very
+
+pleased<{><[><,></[> uhm
+<ICE-JA:S1A-081#27:1:A> What did you do exactly and what did you think about as a child
+
+that you could do to make your <}> <-> <.> mo</.> your your</-> <=>
+
+your</=></}> grandmother and your father happy
+
+<$B> <ICE-JA:S1A-081#28:1:B> <[> Mhm</[></{>
+
+<$B> <ICE-JA:S1A-081#29:1:B> Well first and foremost my grandmother wanted me to be <}> <->
+
+a</-> <=> a</=></}> teacher<,> and she also wanted me to be a doctor
+<ICE-JA:S1A-081#30:1:B> No not a doctor
+<ICE-JA:S1A-081#31:1:B> <}> <-> She</-> <=> she</=></}> used to advise me against being a
+
+doctor and a lawyer because <}> <-> she she</-> <=> she</=></}> normally said
+
+to me that uhm the Bible says we <}> <-> will be unto</-> the <O>
+
+$A-laughs</O><=>we'll be unto</=></}> all doctors lawyers and<O>$A-laughs</O>
+
+nurses because they have people's life in their hands <{1> <[1> and</[1> you
+
+know they normally do what they want with it
+<ICE-JA:S1A-081#32:1:B> So I should not put myself in a place where I will have the wrath
+
+of God upon me<{2><[2><,></[2>
+<ICE-JA:S1A-081#33:1:B> So she advise well she<{3><[3><,></[3>
+<ICE-JA:S1A-081#34:1:B> I took heed because I was a child and you know <}> <- > I <.>
+
+w</.></-> <{4> <[4> <=> I was</=></}> just</[4> obeying her and at the same
+
+time I was afraid because some of the things that she used to say normally
+
+you know come to pass
+<ICE-JA:S1A-081#35:1:B> So I was like
+<ICE-JA:S1A-081#36:1:B> Okay this must be true<{5><[5><,></[5>
+<ICE-JA:S1A-081#37:1:B> However she normally tells me that you know you should be <}> <->
+
+a</-> <=> a</=></}> teacher you should be a teacher because she was pointing
+
+out
+<ICE-JA:S1A-081#38:1:B> My mother used to teach at the time and uhm her sisters were also
+
+teachers and you know she was saying that's a good profession and I should go
+
+into it
+<ICE-JA:S1A-081#39:1:B> However what I did<&>background-talking-shushing-and-laughing</&>
+
+<}> <- > as</-> uhm <=> as</=></}> a child <}> <-> to</-> <=> to</=></}>
+
+please my father was to be what you would call successful <}> <-> at</-> <=>
+
+in</=></}> academics cos uhm <}> <-> I used to</-> when <=> I used to</=></}>
+
+attend high school I normally you know take my school work seriously and he
+
+used to see that also
+<ICE-JA:S1A-081#40:1:B> <}> <-> He normally encouraged me to</-> uhm <=> he normally
+
+encourages me to</=></}> read read widely and he is a political you know
+
+minded person and <}> <-> he</-> <=> he</=></}> normally challenges me <}>
+
+<- > in in</-> <=> in</=></}> political<{6><[6><,> debates and all of that
+
+stuff</[6>
+
+<$A> <ICE-JA:S1A-081#41:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-081#42:1:A> <[2> Okay then</[2></{2>
+
+<$A> <ICE-JA:S1A-081#43:1:A> <[3> And you took heed</[3></{3>
+
+<$A> <ICE-JA:S1A-081#44:1:A> <[4> Still obey</[4></{4>
+
+<$A> <ICE-JA:S1A-081#45:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-081#46:1:A> <[6> Debates
+<ICE-JA:S1A-081#47:1:A> So what about</[6></{6> uhm politics your grandmother
+
+<$B> <ICE-JA:S1A-081#48:1:B> My grandmother she is a staunch Labour right<O>laughter</O>
+<ICE-JA:S1A-081#49:1:B> I normally can't tell her otherwise okay
+<ICE-JA:S1A-081#50:1:B> So nobody didn't really <{> <[> try to you know tell her
+
+anything</[>
+
+<$A> <ICE-JA:S1A-081#51:1:A> <[> So <}> <-> didn't she</-> <=> didn't she</=></}>
+
+motivate</[></{> you to be a politician<{1><[1><,></[1> to represent <{2>
+
+<[2> your uhm</[2>
+
+<$B> <ICE-JA:S1A-081#52:1:B> <[1> No</[1></{1>
+
+<$B> <ICE-JA:S1A-081#53:1:B> <[2> No no she</[2></{2> never <{1> <[1> she</[1> never did
+
+never did
+<ICE-JA:S1A-081#54:1:B> And uhm <}> <-> I</-> as I said before <=> I</=></}> normally take
+
+my school work very seriously and when my father realised that I was
+
+excelling in academics he decided that he's going to you know invest in me
+
+and uhm <}> <-> he he</-> <=> he</=></}> spoke to me about several options
+
+that I you know can choose in the field and I wasn't interested in any of
+
+them<O>$A-laughs</O> right
+<ICE-JA:S1A-081#55:1:B> Personally from <?> where</?> I was growing up <}> <- > I</-> <=>
+
+I</=></}> normally said to myself
+<ICE-JA:S1A-081#56:1:B> Oh when I grow up I want to be a witch<O>$A-laughs</O><,> just like
+
+that because I don't know
+<ICE-JA:S1A-081#57:1:B> <}> <-> I I</-> <=> I</=></}> just cannot fathom why people want to
+
+be doctors lawyers nurses and all of that <{2> <[2> crap</[2>
+<ICE-JA:S1A-081#58:1:B> I want to be a witch
+<ICE-JA:S1A-081#59:1:B> I want to do magic
+<ICE-JA:S1A-081#60:1:B> I want to<O>$A- laughs</O> you know make people well again by just
+
+waving a magic wand<O>$A- laughs</O> or something you know and I believed
+
+that these things you know could happen<{3><[3><,></[3> and <}> <-> I</-> you
+
+know <=> I</=></}> held fast to them but<O>laughs</O>
+
+<$A> <ICE-JA:S1A-081#61:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-081#62:1:A> <[2> Mhm</[2></{2>
+
+<$A> <ICE-JA:S1A-081#63:1:A> <[3> Mhm</[3></{3>
+
+<$A> <ICE-JA:S1A-081#64:1:A> So have you done anything at all to help yourself to be a
+
+witch<{1><[1><,></[1> or <}> <-> did you</-> <{2> <[2> at that time <=> did
+
+you</=></}> <?> do</?></[2>
+
+<$B> <ICE-JA:S1A-081#65:1:B> <[1> Well <?> neh</?></[1></{1>
+
+<$B> <ICE-JA:S1A-081#66:1:B> <[2> <}> <-> About when I</-> <=> when I was</[2></{2>
+
+about</=></}> uhm sixteen I uhm started to read black books of magic uhm
+<ICE-JA:S1A-081#67:1:B> <}> <-> This lady who</- ><O>laughs</O> <=> this lady who</=></}>
+
+lived next door she is <}> <-> a</-><,> <=> a</=></}> healer quote unquote
+
+and uhm I used to go over there without the knowledge of my parents of course
+
+and <}> <-> I used to</-> <=> she used to</=></}> give me books and you know
+
+I normally read and stuff
+<ICE-JA:S1A-081#68:1:B> However once this man came to my house and he was talking about you
+
+know evil and all of that and uhm he said it makes no sense for you to get
+
+yourself involved in something that you know nothing about<O>$A-laughs</O>
+
+because you know the repercussions can be serious<{1><[1><,></[1> and that
+
+was you know what<{2><[2><,,> exactly</[2> exactly
+<ICE-JA:S1A-081#69:1:B> That was what you know cut my speed
+
+<$A> <ICE-JA:S1A-081#70:1:A> <[1> Okay</[1></{1>
+
+<$A> <ICE-JA:S1A-081#71:1:A> <[2> And you took heed from that too</[2></{2>
+
+<$A> <ICE-JA:S1A-081#72:1:A> Oh because I was about to ask if I should have any
+
+fears<{1><[1><,></[1> <{2> <[2> right now</[2>
+
+<$B> <ICE-JA:S1A-081#73:1:B> <[1> No no no no no no</[1></{1><O>laughter</O>
+
+<$B> <ICE-JA:S1A-081#74:1:B> <[2> No</[2></{2>
+
+<$B> <ICE-JA:S1A-081#75:1:B> Uhm additionally uhm I went on to sixth form and up to that
+
+point I really didn't know what I wanted to do
+<ICE-JA:S1A-081#76:1:B> I uhm like the stage a whole lot <{1> <[1> and</[1>
+<ICE-JA:S1A-081#77:1:B> Not
+<ICE-JA:S1A-081#78:1:B> It doesn't really matter where as long as I am the centre of all
+
+attention<{2><[2><,></[2>
+<ICE-JA:S1A-081#79:1:B> <}> <-> I you know I you I don't know</-> <=> I</=></}> just glow
+
+right uhm
+<ICE-JA:S1A-081#80:1:B> I also<,> well aspired to leadership positions during my earlier
+
+years and whatever I you know die for I normally acquire<{3><[3><,></[3>
+<ICE-JA:S1A-081#81:1:B> However uhm upon reaching sixth form I kind of you know pulled out
+
+of some of the activities that I was involved in
+<ICE-JA:S1A-081#82:1:B> However uhm upon <}> <-> sixth</-> reaching <=> sixth</=></}> form
+
+I did not know what I wanted to do even
+<ICE-JA:S1A-081#83:1:B> But the thing is I had an inkling for doing the sciences but at the
+
+same time chemistry was very difficult for me<{4><[4><,></[4> and it doesn't
+
+really make any sense for me to be doing the sciences and don't you know have
+
+chemistry in it
+<ICE-JA:S1A-081#84:1:B> And then the business subjects were so difficult so <{5> <[5>
+
+I</[5>
+
+<$A> <ICE-JA:S1A-081#85:1:A> <[1> Theatre</[1></{1>
+
+<$A> <ICE-JA:S1A-081#86:1:A> <[2> Okay then</[2></{2>
+
+<$A> <ICE-JA:S1A-081#87:1:A> <[3> Okay then</[3>
+
+<$A> <ICE-JA:S1A-081#88:1:A> <[4> Okay</[4></{4>
+
+<$A> <ICE-JA:S1A-081#89:1:A> <[5> Your teachers</[5></{5> did not play a part in terms of
+
+trying to motivate <{> <[> you</[>
+
+<$B> <ICE-JA:S1A-081#90:1:B> <[> Well</[></{> <}> <-> I I</-> <=> I</=></}> believe <}> <->
+
+that</-> <=> that</=></}> happened when I was much younger because I had a
+
+terrible experience in school <}> <-> where</-> <=> at</=></}> a <}> <-> <.>
+
+m</.> uhm younger</-> <=> earlier</=></}> age
+
+<$A> <ICE-JA:S1A-081#91:1:A> Something that you wish to speak about or
+
+<$B> <ICE-JA:S1A-081#92:1:B> Well let me finish this point and then I <{1> <[1> get to
+
+that</[1>
+<ICE-JA:S1A-081#93:1:B> Okay uhm so upon <}> <-> <.> si</.></-> uhm entering <=>
+
+sixth</=></}> form <}> <-> I</-><,> <-> I I</-> <=> I</=></}> didn't really
+
+know what to do but I know that I wanted to attend the university
+<ICE-JA:S1A-081#94:1:B> <}> <-> That</-> <=> that</=></}> much I can <{2> <[2> tell
+
+you</[2>
+
+<$A> <ICE-JA:S1A-081#95:1:A> <[1> Okay<O>laughs</O></[1></{1>
+
+<$A> <ICE-JA:S1A-081#96:1:A> <[2> Of the West</[2></{2> Indies
+
+<$B> <ICE-JA:S1A-081#97:1:B> <}> <-> Of the</-> <=> of the</=></}> West Indies<{1><[1><,>
+
+Cave Hill</[1><{2><[2><,></[2>
+<ICE-JA:S1A-081#98:1:B> Cave Hill campus
+<ICE-JA:S1A-081#99:1:B> However I applied for Cave Hill campus and I got through and I was
+
+preparing myself to go there but <}> <-> I</-> <=> I</=></}> uhm applied for
+
+business administration and some other thing because <}> <- > it was on the
+
+humanities</-> <=> it was in the faculty <{3> <[3> of humanities</=></}><,>
+<ICE-JA:S1A-081#100:1:B> I know</[3> I know but I mean it was in the faculty of humanities
+
+and what they uhm had <}> <-> <.> il</.></-> uhm <=> illustrated</=></}> in
+
+the handbook had nothing to do with accounting <{4> <[4> and</[4> maths and
+
+all of that
+<ICE-JA:S1A-081#101:1:B> So I felt that okay that would be good
+<ICE-JA:S1A-081#102:1:B> However uh my father he said to me that that wouldn't be a good
+
+idea because you know <}> <-> you didn't really do any</-> well <=> you
+
+didn't really do much</=></}> business subjects at the A-levels so you know I
+
+guess you would struggle
+<ICE-JA:S1A-081#103:1:B> So he helped me uhm choose linguistics and media and communication
+<ICE-JA:S1A-081#104:1:B> With media as my first choice I wanted to do P R O and public
+
+relations that is and uhm<,,>
+<ICE-JA:S1A-081#105:1:B> I chose linguistics as my second choice
+<ICE-JA:S1A-081#106:1:B> I got into linguistics with no <.> gr</.> regrets
+<ICE-JA:S1A-081#107:1:B> <}> <-> I</-> you know <=> I</=></}> really like the discipline
+
+<?> and the work in it</?>
+
+<$A> <ICE-JA:S1A-081#108:1:A> <[1> Or any university</[1></{1>
+
+<$A> <ICE-JA:S1A-081#109:1:A> <[2> Okay</[2></{2>
+
+<$A> <ICE-JA:S1A-081#110:1:A> <[3> But you said in high school that you never
+
+liked</[3></{3>
+
+<$A> <ICE-JA:S1A-081#111:1:A> <[4> Okay</[4></{4>
+
+<$A> <ICE-JA:S1A-081#112:1:A> So that uhm <}> <-> you</-> <=> you</=></}> chose linguistics
+
+<{> <[> uhm</[>
+
+<$B> <ICE-JA:S1A-081#113:1:B> <[> I</[></{> didn't choose linguistics
+
+<$A> <ICE-JA:S1A-081#114:1:A> Your father
+
+<$B> <ICE-JA:S1A-081#115:1:B> Yes he did because I didn't know what it was
+
+<$A> <ICE-JA:S1A-081#116:1:A> Okay and is it pleasing him at this <{> <[> time
+<ICE-JA:S1A-081#117:1:A> Is he happy about</[>
+
+<$B> <ICE-JA:S1A-081#118:1:B> <[> Well yes yes he is
+<ICE-JA:S1A-081#119:1:B> Ooh and uh</[></{>
+<ICE-JA:S1A-081#120:1:B> Well <}> <-> he</-> <{> <[> <=> he</=></}> normally tells me</[>
+
+<$A> <ICE-JA:S1A-081#121:1:A> <[> Well he should be happy</[></{> because he chose it
+
+<$B> <ICE-JA:S1A-081#122:1:B> Right
+<ICE-JA:S1A-081#123:1:B> He normally tells me whatever makes me happy he is okay with it so
+<ICE-JA:S1A-081#124:1:B> I am searching as <}> <-> I I I</-> <=> I</=></}> go on in
+
+linguistics so
+
+<$A> <ICE-JA:S1A-081#125:1:A> Yeah you seem to like it
+
+<$B> <ICE-JA:S1A-081#126:1:B> I love it<{><[><,>
+<ICE-JA:S1A-081#127:1:B> I wouldn't do anything to change it</[>
+<ICE-JA:S1A-081#128:1:B> Well <}> <-> I I</-> <=> I</=></}> am very happy
+
+<$A> <ICE-JA:S1A-081#129:1:A> <[> Okay then
+<ICE-JA:S1A-081#130:1:A> And you're happy that your father made the choice for you</[></{>
+
+<$A> <ICE-JA:S1A-081#131:1:A> Okay uhm and your grandmother
+<ICE-JA:S1A-081#132:1:A> How is she <{> <[> at this stage</[>
+
+<$B> <ICE-JA:S1A-081#133:1:B> <[> Well</[></{> uhm she is uh very feeble very weak but you
+
+know she look forward to seeing me every holidays
+
+<$A> <ICE-JA:S1A-081#134:1:A> How does she feel about <{> <[> your choice</[>
+
+<$B> <ICE-JA:S1A-081#135:1:B> <[> She is very</[></{>
+<ICE-JA:S1A-081#136:1:B> Well my grandmother doesn't know what is
+
+linguistics<{1><[1><,></[1> and it makes no sense for me to explain to her
+
+<{2> <[2> because she is <unclear> word</unclear></[2>
+
+<$A> <ICE-JA:S1A-081#137:1:A> <[1> Mhm</[1></{1>
+
+<$A> <ICE-JA:S1A-081#138:1:A> <[2> <}> <-> But but</-> <=> but</=></}> the mere fact that
+
+you're</[2></{2> in the university <{> <[> makes her happy</[> and I'm sure
+
+she's boasting
+
+<$B> <ICE-JA:S1A-081#139:1:B> <[> It makes her happy yeah</[></{>
+
+<$B> <ICE-JA:S1A-081#140:1:B> Well yes she is
+
+<$A> <ICE-JA:S1A-081#141:1:A> Okay uh what uhm
+<ICE-JA:S1A-081#142:1:A> So your way of making your family<{1><[1><,></[1> your grandmother
+
+and your uhm father in particular happy was to excel
+
+academically<{2><[2><,></[2>
+<ICE-JA:S1A-081#143:1:A> Is there anything else or <}> <-> <.> wa</.></-> <=> was</=></}>
+
+there anything at that time that you thought about that you could do to make
+
+them happy or have you done anything else<{3><[3><,> since</[3> you have been
+
+at the university that you could say you know
+<ICE-JA:S1A-081#144:1:A> This is something else that I could do you know to <{4> <[4>
+
+really</[4>
+
+<$B> <ICE-JA:S1A-081#145:1:B> <[1> Mhm</[1></{1>
+
+<$B> <ICE-JA:S1A-081#146:1:B> <[2> Mhm mhm</[2></{2>
+
+<$B> <ICE-JA:S1A-081#147:1:B> <[3> Well <}> <-> I</-> <=> I</=></}></[3></{3>
+
+<$B> <ICE-JA:S1A-081#148:1:B> <[4> Well</[4></{4> yes
+<ICE-JA:S1A-081#149:1:B> Uhm one thing in particular was to uhm <.> fo</.> was <}> <->
+
+the</-> <=> the</=></}> fact that I got involved in the youth arm of the
+
+Jamaica Labour Party
+<ICE-JA:S1A-081#150:1:B> <{1> <[1> My</[1> grandmother was very pleased<{2><[2><,></[2>
+
+very very pleased
+<ICE-JA:S1A-081#151:1:B> However uhm this displeases my father because he is from the <{3>
+
+<[3> opposite</[3><O>laughter</O> party
+<ICE-JA:S1A-081#152:1:B> However uh he was very you know proud that I actually <}> <-> got
+
+myself in <.> my</.></-> <=> got myself in</=></}> uhm the whole<{4><[4><,>
+
+political</[4> process you know<{5><[5><,></[5>
+<ICE-JA:S1A-081#153:1:B> <}> <-> He he he</-> <=> he</=></}> <}> <-> <.> be</.></-> uhm <=>
+
+began</=></}> to think that okay now <}> <-> you can</-> instead of sitting
+
+back and allowing things to happen <{6> <[6> <=> you</[6> can</=></}>
+
+actually help<{7><[7><,></[7> <{8> <[8> the process<,></[8> so <}> <-> he</->
+
+<=> he</=></}> was very pleased
+
+<$A> <ICE-JA:S1A-081#154:1:A> <[1> Oh yeah</[1></{1>
+
+<$A> <ICE-JA:S1A-081#155:1:A> <[2> Okay then<O>laughs</O></[2></{2>
+
+<$A> <ICE-JA:S1A-081#156:1:A> <[3> Oh<O>laughs</O></[3></{3>
+
+<$A> <ICE-JA:S1A-081#157:1:A> <[4> Political process</[4></{4>
+
+<$A> <ICE-JA:S1A-081#158:1:A> <[5> Mhm</[5></{5>
+
+<$A> <ICE-JA:S1A-081#159:1:A> <[6> Mhm</[6></{6>
+
+<$A> <ICE-JA:S1A-081#160:1:A> <[7> Mhm</[7></{7>
+
+<$A> <ICE-JA:S1A-081#161:1:A> <[8> Mhm mhm right </[8> </{8> </I>
