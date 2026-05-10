@@ -114,27 +114,36 @@ parameters = {
 best_model = None
 best_score = -1
 
-data_labels = ['nigeria_combined', 'india', 'singapore', 'canada']
+data_labels = {
+        'nigeria_combined': 'nigeria_fasttext_best.bin', 
+        'india': 'india_fasttext_best.bin', 
+        'singapore': 'singapore_fasttext_best.bin', 
+        'canada': 'canada_fasttext_best.bin'
+}
 
 # Train one model per parameter combination and keep the best one
-for values in itertools.product(*parameters.values()):
-    params = dict(zip(parameters.keys(), values))
-    m = fasttext.train_unsupervised(str(nigeria_combined), **params)
+for corpus in itertools.product(*data_labels.keys():
+    for values in itertools.product(*parameters.values()):
+        params = dict(zip(parameters.keys(), values))
+        m = fasttext.train_unsupervised(str(corpus), **params)
     
-    # Evaluate by checking nearest neighbors of "nation" as a proxy for embedding quality
-    # Score = number of unique neighbors returned (higher = more diverse semantic space)
-    neighbors = m.get_nearest_neighbors("nation")
-    score = len(set(w for _, w in neighbors))
+        # Evaluate by checking nearest neighbors of "nation" as a proxy for embedding quality
+        # Score = number of unique neighbors returned (higher = more diverse semantic space)
+        neighbors = m.get_nearest_neighbors("nation")
+        score = len(set(w for _, w in neighbors))
     
-    if score > best_score:
-        best_score = score
-        best_model = m
-        print(f"New best: {params} → score {score}")
+        if score > best_score:
+            best_score = score
+            best_model = m
+            print(f"New best: {params} → score {score}")
 
-# Save best model from grid search
-best_model.save_model(str(output_dir / "nigeria_fasttext_best.bin"))
-print(f"Best model saved → {output_dir / 'nigeria_fasttext_best.bin'}")
+    # Save best model from grid search
+    best_model.save_model(str(output_dir / data_labels[corpus]))
+    print(f"Best model saved → {output_dir / data_labels[corpus]}")
 
 ## 3) VECTOR SIMILARITY SEARCH
 # Returns the 10 nearest neighbors of "nationhood" with their cosine similarity scores
 print(model_nigeria.get_nearest_neighbors("nationhood"))
+print(model_india.get_nearest_neighbors("nationhood"))
+print(model_singapore.get_nearest_neighbors("nationhood"))
+print(model_canada.get_nearest_neighbors("nationhood"))
