@@ -22,39 +22,6 @@ corpora = {
             Path("Preprocessing/preprocessed_BERT/val/nigeria_written.txt"),
         ],
     },
-
-    "britain": {
-        "train": [
-            Path("Preprocessing/preprocessed_BERT/train/britain_spoken.txt"),
-            Path("Preprocessing/preprocessed_BERT/train/britain_written.txt"),
-        ],
-        "validation": [
-            Path("Preprocessing/preprocessed_BERT/val/britain_spoken.txt"),
-            Path("Preprocessing/preprocessed_BERT/val/britain_written.txt"),
-        ],
-    },
-
-    "india": {
-        "train": [
-            Path("Preprocessing/preprocessed_BERT/train/india_spoken.txt"),
-            Path("Preprocessing/preprocessed_BERT/train/india_written.txt"),
-        ],
-        "validation": [
-            Path("Preprocessing/preprocessed_BERT/val/india_spoken.txt"),
-            Path("Preprocessing/preprocessed_BERT/val/india_written.txt"),
-        ],
-    },
-
-    "usa": {
-        "train": [
-            Path("Preprocessing/preprocessed_BERT/train/usa_spoken.txt"),
-            Path("Preprocessing/preprocessed_BERT/train/usa_written.txt"),
-        ],
-        "validation": [
-            Path("Preprocessing/preprocessed_BERT/val/usa_spoken.txt"),
-            Path("Preprocessing/preprocessed_BERT/val/usa_written.txt"),
-        ],
-    },
 }
 
 output_dir = "ModernBERT-base-finetuned"

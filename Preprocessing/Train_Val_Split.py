@@ -5,18 +5,11 @@ import random
 random.seed(42)
 
 # Base directory
-base_dir = Path("/text_mining/Text-Mining-Project/Preprocessing/preprocessed_BERT")
+base_dir = Path("preprocessed_BERT")
 
 # Input files
 input_files = [
-    "nigeria_spoken.txt",
-    "nigeria_written.txt",
-    "britain_spoken.txt",
-    "britain_written.txt",
-    "india_spoken.txt",
-    "india_written.txt",
-    "usa_spoken.txt",
-    "usa_written.txt",
+    "nigeria.txt",
 ]
 
 # Create train/val directories
@@ -27,7 +20,7 @@ train_dir.mkdir(parents=True, exist_ok=True)
 val_dir.mkdir(parents=True, exist_ok=True)
 
 # Validation split percentage
-val_ratio = 0.1
+val_ratio = 0.2
 
 for filename in input_files:
 
@@ -77,5 +70,3 @@ for filename in input_files:
         f"Saved {len(train_lines)} train lines "
         f"and {len(val_lines)} validation lines."
     )
-
-print("Preprocessing complete.")
