@@ -87,6 +87,144 @@ A second approach would be to use masked prediction to see the words which are i
 
 ---
 
+## Initial Results on all corpora - BERT 
+
+For nation:
+
+=== CANADA ===
+  ġdrawn: 0.8904
+  ġnature: 0.8874
+  ġnumber: 0.8838
+  ġballet: 0.8832
+  ġignorance: 0.8832
+  ġcommunities: 0.8816
+  ġinter: 0.8810
+  ġnews: 0.8792
+  ġtesting: 0.8774
+  ġminister: 0.8770
+
+=== EAST AFRICA ===
+  ġnature: 0.8991
+  ġcountry: 0.8883
+  ġassembly: 0.8865
+  ġhumanity: 0.8859
+  ġcommunication: 0.8839
+  ġscene: 0.8820
+  ġnumber: 0.8814
+  ġcell: 0.8803
+  ġpoliticians: 0.8803
+  ġcourt: 0.8796
+
+=== INDIA ===
+  ġeducation: 0.8826
+  ġtelephone: 0.8737
+  ġnature: 0.8732
+  ġmarketing: 0.8725
+  ġdomestic: 0.8715
+  ġintelligence: 0.8713
+  ġkidnapping: 0.8693
+  ġsurvey: 0.8690
+  ġnoise: 0.8688
+  ġinspection: 0.8686
+
+=== JAMAICA ===
+  ġmarine: 0.8821
+  ġnetwork: 0.8767
+  ġinter: 0.8759
+  ġconstruction: 0.8751
+  ġmines: 0.8737
+  ġsecular: 0.8730
+  ġeducation: 0.8730
+  ġnumber: 0.8729
+  ġworld: 0.8725
+  ġcentre: 0.8725
+
+=== NIGERIA ===
+  ġdevelopment: 0.8736
+  ġindependence: 0.8687
+  ġeducation: 0.8675
+  ġcontinents: 0.8673
+  ġcommunity: 0.8673
+  ġnorth: 0.8672
+  ġcountry: 0.8670
+  ġcitizens: 0.8666
+  ġlong: 0.8662
+  ities: 0.8660
+
+=== PHILIPPINES ===
+  ġvision: 0.8801
+  ġcitizenship: 0.8789
+  ġsouth: 0.8778
+  ġeducation: 0.8772
+  ġpromotion: 0.8770
+  ġmember: 0.8766
+  ġpublic: 0.8764
+  ġdegradation: 0.8725
+  ġmuseum: 0.8724
+  ġorigin: 0.8723
+
+=== SINGAPORE ===
+  ġnumber: 0.8813
+  ġisland: 0.8776
+  ġeducation: 0.8760
+  ġinvited: 0.8726
+  ġworld: 0.8726
+  ġstate: 0.8726
+  ġcountry: 0.8725
+  ġinterim: 0.8724
+  ġidentity: 0.8722
+  ġtransformation: 0.8722
+
+=== USA ===
+  ġpartner: 0.8962
+  ġnature: 0.8952
+  ġcluster: 0.8947
+  ġstates: 0.8894
+  ġracism: 0.8874
+  ġcitizens: 0.8863
+  ġruns: 0.8851
+  ġculture: 0.8850
+  ġseparation: 0.8847
+  ison: 0.8847
+
+For freedom (only testing on Jamaica, Nigeria and USA for the moment) : 
+
+=== JAMAICA ===
+  independence: 0.8477
+  slavery: 0.8475
+  liberal: 0.8469
+  charter: 0.8414
+  free: 0.8360
+  consent: 0.8350
+  liberation: 0.8340
+  security: 0.8337
+  everywhere: 0.8315
+  slave: 0.8255
+
+=== NIGERIA ===
+  expression: 0.8307
+  fact: 0.8303
+  diversity: 0.8284
+  free: 0.8255
+  rights: 0.8133
+  women: 0.8097
+  wind: 0.8096
+  election: 0.8070
+  independence: 0.8065
+  immunity: 0.8013
+
+=== USA ===
+  independence: 0.8351
+  expression: 0.8336
+  power: 0.8315
+  soul: 0.8235
+  sm: 0.8114
+  found: 0.8082
+  god: 0.8079
+  powers: 0.8057
+  empire: 0.8039
+  lib: 0.8037
+
 ## Discussion of methods and sources
 
 As we had advanced on the training of our models, we discussed what method we should use to perform our cross-cultural analysis. One challenge we anticipated is the difficulty to compare different vector spaces for our different models and corpora. We will try to further investigate the possibility to align our different vector spaces to allow cross-model/corpus comparisons. We also began our first analysis using the cosine similarity to determine the closest neighbours of some embeddings. We think we will keep this metric, and maybe use it as a baseline
