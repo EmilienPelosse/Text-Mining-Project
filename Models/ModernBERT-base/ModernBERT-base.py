@@ -10,36 +10,17 @@ from transformers import (
 
 model_id = "answerdotai/ModernBERT-base"
 
-# Fine tune four models using different "Englishes"
+# Fine-tune one model on Nigerian English
 corpora = {
     "nigeria": {
         "train": [
-            Path("Preprocessing/preprocessed_BERT/train/nigeria_spoken.txt"),
-            Path("Preprocessing/preprocessed_BERT/train/nigeria_written.txt"),
+            Path("../../Preprocessing/preprocessed_BERT/train/nigeria.txt"),
         ],
         "validation": [
-            Path("Preprocessing/preprocessed_BERT/val/nigeria_spoken.txt"),
-            Path("Preprocessing/preprocessed_BERT/val/nigeria_written.txt"),
+            Path("../../Preprocessing/preprocessed_BERT/val/nigeria.txt"),
         ],
     },
 }
-
-output_dir = "ModernBERT-base-finetuned"
-
-# Load text files
-def load_texts(file_paths):
-    texts = []
-
-    for path in file_paths:
-        text = path.read_text(
-            encoding="utf-8",
-            errors="ignore"
-        ).strip()
-
-        if text:
-            texts.append({"text": text})
-
-    return texts
 
 # Load text files and convert them into training examples
 # Each non-empty line becomes one text sample
@@ -120,7 +101,7 @@ def train_model(variety_name, train_files, valid_files):
         per_device_train_batch_size=4,
         per_device_eval_batch_size=4,
 
-        evaluation_strategy="epoch",
+        eval_strategy="epoch",
         save_strategy="epoch",
 
         logging_strategy="steps",
@@ -148,7 +129,7 @@ def train_model(variety_name, train_files, valid_files):
 
     print(f"Model saved to: {output_dir}")
 
-# Train one model for each English variety
+# Train the Nigerian English model
 for variety_name, files in corpora.items():
 
     train_model(
