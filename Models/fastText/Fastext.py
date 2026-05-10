@@ -12,6 +12,11 @@ BASE_DIR = Path(__file__).resolve().parent.parent.parent  # project root
 nigeria_spoken  = BASE_DIR / "Preprocessing/preprocessed_word2vec/nigeria_spoken.txt"
 nigeria_written = BASE_DIR / "Preprocessing/preprocessed_word2vec/nigeria_written.txt"
 
+india           = BASE_DIR / "Preprocessing/preprocessed_word2vec/india.txt"
+singapore       = BASE_DIR / "Preprocessing/preprocessed_word2vec/singapore.txt"
+canada          = BASE_DIR / "Preprocessing/preprocessed_word2vec/canada.txt"
+
+
 import shutil
 
 # ── Combine spoken and written ─────────────────────────────────────────────────
@@ -26,18 +31,66 @@ print(f"Combined file created: {nigeria_combined}")
 
 ## 1) TRAINING
 
+# 1.1 - NIGERIA MODEL
+
 # Skipgram model :
-model = fasttext.train_unsupervised(str(nigeria_combined), model='skipgram')
+model_nigeria = fasttext.train_unsupervised(str(nigeria_combined), model='skipgram')
 
 output_dir = BASE_DIR / "Models/fastText"
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # Save first model
-model.save_model(str(output_dir / "nigeria_fasttext.bin"))
+model_nigeria.save_model(str(output_dir / "nigeria_fasttext.bin"))
 print(f"Model saved → {output_dir / 'nigeria_fasttext.bin'}")
 
 # Load model
-model = fasttext.load_model(str(output_dir / "nigeria_fasttext.bin"))
+model_nigeria = fasttext.load_model(str(output_dir / "nigeria_fasttext.bin"))
+
+# 1.2 - SINGAPORE MODEL
+
+# Skipgram model :
+model_singapore = fasttext.train_unsupervised(str(singapore), model='skipgram')
+
+output_dir = BASE_DIR / "Models/fastText"
+output_dir.mkdir(parents=True, exist_ok=True)
+
+# Save first model
+model_singapore.save_model(str(output_dir / "singapore_fasttext.bin"))
+print(f"Model saved → {output_dir / 'singapore_fasttext.bin'}")
+
+# Load model
+model_singapore = fasttext.load_model(str(output_dir / "singapore_fasttext.bin"))
+
+# 1.3 - CANADA MODEL
+
+# Skipgram model :
+model_canada = fasttext.train_unsupervised(str(canada), model='skipgram')
+
+output_dir = BASE_DIR / "Models/fastText"
+output_dir.mkdir(parents=True, exist_ok=True)
+
+# Save first model
+model_canada.save_model(str(output_dir / "canada_fasttext.bin"))
+print(f"Model saved → {output_dir / 'canada_fasttext.bin'}")
+
+# Load model
+model_singapore = fasttext.load_model(str(output_dir / "canada_fasttext.bin"))
+
+# 1.4 - INDIA MODEL
+
+# Skipgram model :
+model_india = fasttext.train_unsupervised(str(india), model='skipgram')
+
+output_dir = BASE_DIR / "Models/fastText"
+output_dir.mkdir(parents=True, exist_ok=True)
+
+# Save first model
+model_india.save_model(str(output_dir / "india_fasttext.bin"))
+print(f"Model saved → {output_dir / 'india_fasttext.bin'}")
+
+# Load model
+model_india = fasttext.load_model(str(output_dir / "india_fasttext.bin"))
+
 
 ## 2) MANUAL GRID SEARCH
 # Hyperparameter grid eac key maps to a list of values to try.
@@ -61,6 +114,8 @@ parameters = {
 best_model = None
 best_score = -1
 
+data_labels = ['nigeria_combined', 'india', 'singapore', 'canada']
+
 # Train one model per parameter combination and keep the best one
 for values in itertools.product(*parameters.values()):
     params = dict(zip(parameters.keys(), values))
@@ -82,4 +137,4 @@ print(f"Best model saved → {output_dir / 'nigeria_fasttext_best.bin'}")
 
 ## 3) VECTOR SIMILARITY SEARCH
 # Returns the 10 nearest neighbors of "nationhood" with their cosine similarity scores
-print(model.get_nearest_neighbors("nationhood"))
+print(model_nigeria.get_nearest_neighbors("nationhood"))
