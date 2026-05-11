@@ -13,8 +13,8 @@ nigeria_spoken  = BASE_DIR / "Preprocessing/preprocessed_word2vec/nigeria_spoken
 nigeria_written = BASE_DIR / "Preprocessing/preprocessed_word2vec/nigeria_written.txt"
 
 india           = BASE_DIR / "Preprocessing/preprocessed_word2vec/india.txt"
-singapore       = BASE_DIR / "Preprocessing/preprocessed_word2vec/singapore.txt"
-canada          = BASE_DIR / "Preprocessing/preprocessed_word2vec/canada.txt"
+usa             = BASE_DIR / "Preprocessing/preprocessed_word2vec/usa.txt"
+jamaica         = BASE_DIR / "Preprocessing/preprocessed_word2vec/jamaica.txt"
 
 
 import shutil
@@ -46,35 +46,35 @@ print(f"Model saved → {output_dir / 'nigeria_fasttext.bin'}")
 # Load model
 model_nigeria = fasttext.load_model(str(output_dir / "nigeria_fasttext.bin"))
 
-# 1.2 - SINGAPORE MODEL
+# 1.2 - JAMAICA MODEL
 
 # Skipgram model :
-model_singapore = fasttext.train_unsupervised(str(singapore), model='skipgram')
+model_jamaica = fasttext.train_unsupervised(str(jamaica), model='skipgram')
 
 output_dir = BASE_DIR / "Models/fastText"
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # Save first model
-model_singapore.save_model(str(output_dir / "singapore_fasttext.bin"))
-print(f"Model saved → {output_dir / 'singapore_fasttext.bin'}")
+model_jamaica.save_model(str(output_dir / "jamaica_fasttext.bin"))
+print(f"Model saved → {output_dir / 'jamaica_fasttext.bin'}")
 
 # Load model
-model_singapore = fasttext.load_model(str(output_dir / "singapore_fasttext.bin"))
+model_jamaica = fasttext.load_model(str(output_dir / "singapore_fasttext.bin"))
 
-# 1.3 - CANADA MODEL
+# 1.3 - USA MODEL
 
 # Skipgram model :
-model_canada = fasttext.train_unsupervised(str(canada), model='skipgram')
+model_usa = fasttext.train_unsupervised(str(usa), model='skipgram')
 
 output_dir = BASE_DIR / "Models/fastText"
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # Save first model
-model_canada.save_model(str(output_dir / "canada_fasttext.bin"))
-print(f"Model saved → {output_dir / 'canada_fasttext.bin'}")
+model_usa.save_model(str(output_dir / "usa_fasttext.bin"))
+print(f"Model saved → {output_dir / 'usa_fasttext.bin'}")
 
 # Load model
-model_singapore = fasttext.load_model(str(output_dir / "canada_fasttext.bin"))
+model_usa = fasttext.load_model(str(output_dir / "canada_fasttext.bin"))
 
 # 1.4 - INDIA MODEL
 
@@ -117,12 +117,12 @@ best_score = -1
 data_labels = {
         'nigeria_combined': 'nigeria_fasttext_best.bin', 
         'india': 'india_fasttext_best.bin', 
-        'singapore': 'singapore_fasttext_best.bin', 
-        'canada': 'canada_fasttext_best.bin'
+        'jamaica': 'jamaica_fasttext_best.bin', 
+        'usa': 'usa_fasttext_best.bin'
 }
 
 # Train one model per parameter combination and keep the best one
-for corpus in itertools.product(*data_labels.keys():
+for corpus in itertools.product(*data_labels.keys()):
     for values in itertools.product(*parameters.values()):
         params = dict(zip(parameters.keys(), values))
         m = fasttext.train_unsupervised(str(corpus), **params)
@@ -143,7 +143,7 @@ for corpus in itertools.product(*data_labels.keys():
 
 ## 3) VECTOR SIMILARITY SEARCH
 # Returns the 10 nearest neighbors of "nationhood" with their cosine similarity scores
-print(model_nigeria.get_nearest_neighbors("nationhood"))
-print(model_india.get_nearest_neighbors("nationhood"))
-print(model_singapore.get_nearest_neighbors("nationhood"))
-print(model_canada.get_nearest_neighbors("nationhood"))
+print(model_nigeria.get_nearest_neighbors("nation"))
+print(model_india.get_nearest_neighbors("nation"))
+print(model_jamaica.get_nearest_neighbors("nation"))
+print(model_usa.get_nearest_neighbors("nation"))
