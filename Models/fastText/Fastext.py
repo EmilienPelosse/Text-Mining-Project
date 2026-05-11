@@ -167,17 +167,21 @@ best_model = None
 best_score = -1
 
 corpora = {
-        'nigeria_combined': 'nigeria_fasttext_best.bin', 
-        'india': 'india_fasttext_best.bin', 
-        'jamaica': 'jamaica_fasttext_best.bin', 
-        'usa': 'usa_fasttext_best.bin'
+        'nigeria_combined': nigeria_combined, 
+        'india': india, 
+        'jamaica': jamaica, 
+        'usa': usa
 }
 
 # Train one model per parameter combination and keep the best one
 for corpus_name, path in corpora.items():
+    
+    best_model = None
+    best_score = -1
+    
     for values in itertools.product(*parameters.values()):
         params = dict(zip(parameters.keys(), values))
-        m = fasttext.train_unsupervised(str(corpus), **params)
+        m = fasttext.train_unsupervised(str(path), **params)
     
         # Evaluate by checking nearest neighbors of "nation" as a proxy for embedding quality
         # Score = number of unique neighbors returned (higher = more diverse semantic space)
@@ -187,11 +191,13 @@ for corpus_name, path in corpora.items():
         if score > best_score:
             best_score = score
             best_model = m
-            print(f"New best: {params} → score {score}")
+            print(f"New best {corpus_name}: {params} → score {score}")
 
     # Save best model from grid search
-    best_model.save_model(str(output_dir / data_labels[corpus]))
-    print(f"Best model saved → {output_dir / data_labels[corpus]}")
+    best_model.save_model(str(output_dir / f"{corpus_name}_fasttext_best.bin"))
+    print(f"Best model saved → {output_dir / f'{corpus_name}_fasttext_best.bin'}")
+
+
 
 ## 3) VECTOR SIMILARITY SEARCH
 # Returns the 10 nearest neighbors of "nationhood" with their cosine similarity scores
