@@ -12,22 +12,33 @@ nigeria_spoken   = BASE_DIR / "Preprocessing/preprocessed_word2vec/nigeria_spoke
 nigeria_written  = BASE_DIR / "Preprocessing/preprocessed_word2vec/nigeria_written.txt"
 nigeria_combined = BASE_DIR / "Preprocessing/preprocessed_word2vec/nigeria_combined.txt"
 
+india           = BASE_DIR / "Preprocessing/preprocessed_word2vec/india.txt"
+usa             = BASE_DIR / "Preprocessing/preprocessed_word2vec/usa.txt"
+jamaica         = BASE_DIR / "Preprocessing/preprocessed_word2vec/jamaica.txt"
+
+
 output_dir = BASE_DIR / "Models/Word2Vec"
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # 1) TRAINING
-model = Word2Vec(
-    sentences=LineSentence(str(nigeria_combined)),
-    vector_size=100,    # size of word vectors
-    window=5,           # context window size
-    min_count=5,        # ignore words appearing fewer than 5 times
-    sg=1,               # 1 = skipgram, 0 = cbow
-    epochs=5
-)
 
-# Save model
-model.save(str(output_dir / "nigeria_word2vec.model"))
-print(f"Model saved → {output_dir / 'nigeria_word2vec.model'}")
+def train_and_save(path, corpus_name, output_dir):
+    # train model
+    model = Word2Vec(
+            sentences=LineSentence(str(path)),
+            vector_size=100,    # size of word vectors
+            window=5,           # context window size
+            min_count=5,        # ignore words appearing fewer than 5 times
+            sg=1,               # 1 = skipgram, 0 = cbow
+            epochs=5
+    )
+
+    # Save model
+    model.save(str(output_dir / f"{corpus_name}_word2vec.model"))
+    print(f"Model saved → {output_dir / f'{corpus_name}_word2vec.model'}")
+
+    return model
+
 
 # Load model
 model = Word2Vec.load(str(output_dir / "nigeria_word2vec.model"))
