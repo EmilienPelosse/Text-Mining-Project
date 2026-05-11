@@ -182,6 +182,20 @@ for corpus_name, path in corpora.items():
 
 
 ## 3) VECTOR SIMILARITY SEARCH
+keywords = ["nation", "nationhood", "freedom", "border"]
+
+for corpus_name, model in models.items():
+    for word in keywords:
+        if word in model.wv:
+            print(f"\n'{word}' nearest neighbors:")
+
+            for neighbor, score in model.get_nearest_neighbors(word):
+                print(f"  {score:.4f}  {neighbor}")
+        else:
+            print(f"\n'{word}' not in vocabulary")
+
+
+# Previously:
 # Returns the 10 nearest neighbors of "nationhood" with their cosine similarity scores
 print(model_nigeria.get_nearest_neighbors("nation"))
 print(model_india.get_nearest_neighbors("nation"))
