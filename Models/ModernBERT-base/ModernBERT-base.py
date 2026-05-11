@@ -10,96 +10,130 @@ from transformers import (
 
 model_id = "answerdotai/ModernBERT-base"
 
-# Add more directories when preprocessing is done
-# We need to split the directories into training and validation:
+# Fine-tune one model on Nigerian English
+corpora = {
+    "nigeria": {
+        "train": [
+            Path("../../Preprocessing/preprocessed_BERT/train/nigeria.txt"),
+        ],
+        "validation": [
+            Path("../../Preprocessing/preprocessed_BERT/val/nigeria.txt"),
+        ],
+    },
+}
 
-# These folders do not exist yet, but should be added once we get the corpora and finish preprocessing
-train_files = [
-    Path("Preprocessing/preprocessed_BERT/train/nigeria.txt"),
-    Path("Preprocessing/preprocessed_BERT/train/india.txt"),
-]
-
-valid_files = [
-    Path("Preprocessing/preprocessed_BERT/val/nigeria.txt"),
-    Path("Preprocessing/preprocessed_BERT/val/india.txt"),
-]
-
-output_dir = "ModernBERT-base-finetuned"
-
-# Load text files
+# Load text files and convert them into training examples
+# Each non-empty line becomes one text sample
 def load_texts(file_paths):
+
     texts = []
 
     for path in file_paths:
+
         text = path.read_text(
             encoding="utf-8",
             errors="ignore"
         ).strip()
 
-        if text:
-            texts.append({"text": text})
+        # Split file into separate examples
+        for line in text.splitlines():
+
+            line = line.strip()
+
+            if line:
+                texts.append({"text": line})
 
     return texts
 
-# Create dataset 
-train_dataset = Dataset.from_list(load_texts(train_files))
-valid_dataset = Dataset.from_list(load_texts(valid_files))
+# Fine-tune one ModernBERT model for a specific English variety
+def train_model(variety_name, train_files, valid_files):
 
-dataset = DatasetDict({
-    "train": train_dataset,
-    "validation": valid_dataset,
-})
+    print(f"\nTraining model for {variety_name} English...")
 
-# Load tokenizer and tokenize
-tokenizer = AutoTokenizer.from_pretrained(model_id)
+    output_dir = f"models/modernbert_{variety_name}"
 
-def tokenize_function(batch):
+    # Create Hugging Face datasets
+    train_dataset = Dataset.from_list(load_texts(train_files))
+    valid_dataset = Dataset.from_list(load_texts(valid_files))
 
-    return tokenizer(batch["text"], 
-                     truncation=True, 
-                     max_length=1024,
-                     return_special_tokens_mask=True)
+    dataset = DatasetDict({
+        "train": train_dataset,
+        "validation": valid_dataset,
+    })
 
-tokenized_dataset = dataset.map(tokenize_function, 
-                                batched=True, 
-                                remove_columns=["text"])
+    # Load tokenizer
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
 
-# Set model
-model = AutoModelForMaskedLM.from_pretrained(model_id)
+    # Tokenization function
+    def tokenize_function(batch):
 
-# Use data_collator to mask words during training
-data_collator = DataCollatorForLanguageModeling(
-    tokenizer=tokenizer, 
-    mlm=True, 
-    mlm_probability=0.15,
-)
+        return tokenizer(
+            batch["text"],
+            truncation=True,
+            max_length=1024,
+            return_special_tokens_mask=True,
+        )
 
-# Set arguments for training
-training_args = TrainingArguments(
-    output_dir=output_dir,
-    learning_rate=5e-5,
-    num_train_epochs=3,
-    per_device_train_batch_size=4,
-    per_device_eval_batch_size=4,
-    evaluation_strategy="epoch",
-    save_strategy="epoch",
-    logging_strategy="steps",
-    logging_steps=50,
-    save_total_limit=2,
-    load_best_model_at_end=True,
-)
+    # Tokenize datasets
+    tokenized_dataset = dataset.map(
+        tokenize_function,
+        batched=True,
+        remove_columns=["text"]
+    )
 
-# Train model
-trainer = Trainer(
-    model=model,
-    args=training_args,
-    train_dataset=tokenized_dataset["train"],
-    eval_dataset=tokenized_dataset["validation"],
-    data_collator=data_collator,
-)
+    # Load pretrained ModernBERT model
+    model = AutoModelForMaskedLM.from_pretrained(model_id)
 
-trainer.train()
+    # Dynamically apply masking during training
+    data_collator = DataCollatorForLanguageModeling(
+        tokenizer=tokenizer,
+        mlm=True,
+        mlm_probability=0.15,
+    )
 
-# Save the fine-tuned model and tokenizer
-trainer.save_model(output_dir)
-tokenizer.save_pretrained(output_dir)
+    # Training configuration
+    training_args = TrainingArguments(
+        output_dir=output_dir,
+
+        learning_rate=5e-5,
+        num_train_epochs=3,
+
+        per_device_train_batch_size=4,
+        per_device_eval_batch_size=4,
+
+        eval_strategy="epoch",
+        save_strategy="epoch",
+
+        logging_strategy="steps",
+        logging_steps=50,
+
+        save_total_limit=2,
+        load_best_model_at_end=True,
+    )
+
+    # Create trainer
+    trainer = Trainer(
+        model=model,
+        args=training_args,
+        train_dataset=tokenized_dataset["train"],
+        eval_dataset=tokenized_dataset["validation"],
+        data_collator=data_collator,
+    )
+
+    # Fine-tune model
+    trainer.train()
+
+    # Save trained model and tokenizer
+    trainer.save_model(output_dir)
+    tokenizer.save_pretrained(output_dir)
+
+    print(f"Model saved to: {output_dir}")
+
+# Train the Nigerian English model
+for variety_name, files in corpora.items():
+
+    train_model(
+        variety_name=variety_name,
+        train_files=files["train"],
+        valid_files=files["validation"],
+    )
