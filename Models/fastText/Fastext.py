@@ -108,39 +108,24 @@ def train_and_save(path, corpus_name, output_dir):
 output_dir = BASE_DIR / "Models/fastText"
 output_dir.mkdir(parents=True, exist_ok=True)
 
+corpora = {
+        'nigeria_combined': nigeria_combined,
+        'india': india,
+        'jamaica': jamaica,
+        'usa': usa
+}
 
-# 1.1 - NIGERIA MODEL
+models = {}
 
-# train and save model
-model_nigeria = train_and_save(nigeria_combined, 'nigeria', output_dir) # skipgram model
+for corpus_name, path in corpora.items():
+    # train and save model
+    model[corpus_name] = train_and_save(path, corpus_name, output_dir) # skipgram model
 
 
-# Load model
+# Load models
 model_nigeria = fasttext.load_model(str(output_dir / "nigeria_fasttext.bin"))
-
-# 1.2 - JAMAICA MODEL
-
-# train and save model
-model_jamaica = train_and_save(jamaica, 'jamaica', output_dir) # skipgram model
-
-
-# Load model
 model_jamaica = fasttext.load_model(str(output_dir / "jamaica_fasttext.bin"))
-
-# 1.3 - USA MODEL
-
-# train and save model
-model_usa = train_and_save(usa, 'usa', output_dir) # skipgram model
-
-# Load model
 model_usa = fasttext.load_model(str(output_dir / "usa_fasttext.bin"))
-
-# 1.4 - INDIA MODEL
-
-# train and save model
-model_india = train_and_save(jamaica, 'india', output_dir) # skipgram model
-
-# Load model
 model_india = fasttext.load_model(str(output_dir / "india_fasttext.bin"))
 
 
@@ -196,7 +181,6 @@ for corpus_name, path in corpora.items():
     # Save best model from grid search
     best_model.save_model(str(output_dir / f"{corpus_name}_fasttext_best.bin"))
     print(f"Best model saved → {output_dir / f'{corpus_name}_fasttext_best.bin'}")
-
 
 
 ## 3) VECTOR SIMILARITY SEARCH
