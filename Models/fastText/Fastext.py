@@ -119,7 +119,7 @@ models = {}
 
 for corpus_name, path in corpora.items():
     # train and save model
-    model[corpus_name] = train_and_save(path, corpus_name, output_dir) # skipgram model
+    models[corpus_name] = train_and_save(path, corpus_name, output_dir) # skipgram model
 
 
 # Load models
