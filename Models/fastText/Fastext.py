@@ -92,6 +92,19 @@ print(f"Combined file created: {nigeria_combined}")
 
 ## 1) TRAINING
 
+
+# Train and save a fasText model given a dataset
+def train_and_save(path, corpus_name, output_dir):
+    
+    model = fasttext.train_unsupervised(str(path), model='skipgram')
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Save model
+    model.save_model(str(output_dir / f"{corpus_name}_fasttext.bin"))
+    print(f"Model saved → {output_dir} / '{str(corpus_name)}_fasttext.bin'")
+
+    return model
+
 # 1.1 - NIGERIA MODEL
 
 # Skipgram model :
