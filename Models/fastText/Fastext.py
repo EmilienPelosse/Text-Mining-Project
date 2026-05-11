@@ -148,8 +148,6 @@ parameters = {
     't':            [0.0001],              # threshold for downsampling frequent words
 }
 
-best_model = None
-best_score = -1
 
 corpora = {
         'nigeria_combined': nigeria_combined, 

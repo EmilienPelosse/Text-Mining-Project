@@ -40,8 +40,25 @@ def train_and_save(path, corpus_name, output_dir):
     return model
 
 
-# Load model
-model = Word2Vec.load(str(output_dir / "nigeria_word2vec.model"))
+corpora = {
+        'nigeria_combined': nigeria_combined,
+        'india': india,
+        'jamaica': jamaica,
+        'usa': usa
+}
+
+models = {}
+
+for corpus_name, path in corpora.items():
+    # train and save model
+    models[corpus_name] = train_and_save(path, corpus_name, output_dir)
+
+
+# Load models
+model_nigeria = Word2Vec.load(str(output_dir / "nigeria_word2vec.model")) 
+model_jamaica = Word2Vec.load(str(output_dir / "jamaica_word2vec.model")) 
+model_usa = Word2Vec.load(str(output_dir / "usa_word2vec.model"))
+model_india = Word2Vec.load(str(output_dir / "india_word2vec.model"))
 
 
 # 2) MANUAL GRID SEARCH
