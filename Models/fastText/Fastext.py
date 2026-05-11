@@ -92,7 +92,6 @@ print(f"Combined file created: {nigeria_combined}")
 
 ## 1) TRAINING
 
-
 # Train and save a fasText model given a dataset
 def train_and_save(path, corpus_name, output_dir):
     
@@ -105,62 +104,41 @@ def train_and_save(path, corpus_name, output_dir):
 
     return model
 
-# 1.1 - NIGERIA MODEL
-
-# Skipgram model :
-model_nigeria = fasttext.train_unsupervised(str(nigeria_combined), model='skipgram')
 
 output_dir = BASE_DIR / "Models/fastText"
 output_dir.mkdir(parents=True, exist_ok=True)
 
-# Save first model
-model_nigeria.save_model(str(output_dir / "nigeria_fasttext.bin"))
-print(f"Model saved → {output_dir / 'nigeria_fasttext.bin'}")
+
+# 1.1 - NIGERIA MODEL
+
+# train and save model
+model_nigeria = train_and_save(nigeria_combined, 'nigeria', output_dir) # skipgram model
+
 
 # Load model
 model_nigeria = fasttext.load_model(str(output_dir / "nigeria_fasttext.bin"))
 
 # 1.2 - JAMAICA MODEL
 
-# Skipgram model :
-model_jamaica = fasttext.train_unsupervised(str(jamaica), model='skipgram')
+# train and save model
+model_jamaica = train_and_save(jamaica, 'jamaica', output_dir) # skipgram model
 
-output_dir = BASE_DIR / "Models/fastText"
-output_dir.mkdir(parents=True, exist_ok=True)
-
-# Save first model
-model_jamaica.save_model(str(output_dir / "jamaica_fasttext.bin"))
-print(f"Model saved → {output_dir / 'jamaica_fasttext.bin'}")
 
 # Load model
-model_jamaica = fasttext.load_model(str(output_dir / "singapore_fasttext.bin"))
+model_jamaica = fasttext.load_model(str(output_dir / "jamaica_fasttext.bin"))
 
 # 1.3 - USA MODEL
 
-# Skipgram model :
-model_usa = fasttext.train_unsupervised(str(usa), model='skipgram')
-
-output_dir = BASE_DIR / "Models/fastText"
-output_dir.mkdir(parents=True, exist_ok=True)
-
-# Save first model
-model_usa.save_model(str(output_dir / "usa_fasttext.bin"))
-print(f"Model saved → {output_dir / 'usa_fasttext.bin'}")
+# train and save model
+model_usa = train_and_save(usa, 'usa', output_dir) # skipgram model
 
 # Load model
-model_usa = fasttext.load_model(str(output_dir / "canada_fasttext.bin"))
+model_usa = fasttext.load_model(str(output_dir / "usa_fasttext.bin"))
 
 # 1.4 - INDIA MODEL
 
-# Skipgram model :
-model_india = fasttext.train_unsupervised(str(india), model='skipgram')
-
-output_dir = BASE_DIR / "Models/fastText"
-output_dir.mkdir(parents=True, exist_ok=True)
-
-# Save first model
-model_india.save_model(str(output_dir / "india_fasttext.bin"))
-print(f"Model saved → {output_dir / 'india_fasttext.bin'}")
+# train and save model
+model_india = train_and_save(jamaica, 'india', output_dir) # skipgram model
 
 # Load model
 model_india = fasttext.load_model(str(output_dir / "india_fasttext.bin"))
@@ -188,7 +166,7 @@ parameters = {
 best_model = None
 best_score = -1
 
-data_labels = {
+corpora = {
         'nigeria_combined': 'nigeria_fasttext_best.bin', 
         'india': 'india_fasttext_best.bin', 
         'jamaica': 'jamaica_fasttext_best.bin', 
@@ -196,7 +174,7 @@ data_labels = {
 }
 
 # Train one model per parameter combination and keep the best one
-for corpus in itertools.product(*data_labels.keys()):
+for corpus_name, path in corpora.items():
     for values in itertools.product(*parameters.values()):
         params = dict(zip(parameters.keys(), values))
         m = fasttext.train_unsupervised(str(corpus), **params)
