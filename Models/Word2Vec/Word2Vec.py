@@ -99,7 +99,7 @@ for corpus_name, path in corpora.items():
 
 
 # 3) VECTOR SIMILARITY SEARCH
-keywords = ["nation", "nationhood", "freedom", "border"]
+keywords = ['nation', 'border', 'freedom', 'community', 'government', 'citizen', 'territory', 'politic', 'culture', 'society', 'civilization', 'religion']
 
 for corpus_name, model in models.items():
     print(f"{corpus_name} corpus: vector similarity search")
