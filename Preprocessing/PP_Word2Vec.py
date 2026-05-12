@@ -76,10 +76,10 @@ if __name__ == "__main__":
         ("ICE-Philippines/ICE Philippines/Corpus", "philippines"),
         ("ICE-EastAfrica/ICE East Africa/ICE-EA/corpus", "east_africa"),
         ("ICE-INDIA/ICE India/Corpus", "india"),
-        ("ICE-IRELAND/ICE-IRL/ICE-Ireland version 1.2#6DAE.2$", "ireland"),
+        ("ICE-IRELAND/ICE-IRL/ICE-Ireland-version1/ICE-Ireland txt/All ICE files txt", "ireland"),
         ("ICE-JA/ICE-JA/CORPUS", "jamaica"),
         ("ICE-Singapore/ICE SINGAPORE/Corpus", "singapore"),
-        ("ICE-USA$", "usa"),
+        ("ICE-USA", "usa"),
         ("ice-nig/txt - without speaker tags", "nigeria")
     ]
 
