@@ -49,18 +49,15 @@ To summarize, Word2Vec produces more purely semantic neighbors while FastText ca
 
 #### Bert
 
-For BERT, we are hesitating between two approaches : 
-
-A first approach would be to create contextual embeding for sentences containing the word "nationhood" or other related words (contained in ./Preprocessing/keywords.txt) :
+Our approach would be to create contextual embeding for sentences containing the word "nationhood" or other related words (contained in ./Preprocessing/keywords.txt) :
 - Using ModernBERT-base without fine tuning (because if we do fine tune, we would have to seperately fine tune to each individual englishes, which would be very costly in time complexity)
 - For each variety, we would exttract the contextual embeddings for sentences containing "nationhood" and related keywords
 - Average the embeddings of "nationhood" and related keywords accross all their occurences per variety
 - Then find the semantic neighbours using cosine similarity between the averaged "nationhood" and related words embedding and all other words in context
 - Compare those results with Word2Vec and FastText
 
-This first approach is relevant because it would provide results which we could compare with the ones obtained through Word2Vec and FastText.
+This approach is relevant because it would provide results which we could compare with the ones obtained through Word2Vec and FastText.
 
-A second approach would be to use masked prediction to see the words which are interchangeable with "nationhood" and related words in this context. 
 
 ## Initial Results — Nigeria Corpus
 
@@ -85,9 +82,7 @@ A second approach would be to use masked prediction to see the words which are i
 > - **"freedom"** is framed as threatened or contested: "corrupt", "undermine", "opposition", "masses" suggest resistance discourse
 > - **"border"** reflects local geographic context: Nigerian place names ("lagelu", "idere") suggest border refers to local rather than national boundaries
 
----
-
-## Initial Results on all corpora - BERT 
+## BERT Nearest Neighbors - All corpora
 
 For nation:
 
@@ -190,7 +185,7 @@ For nation:
 ```
 
 
-For freedom (only testing on Jamaica, Nigeria and USA for the moment) : 
+For freedom (only testing on Jamaica, Nigeria, India and USA) : 
 
 ```python
 === JAMAICA ===
@@ -230,6 +225,8 @@ For freedom (only testing on Jamaica, Nigeria and USA for the moment) :
   lib: 0.8037
 ```
 
+---
+
 ## Discussion of methods and sources
 
 As we had advanced on the training of our models, we discussed what method we should use to perform our cross-cultural analysis. One challenge we anticipated is the difficulty to compare different vector spaces for our different models and corpora. We will try to further investigate the possibility to align our different vector spaces to allow cross-model/corpus comparisons. We also began our first analysis using the cosine similarity to determine the closest neighbours of some embeddings. We think we will keep this metric, and maybe use it as a baseline
@@ -254,7 +251,7 @@ Also, the passage below (from our reading assignment) could be used to support t
 ## Remaining Work
 
 ### Still To Do
-- Train BERT model
+- Finetune BERT model
 - Train FastText and Word2Vec models for all 4 corpora
 - Cross-corpus comparison of nearest neighbors
 - Procrustes alignment for direct vector space comparison across models
@@ -265,6 +262,7 @@ Also, the passage below (from our reading assignment) could be used to support t
 - Nigeria corpus is small (~1M words, 10,395 unique vocabulary after filtering), some noise expected in embeddings
 - The corpora do not have the same size and do not contain the exact same type of data (some contain more news data while other contain more conversations for instance)
 - Morphological noise in FastText (shared `-ation` suffix pulling in "donation", "imagination")
+- There might be some bias in the words chosen for analysis
 
 ---
 
