@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 BASE_DIR       = Path(__file__).resolve().parent.parent.parent
 base_model_id  = "answerdotai/ModernBERT-base"
-finetuned_path = BASE_DIR / "models/modernbert_nigeria"
+finetuned_path = BASE_DIR / "models/moder   nbert_nigeria"
 
 print("Loading base model...")
 tokenizer_base = AutoTokenizer.from_pretrained(base_model_id)
