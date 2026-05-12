@@ -10,17 +10,20 @@ from transformers import (
 
 model_id = "answerdotai/ModernBERT-base"
 
-# Fine-tune one model on Nigerian English
+BASE_DIR = Path(__file__).resolve().parent.parent.parent  # project root
+
 corpora = {
     "nigeria": {
         "train": [
-            Path("../../Preprocessing/preprocessed_BERT/train/nigeria.txt"),
+            BASE_DIR / "Preprocessing/preprocessed_BERT/train/nigeria.txt",
         ],
         "validation": [
-            Path("../../Preprocessing/preprocessed_BERT/val/nigeria.txt"),
+            BASE_DIR / "Preprocessing/preprocessed_BERT/val/nigeria.txt",
         ],
     },
 }
+print(BASE_DIR / "Preprocessing/preprocessed_BERT/train/nigeria.txt")
+print((BASE_DIR / "Preprocessing/preprocessed_BERT/train/nigeria.txt").exists())
 
 # Load text files and convert them into training examples
 # Each non-empty line becomes one text sample
