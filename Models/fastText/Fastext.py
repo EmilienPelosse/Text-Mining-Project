@@ -74,8 +74,8 @@ nigeria_spoken  = BASE_DIR / "Preprocessing/preprocessed_word2vec/nigeria_spoken
 nigeria_written = BASE_DIR / "Preprocessing/preprocessed_word2vec/nigeria_written.txt"
 
 india           = BASE_DIR / "Preprocessing/preprocessed_word2vec/india.txt"
-singapore       = BASE_DIR / "Preprocessing/preprocessed_word2vec/singapore.txt"
-canada          = BASE_DIR / "Preprocessing/preprocessed_word2vec/canada.txt"
+usa             = BASE_DIR / "Preprocessing/preprocessed_word2vec/usa.txt"
+jamaica         = BASE_DIR / "Preprocessing/preprocessed_word2vec/jamaica.txt"
 
 
 import shutil
@@ -92,64 +92,40 @@ print(f"Combined file created: {nigeria_combined}")
 
 ## 1) TRAINING
 
-# 1.1 - NIGERIA MODEL
+# Train and save a fasText model given a dataset
+def train_and_save(path, corpus_name, output_dir):
+    
+    model = fasttext.train_unsupervised(str(path), model='skipgram')
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-# Skipgram model :
-model_nigeria = fasttext.train_unsupervised(str(nigeria_combined), model='skipgram')
+    # Save model
+    model.save_model(str(output_dir / f"{corpus_name}_fasttext.bin"))
+    print(f"Model saved → {output_dir} / '{str(corpus_name)}_fasttext.bin'")
+
+    return model
+
 
 output_dir = BASE_DIR / "Models/fastText"
 output_dir.mkdir(parents=True, exist_ok=True)
 
-# Save first model
-model_nigeria.save_model(str(output_dir / "nigeria_fasttext.bin"))
-print(f"Model saved → {output_dir / 'nigeria_fasttext.bin'}")
+corpora = {
+        'nigeria_combined': nigeria_combined,
+        'india': india,
+        'jamaica': jamaica,
+        'usa': usa
+}
 
-# Load model
+models = {}
+
+for corpus_name, path in corpora.items():
+    # train and save model
+    models[corpus_name] = train_and_save(path, corpus_name, output_dir) # skipgram model
+
+
+# Load models
 model_nigeria = fasttext.load_model(str(output_dir / "nigeria_fasttext.bin"))
-
-# 1.2 - SINGAPORE MODEL
-
-# Skipgram model :
-model_singapore = fasttext.train_unsupervised(str(singapore), model='skipgram')
-
-output_dir = BASE_DIR / "Models/fastText"
-output_dir.mkdir(parents=True, exist_ok=True)
-
-# Save first model
-model_singapore.save_model(str(output_dir / "singapore_fasttext.bin"))
-print(f"Model saved → {output_dir / 'singapore_fasttext.bin'}")
-
-# Load model
-model_singapore = fasttext.load_model(str(output_dir / "singapore_fasttext.bin"))
-
-# 1.3 - CANADA MODEL
-
-# Skipgram model :
-model_canada = fasttext.train_unsupervised(str(canada), model='skipgram')
-
-output_dir = BASE_DIR / "Models/fastText"
-output_dir.mkdir(parents=True, exist_ok=True)
-
-# Save first model
-model_canada.save_model(str(output_dir / "canada_fasttext.bin"))
-print(f"Model saved → {output_dir / 'canada_fasttext.bin'}")
-
-# Load model
-model_singapore = fasttext.load_model(str(output_dir / "canada_fasttext.bin"))
-
-# 1.4 - INDIA MODEL
-
-# Skipgram model :
-model_india = fasttext.train_unsupervised(str(india), model='skipgram')
-
-output_dir = BASE_DIR / "Models/fastText"
-output_dir.mkdir(parents=True, exist_ok=True)
-
-# Save first model
-model_india.save_model(str(output_dir / "india_fasttext.bin"))
-print(f"Model saved → {output_dir / 'india_fasttext.bin'}")
-
-# Load model
+model_jamaica = fasttext.load_model(str(output_dir / "jamaica_fasttext.bin"))
+model_usa = fasttext.load_model(str(output_dir / "usa_fasttext.bin"))
 model_india = fasttext.load_model(str(output_dir / "india_fasttext.bin"))
 
 
@@ -172,21 +148,23 @@ parameters = {
     't':            [0.0001],              # threshold for downsampling frequent words
 }
 
-best_model = None
-best_score = -1
 
-data_labels = {
-        'nigeria_combined': 'nigeria_fasttext_best.bin', 
-        'india': 'india_fasttext_best.bin', 
-        'singapore': 'singapore_fasttext_best.bin', 
-        'canada': 'canada_fasttext_best.bin'
+corpora = {
+        'nigeria_combined': nigeria_combined, 
+        'india': india, 
+        'jamaica': jamaica, 
+        'usa': usa
 }
 
 # Train one model per parameter combination and keep the best one
-for corpus in itertools.product(*data_labels.keys():
+for corpus_name, path in corpora.items():
+    
+    best_model = None
+    best_score = -1
+    
     for values in itertools.product(*parameters.values()):
         params = dict(zip(parameters.keys(), values))
-        m = fasttext.train_unsupervised(str(corpus), **params)
+        m = fasttext.train_unsupervised(str(path), **params)
     
         # Evaluate by checking nearest neighbors of "nation" as a proxy for embedding quality
         # Score = number of unique neighbors returned (higher = more diverse semantic space)
@@ -196,15 +174,30 @@ for corpus in itertools.product(*data_labels.keys():
         if score > best_score:
             best_score = score
             best_model = m
-            print(f"New best: {params} → score {score}")
+            print(f"New best {corpus_name}: {params} → score {score}")
 
     # Save best model from grid search
-    best_model.save_model(str(output_dir / data_labels[corpus]))
-    print(f"Best model saved → {output_dir / data_labels[corpus]}")
+    best_model.save_model(str(output_dir / f"{corpus_name}_fasttext_best.bin"))
+    print(f"Best model saved → {output_dir / f'{corpus_name}_fasttext_best.bin'}")
+
 
 ## 3) VECTOR SIMILARITY SEARCH
+keywords = ["nation", "nationhood", "freedom", "border"]
+
+for corpus_name, model in models.items():
+    for word in keywords:
+        if word in model.wv:
+            print(f"\n'{word}' nearest neighbors:")
+
+            for neighbor, score in model.get_nearest_neighbors(word):
+                print(f"  {score:.4f}  {neighbor}")
+        else:
+            print(f"\n'{word}' not in vocabulary")
+
+
+# Previously:
 # Returns the 10 nearest neighbors of "nationhood" with their cosine similarity scores
-print(model_nigeria.get_nearest_neighbors("nationhood"))
-print(model_india.get_nearest_neighbors("nationhood"))
-print(model_singapore.get_nearest_neighbors("nationhood"))
-print(model_canada.get_nearest_neighbors("nationhood"))
+print(model_nigeria.get_nearest_neighbors("nation"))
+print(model_india.get_nearest_neighbors("nation"))
+print(model_jamaica.get_nearest_neighbors("nation"))
+print(model_usa.get_nearest_neighbors("nation"))
