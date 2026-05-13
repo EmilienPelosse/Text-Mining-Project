@@ -11,7 +11,7 @@ matplotlib.use('Agg')  # Use non-interactive backend
 def plot_tsne(model, keywords, corpus_name):
     words = []
     vectors = []
-    colors = []
+    color_indices = []  # Track which keyword index each point corresponds to
     color_map = matplotlib.colormaps["tab10"]
 
     for i, kw in enumerate(keywords):
@@ -22,7 +22,7 @@ def plot_tsne(model, keywords, corpus_name):
             if word in model.wv:
                 words.append(word)
                 vectors.append(model.wv[word])
-                colors.append(color_map(i))
+                color_indices.append(i)
 
     if len(words) < 4:
         print(f"Not enough words for t-SNE in {corpus_name}")
@@ -35,10 +35,21 @@ def plot_tsne(model, keywords, corpus_name):
     coords = tsne.fit_transform(np.array(vectors))
 
     plt.figure(figsize=(12, 8))
+    
+    # Plot each keyword with its corresponding color and legend entry
+    for i, kw in enumerate(keywords):
+        mask = [idx == i for idx in color_indices]
+        if any(mask):  # Only plot if this keyword has points
+            coords_subset = coords[mask]
+            plt.scatter(coords_subset[:, 0], coords_subset[:, 1], 
+                       color=color_map(i), alpha=0.7, label=kw, s=100)
+    
+    # Add word labels
     for i, word in enumerate(words):
-        plt.scatter(coords[i, 0], coords[i, 1], color=colors[i], alpha=0.7)
         plt.annotate(word, coords[i], fontsize=8)
+    
     plt.title(f"t-SNE — {corpus_name}")
+    plt.legend(loc='best', framealpha=0.9)
     plt.tight_layout()
     plt.savefig(BASE_DIR / f"tsne_{corpus_name}.png", dpi=150, bbox_inches="tight")
     plt.close()  # Close to free memory
